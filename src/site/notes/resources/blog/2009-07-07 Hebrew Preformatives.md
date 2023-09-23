@@ -3,6 +3,6 @@
 ---
 
 
-Check out the [Hebrew Preformatives page](/hebrew/verb-preformatives). Memorizing the short list on that page will significantly increase one's ability to quickly recognize verbal stem and root.
+Check out the [[resources/notes/Hebrew Preformatives\|Hebrew Preformatives]]. Memorizing the short list on that page will significantly increase one's ability to quickly recognize verbal stem and root.
 
 Let me know what you think!
