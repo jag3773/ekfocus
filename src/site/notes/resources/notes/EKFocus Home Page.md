@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/notes/ek-focus-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"notes/EKFocus Home Page.md","permalink":"/notes/ek-focus-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 
@@ -76,7 +76,7 @@
 }
 .grid-item {
   padding: 20px;
-  font-size: 30px;
+  font-size: 18px;
   text-align: center;
 }
 </style>
