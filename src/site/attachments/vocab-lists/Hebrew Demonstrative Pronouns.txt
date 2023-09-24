@@ -1,0 +1,11 @@
+זֶה|this (ms)
+זׂאת|this (fs)
+הוּא|that (ms)
+הִיא|that (fs)
+אֵלֶּה|these (mp)
+אֵלֶּה|these (fp)
+הֵם|those (mp)
+הֵמָּה|those (mp)
+הֵן|those (fp)
+הֵנָּה|those (fp)
+

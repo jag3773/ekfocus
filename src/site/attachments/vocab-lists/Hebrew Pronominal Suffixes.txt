@@ -1,0 +1,26 @@
+י ִ|my/me (1cs) - Type 1
+נִי|my/me (1cs) - Type 1
+ךָ|your/you (2ms) - Type 1
+ךְ|your/you (2fs) - Type 1
+וׂ|His (its)/him (it) (3ms) - Type 1
+הוּ|His (its)/him (it) (3ms) - Type 1
+הּ ָ|Her (its)/her (it) (3fs) - Type 1
+הָ|Her (its)/her (it) (3fs) - Type 1
+נוּ|our/us (1cp) - Type 1
+כֶם|your/you (2mp) - Type 1
+כֶן|your/you (2fp) - Type 1
+הֶם|their/them (3mp) - Type 1
+ם ָ|their/them (3mp) - Type 1
+הֶן|their/them (3fp) - Type 1
+ן ָ|their/them (3fp) - Type 1
+י ַ|my/me (1cs) - Type 2
+יךָ ֶ|your/you (2ms) - Type 2
+יִךְ ַ|your/you (2fs) - Type 2
+יו ָ|His (its)/him (it) (3ms) - Type 2
+יהָ ֶ|Her (its)/her (it) (3fs) - Type 2
+ינוּ ֵ|our/us (1cp) - Type 2
+יכֶם ֵ|your/you (2mp) - Type 2
+יכֶן ֵ|your/you (2fp) - Type 2
+יהֶם ֵ|their/them (3mp) - Type 2
+יהֶן ֵ|their/them (3fp) - Type 2
+
