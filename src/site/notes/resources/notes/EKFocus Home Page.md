@@ -4,7 +4,7 @@
 
 
 <div class="container" style="background-color: #25c2a0">
-![ekfocus_wordmark.png](/img/user/archive/attachments/ekfocus.com/ekfocus_wordmark.png)
+![EKFocus Wordmark](/img/user/archive/attachments/ekfocus.com/ekfocus_wordmark.png)
 </div>
 <div class="grid-container">
   <div class="grid-item"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 207.92094322113195 155.91001771581762" width="200" height="311.82003543163523">
@@ -62,6 +62,36 @@
   <p>All original work licensed as <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
   </div>
 </div>
+
+| Tags in Garden     |
+| ------------------ |
+| #africa            |
+| #aramaic           |
+| #bard              |
+| #bible             |
+| #Bible             |
+| #bible-translation |
+| #chatgpt           |
+| #chesed            |
+| #Discipling        |
+| #exegesis          |
+| #greek             |
+| #hebrew            |
+| #hermeneutics      |
+| #hre               |
+| #jesus             |
+| #liberty           |
+| #love              |
+| #marriage          |
+| #new-testament     |
+| #old-testament     |
+| #open-license      |
+| #paradigms         |
+| #sanctity-of-life  |
+| #technology        |
+| #vocab             |
+
+{ .block-language-dataview}
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
