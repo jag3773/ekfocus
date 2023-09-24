@@ -3,9 +3,7 @@
 ---
 
 
-<div class="container" style="background-color: #25c2a0">
 ![EKFocus Wordmark](/img/user/archive/attachments/ekfocus.com/ekfocus_wordmark.png)
-</div>
 <div class="grid-container">
   <div class="grid-item"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 207.92094322113195 155.91001771581762" width="200" height="311.82003543163523">
   <!-- svg-source:excalidraw -->
