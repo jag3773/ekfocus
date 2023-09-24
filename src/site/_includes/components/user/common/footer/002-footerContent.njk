@@ -1,31 +1,30 @@
 <style>
 .grid-container {
-  display: inline-grid;
-  grid-template-columns: auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
   padding: 10px;
+  justify-content: center;
 }
 .grid-item {
-  padding: 20px;
   font-size: 18px;
+  padding: 10px;
   text-align: center;
 }
 </style>
 <div class="grid-container">
   <div class="grid-item">
-    <ul><li><a href="/blog/all-posts">Blog</a></li></ul>
+    <a href="/blog/all-posts">Blog</a>
   </div>
   <div class="grid-item">
-    <ul>
-      <li><a target="_blank" href="https://keybase.io/jag3773/">Keybase</a></li>
-      <li><a target="_blank" href="https://github.com/jag3773">GitHub</a></li>
-    </ul>
+    <a target="_blank" href="https://keybase.io/jag3773/">Keybase</a>
   </div>
   <div class="grid-item">
-    <ul>
-      <li><a target="_blank" href="https://www.unfoldingword.org">unfoldingWord</a></li>
-    </ul>
+    <a target="_blank" href="https://github.com/jag3773">GitHub</a>
+  </div>
+  <div class="grid-item">
+    <a target="_blank" href="https://www.unfoldingword.org">unfoldingWord</a>
   </div>   
 </div>
-<div style="text-align: center">
+<div style="text-align: center; font-size: smaller">
   Copyright © 2023 Jesse Griffin. All original work licensed as <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 </div>
