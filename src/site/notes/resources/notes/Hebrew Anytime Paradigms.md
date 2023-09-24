@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Hebrew Anytime Paradigms.md","permalink":"/notes/hebrew-anytime-paradigms/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/Hebrew Anytime Paradigms.md","permalink":"/docs/hebrew-anytime-paradigms/","noteIcon":"","created":"","updated":""}
 ---
 
 
