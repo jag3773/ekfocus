@@ -5,12 +5,13 @@
 
 ## Hebrew Anytime Paradigms
 
-This [Hebrew Anytime Paradigms PDF](/pdf/Hebrew-Anytime-Paradigms.pdf) lists several important Hebrew paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Hebrew language study.
+This [Hebrew Anytime Paradigms PDF](https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Hebrew-Anytime-Paradigms.pdf) lists several important Hebrew paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Hebrew language study.
 
-<a href="/pdf/Hebrew-Anytime-Paradigms.pdf">
-![Hebrew Anytime Paradigms PDF](/img/user/archive/attachments/ekfocus.com/hebrew-anytime-paradigms.png)
+<a href="https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Hebrew-Anytime-Paradigms.pdf">
+![Hebrew Anytime Paradigms PDF"](/img/user/archive/attachments/ekfocus.com/hebrew-anytime-paradigms.png)
 </a>
 
+[[greek any\|greek any]]
 The anytime paradigms that are included are:
 
 - The alphabet
@@ -19,6 +20,10 @@ The anytime paradigms that are included are:
 - Independent Personal Pronouns
 - Demonstrative Pronouns
 - Numbers 1-10
+
+<a href="https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Hebrew-Anytime-Paradigms.pdf">
+![hebrew-anytime-paradigms.png](/img/user/archive/attachments/ekfocus.com/hebrew-anytime-paradigms.png)
+</a>
 
 ## Hebrew Resources
 
