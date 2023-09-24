@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/EKFocus Home Page.md","permalink":"/notes/ek-focus-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/EKFocus Home Page.md","permalink":"/docs/ek-focus-home-page/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
 
@@ -72,6 +72,7 @@
 | #chatgpt           |
 | #chesed            |
 | #Discipling        |
+| #Ecclesiology      |
 | #exegesis          |
 | #greek             |
 | #hebrew            |
@@ -81,11 +82,14 @@
 | #liberty           |
 | #love              |
 | #marriage          |
+| #Missiology        |
+| #Missions          |
 | #new-testament     |
 | #old-testament     |
 | #open-license      |
 | #paradigms         |
 | #sanctity-of-life  |
+| #study             |
 | #technology        |
 | #vocab             |
 
@@ -96,7 +100,17 @@
 
 
 
-<div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">Docs</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/docs/bible">Bible</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/greek">Greek</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/hebrew">Hebrew</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/helpful-sites">Helpful Sites</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">More</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/blog">Blog</a></li><li class="footer__item"><a class="footer__link-item" target="_blank" rel="noopener noreferrer" href="https://keybase.io/jag3773/">Keybase</a></li><li class="footer__item"><a class="footer__link-item" target="_blank" rel="noopener noreferrer" href="https://github.com/jag3773">GitHub</a></li><li class="footer__item"><a class="footer__link-item" target="_blank" rel="noopener noreferrer" href="https://www.unfoldingword.org">unfoldingWord</a></li></ul></div></div><div class="text--center"><div>Copyright © 2023 Jesse Griffin. All original work licensed as <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div></div></div></footer></div>
+<div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">Docs</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/docs/bible">Bible</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/greek">Greek</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/hebrew">Hebrew</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/helpful-sites">Helpful Sites</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">More</h4>
+
+<ul>
+<li><a href="/blog/all-posts">Blog</a></li>
+<li><a class="footer__link-item" target="_blank" rel="noopener noreferrer" href="https://keybase.io/jag3773/">Keybase</a></li>
+<li><a class="footer__link-item" target="_blank" rel="noopener noreferrer" href="https://github.com/jag3773">GitHub</a></li>
+<li class="footer__item"><a class="footer__link-item" target="_blank" rel="noopener noreferrer" href="https://www.unfoldingword.org">unfoldingWord</a></li></ul></div></div>
+
+<div class="text--center">
+
+<div>Copyright © 2023 Jesse Griffin. All original work licensed as <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div></div></div></footer></div>
 <style>
 .grid-container {
   display: inline-grid;
