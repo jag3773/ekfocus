@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Hebrew Reading Ease is a scale based on word frequency. The script iterates through the Hebrew Bible and generates a frequency index of each word that occurs. Then, the script works back through the text and generates a difficulty average for each passage. The concept is that the more frequently words occur, the easier it will be to recognize and read them. Thus, a passage with a high score should be easier to read and a passage with a low score should be more difficult. For details, see the [[archive/zotero/griffinHebrewReadingEase2010.pdf|Hebrew Reading Ease Abstract]].
+The Hebrew Reading Ease is a scale based on word frequency. The script iterates through the Hebrew Bible and generates a frequency index of each word that occurs. Then, the script works back through the text and generates a difficulty average for each passage. The concept is that the more frequently words occur, the easier it will be to recognize and read them. Thus, a passage with a high score should be easier to read and a passage with a low score should be more difficult. For details, see the [Hebrew Reading Ease Abstract](https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/griffinHebrewReadingEase2010.pdf).
 
 The repository may be found at http://github.com/jag3773/HebrewReadingEase.
 
