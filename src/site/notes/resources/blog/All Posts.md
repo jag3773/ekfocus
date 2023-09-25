@@ -18,5 +18,6 @@
 - [[resources/blog/2009-07-07 Vocab Lists\|2009-07-07 Vocab Lists]]
 - [[resources/blog/2009-07-07 Hebrew Preformatives\|2009-07-07 Hebrew Preformatives]]
 - [[resources/blog/2006-07-15 Griffin Jesse-Revolutionary Love\|2006-07-15 Griffin Jesse-Revolutionary Love]]
+- [[resources/blog/2004-09-22 Sex Before Marriage is Wrong\|2004-09-22 Sex Before Marriage is Wrong]]
 
 { .block-language-dataview}
