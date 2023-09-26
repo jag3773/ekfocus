@@ -11,6 +11,6 @@ Compare
 - [[resources/zotero/chesterTotalChurchRadical2008\|chesterTotalChurchRadical2008]]
 - [[resources/zotero/hendricksOtherHalfChurch2020\|hendricksOtherHalfChurch2020]]
 - [[resources/zotero/warnerRareLeadershipUncommon2016\|warnerRareLeadershipUncommon2016]]
-- [[projects/Church on Sundrop/2020 Describing Church from Scripture\|2020 Describing Church from Scripture]]
+- [[resources/notes/2020-09-02 Describing Church from Scripture\|2020-09-02 Describing Church from Scripture]]
 
 #church #mission
