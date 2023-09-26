@@ -4,6 +4,7 @@
 
 
 - [[resources/blog/All Posts\|All Posts]]
+- [[resources/blog/2020-09-02 Describing Church from Scripture\|2020-09-02 Describing Church from Scripture]]
 - [[resources/blog/2019-12-01 Unrestricted Original Language Resources\|2019-12-01 Unrestricted Original Language Resources]]
 - [[resources/blog/2010-07-08 Hebrew Reading Ease\|2010-07-08 Hebrew Reading Ease]]
 - [[resources/blog/2010-05-29 Basics of Biblical Hebrew Vocabulary\|2010-05-29 Basics of Biblical Hebrew Vocabulary]]
