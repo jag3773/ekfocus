@@ -10,6 +10,8 @@
 - [[MOC Index.canvas|MOC Index]]
 
 ## Top Ten Books
+*yes, I realize there are more than ten listed below :)*
+
 | Title                                                                                | Link                                                                                                 | Tags                                                                                                                                                             |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>The art of biblical narrative</li></ul>                                      | [[resources/zotero/alterArtBiblicalNarrative2006\|alterArtBiblicalNarrative2006]]                 | #Own                                                                                                                                                             |
