@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/2020-11-22 Thankfulness Increases Joy.md","permalink":"/docs/2020-11-22-thankfulness-increases-joy/","noteIcon":"","created":"2020-11-22T17:08:38-05:00","updated":""}
+{"dg-publish":true,"dg-path":"docs/2020-11-22 Thankfulness Increases Joy.md","permalink":"/docs/2020-11-22-thankfulness-increases-joy/","noteIcon":"","created":"2020-11-22T17:08:38-05:00"}
 ---
 
 
