@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/2020-12-21 Inheritance Source of Joy.md","permalink":"/docs/2020-12-21-inheritance-source-of-joy/","noteIcon":"","created":"2020-12-21T06:49:37-05:00","updated":""}
+{"dg-publish":true,"dg-path":"docs/2020-12-21 Inheritance Source of Joy.md","permalink":"/docs/2020-12-21-inheritance-source-of-joy/","noteIcon":"","created":"2020-12-21T06:49:37-05:00"}
 ---
 
 
