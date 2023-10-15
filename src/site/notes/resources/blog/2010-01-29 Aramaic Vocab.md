@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2010-01-29 Aramaic Vocab.md","permalink":"/blog/2010-01-29-aramaic-vocab/","tags":["vocab","aramaic","old-testament"],"noteIcon":"","created":"2010-01-29","updated":""}
+{"dg-publish":true,"dg-path":"blog/2010-01-29 Aramaic Vocab.md","permalink":"/blog/2010-01-29-aramaic-vocab/","tags":["vocab","aramaic","old-testament"],"noteIcon":"","created":"2010-01-29"}
 ---
 
 
