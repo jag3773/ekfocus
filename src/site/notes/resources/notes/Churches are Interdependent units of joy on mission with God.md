@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/Churches are Interdependent units of joy on mission with God.md","permalink":"/docs/churches-are-interdependent-units-of-joy-on-mission-with-god/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/Churches are Interdependent units of joy on mission with God.md","permalink":"/docs/churches-are-interdependent-units-of-joy-on-mission-with-god/","noteIcon":""}
 ---
 
 
@@ -13,4 +13,4 @@ Compare
 - [[resources/zotero/warnerRareLeadershipUncommon2016\|warnerRareLeadershipUncommon2016]]
 - [[resources/blog/2020-09-02 Describing Church from Scripture\|2020-09-02 Describing Church from Scripture]]
 
-#church #mission
+#church #Missions 
