@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/Joy.md","permalink":"/docs/joy/","noteIcon":"","created":"2020-12-20","updated":""}
+{"dg-publish":true,"dg-path":"docs/Joy.md","permalink":"/docs/joy/","noteIcon":"","created":"2020-12-20"}
 ---
 
 
