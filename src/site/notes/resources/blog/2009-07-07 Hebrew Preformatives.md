@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2009-07-07 Hebrew Preformatives.md","permalink":"/blog/2009-07-07-hebrew-preformatives/","tags":["paradigms","hebrew","old-testament"],"noteIcon":"","created":"2009-07-07","updated":""}
+{"dg-publish":true,"dg-path":"blog/2009-07-07 Hebrew Preformatives.md","permalink":"/blog/2009-07-07-hebrew-preformatives/","tags":["paradigms","hebrew","old-testament"],"noteIcon":"","created":"2009-07-07"}
 ---
 
 
