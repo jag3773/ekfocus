@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/Hebrew Reading Ease.md","permalink":"/docs/hebrew-reading-ease/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/Hebrew Reading Ease.md","permalink":"/docs/hebrew-reading-ease/","noteIcon":""}
 ---
 
 
