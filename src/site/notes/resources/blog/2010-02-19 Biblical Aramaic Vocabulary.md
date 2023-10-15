@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2010-02-19 Biblical Aramaic Vocabulary.md","permalink":"/blog/2010-02-19-biblical-aramaic-vocabulary/","tags":["vocab","aramaic","old-testament"],"noteIcon":"","created":"2010-02-19","updated":""}
+{"dg-publish":true,"dg-path":"blog/2010-02-19 Biblical Aramaic Vocabulary.md","permalink":"/blog/2010-02-19-biblical-aramaic-vocabulary/","tags":["vocab","aramaic","old-testament"],"noteIcon":"","created":"2010-02-19"}
 ---
 
 
