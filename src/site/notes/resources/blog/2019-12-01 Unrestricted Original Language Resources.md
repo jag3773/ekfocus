@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2019-12-01 Unrestricted Original Language Resources.md","permalink":"/blog/2019-12-01-unrestricted-original-language-resources/","tags":["hebrew","greek","aramaic","bible-translation","open-license"],"noteIcon":"","created":"2019-12-01","updated":""}
+{"dg-publish":true,"dg-path":"blog/2019-12-01 Unrestricted Original Language Resources.md","permalink":"/blog/2019-12-01-unrestricted-original-language-resources/","tags":["hebrew","greek","aramaic","bible-translation","open-license"],"noteIcon":"","created":"2019-12-01"}
 ---
 
 
