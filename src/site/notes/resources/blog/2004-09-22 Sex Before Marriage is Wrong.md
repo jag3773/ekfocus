@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2004-09-22 Sex Before Marriage is Wrong.md","permalink":"/blog/2004-09-22-sex-before-marriage-is-wrong/","tags":["sex","Bible","study"],"noteIcon":"","created":"2004-09-22","updated":""}
+{"dg-publish":true,"dg-path":"blog/2004-09-22 Sex Before Marriage is Wrong.md","permalink":"/blog/2004-09-22-sex-before-marriage-is-wrong/","tags":["sex","Bible","study"],"noteIcon":"","created":"2004-09-22"}
 ---
 
 
