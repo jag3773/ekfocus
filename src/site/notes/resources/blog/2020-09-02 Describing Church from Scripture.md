@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2020-09-02 Describing Church from Scripture.md","permalink":"/blog/2020-09-02-describing-church-from-scripture/","tags":["flashcards/church","nb","church","Bible","ecclesiology"],"noteIcon":"","created":"2020-09-02T10:34:47-04:00","updated":""}
+{"dg-publish":true,"dg-path":"blog/2020-09-02 Describing Church from Scripture.md","permalink":"/blog/2020-09-02-describing-church-from-scripture/","tags":["flashcards/church","nb","church","Bible","Ecclesiology"],"noteIcon":"","created":"2020-09-02T10:34:47-04:00"}
 ---
 
 
