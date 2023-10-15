@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2010-05-29 Basics of Biblical Hebrew Vocabulary.md","permalink":"/blog/2010-05-29-basics-of-biblical-hebrew-vocabulary/","tags":["vocab","hebrew","old-testament"],"noteIcon":"","created":"2010-05-29","updated":""}
+{"dg-publish":true,"dg-path":"blog/2010-05-29 Basics of Biblical Hebrew Vocabulary.md","permalink":"/blog/2010-05-29-basics-of-biblical-hebrew-vocabulary/","tags":["vocab","hebrew","old-testament"],"noteIcon":"","created":"2010-05-29"}
 ---
 
 
