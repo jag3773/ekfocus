@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2010-07-08 Hebrew Reading Ease.md","permalink":"/blog/2010-07-08-hebrew-reading-ease/","tags":["hre","hebrew","old-testament"],"noteIcon":"","created":"2010-07-08","updated":""}
+{"dg-publish":true,"dg-path":"blog/2010-07-08 Hebrew Reading Ease.md","permalink":"/blog/2010-07-08-hebrew-reading-ease/","tags":["hre","hebrew","old-testament"],"noteIcon":"","created":"2010-07-08"}
 ---
 
 
