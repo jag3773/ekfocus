@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2006-07-15 Griffin Jesse-Revolutionary Love.md","permalink":"/blog/2006-07-15-griffin-jesse-revolutionary-love/","tags":["love","jesus","chesed"],"noteIcon":"","created":"2006-07-15","updated":""}
+{"dg-publish":true,"dg-path":"blog/2006-07-15 Griffin Jesse-Revolutionary Love.md","permalink":"/blog/2006-07-15-griffin-jesse-revolutionary-love/","tags":["love","jesus","chesed"],"noteIcon":"","created":"2006-07-15"}
 ---
 
 
