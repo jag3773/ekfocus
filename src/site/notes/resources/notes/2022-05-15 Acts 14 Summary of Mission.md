@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/2022-05-15 Acts 14 Summary of Mission.md","permalink":"/docs/2022-05-15-acts-14-summary-of-mission/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/2022-05-15 Acts 14 Summary of Mission.md","permalink":"/docs/2022-05-15-acts-14-summary-of-mission/","noteIcon":""}
 ---
 
 
