@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2009-07-08 Greek and Hebrew Paradigms Quiz.md","permalink":"/blog/2009-07-08-greek-and-hebrew-paradigms-quiz/","tags":["paradigms","hebrew","greek","new-testament","old-testament"],"noteIcon":"","created":"2009-07-08","updated":""}
+{"dg-publish":true,"dg-path":"blog/2009-07-08 Greek and Hebrew Paradigms Quiz.md","permalink":"/blog/2009-07-08-greek-and-hebrew-paradigms-quiz/","tags":["paradigms","hebrew","greek","new-testament","old-testament"],"noteIcon":"","created":"2009-07-08"}
 ---
 
 
