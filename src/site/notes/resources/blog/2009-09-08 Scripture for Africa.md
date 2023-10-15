@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2009-09-08 Scripture for Africa.md","permalink":"/blog/2009-09-08-scripture-for-africa/","tags":["bible","africa","technology"],"noteIcon":"","created":"2009-09-08","updated":""}
+{"dg-publish":true,"dg-path":"blog/2009-09-08 Scripture for Africa.md","permalink":"/blog/2009-09-08-scripture-for-africa/","tags":["Bible","africa","technology"],"noteIcon":"","created":"2009-09-08"}
 ---
 
 
