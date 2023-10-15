@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/All Posts.md","permalink":"/blog/all-posts/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"blog/All Posts.md","permalink":"/blog/all-posts/","noteIcon":""}
 ---
 
 
