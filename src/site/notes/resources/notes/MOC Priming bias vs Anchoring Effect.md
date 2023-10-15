@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/MOC Priming bias vs Anchoring Effect.md","permalink":"/docs/moc-priming-bias-vs-anchoring-effect/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/MOC Priming bias vs Anchoring Effect.md","permalink":"/docs/moc-priming-bias-vs-anchoring-effect/","noteIcon":""}
 ---
 
 The "Priming bias" and the "Anchoring Effect" are essentially the same thing in concept but the anchoring effect refers primarily to numbers. Here is a brief comparison of ChatGPT 3.5 and Bard output when asked what the difference is between these two things.
