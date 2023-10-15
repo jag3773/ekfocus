@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2009-07-07 Vocab Lists.md","permalink":"/blog/2009-07-07-vocab-lists/","tags":["vocab","hebrew","old-testament"],"noteIcon":"","created":"2009-07-07","updated":""}
+{"dg-publish":true,"dg-path":"blog/2009-07-07 Vocab Lists.md","permalink":"/blog/2009-07-07-vocab-lists/","tags":["vocab","hebrew","old-testament"],"noteIcon":"","created":"2009-07-07"}
 ---
 
 
