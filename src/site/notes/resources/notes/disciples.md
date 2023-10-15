@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/disciples.md","permalink":"/docs/disciples/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/disciples.md","permalink":"/docs/disciples/","noteIcon":""}
 ---
 
 
