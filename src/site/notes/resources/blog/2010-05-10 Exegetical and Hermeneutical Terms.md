@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2010-05-10 Exegetical and Hermeneutical Terms.md","permalink":"/blog/2010-05-10-exegetical-and-hermeneutical-terms/","tags":["exegesis","hermeneutics","vocab"],"noteIcon":"","created":"2010-05-10","updated":""}
+{"dg-publish":true,"dg-path":"blog/2010-05-10 Exegetical and Hermeneutical Terms.md","permalink":"/blog/2010-05-10-exegetical-and-hermeneutical-terms/","tags":["exegesis","hermeneutics","vocab"],"noteIcon":"","created":"2010-05-10"}
 ---
 
 
