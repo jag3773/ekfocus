@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/2021-06-17 Live in Christ, you've already died to self.md","permalink":"/blog/2021-06-17-live-in-christ-you-ve-already-died-to-self/","noteIcon":"","created":"2021-06-17","updated":""}
+{"dg-publish":true,"dg-path":"blog/2021-06-17 Live in Christ, you've already died to self.md","permalink":"/blog/2021-06-17-live-in-christ-you-ve-already-died-to-self/","noteIcon":"","created":"2021-06-17"}
 ---
 
 
