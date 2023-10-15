@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/healthy churches.md","permalink":"/docs/healthy-churches/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"docs/healthy churches.md","permalink":"/docs/healthy-churches/","noteIcon":""}
 ---
 
 
@@ -35,4 +35,4 @@ Healthy churches also exhibit multi-generational growth from [[resources/notes/d
 
 Healthy churches are whole in the sense of the Hebrew word shalom, they are complete and fully equipped.
 
-#church #mission #Ecclesiology #Discipling [[resources/blog/2020-09-02 Describing Church from Scripture\|2020-09-02 Describing Church from Scripture]]
+#church #Missions  #Ecclesiology #Discipling [[resources/blog/2020-09-02 Describing Church from Scripture\|2020-09-02 Describing Church from Scripture]]
