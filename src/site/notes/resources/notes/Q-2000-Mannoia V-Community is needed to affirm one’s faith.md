@@ -3,7 +3,7 @@
 ---
 
 
-Community is needed to affirm one’s faith & convictions. Community allows for diversity & pluralism. Trust within community is the foundation of honoring diversity & pluralism. It is the glue that allows for unique individuals with their unique viewpoints and perspectives to remain unique. Community does not ideally stress conformity but encourages hospitality. Within an openness and acceptance of persons as unique individuals within a community, the community is able to prevent too much indoctrination and too much relativism.”
+"Community is needed to affirm one’s faith & convictions. Community allows for diversity & pluralism. Trust within community is the foundation of honoring diversity & pluralism. It is the glue that allows for unique individuals with their unique viewpoints and perspectives to remain unique. Community does not ideally stress conformity but encourages hospitality. Within an openness and acceptance of persons as unique individuals within a community, the community is able to prevent too much indoctrination and too much relativism.”
 
 [[resources/zotero/mannoiaChristianLiberalArts2000\|mannoiaChristianLiberalArts2000]]
 
