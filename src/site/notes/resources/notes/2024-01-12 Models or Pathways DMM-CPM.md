@@ -14,6 +14,6 @@ I put together an over of DMM/CPM models or pathways as described in various boo
 
 I also prompted ChatGPT to give me an overview of church planting principles that lead to movements being started. You can see the full text of that in [[resources/notes/2023-09-17 ChatGPT on Church Planting Movement Principles\|2023-09-17 ChatGPT on Church Planting Movement Principles]].
 
-<a href="https://github.com/jag3773/ekfocus/blob/main/src/site/img/user/archive/attachments/ekfocus.com/2023-09-17-Models-or-Pathways-of-DMM-CPM.excalidraw.png"><img src="/img/user/archive/attachments/ekfocus.com/2023-09-17-Models-or-Pathways-of-DMM-CPM.excalidraw.png" />Click to Download</a>
+<a href="https://github.com/jag3773/ekfocus/blob/main/src/site/img/user/archive/attachments/ekfocus.com/2023-09-17-Models-or-Pathways-of-DMM-CPM.excalidraw.png" target="_blank"><img src="/img/user/archive/attachments/ekfocus.com/2023-09-17-Models-or-Pathways-of-DMM-CPM.excalidraw.png" /></a>
 
 #Ecclesiology #systems-thinking 
