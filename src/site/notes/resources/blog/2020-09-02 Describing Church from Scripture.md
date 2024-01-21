@@ -24,7 +24,10 @@ The following passages each say something that describes church:
 - [[resources/bible/epistles/1 Peter 3#3:21\|1 Peter 3#3:21]] :: baptism corresponds to flood narrative
 - [[resources/bible/gospels/Acts 13#13:1-3\|Acts 13#13:1-3]] and [[resources/bible/epistles/1 Peter 2#2:9-10\|1 Peter 2#2:9-10]] :: Missions
 - [[resources/bible/epistles/Colossians 3\|Colossians 3]] and [[resources/bible/epistles/Galatians 3#3:23\|Galatians 3#3:23]] :: new life in Christ and body composition
-- [[resources/bible/epistles/Colossians 3#3:16\|Colossians 3#3:16]] :: teaching, admonishing, signing, thankfulness
+- [[resources/bible/epistles/Colossians 3#3:16\|Colossians 3#3:16]] :: teaching, admonishing, signing (psalms, hymns, spiritual songs), thankfulness
 - [[resources/bible/epistles/Ephesians 4#4:11-16\|Ephesians 4#4:11-16]] :: saints do ministry
+- [[Ephesians 5:18\|Ephesians 5:18]] :: be filled with the spirit
+- [[Ephesians 5:19\|Ephesians 5:19]] :: speak to one another with psalms, hymns, spiritual songs
+- [[Ephesians 5:20\|Ephesians 5:20]] :: giving thanks
 
 Related to [[resources/notes/2018-Institutional vs Micro Church\|2018-Institutional vs Micro Church]] and [[resources/notes/2018 Basic Church\|2018 Basic Church]] and [[projects/Church on Sundrop/2020 Church Thoughts\|2020 Church Thoughts]]
