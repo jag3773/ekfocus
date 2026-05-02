@@ -33,4 +33,4 @@
 
 It's important to note that the success of a church planting movement can depend on various factors, including cultural context, leadership, and the receptivity of the community. These principles provide a general framework, but their implementation may vary in practice.
 
-#chatgpt #Ecclesiology See [[archive/attachments/2023-09-17 Models or Pathways of DMM-CPM.excalidraw\|2023-09-17 Models or Pathways of DMM-CPM.excalidraw]]
+#chatgpt #Ecclesiology See [[resources/excalidraw/2023-09-17 Models or Pathways of DMM-CPM.excalidraw\|2023-09-17 Models or Pathways of DMM-CPM.excalidraw]]

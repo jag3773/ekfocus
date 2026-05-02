@@ -3,4 +3,4 @@
 ---
 
 
-Check out the [[resources/notes/Hebrew Anytime Paradigms\|Hebrew Anytime Paradigms]] that I uploaded.  Let me know what you think.
+Check out the [[resources/concepts/Hebrew Anytime Paradigms\|Hebrew Anytime Paradigms]] that I uploaded.  Let me know what you think.

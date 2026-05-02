@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/concepts/hebrew-preformatives/","tags":["paradigms","hebrew","old-testament"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/concepts/Hebrew Preformatives.md","permalink":"/docs/concepts/hebrew-preformatives/","tags":["paradigms","hebrew","old-testament"],"noteIcon":""}
 ---
 
 

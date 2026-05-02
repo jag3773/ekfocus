@@ -3,7 +3,7 @@
 ---
 
 
-[[Thankfulness\|Thankfulness]] increases overall [[resources/notes/Joy\|Joy]] in one's life.
+[[Thankfulness\|Thankfulness]] increases overall [[resources/concepts/Joy\|Joy]] in one's life.
 
 ## References
 

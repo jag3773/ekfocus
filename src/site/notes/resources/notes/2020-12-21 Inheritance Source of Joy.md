@@ -3,4 +3,4 @@
 ---
 
 
-The unfading and imperishable inheritance that we have in Jesus Christ is the source of our [[resources/notes/Joy\|Joy]] according to [[resources/bible/epistles/1 Peter 1#1:4\|1 Peter 1#1:4]], [[resources/bible/epistles/1 Peter 1#1:6\|1 Peter 1#1:6]] and [[resources/bible/epistles/1 Peter 1#1:8\|1 Peter 1#1:8]].
+The unfading and imperishable inheritance that we have in Jesus Christ is the source of our [[resources/concepts/Joy\|Joy]] according to [[resources/bible/epistles/1 Peter 1#1:4\|1 Peter 1#1:4]], [[resources/bible/epistles/1 Peter 1#1:6\|1 Peter 1#1:6]] and [[resources/bible/epistles/1 Peter 1#1:8\|1 Peter 1#1:8]].

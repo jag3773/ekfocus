@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/concepts/make-disciples-who-make-disciples-in-the-context-of-healthy-churches/","noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/concepts/make disciples who make disciples in the context of healthy churches.md","permalink":"/docs/concepts/make-disciples-who-make-disciples-in-the-context-of-healthy-churches/","noteIcon":""}
 ---
 
 

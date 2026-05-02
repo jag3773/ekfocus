@@ -15,4 +15,9 @@ The Bible does seem to indicate pretty clearly that if you are a believer then y
 
 There is certainly, especially in the [[resources/bible/epistles/Colossians 3\|Colossians 3]] passage, the imperative to die to our flesh (our worldly desires), but it seems pretty clear that our "self", is no longer our flesh, but it is who we truly are in Christ. In other words as believers we are not to die to ourselves we have to encourage ourselves to be conformed to the image of Christ–which is precisely what God is working in us, see [[resources/bible/epistles/Philippians 1#1:6\|Philippians 1#1:6]] in [[resources/bible/epistles/Colossians 3#3:10\|Colossians 3#3:10]]. Paul's argument is that our old person, our flesh, is already dead and gone, what we need to do is live fully in our new life which Christ has given us.
 
+Similarly, [[resources/bible/epistles/Ephesians 4\|Ephesians 4]] talks about putting off the old self and putting on the new self:
+
+>#### Ephesians 4:20-24
+>But that is not the way you learned Christ!—assuming that you have heard about him and were taught in him, as the truth is in Jesus, to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness.
+
 See also the [[resources/zotero/carsonNewBibleCommentary1994\|New Bible commentary]] on page 1272 about [[resources/bible/epistles/Colossians 3\|Colossians 3]].

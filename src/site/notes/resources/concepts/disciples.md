@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/concepts/disciples/","noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/concepts/disciples.md","permalink":"/docs/concepts/disciples/","noteIcon":""}
 ---
 
 

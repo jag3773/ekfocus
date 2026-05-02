@@ -5,7 +5,7 @@
 
 Perhaps a reasonable description of healthy churches is:
 
-**Interdependent units of [[resources/notes/Joy\|Joy]] on mission**
+**Interdependent units of [[resources/concepts/Joy\|Joy]] on mission**
 
 Compare
 - [[resources/zotero/chesterTotalChurchRadical2008\|chesterTotalChurchRadical2008]]

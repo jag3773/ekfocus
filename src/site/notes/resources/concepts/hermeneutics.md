@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/concepts/hermeneutics/","noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/concepts/hermeneutics.md","permalink":"/docs/concepts/hermeneutics/","noteIcon":""}
 ---
 
 

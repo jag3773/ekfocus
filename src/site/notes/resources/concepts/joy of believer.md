@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/concepts/joy-of-believer/","noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/concepts/joy of believer.md","permalink":"/docs/concepts/joy-of-believer/","noteIcon":""}
 ---
 
 

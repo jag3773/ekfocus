@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/concepts/greek-anytime-paradigms/","noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/concepts/Greek Anytime Paradigms.md","permalink":"/docs/concepts/greek-anytime-paradigms/","noteIcon":""}
 ---
 
 

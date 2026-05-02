@@ -23,7 +23,7 @@ But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, f
 
 ###### 5:23
 
-gentleness, self-control; against such things there is no law.
+gentleness, and self-control. Against such things there is no law.
 
 
 </div></div>
@@ -31,7 +31,7 @@ gentleness, self-control; against such things there is no law.
 
 [[resources/notes/Churches are Interdependent units of joy on mission with God\|Churches are Interdependent units of joy on mission with God]].
 
-Healthy churches also exhibit multi-generational growth from [[resources/notes/disciples\|disciples]] making [[resources/notes/disciples\|disciples]].
+Healthy churches also exhibit multi-generational growth from [[resources/concepts/disciples\|disciples]] making [[resources/concepts/disciples\|disciples]].
 
 Healthy churches are whole in the sense of the Hebrew word shalom, they are complete and fully equipped.
 
