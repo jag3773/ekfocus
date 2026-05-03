@@ -1,0 +1,35 @@
+{% if page.fileSlug == 'EKFocus Home Page' %}
+<section id="featured" class="featured-grid" aria-labelledby="featured-title">
+  <h2 id="featured-title" class="section-title">Featured Nexus</h2>
+  <div class="grid-container">
+    <article class="grid-card recent-notes">
+      <h3>Recent Notes</h3>
+      <ul>
+        {% for note in collections.recent | slice(0,5) %}
+          <li><a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a></li>
+        {% else %}
+          <li><em>Recent notes loading...</em></li>
+        {% endfor %}
+      </ul>
+    </article>
+    <article class="grid-card principles">
+      <h3>Core Principles</h3>
+      <ul>
+        <li><a href="/resources/notes/Atomic Notes.md">Atomic Notes</a></li>
+        <li><a href="/resources/notes/Systems Thinking.md">Systems Thinking</a></li>
+        <li><a href="/resources/notes/Biblical Languages.md">Biblical Languages</a></li>
+      </ul>
+    </article>
+    <article class="grid-card projects">
+      <h3>unfoldingWord Projects</h3>
+      <ul>
+        {% for project in collections.unfoldingWord | slice(0,4) %}
+          <li><a href="{{ project.url }}">[{{ project.data.priority or '' }}] {{ project.data.title or project.fileSlug }}</a></li>
+        {% else %}
+          <li><a href="/tags/unfoldingWord">#unfoldingWord</a></li>
+        {% endfor %}
+      </ul>
+    </article>
+  </div>
+</section>
+{% endif %}

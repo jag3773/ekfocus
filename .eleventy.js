@@ -114,6 +114,8 @@ const markdownFileTypeRegex = /\.(md|markdown)$/i;
 const isMarkdownPage = (inputPath) => inputPath && inputPath.match(markdownFileTypeRegex);
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addCollection("recent", (collection) => collection.getFilteredByGlob("./notes/**/*.md").slice(0, 10));
+  eleventyConfig.addCollection("unfoldingWord", (collection) => collection.getFilteredByGlob("./notes/**/*.md").filter(item => item.data.tags && item.data.tags.includes("unfoldingWord")));
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
