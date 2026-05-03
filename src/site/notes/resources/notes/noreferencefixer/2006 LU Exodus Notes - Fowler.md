@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/noreferencefixer/2006 LU Exodus Notes - Fowler.md","permalink":"/docs/noreferencefixer/2006-lu-exodus-notes-fowler/","noteIcon":"","created":2006}
+{"dg-publish":true,"dg-path":"docs/2006 LU Exodus Notes - Fowler.md","permalink":"/docs/2006-lu-exodus-notes-fowler/","noteIcon":"","created":2006}
 ---
 
 
