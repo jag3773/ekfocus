@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"docs/EKFocus Home Page.md","permalink":"/docs/ek-focus-home-page/","hide":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"docs/EKFocus Home Page.md","permalink":"/docs/ek-focus-home-page/","title":"\"\"","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
