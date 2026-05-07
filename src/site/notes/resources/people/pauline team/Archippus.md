@@ -27,15 +27,13 @@ Archippus represents the next generation of leaders in the Pauline churches: you
 
 ## References
 
-- [[resources/zotero/broweleitOut4thPlace2018\|broweleitOut4thPlace2018]]
-- [[resources/zotero/cooperEphesiologyStudyEphesian2020\|cooperEphesiologyStudyEphesian2020]]
-- [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]
-- [[resources/zotero/gilesPatternsMinistryFirst2017\|gilesPatternsMinistryFirst2017]]
-- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]
-- [[resources/zotero/hastyWhyMeetHomes2020\|hastyWhyMeetHomes2020]]
-- [[resources/zotero/reedBILDEncyclicals2017\|reedBILDEncyclicals2017]]
-
-
+- [[resources/zotero/broweleitOut4thPlace2018\|broweleitOut4thPlace2018]]  -  Discusses house church dynamics relevant to Archippus's household-based ministry in Colossae.
+- [[resources/zotero/cooperEphesiologyStudyEphesian2020\|cooperEphesiologyStudyEphesian2020]]  -  Studies the Ephesian church network, which overlaps with Archippus's Colossian context.
+- [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  Maps Paul's coworker network including Archippus's role in the Colossian house church.
+- [[resources/zotero/gilesPatternsMinistryFirst2017\|gilesPatternsMinistryFirst2017]]  -  Examines ministry patterns among early Christians, including the *diakonia* Archippus received.
+- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on the Pastoral Epistles, which reference Archippus's ministry charge.
+- [[resources/zotero/hastyWhyMeetHomes2020\|hastyWhyMeetHomes2020]]  -  Explores house church practice relevant to the congregation meeting in Philemon and Archippus's home.
+- [[resources/zotero/reedBILDEncyclicals2017\|reedBILDEncyclicals2017]]  -  References Archippus within BILD's framework of early church leadership structures.
 - [Who was Archippus in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Archippus-in-the-Bible.html)
 - [Archippus, Fulfill Your Ministry  -  JesusWalk](https://www.jesuswalk.com/colossians/archippus.htm)
 - [What does Colossians 4:17 mean?  -  BibleRef.com](https://www.bibleref.com/Colossians/4/Colossians-4-17.html)

@@ -33,9 +33,7 @@ From the Ephesian riot to the Roman prison, Aristarchus stayed with Paul through
 ## References
 
 - [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  References Aristarchus in the context of the early church's coworker network and relational patterns.
-- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]
-- [[resources/zotero/polhillActs1992\|polhillActs1992]]
-
-
+- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary covering the Pastoral Epistles where Aristarchus appears in Paul's final greetings.
+- [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Commentary on Acts covering Aristarchus's appearances from the Ephesian riot through the voyage to Rome.
 - [Who was Aristarchus in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Aristarchus-in-the-Bible.html)
 - [Aristarchus of Thessalonica  -  Wikipedia](https://en.wikipedia.org/wiki/Aristarchus_of_Thessalonica)

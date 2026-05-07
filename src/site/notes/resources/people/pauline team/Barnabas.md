@@ -43,8 +43,6 @@ In [[resources/bible/epistles/1 Corinthians 9#9:6\|1 Corinthians 9#9:6]], Paul c
 - Hans Dieter Betz, _Galatians: A Commentary on [[resources/people/pauline team/Paul\|Paul]]’s Letter to the Churches in Galatia_, Hermeneia - a Critical and Historical Commentary on the Bible (Philadelphia: Fortress Press, 1979), 84.
 - [[resources/zotero/reedGathering2021\|reedGathering2021]]  -  References Barnabas within the broader narrative of early church gathering and mission.
 - [[resources/zotero/rinehartGospelPatrons2014\|rinehartGospelPatrons2014]]  -  References Barnabas’s generosity as an early example of gospel patronage.
-
-
 - [Barnabas  -  Wikipedia](https://en.wikipedia.org/wiki/Barnabas)
 - [Who Was Barnabas, Paul’s Companion in the Bible?  -  Bibliaon](https://www.bibliaon.com/en/barnabas/)
 - [Barnabas: A Generous Encourager  -  Anabaptist Resources](https://www.anabaptistresources.org/en/resources/details/708/barnabas-a-generous-encourager)

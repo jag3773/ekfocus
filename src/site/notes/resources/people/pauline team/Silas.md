@@ -35,8 +35,6 @@ Silas is co-sender of both Thessalonian letters ([[resources/bible/epistles/1 Th
 - [[resources/zotero/joreEquippingServantsEarly2025\|joreEquippingServantsEarly2025]]  -  Includes Silas/Silvanus in the network of early church servant-leaders.
 - [[resources/zotero/parks2414Testimony2019\|parks2414Testimony2019]]  -  References the Pauline equipping servant team including Silas.
 - [[resources/zotero/georges3DGospelMinistry2014\|georges3DGospelMinistry2014]]  -  Discusses honor-shame dynamics in the contexts where Silas ministered.
-
-
 - [Silas  -  Wikipedia](https://en.wikipedia.org/wiki/Silas)
 - [Who was Silas in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/life-Silas.html)
 - [Saint Silas  -  Britannica](https://www.britannica.com/biography/Saint-Silas)

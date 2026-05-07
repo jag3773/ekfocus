@@ -29,13 +29,11 @@ The early Christian movement had no dedicated meeting spaces. Benefactors who op
 
 ## References
 
-- [[resources/zotero/broweleitOut4thPlace2018\|broweleitOut4thPlace2018]]
-- [[resources/zotero/cooperEphesiologyStudyEphesian2020\|cooperEphesiologyStudyEphesian2020]]
-- [[resources/zotero/gilesPatternsMinistryFirst2017\|gilesPatternsMinistryFirst2017]]
-- [[resources/zotero/hastyWhyMeetHomes2020\|hastyWhyMeetHomes2020]]
+- [[resources/zotero/broweleitOut4thPlace2018\|broweleitOut4thPlace2018]]  -  Explores house church dynamics relevant to Nympha's role as a Laodicean house church host.
+- [[resources/zotero/cooperEphesiologyStudyEphesian2020\|cooperEphesiologyStudyEphesian2020]]  -  Studies the Ephesian church network adjacent to the Lycus Valley churches Nympha belonged to.
+- [[resources/zotero/gilesPatternsMinistryFirst2017\|gilesPatternsMinistryFirst2017]]  -  Examines ministry patterns among early Christians, including female house church leadership.
+- [[resources/zotero/hastyWhyMeetHomes2020\|hastyWhyMeetHomes2020]]  -  Discusses the practice and theology of house church meetings like the one Nympha hosted.
 - [[resources/zotero/reedBILDEncyclicals2017\|reedBILDEncyclicals2017]]  -  References Nympha's house church in the context of early church structures and the network of congregations in the Lycus Valley.
-
-
 - [Nympha: A House Church Leader in the Lycus Valley  -  Marg Mowczko](https://margmowczko.com/nympha-house-church-colossians-415/)
 - [Who was Nympha in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Nympha-in-the-Bible.html)
 - [Nympha of Laodicea  -  Wikipedia](https://en.wikipedia.org/wiki/Nympha_of_Laodicea)

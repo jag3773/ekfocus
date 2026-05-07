@@ -33,9 +33,7 @@ The Pauline movement depended on equipping servants like Epaphras: people who co
 
 - [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  Identifies Epaphras as one of the clearest examples of the work of a *diakonos*, detailing his ministry across Colossae, Laodicea, and Hierapolis.
 - [[resources/zotero/joreEquippingServantsEarly2025\|joreEquippingServantsEarly2025]]  -  Argues that Epaphras belongs in the same *diakonos* category as Paul, Timothy, Apollos, Tychicus, and Phoebe–leaders at the heart of early church expansion.
-- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]
-
-
+- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on the Pastoral Epistles, relevant to Epaphras's mention in Philemon alongside the prison epistle context.
 - [Who was Epaphras in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Epaphras-in-the-Bible.html)
 - [Epaphras  -  Wikipedia](https://en.wikipedia.org/wiki/Epaphras)
 - [Who is Epaphras?  -  Reading Acts](https://readingacts.com/2015/11/05/who-is-epaphras-colossians-11-8/)

@@ -29,14 +29,12 @@ The context sharpens the point. Paul mentions Demas right after saying "only [[r
 
 ## References
 
-- [[resources/zotero/bruceRomans2014\|bruceRomans2014]]
+- [[resources/zotero/bruceRomans2014\|bruceRomans2014]]  -  F.F. Bruce's Romans commentary covers Paul's greetings where Demas is mentioned among the Roman coworkers.
 - [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  Includes Demas in the analysis of Paul's coworker network, noting his trajectory from fellow worker to deserter.
-- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]
-- [[resources/zotero/lampePaulValentinusChristians2003\|From Paul to Valentinus: Christians at Rome in the First Two Centuries]]
-- [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]
-- [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]
-
-
+- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on the Pastoral Epistles where Paul records Demas's desertion in 2 Timothy 4:10.
+- [[resources/zotero/lampePaulValentinusChristians2003\|From Paul to Valentinus: Christians at Rome in the First Two Centuries]]  -  Examines the Roman Christian community where Demas served before his departure.
+- [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]  -  Moo's Romans survey covers the greetings context in which Demas appears.
+- [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]  -  McClain's Romans commentary addresses the coworker network listed in Paul's closing greetings.
 - [Who was Demas in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Demas-in-the-Bible.html)
 - [Demas  -  Wikipedia](https://en.wikipedia.org/wiki/Demas)
 - [Demas: Lover of This Present World  -  Bible Archaeology](https://www.biblearchaeology.org/research/people-places-and-things-in-the-new-testament/3308-demas-lover-of-this-present-world)

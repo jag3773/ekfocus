@@ -31,16 +31,14 @@ Peter called Mark "my son" ([[resources/bible/epistles/1 Peter 5#5:13\|1 Peter 5
 
 ## References
 
-- [[resources/zotero/bruceRomans2014\|bruceRomans2014]]
-- [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]
-- [[resources/zotero/gilesPatternsMinistryFirst2017\|gilesPatternsMinistryFirst2017]]
-- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]
-- [[resources/zotero/lampePaulValentinusChristians2003\|From Paul to Valentinus: Christians at Rome in the First Two Centuries]]
-- [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]
-- [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]
-- [[resources/zotero/polhillActs1992\|polhillActs1992]]
-
-
+- [[resources/zotero/bruceRomans2014\|bruceRomans2014]]  -  Bruce's Romans commentary covers the greetings where Mark appears among Paul's Roman coworkers.
+- [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  Maps Paul's coworker network including Mark's restoration arc from deserter to fellow worker.
+- [[resources/zotero/gilesPatternsMinistryFirst2017\|gilesPatternsMinistryFirst2017]]  -  Examines early church ministry patterns including Mark's helper role and later Gospel authorship.
+- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on 2 Timothy where Paul asks Timothy to bring Mark because "he is useful to me for ministry."
+- [[resources/zotero/lampePaulValentinusChristians2003\|From Paul to Valentinus: Christians at Rome in the First Two Centuries]]  -  Traces Roman Christians including Mark's presence during Paul's imprisonment.
+- [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]  -  Moo's Romans survey covers the coworker context where Mark is greeted.
+- [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]  -  McClain's Romans commentary addresses the greetings list that includes Mark.
+- [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Commentary on Acts covering Mark's role from the first journey through the Paul-Barnabas split.
 - [Who was John Mark in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/John-Mark-in-the-Bible.html)
 - [John Mark  -  Wikipedia](https://en.wikipedia.org/wiki/John_Mark)
 - [What Do We Know About John Mark?  -  Bible Study Tools](https://www.biblestudytools.com/bible-study/topical-studies/what-do-we-know-about-john-mark-in-the-bible.html)

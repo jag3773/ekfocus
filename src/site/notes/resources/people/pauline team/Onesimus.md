@@ -29,8 +29,6 @@ Ignatius of Antioch (c. 110 AD) mentions a bishop of Ephesus named Onesimus in h
 
 ## References
 
-- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]
-
-
+- [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on the Pastoral Epistles, covering the Philemon context where Onesimus's story unfolds.
 - [Who was Onesimus in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Onesimus-in-the-Bible.html)
 - [Onesimus  -  Wikipedia](https://en.wikipedia.org/wiki/Onesimus)

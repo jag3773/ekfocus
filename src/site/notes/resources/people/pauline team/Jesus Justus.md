@@ -26,11 +26,9 @@ Jesus Justus has no other letter, no narrative in Acts, no church tradition. He 
 
 ## References
 
-- [[resources/zotero/bruceRomans2014\|bruceRomans2014]]
+- [[resources/zotero/bruceRomans2014\|bruceRomans2014]]  -  Bruce's Romans commentary provides context for the Jewish-Gentile coworker dynamics Jesus Justus was part of.
 - [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  Includes Jesus Justus in the mapping of Paul's coworker network and the roles they played in the early church structure.
-- [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]
-- [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]
-
-
+- [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]  -  Moo's Romans survey covers the coworker greetings context relevant to Jesus Justus's Colossians mention.
+- [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]  -  McClain's Romans commentary addresses the Jewish coworker group that included Jesus Justus.
 - [What does Colossians 4:11 mean?  -  BibleRef.com](https://www.bibleref.com/Colossians/4/Colossians-4-11.html)
 - [Colossians 4:11 Commentaries  -  BibleHub](https://biblehub.com/commentaries/colossians/4-11.htm)
