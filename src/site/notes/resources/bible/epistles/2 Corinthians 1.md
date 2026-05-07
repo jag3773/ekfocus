@@ -79,7 +79,7 @@ But as surely as God is faithful, our message to you is not “Yes” and “No.
 
 ###### 1:19
 
-For the Son of God, Jesus Christ, who was proclaimed among you by me and [[resources/concepts/Silvanus\|Silvanus]] and [[resources/people/pauline team/Timothy\|Timothy]], was not “Yes” and “No,” but in Him it has always been “Yes.”
+For the Son of God, Jesus Christ, who was proclaimed among you by me and [[Silvanus\|Silvanus]] and [[resources/people/pauline team/Timothy\|Timothy]], was not “Yes” and “No,” but in Him it has always been “Yes.”
 
 ###### 1:20
 

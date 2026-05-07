@@ -7,7 +7,7 @@
 
 ###### 1:1
 
-Paul, [[resources/concepts/Silvanus\|Silvanus]], and [[resources/people/pauline team/Timothy\|Timothy]], To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.
+Paul, [[Silvanus\|Silvanus]], and [[resources/people/pauline team/Timothy\|Timothy]], To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.
 
 ###### 1:2
 

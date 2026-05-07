@@ -7,7 +7,7 @@
 
 ###### 1:1
 
-Paul, [[resources/concepts/Silvanus\|Silvanus]], and [[resources/people/pauline team/Timothy\|Timothy]], To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+Paul, [[Silvanus\|Silvanus]], and [[resources/people/pauline team/Timothy\|Timothy]], To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
 ###### 1:2
 

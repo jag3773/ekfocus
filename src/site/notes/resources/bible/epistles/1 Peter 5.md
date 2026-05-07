@@ -51,7 +51,7 @@ To Him be the power forever and ever. Amen.
 
 ###### 5:12
 
-Through [[resources/concepts/Silvanus\|Silvanus]], whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it.
+Through [[Silvanus\|Silvanus]], whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it.
 
 ###### 5:13
 
