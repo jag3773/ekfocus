@@ -35,7 +35,7 @@ The city's location made it strategically ideal. Antioch was the third largest c
 
 The church at Antioch was the site of the confrontation between [[resources/people/pauline team/Paul\|Paul]] and [[Peter\|Peter]] over table fellowship. When Peter first arrived, he ate with Gentile believers. After men from James arrived in Antioch, Peter withdrew from eating with Gentiles, and "the rest of the Jews acted hypocritically along with him, so that even [[resources/people/pauline team/Barnabas\|Barnabas]] was led astray by their hypocrisy" ([[resources/bible/epistles/Galatians 2#2:11-13\|Galatians 2#2:11-13]]). Paul opposed Peter "to his face, because he stood condemned" ([[resources/bible/epistles/Galatians 2#2:11\|Galatians 2#2:11]]).
 
-This confrontation forced the early church to clarify whether Gentile believers had to observe Jewish food laws and whether Jewish and Gentile Christians could share meals as equals. The issue went to the [[Jerusalem Council\|Jerusalem Council]] ([[resources/bible/gospels/Acts 15#15:1-29\|Acts 15#15:1-29]]), which ruled that Gentiles need not be circumcised or follow Mosaic law, while asking them to abstain from food sacrificed to idols, blood, strangled animals, and sexual immorality.
+This confrontation forced the early church to clarify whether Gentile believers had to observe Jewish food laws and whether Jewish and Gentile Christians could share meals as equals. The issue went to the [[resources/concepts/Jerusalem Council\|Jerusalem Council]]] ([[resources/bible/gospels/Acts 15#15:1-29\|Acts 15#15:1-29]]), which ruled that Gentiles need not be circumcised or follow Mosaic law, while asking them to abstain from food sacrificed to idols, blood, strangled animals, and sexual immorality.
 
 ## The Name "Christian"
 
@@ -50,11 +50,11 @@ Members of [[resources/concepts/The Pauline Team\|The Pauline Team]] connected t
 - [[resources/people/pauline team/Simeon who was called Niger\|Simeon who was called Niger]], prophet and teacher
 - [[resources/people/pauline team/Lucius\|Lucius]] of Cyrene, prophet and teacher, possibly among the original founders
 - [[resources/people/pauline team/Manaen\|Manaen]], prophet and teacher, raised in Herod's court
-- [[resources/people/pauline team/Silas\|Silas]], delivered the Jerusalem Council decree to Antioch ([[resources/bible/gospels/Acts 15#15:22\|Acts 15#15:22]])
+- [[resources/people/pauline team/Silas\|Silas]], delivered the [[resources/concepts/Jerusalem Council\|Jerusalem Council]] decree to Antioch ([[resources/bible/gospels/Acts 15#15:22\|Acts 15#15:22]])
 - [[resources/people/pauline team/Judas Barsabbas\|Judas Barsabbas]], co-delivered the decree with Silas ([[resources/bible/gospels/Acts 15#15:22\|Acts 15#15:22]])
 - [[resources/people/pauline team/John Mark\|John Mark]], accompanied Barnabas and Paul from Antioch on the first journey ([[resources/bible/gospels/Acts 12#12:25\|Acts 12#12:25]])
 - [[resources/people/pauline team/Luke\|Luke]], tradition identifies him as a Syrian from Antioch (anti-Marcionite prologue, c. 170 AD)
-- [[resources/people/pauline team/Titus\|Titus]], accompanied Paul from Antioch to the Jerusalem Council ([[resources/bible/epistles/Galatians 2#2:1-3\|Galatians 2#2:1-3]])
+- [[resources/people/pauline team/Titus\|Titus]], accompanied Paul from Antioch to the [[resources/concepts/Jerusalem Council\|Jerusalem Council]] ([[resources/bible/epistles/Galatians 2#2:1-3\|Galatians 2#2:1-3]])
 
 ## Significance for Ecclesiology
 
