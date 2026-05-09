@@ -19,7 +19,7 @@
 
 John Mark, identified by his Jewish name John and his Roman name Marcus, carried both failure and restoration through his career in the early church.
 
-His family had standing in Jerusalem. His mother Mary owned a house large enough to host a prayer gathering, and [[Peter\|Peter]] went there after the angel freed him from Herod's prison ([[resources/bible/gospels/Acts 12#12:12\|Acts 12#12:12]]). Mark was the cousin of [[resources/people/pauline team/Barnabas\|Barnabas]] ([[resources/bible/epistles/Colossians 4#4:10\|Colossians 4#4:10]]), which explains how he joined the first journey out of Antioch.
+His family had standing in Jerusalem. His mother Mary owned a house large enough to host a prayer gathering, and [[Peter\|Peter]] went there after the angel freed him from Herod's prison ([[resources/bible/gospels/Acts 12#12:12\|Acts 12#12:12]]). Mark was the cousin of [[resources/people/pauline team/Barnabas\|Barnabas]] ([[resources/bible/epistles/Colossians 4#4:10\|Colossians 4#4:10]]), which explains how he joined the first journey out of [[resources/concepts/Antioch Church\|Antioch]].
 
 [[resources/people/pauline team/Barnabas\|Barnabas]] and [[resources/people/pauline team/Paul\|Paul]] took Mark as a helper (*hypēretēs*) when they set out ([[resources/bible/gospels/Acts 12#12:25\|Acts 12#12:25]], [[resources/bible/gospels/Acts 13#13:5\|Acts 13#13:5]]). At Perga in Pamphylia, Mark left and returned to Jerusalem ([[resources/bible/gospels/Acts 13#13:13\|Acts 13#13:13]]). Luke gives no reason, but Paul took it seriously enough that when Barnabas proposed bringing Mark on the second journey, Paul refused. The disagreement was so sharp (*paroxysmos*) that they split: Barnabas took Mark to Cyprus, Paul chose [[resources/people/pauline team/Silas\|Silas]] for Syria and Cilicia ([[resources/bible/gospels/Acts 15#15:36-41\|Acts 15#15:36-41]]).
 
@@ -39,6 +39,9 @@ Peter called Mark "my son" ([[resources/bible/epistles/1 Peter 5#5:13\|1 Peter 5
 - [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]  -  Moo's Romans survey covers the coworker context where Mark is greeted.
 - [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]  -  McClain's Romans commentary addresses the greetings list that includes Mark.
 - [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Commentary on Acts covering Mark's role from the first journey through the Paul-Barnabas split.
+- [[resources/zotero/wrightChallengeActsRediscovering2024\|wrightChallengeActsRediscovering2024]]  -  Wright's study of Acts as theological history, covering John Mark's role in Acts 12-15.
+- [[resources/zotero/paoActsIsaianicNew2002\|paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for John Mark's narrative in Acts 12-15.
+- [[resources/zotero/addisonActsMovementGod2023\|addisonActsMovementGod2023]]  -  Addison examines the Acts narrative as a movement model, including John Mark's contribution in Acts 12-15.
 - [Who was John Mark in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/John-Mark-in-the-Bible.html)
 - [John Mark  -  Wikipedia](https://en.wikipedia.org/wiki/John_Mark)
 - [What Do We Know About John Mark?  -  Bible Study Tools](https://www.biblestudytools.com/bible-study/topical-studies/what-do-we-know-about-john-mark-in-the-bible.html)

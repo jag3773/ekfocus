@@ -35,5 +35,8 @@ From the Ephesian riot to the Roman prison, Aristarchus stayed with Paul through
 - [[resources/zotero/joreStudyChurchHer2022\|joreStudyChurchHer2022]]  -  References Aristarchus in the context of the early church's coworker network and relational patterns.
 - [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary covering the Pastoral Epistles where Aristarchus appears in Paul's final greetings.
 - [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Commentary on Acts covering Aristarchus's appearances from the Ephesian riot through the voyage to Rome.
+- [[resources/zotero/wrightChallengeActsRediscovering2024\|wrightChallengeActsRediscovering2024]]  -  Wright's study of Acts as theological history, covering Aristarchus's role in Acts 19:29 and 27:2.
+- [[resources/zotero/paoActsIsaianicNew2002\|paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for Aristarchus's narrative in Acts 19:29 and 27:2.
+- [[resources/zotero/addisonActsMovementGod2023\|addisonActsMovementGod2023]]  -  Addison examines the Acts narrative as a movement model, including Aristarchus's contribution in Acts 19:29 and 27:2.
 - [Who was Aristarchus in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Aristarchus-in-the-Bible.html)
 - [Aristarchus of Thessalonica  -  Wikipedia](https://en.wikipedia.org/wiki/Aristarchus_of_Thessalonica)

@@ -42,6 +42,7 @@ Paul's letters, 13 of the 27 New Testament books, are themselves products of thi
 - [[resources/zotero/murphy-oconnorStPaulEphesus2008\|murphy-oconnorStPaulEphesus2008]]  -  Reconstructs Paul's time in Ephesus using archaeological and textual evidence.
 - [[resources/zotero/wrightChallengeActsRediscovering2024\|wrightChallengeActsRediscovering2024]]  -  The Acts narrative of Paul's ministry and its theological significance.
 - [[resources/zotero/wrightPaulDifferentPerspectives2005\|wrightPaulDifferentPerspectives2005]]  -  Wright's lecture addressing competing scholarly frameworks for understanding Paul's theology.
+- [[resources/zotero/paoActsIsaianicNew2002\|paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for Paul's narrative in Paul's conversion, journeys, and imprisonment.
 - [Paul the Apostle  -  Wikipedia](https://en.wikipedia.org/wiki/Paul_the_Apostle)
 - [The Life of Paul  -  Bible.org](https://bible.org/article/life-paul)
 - [Paul the Apostle  -  Britannica](https://www.britannica.com/biography/Saint-Paul-the-Apostle)

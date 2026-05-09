@@ -34,6 +34,9 @@ Tychicus may not have had a strong apostolic gifting as we don't see him startin
 - [[resources/zotero/joreEquippingServantsEarly2025\|joreEquippingServantsEarly2025]]  -  Identifies Tychicus as a *diakonos* who served multiple churches across Ephesus, Colossae, and possibly Crete, functioning as one of the key servants at the heart of the Pauline movement.
 - [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on 2 Timothy and Titus where Paul sends or plans to send Tychicus as his replacement envoy.
 - [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Commentary on Acts covering Tychicus's appearance in the collection delegation to Jerusalem.
+- [[resources/zotero/wrightChallengeActsRediscovering2024\|wrightChallengeActsRediscovering2024]]  -  Wright's study of Acts as theological history, covering Tychicus's role in Acts 20:4.
+- [[resources/zotero/paoActsIsaianicNew2002\|paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for Tychicus's narrative in Acts 20:4.
+- [[resources/zotero/addisonActsMovementGod2023\|addisonActsMovementGod2023]]  -  Addison examines the Acts narrative as a movement model, including Tychicus's contribution in Acts 20:4.
 - [Who was Tychicus in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Tychicus-in-the-Bible.html)
 - [Tychicus  -  Wikipedia](https://en.wikipedia.org/wiki/Tychicus)
 - [Tychicus  -  Bible Study Tools](https://www.biblestudytools.com/dictionary/tychicus/)

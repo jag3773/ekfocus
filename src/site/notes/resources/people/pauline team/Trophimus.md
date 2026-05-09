@@ -30,5 +30,8 @@ The final mention of Trophimus comes in [[resources/bible/epistles/2 Timothy 4#4
 - [[resources/zotero/murphy-oconnorStPaulEphesus2008\|murphy-oconnorStPaulEphesus2008]]  -  Reconstructs Paul's time in Ephesus, where Trophimus was based before traveling with Paul to Jerusalem.
 - [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Commentary on Acts covering Trophimus's role in triggering Paul's arrest at the temple in Acts 21.
 - [[resources/zotero/kentPastoralEpistlesStudies2001\|kentPastoralEpistlesStudies2001]]  -  Commentary on 2 Timothy where Paul reports leaving Trophimus ill at Miletus.
+- [[resources/zotero/wrightChallengeActsRediscovering2024\|wrightChallengeActsRediscovering2024]]  -  Wright's study of Acts as theological history, covering Trophimus's role in Acts 20:4 and 21:29.
+- [[resources/zotero/paoActsIsaianicNew2002\|paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for Trophimus's narrative in Acts 20:4 and 21:29.
+- [[resources/zotero/addisonActsMovementGod2023\|addisonActsMovementGod2023]]  -  Addison examines the Acts narrative as a movement model, including Trophimus's contribution in Acts 20:4 and 21:29.
 - [Who was Trophimus in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Trophimus-in-the-Bible.html)
 - [Trophimus  -  Wikipedia](https://en.wikipedia.org/wiki/Trophimus)

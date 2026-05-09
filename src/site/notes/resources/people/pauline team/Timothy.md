@@ -48,6 +48,10 @@ Timothy embodies Paul's model of intergenerational leadership transfer. Paul inv
 - [[resources/zotero/bruceRomans2014\|bruceRomans2014]]  -  F.F. Bruce's Romans commentary addressing Timothy in Romans 16:21.
 - [[resources/zotero/mcclainRomansGospelGod1989\|mcclainRomansGospelGod1989]]  -  McClain's Romans commentary covering Timothy in Paul's closing greetings.
 - [[resources/zotero/mooEncounteringBookRomans2002\|mooEncounteringBookRomans2002]]  -  Moo's Romans survey covering the greetings context where Timothy appears in Romans 16:21.
+- [[resources/zotero/wrightChallengeActsRediscovering2024\|wrightChallengeActsRediscovering2024]]  -  Wright's study of Acts as theological history, covering Timothy's role in Acts 16-20.
+- [[resources/zotero/polhillActs1992\|polhillActs1992]]  -  Polhill's Acts commentary covering Timothy in Acts 16-20.
+- [[resources/zotero/paoActsIsaianicNew2002\|paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for Timothy's narrative in Acts 16-20.
+- [[resources/zotero/addisonActsMovementGod2023\|addisonActsMovementGod2023]]  -  Addison examines the Acts narrative as a movement model, including Timothy's contribution in Acts 16-20.
 - [Saint Timothy  -  Wikipedia](https://en.wikipedia.org/wiki/Saint_Timothy)
 - [Letters of Paul to Timothy  -  Britannica](https://www.britannica.com/topic/Letters-of-Paul-to-Timothy)
 - [An Introduction to the Pastoral Epistles  -  Bible.org](https://bible.org/article/introduction-pastoral-epistles-1-2-timothy-and-titus)
