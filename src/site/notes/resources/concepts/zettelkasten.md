@@ -3,7 +3,7 @@
 ---
 
 
-A [[resources/concepts/zettelkasten\|zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[resources/agents/CLAUDE\|CLAUDE]].
+A [[resources/concepts/zettelkasten\|zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE\|CLAUDE]].
 
 ## My Principles
 * Each note should be [[resources/concepts/atomic\|atomic]], expressing only one idea.
@@ -33,7 +33,7 @@ A [[resources/concepts/zettelkasten\|zettelkasten]] is a neural network, a secon
 * https://forum.obsidian.md/t/organising-the-bible-in-obsidian/1490/54?u=jag3773
 
 ## Task Management / Daily Use
-I do weekly, quarterly, and annual planning. I have documents that I set up for each of these and use `Templater` to set them up consistently (and interlink with one another_. For example, here is a snapshot of my 2023 setup:
+I use [[resources/concepts/Kanban\|Kanban]] for visual workflow management alongside weekly, quarterly, and annual planning. I have documents that I set up for each of these and use `Templater` to set them up consistently (and interlink with one another_. For example, here is a snapshot of my 2023 setup:
 - [[resources/notes/2023 Annual Canvas.canvas\|2023 Annual Canvas]] - This is a visual layout that links to import things from our annual basis, including the four quarterly files.
 - [[areas/planning/2023 uW Planning Ideas\|2023 uW Planning Ideas]] - This file contains my annual planning ideas.
 - [[areas/planning/2023-Q1\|2023-Q1]], [[areas/planning/2023-Q2\|2023-Q2]], [[areas/planning/2023-Q3\|2023-Q3]], [[areas/planning/2023-Q4\|2023-Q4]] - Quarterly notes files.
@@ -185,6 +185,9 @@ When the adjustments are completed it's time to extract the annotations and orga
 - Import from Google Keep with [keep-it-markdown](https://github.com/djsudduth/keep-it-markdown)
 - The [todo sort](https://github.com/ryangomba/obsidian-todo-sort) plugin automatically sorts todo lists based on checked status which is really helpful for my weekly notes.
 
+## Related
+- [[resources/concepts/MOC Concepts\|MOC Concepts]]
+
 ## References
 
 The following videos and sites might also be helpful:
@@ -203,7 +206,8 @@ The following videos and sites might also be helpful:
 
 ## ~~Import Browsing History~~
 
+*This froze zotero several times, turns out that 71k records aren't handled easily.*
+
 1. Export Firefox browsing history using "History Export" extension.
 2. Add required "type" field by running `cat data.json|jq '.[] += { type: "webpage" }' >Browsing\ History.json`
 3. Import into Zotero
-  1. This froze zotero several times, turns out that 71k records aren't handled easily
