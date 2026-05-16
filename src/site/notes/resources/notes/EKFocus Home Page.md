@@ -30,3 +30,7 @@ Blog posts, articles, and study notes on ecclesiology, discipleship, biblical co
 The biblical text with concept notes and cross-references linked throughout. Start with a book or follow a thread wherever it leads.
 
 [[resources/bible/Bible\|Browse the Bible]]
+
+## Recently Updated
+
+You may also want to start exploring with the [[resources/notes/Recently Updated\|Recently Updated]] notes. You may never know what you'll find...
