@@ -36,4 +36,4 @@
 The land theme creates an envelope for God's redemptive plan from Genesis to Revelation. The covenant structure underlying these land promises connects to [[resources/concepts/MOC Covenants\|the covenants MOC]] and [[resources/notes/2009-04-11 Kingdom of God Paradigm Notes\|the Kingdom of God paradigm]], where God operates through successive covenants with new stipulations and promises tied to the land. The spread of the Gospel to the whole earth in [[resources/bible/gospels/Acts 1#1:8\|Acts 1#1:8]] completes what began with Adam's stewardship of the garden. See [[resources/concepts/MOC Biblical Geography\|MOC Biblical Geography]] for broader geographic context and [[resources/concepts/MOC Biblical Studies\|MOC Biblical Studies]] for related study threads.
 
 #Bible #geography #land
-See also [Promises of God Hourglass.png](/img/user/archive/attachments/Promises%20of%20God%20Hourglass.png)
+See also [PromisesofGodHourglass.png](/img/user/archive/attachments/PromisesofGodHourglass.png)
