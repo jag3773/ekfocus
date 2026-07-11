@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[2 Timothy 4#4:21]]
+- References:: [[2 Timothy 4#4:21|2 Timothy 4:21]]
 
 ## Notes
 - Sends greetings to [[Timothy]] via Paul's final letter
@@ -17,7 +17,7 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Linus appears once in [[2 Timothy 4#4:21]], where [[Paul]] writes: "[[Eubulus]] greets you, as do [[Pudens]] and Linus and [[Claudia]] and all the brothers." He was part of the small circle of Roman believers who remained connected to Paul during his final imprisonment and sent greetings to [[Timothy]].
+Linus appears once in [[2 Timothy 4#4:21|2 Timothy 4:21]], where [[Paul]] writes: "[[Eubulus]] greets you, as do [[Pudens]] and Linus and [[Claudia]] and all the brothers." He was part of the small circle of Roman believers who remained connected to Paul during his final imprisonment and sent greetings to [[Timothy]].
 
 The significance of Linus lies in early church tradition. Irenaeus (c. 180 AD, *Against Heresies* 3.3.3) names Linus as the first bishop of Rome appointed by Peter and Paul: "The blessed apostles, then, having founded and built up the church, committed the ministry of the episcopate to Linus." Eusebius confirms this tradition in his *Church History*, listing Linus as bishop of Rome after the martyrdom of Peter and Paul.
 

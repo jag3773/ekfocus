@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Hosea 8"
+pagerPrevUrl: "/bible/prophets/hosea-8"
+pagerNextTitle: "Hosea 10"
+pagerNextUrl: "/bible/prophets/hosea-10"
+pagerUpTitle: "Hosea"
+pagerUpUrl: "/bible#hosea"
 ---
 
 # Hosea 9

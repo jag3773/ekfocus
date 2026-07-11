@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Lamentations 2"
+pagerPrevUrl: "/bible/writings/lamentations-2"
+pagerNextTitle: "Lamentations 4"
+pagerNextUrl: "/bible/writings/lamentations-4"
+pagerUpTitle: "Lamentations"
+pagerUpUrl: "/bible#lamentations"
 ---
 
 # Lamentations 3

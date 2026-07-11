@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Mark 16"
+pagerPrevUrl: "/bible/gospels/mark-16"
+pagerNextTitle: "Luke 2"
+pagerNextUrl: "/bible/gospels/luke-2"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 1

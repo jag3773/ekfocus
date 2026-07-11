@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 66"
+pagerPrevUrl: "/bible/prophets/isaiah-66"
+pagerNextTitle: "Jeremiah 2"
+pagerNextUrl: "/bible/prophets/jeremiah-2"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 1

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 2"
+pagerPrevUrl: "/bible/prophets/ezekiel-2"
+pagerNextTitle: "Ezekiel 4"
+pagerNextUrl: "/bible/prophets/ezekiel-4"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 3

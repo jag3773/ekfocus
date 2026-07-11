@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Samuel 11"
+pagerPrevUrl: "/bible/prophets/1-samuel-11"
+pagerNextTitle: "1 Samuel 13"
+pagerNextUrl: "/bible/prophets/1-samuel-13"
+pagerUpTitle: "1 Samuel"
+pagerUpUrl: "/bible#1-samuel"
 ---
 
 # 1 Samuel 12

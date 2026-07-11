@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 14"
+pagerPrevUrl: "/bible/pentateuch/genesis-14"
+pagerNextTitle: "Genesis 16"
+pagerNextUrl: "/bible/pentateuch/genesis-16"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 15

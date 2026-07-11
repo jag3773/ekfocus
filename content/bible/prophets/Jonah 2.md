@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jonah 1"
+pagerPrevUrl: "/bible/prophets/jonah-1"
+pagerNextTitle: "Jonah 3"
+pagerNextUrl: "/bible/prophets/jonah-3"
+pagerUpTitle: "Jonah"
+pagerUpUrl: "/bible#jonah"
 ---
 
 # Jonah 2

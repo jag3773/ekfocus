@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 7"
+pagerPrevUrl: "/bible/pentateuch/leviticus-7"
+pagerNextTitle: "Leviticus 9"
+pagerNextUrl: "/bible/pentateuch/leviticus-9"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 8

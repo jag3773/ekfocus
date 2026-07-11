@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ecclesiastes 9"
+pagerPrevUrl: "/bible/writings/ecclesiastes-9"
+pagerNextTitle: "Ecclesiastes 11"
+pagerNextUrl: "/bible/writings/ecclesiastes-11"
+pagerUpTitle: "Ecclesiastes"
+pagerUpUrl: "/bible#ecclesiastes"
 ---
 
 # Ecclesiastes 10

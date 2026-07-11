@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 37"
+pagerPrevUrl: "/bible/prophets/ezekiel-37"
+pagerNextTitle: "Ezekiel 39"
+pagerNextUrl: "/bible/prophets/ezekiel-39"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 38

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Matthew 11"
+pagerPrevUrl: "/bible/gospels/matthew-11"
+pagerNextTitle: "Matthew 13"
+pagerNextUrl: "/bible/gospels/matthew-13"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 12

@@ -1,6 +1,10 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Revelation 21"
+pagerPrevUrl: "/bible/epistles/revelation-21"
+pagerUpTitle: "Revelation"
+pagerUpUrl: "/bible#revelation"
 ---
 
 # Revelation 22

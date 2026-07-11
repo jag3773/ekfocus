@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "James 3"
+pagerPrevUrl: "/bible/epistles/james-3"
+pagerNextTitle: "James 5"
+pagerNextUrl: "/bible/epistles/james-5"
+pagerUpTitle: "James"
+pagerUpUrl: "/bible#james"
 ---
 
 # James 4

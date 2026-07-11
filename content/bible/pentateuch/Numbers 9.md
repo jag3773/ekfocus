@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Numbers 8"
+pagerPrevUrl: "/bible/pentateuch/numbers-8"
+pagerNextTitle: "Numbers 10"
+pagerNextUrl: "/bible/pentateuch/numbers-10"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 9

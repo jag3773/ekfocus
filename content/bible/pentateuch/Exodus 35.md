@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 34"
+pagerPrevUrl: "/bible/pentateuch/exodus-34"
+pagerNextTitle: "Exodus 36"
+pagerNextUrl: "/bible/pentateuch/exodus-36"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 35

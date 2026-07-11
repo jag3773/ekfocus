@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Judges 3"
+pagerPrevUrl: "/bible/prophets/judges-3"
+pagerNextTitle: "Judges 5"
+pagerNextUrl: "/bible/prophets/judges-5"
+pagerUpTitle: "Judges"
+pagerUpUrl: "/bible#judges"
 ---
 
 # Judges 4

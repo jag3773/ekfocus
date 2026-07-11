@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #apostle
 - Home:: [[Roman Church]] (or Jerusalem originally)
 - Other Locales:: Unknown
-- References:: [[Romans 16#16:7]]
+- References:: [[Romans 16#16:7|Romans 16:7]]
 
 ## Notes
 - Paired with [[Junia]]  -  likely a married couple
@@ -18,7 +18,7 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Andronicus appears only in [[Romans 16#16:7]], but the single verse Paul devotes to him and his partner [[Junia]] is one of the most theologically charged greetings in the New Testament. Paul writes: "Greet Andronicus and Junia, my kinsmen and my fellow prisoners, who are outstanding among the apostles, and who were in Christ before me."
+Andronicus appears only in [[Romans 16#16:7|Romans 16:7]], but the single verse Paul devotes to him and his partner [[Junia]] is one of the most theologically charged greetings in the New Testament. Paul writes: "Greet Andronicus and Junia, my kinsmen and my fellow prisoners, who are outstanding among the apostles, and who were in Christ before me."
 
 Paul calls Andronicus his "kinsman," which most likely means fellow Jew rather than blood relative. The designation "fellow prisoner" indicates that Andronicus shared imprisonment with Paul at some point.
 

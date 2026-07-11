@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 6"
+pagerPrevUrl: "/bible/writings/psalm-6"
+pagerNextTitle: "Psalm 8"
+pagerNextUrl: "/bible/writings/psalm-8"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 7

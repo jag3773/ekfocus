@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Numbers 1"
+pagerPrevUrl: "/bible/pentateuch/numbers-1"
+pagerNextTitle: "Numbers 3"
+pagerNextUrl: "/bible/pentateuch/numbers-3"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 2

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 24"
+pagerPrevUrl: "/bible/writings/psalm-24"
+pagerNextTitle: "Psalm 26"
+pagerNextUrl: "/bible/writings/psalm-26"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 25

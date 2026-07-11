@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 14"
+pagerPrevUrl: "/bible/prophets/joshua-14"
+pagerNextTitle: "Joshua 16"
+pagerNextUrl: "/bible/prophets/joshua-16"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 15

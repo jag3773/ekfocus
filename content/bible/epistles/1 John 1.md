@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Peter 3"
+pagerPrevUrl: "/bible/epistles/2-peter-3"
+pagerNextTitle: "1 John 2"
+pagerNextUrl: "/bible/epistles/1-john-2"
+pagerUpTitle: "1 John"
+pagerUpUrl: "/bible#1-john"
 ---
 
 # 1 John 1

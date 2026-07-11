@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 15"
+pagerPrevUrl: "/bible/prophets/isaiah-15"
+pagerNextTitle: "Isaiah 17"
+pagerNextUrl: "/bible/prophets/isaiah-17"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 16

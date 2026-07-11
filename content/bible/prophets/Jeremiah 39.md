@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 38"
+pagerPrevUrl: "/bible/prophets/jeremiah-38"
+pagerNextTitle: "Jeremiah 40"
+pagerNextUrl: "/bible/prophets/jeremiah-40"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 39

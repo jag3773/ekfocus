@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Micah 5"
+pagerPrevUrl: "/bible/prophets/micah-5"
+pagerNextTitle: "Micah 7"
+pagerNextUrl: "/bible/prophets/micah-7"
+pagerUpTitle: "Micah"
+pagerUpUrl: "/bible#micah"
 ---
 
 # Micah 6

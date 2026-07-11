@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 15"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-15"
+pagerNextTitle: "Deuteronomy 17"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-17"
+pagerUpTitle: "Deuteronomy"
+pagerUpUrl: "/bible#deuteronomy"
 ---
 
 # Deuteronomy 16

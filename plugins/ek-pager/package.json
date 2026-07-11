@@ -1,0 +1,34 @@
+{
+  "name": "@ekfocus/ek-pager",
+  "version": "1.0.0",
+  "description": "Prev/next chapter pager for Bible pages (reads pager* frontmatter injected by publish.mjs)",
+  "type": "module",
+  "license": "MIT",
+  "author": "Jesse Griffin",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": { "import": "./dist/index.js" },
+    "./components": { "import": "./dist/index.js" },
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": { "preact": "^10.0.0" },
+  "quartz": {
+    "name": "ek-pager",
+    "displayName": "Bible Chapter Pager",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 5,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "EkPager": {
+        "displayName": "Bible Chapter Pager",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 5
+      }
+    },
+    "optionSchema": {}
+  }
+}

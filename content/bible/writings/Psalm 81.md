@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 80"
+pagerPrevUrl: "/bible/writings/psalm-80"
+pagerNextTitle: "Psalm 82"
+pagerNextUrl: "/bible/writings/psalm-82"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 81

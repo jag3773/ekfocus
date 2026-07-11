@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezra 2"
+pagerPrevUrl: "/bible/writings/ezra-2"
+pagerNextTitle: "Ezra 4"
+pagerNextUrl: "/bible/writings/ezra-4"
+pagerUpTitle: "Ezra"
+pagerUpUrl: "/bible#ezra"
 ---
 
 # Ezra 3

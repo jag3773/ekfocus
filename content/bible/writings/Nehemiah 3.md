@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Nehemiah 2"
+pagerPrevUrl: "/bible/writings/nehemiah-2"
+pagerNextTitle: "Nehemiah 4"
+pagerNextUrl: "/bible/writings/nehemiah-4"
+pagerUpTitle: "Nehemiah"
+pagerUpUrl: "/bible#nehemiah"
 ---
 
 # Nehemiah 3

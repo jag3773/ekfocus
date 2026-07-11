@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 6"
+pagerPrevUrl: "/bible/prophets/ezekiel-6"
+pagerNextTitle: "Ezekiel 8"
+pagerNextUrl: "/bible/prophets/ezekiel-8"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 7

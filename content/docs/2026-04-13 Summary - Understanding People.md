@@ -33,9 +33,9 @@ Crabb's starting point for understanding people: we are fallen image-bearers ([[
 
 The image of God shows up in four capacities shared by God and people ([[crabbUnderstandingPeopleDeep1987#Page 163|pp. 160–163]]):
 
-1. **Deep Longings.** God laments wayward children with the intensity of his whole being ([[Hosea 11#11:8]]). The psalmist pants for God the way a deer pants for water ([[Psalm 42#42:1]]). Both God and humans long for satisfaction at the deepest level of personality.
-2. **Evaluative Thinking.** God observed humanity's wickedness and formed conclusions ([[Genesis 6#6:5]]). Humans observe, form impressions, organize them into beliefs, and direct their lives accordingly.
-3. **Active Choosing.** God purposes and acts according to the counsel of his will ([[Ephesians 1#1:9]]–11). Humans set directions and pursue them ([[Philippians 2#2:12]]–13).
+1. **Deep Longings.** God laments wayward children with the intensity of his whole being ([[Hosea 11#11:8|Hosea 11:8]]). The psalmist pants for God the way a deer pants for water ([[Psalm 42#42:1|Psalm 42:1]]). Both God and humans long for satisfaction at the deepest level of personality.
+2. **Evaluative Thinking.** God observed humanity's wickedness and formed conclusions ([[Genesis 6#6:5|Genesis 6:5]]). Humans observe, form impressions, organize them into beliefs, and direct their lives accordingly.
+3. **Active Choosing.** God purposes and acts according to the counsel of his will ([[Ephesians 1#1:9|Ephesians 1:9]]–11). Humans set directions and pursue them ([[Philippians 2#2:12|Philippians 2:12]]–13).
 4. **Emotional Experiencing.** Jesus wept at Lazarus' death and felt anger at the temple's commercialization. Nehemiah wept, Job churned inside, Paul felt perplexed. Both God and humans feel as they interact with the world.
 
 The critical difference: God is independent. Humans are dependent. We need outside help for both physical and personal existence. The essence of sin is a refusal to admit this dependence, "an arrogant and foolish claim to an independence that simply is not there" ([[crabbUnderstandingPeopleDeep1987#Page 164|p. 164]]).
@@ -58,9 +58,9 @@ Christian joy is a by-product of following Christ, not an end pursued on our own
 
 Crabb positions his framework against two alternatives ([[crabbUnderstandingPeopleDeep1987#Page 138|p. 138]]):
 
-The **Dynamic Model** sees emotional distress as caused by deep psychological processes that must be exposed. The **Moral Model** focuses on irresponsible choices and behavioral patterns, with little attention to motives beneath behavior ([[crabbUnderstandingPeopleDeep1987#Page 138|p. 138]]; cf. [[Jeremiah 17#17:9]], [[Proverbs 19#19:21]], [[Hebrews 4#4:12]]).
+The **Dynamic Model** sees emotional distress as caused by deep psychological processes that must be exposed. The **Moral Model** focuses on irresponsible choices and behavioral patterns, with little attention to motives beneath behavior ([[crabbUnderstandingPeopleDeep1987#Page 138|p. 138]]; cf. [[Jeremiah 17#17:9|Jeremiah 17:9]], [[Proverbs 19#19:21|Proverbs 19:21]], [[Hebrews 4#4:12|Hebrews 4:12]]).
 
-Crabb's **Relational Model** holds that the most significant fact about people is that they were made to love and be loved ([[Genesis 1#1:27]]–28, [[Genesis 2#2:18]], [[Ecclesiastes 4#4:9]]). Human problems are defensive attempts to handle the pain of fear and tension in significant relationships. People get caught in a vicious cycle: hurt, defensive retreat, more hurt, more retreat ([[crabbUnderstandingPeopleDeep1987#Page 139|p. 139]]).
+Crabb's **Relational Model** holds that the most significant fact about people is that they were made to love and be loved ([[Genesis 1#1:27|Genesis 1:27]]–28, [[Genesis 2#2:18|Genesis 2:18]], [[Ecclesiastes 4#4:9|Ecclesiastes 4:9]]). Human problems are defensive attempts to handle the pain of fear and tension in significant relationships. People get caught in a vicious cycle: hurt, defensive retreat, more hurt, more retreat ([[crabbUnderstandingPeopleDeep1987#Page 139|p. 139]]).
 
 ## Sin as Independence
 
@@ -86,7 +86,7 @@ Real change means change in the inner person, where a deceitful heart and a dark
 
 Crabb's equation: Biblical Categories × Life's Observations × Reflection = Biblical Understanding ([[crabbUnderstandingPeopleDeep1987#Page 121|p. 121]]). This process repeats. The message you teach penetrates others no more than it has penetrated you ([[crabbUnderstandingPeopleDeep1987#Page 122|p. 122]]).
 
-**God provides three instruments for self-exposure ([[crabbUnderstandingPeopleDeep1987#Page 255|p. 255]]): the Word of God ([[Hebrews 4#4:12]]–13), the Spirit of God ([[Psalm 139#139:23]]–24), and the People of God ([[Hebrews 3#3:13]]).**
+**God provides three instruments for self-exposure ([[crabbUnderstandingPeopleDeep1987#Page 255|p. 255]]): the Word of God ([[Hebrews 4#4:12|Hebrews 4:12]]–13), the Spirit of God ([[Psalm 139#139:23|Psalm 139:23]]–24), and the People of God ([[Hebrews 3#3:13|Hebrews 3:13]]).**
 
 The volitional capacity has two parts: the capacity to choose behavior (V-1) and the capacity to choose goals (V-2) ([[crabbUnderstandingPeopleDeep1987#Page 280|p. 280]]). Behavior feels like a choice to the degree that the goal behind it is recognized. Behavior in pursuit of an unrecognized goal feels compulsive ([[crabbUnderstandingPeopleDeep1987#Page 290|p. 290]]). Restoring the feeling of choice requires exposing fundamental goals, especially the self-protective purposes that corrupt our directions ([[crabbUnderstandingPeopleDeep1987#Page 296|p. 296]]).
 

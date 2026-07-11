@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 49"
+pagerPrevUrl: "/bible/prophets/jeremiah-49"
+pagerNextTitle: "Jeremiah 51"
+pagerNextUrl: "/bible/prophets/jeremiah-51"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 50

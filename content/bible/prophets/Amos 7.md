@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Amos 6"
+pagerPrevUrl: "/bible/prophets/amos-6"
+pagerNextTitle: "Amos 8"
+pagerNextUrl: "/bible/prophets/amos-8"
+pagerUpTitle: "Amos"
+pagerUpUrl: "/bible#amos"
 ---
 
 # Amos 7

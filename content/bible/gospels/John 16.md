@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "John 15"
+pagerPrevUrl: "/bible/gospels/john-15"
+pagerNextTitle: "John 17"
+pagerNextUrl: "/bible/gospels/john-17"
+pagerUpTitle: "John"
+pagerUpUrl: "/bible#john"
 ---
 
 # John 16

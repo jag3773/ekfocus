@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 9"
+pagerPrevUrl: "/bible/pentateuch/genesis-9"
+pagerNextTitle: "Genesis 11"
+pagerNextUrl: "/bible/pentateuch/genesis-11"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 10

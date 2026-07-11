@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Lamentations 4"
+pagerPrevUrl: "/bible/writings/lamentations-4"
+pagerNextTitle: "Ezekiel 1"
+pagerNextUrl: "/bible/prophets/ezekiel-1"
+pagerUpTitle: "Lamentations"
+pagerUpUrl: "/bible#lamentations"
 ---
 
 # Lamentations 5

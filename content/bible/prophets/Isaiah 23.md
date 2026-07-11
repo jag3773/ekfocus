@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 22"
+pagerPrevUrl: "/bible/prophets/isaiah-22"
+pagerNextTitle: "Isaiah 24"
+pagerNextUrl: "/bible/prophets/isaiah-24"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 23

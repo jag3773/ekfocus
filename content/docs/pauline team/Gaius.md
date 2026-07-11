@@ -9,22 +9,22 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #benefactor
 - Home:: [[Corinthian Church|Corinth]] (most likely; possibly also Derbe and/or Macedonia)
 - Other Locales:: [[Roman Church]] (by reputation)
-- References:: [[Acts 19#19:29]], [[Acts 20#20:4]], [[1 Corinthians 1#1:14]], [[Romans 16#16:23]]
+- References:: [[Acts 19#19:29|Acts 19:29]], [[Acts 20#20:4|Acts 20:4]], [[1 Corinthians 1#1:14|1 Corinthians 1:14]], [[Romans 16#16:23|Romans 16:23]]
 
 ## Notes
 - "Gaius" was one of the most common Roman names, so multiple NT figures may share it
-- Paul personally baptized Gaius of Corinth ([[1 Corinthians 1#1:14]])
-- Host to Paul and "the whole church" in Corinth ([[Romans 16#16:23]])
+- Paul personally baptized Gaius of Corinth ([[1 Corinthians 1#1:14|1 Corinthians 1:14]])
+- Host to Paul and "the whole church" in Corinth ([[Romans 16#16:23|Romans 16:23]])
 
 ## Summary
 
 The name Gaius (*Gaios*, the Greek form of the Latin praenomen) was common in the Roman world. Scholars debate whether the New Testament references point to one, two, or three different men. The most clearly defined is Gaius of Corinth.
 
-Paul identifies a Gaius in Corinth whom he personally baptized ([[1 Corinthians 1#1:14]]). Paul performed only a handful of baptisms in Corinth (alongside [[Stephanas]]'s household and Crispus). Paul mentions this to distance himself from baptism-based factionalism troubling the Corinthian church.
+Paul identifies a Gaius in Corinth whom he personally baptized ([[1 Corinthians 1#1:14|1 Corinthians 1:14]]). Paul performed only a handful of baptisms in Corinth (alongside [[Stephanas]]'s household and Crispus). Paul mentions this to distance himself from baptism-based factionalism troubling the Corinthian church.
 
-In [[Romans 16#16:23]], written from Corinth, Paul sends greetings from "Gaius, who is host to me and to the whole church." This Gaius is the same man Paul baptized: a wealthy Corinthian whose house was large enough to host the city's entire Christian community. His home served as the assembly point for the [[Corinthian Church]] and as Paul's personal lodging during his final stay in Corinth. This patronage required significant resources: a dining space large enough for perhaps 40–50 people, plus ongoing costs of hospitality.
+In [[Romans 16#16:23|Romans 16:23]], written from Corinth, Paul sends greetings from "Gaius, who is host to me and to the whole church." This Gaius is the same man Paul baptized: a wealthy Corinthian whose house was large enough to host the city's entire Christian community. His home served as the assembly point for the [[Corinthian Church]] and as Paul's personal lodging during his final stay in Corinth. This patronage required significant resources: a dining space large enough for perhaps 40–50 people, plus ongoing costs of hospitality.
 
-In [[Acts 19#19:29]], a "Gaius" from Macedonia is seized during the Ephesian riot alongside [[Aristarchus]]. In [[Acts 20#20:4]], a "Gaius of Derbe" appears in the collection delegation. Whether these are the same person or different men sharing a common Roman name is uncertain. The Corinthian Gaius is the most theologically significant. His baptism by Paul, his hosting of the church, and his patronage of Paul during the writing of Romans place him at a critical node in the Pauline network.
+In [[Acts 19#19:29|Acts 19:29]], a "Gaius" from Macedonia is seized during the Ephesian riot alongside [[Aristarchus]]. In [[Acts 20#20:4|Acts 20:4]], a "Gaius of Derbe" appears in the collection delegation. Whether these are the same person or different men sharing a common Roman name is uncertain. The Corinthian Gaius is the most theologically significant. His baptism by Paul, his hosting of the church, and his patronage of Paul during the writing of Romans place him at a critical node in the Pauline network.
 
 ## References
 

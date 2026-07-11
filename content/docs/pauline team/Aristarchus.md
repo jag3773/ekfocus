@@ -9,26 +9,26 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: [[Thessalonian Church]]
 - Other Locales:: [[Roman Church]], [[Ephesian Church]], [[Troas]]
-- References::  [[Acts 19#19:29]], [[Acts 20#20:4]], [[Acts 27#27:2]], [[Colossians 4#4:10]], [[Philemon 1#1:24]]
+- References::  [[Acts 19#19:29|Acts 19:29]], [[Acts 20#20:4|Acts 20:4]], [[Acts 27#27:2|Acts 27:2]], [[Colossians 4#4:10|Colossians 4:10]], [[Philemon 1#1:24|Philemon 1:24]]
 
 
 ## Notes
-- Fellow prisoner with [[Paul]] according to [[Colossians 4#4:10]].
+- Fellow prisoner with [[Paul]] according to [[Colossians 4#4:10|Colossians 4:10]].
 - Coworker on [[Paul]]'s second equipping servant journey
 
 ## Summary
 
 Aristarchus (name means "best ruler") was a Macedonian from [[Thessalonian Church|Thessalonica]] who traveled with [[Paul]] through some of the most dangerous episodes in Paul's ministry. He probably came to faith during Paul's initial work in Thessalonica.
 
-He first appears during the Ephesus riot. The silversmith Demetrius provoked a mob over the perceived threat to the cult of Artemis, and the crowd seized Aristarchus and [[Gaius]], "Paul's traveling companions from Macedonia," and dragged them into the theater ([[Acts 19#19:29]]). Aristarchus endured mob violence on Paul's behalf before his recorded ministry had even begun.
+He first appears during the Ephesus riot. The silversmith Demetrius provoked a mob over the perceived threat to the cult of Artemis, and the crowd seized Aristarchus and [[Gaius]], "Paul's traveling companions from Macedonia," and dragged them into the theater ([[Acts 19#19:29|Acts 19:29]]). Aristarchus endured mob violence on Paul's behalf before his recorded ministry had even begun.
 
-He and [[Secundus]] represented the [[Thessalonian Church]] in the delegation carrying the collection for the saints from Greece to Jerusalem ([[Acts 20#20:4]]).
+He and [[Secundus]] represented the [[Thessalonian Church]] in the delegation carrying the collection for the saints from Greece to Jerusalem ([[Acts 20#20:4|Acts 20:4]]).
 
-Aristarchus boarded the ship with Paul when he was transported as a prisoner to Rome ([[Acts 27#27:2]]). Whether he traveled as a voluntary companion or in some official capacity is debated, but Paul calls him "my fellow prisoner" (*synaichmalōtos*) in [[Colossians 4#4:10]]. The term could be literal (Aristarchus was also in custody) or he may have voluntarily shared the constraints of Paul's confinement. Paul uses this same rare term for only [[Epaphras]] ([[Philemon 1#1:23]]) and [[Andronicus]] and [[Junia]] ([[Romans 16#16:7]]).
+Aristarchus boarded the ship with Paul when he was transported as a prisoner to Rome ([[Acts 27#27:2|Acts 27:2]]). Whether he traveled as a voluntary companion or in some official capacity is debated, but Paul calls him "my fellow prisoner" (*synaichmalōtos*) in [[Colossians 4#4:10|Colossians 4:10]]. The term could be literal (Aristarchus was also in custody) or he may have voluntarily shared the constraints of Paul's confinement. Paul uses this same rare term for only [[Epaphras]] ([[Philemon 1#1:23|Philemon 1:23]]) and [[Andronicus]] and [[Junia]] ([[Romans 16#16:7|Romans 16:7]]).
 
-In [[Philemon 1#1:24]], Paul lists Aristarchus among his "fellow workers" with [[John Mark]], [[Demas]], and [[Luke]], confirming his presence during Paul's Roman imprisonment.
+In [[Philemon 1#1:24|Philemon 1:24]], Paul lists Aristarchus among his "fellow workers" with [[John Mark]], [[Demas]], and [[Luke]], confirming his presence during Paul's Roman imprisonment.
 
-From the Ephesian riot to the Roman prison, Aristarchus stayed with Paul through circumstances that drove others away. [[Demas]] deserted ([[2 Timothy 4#4:10]]). Aristarchus did not.
+From the Ephesian riot to the Roman prison, Aristarchus stayed with Paul through circumstances that drove others away. [[Demas]] deserted ([[2 Timothy 4#4:10|2 Timothy 4:10]]). Aristarchus did not.
 
 ## References
 

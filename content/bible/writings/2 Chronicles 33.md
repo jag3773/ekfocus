@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Chronicles 32"
+pagerPrevUrl: "/bible/writings/2-chronicles-32"
+pagerNextTitle: "2 Chronicles 34"
+pagerNextUrl: "/bible/writings/2-chronicles-34"
+pagerUpTitle: "2 Chronicles"
+pagerUpUrl: "/bible#2-chronicles"
 ---
 
 # 2 Chronicles 33

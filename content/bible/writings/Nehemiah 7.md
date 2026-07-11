@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Nehemiah 6"
+pagerPrevUrl: "/bible/writings/nehemiah-6"
+pagerNextTitle: "Nehemiah 8"
+pagerNextUrl: "/bible/writings/nehemiah-8"
+pagerUpTitle: "Nehemiah"
+pagerUpUrl: "/bible#nehemiah"
 ---
 
 # Nehemiah 7

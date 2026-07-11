@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezra 8"
+pagerPrevUrl: "/bible/writings/ezra-8"
+pagerNextTitle: "Ezra 10"
+pagerNextUrl: "/bible/writings/ezra-10"
+pagerUpTitle: "Ezra"
+pagerUpUrl: "/bible#ezra"
 ---
 
 # Ezra 9

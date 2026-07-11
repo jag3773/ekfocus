@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Corinthians 6"
+pagerPrevUrl: "/bible/epistles/2-corinthians-6"
+pagerNextTitle: "2 Corinthians 8"
+pagerNextUrl: "/bible/epistles/2-corinthians-8"
+pagerUpTitle: "2 Corinthians"
+pagerUpUrl: "/bible#2-corinthians"
 ---
 
 # 2 Corinthians 7

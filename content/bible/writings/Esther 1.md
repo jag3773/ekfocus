@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Nehemiah 13"
+pagerPrevUrl: "/bible/writings/nehemiah-13"
+pagerNextTitle: "Esther 2"
+pagerNextUrl: "/bible/writings/esther-2"
+pagerUpTitle: "Esther"
+pagerUpUrl: "/bible#esther"
 ---
 
 # Esther 1

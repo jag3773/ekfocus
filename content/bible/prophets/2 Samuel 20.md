@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Samuel 19"
+pagerPrevUrl: "/bible/prophets/2-samuel-19"
+pagerNextTitle: "2 Samuel 21"
+pagerNextUrl: "/bible/prophets/2-samuel-21"
+pagerUpTitle: "2 Samuel"
+pagerUpUrl: "/bible#2-samuel"
 ---
 
 # 2 Samuel 20

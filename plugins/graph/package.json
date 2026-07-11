@@ -135,6 +135,9 @@
       },
       "globalGraph": {
         "type": "object"
+      },
+      "hidePaths": {
+        "type": "array"
       }
     }
   },

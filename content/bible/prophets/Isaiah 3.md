@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 2"
+pagerPrevUrl: "/bible/prophets/isaiah-2"
+pagerNextTitle: "Isaiah 4"
+pagerNextUrl: "/bible/prophets/isaiah-4"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 3

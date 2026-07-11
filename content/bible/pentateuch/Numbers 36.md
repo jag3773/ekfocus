@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Numbers 35"
+pagerPrevUrl: "/bible/pentateuch/numbers-35"
+pagerNextTitle: "Deuteronomy 1"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-1"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 36

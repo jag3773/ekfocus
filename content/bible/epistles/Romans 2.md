@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Romans 1"
+pagerPrevUrl: "/bible/epistles/romans-1"
+pagerNextTitle: "Romans 3"
+pagerNextUrl: "/bible/epistles/romans-3"
+pagerUpTitle: "Romans"
+pagerUpUrl: "/bible#romans"
 ---
 
 # Romans 2

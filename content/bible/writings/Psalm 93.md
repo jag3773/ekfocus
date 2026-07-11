@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 92"
+pagerPrevUrl: "/bible/writings/psalm-92"
+pagerNextTitle: "Psalm 94"
+pagerNextUrl: "/bible/writings/psalm-94"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 93

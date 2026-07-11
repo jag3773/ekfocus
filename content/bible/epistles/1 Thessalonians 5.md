@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Thessalonians 4"
+pagerPrevUrl: "/bible/epistles/1-thessalonians-4"
+pagerNextTitle: "2 Thessalonians 1"
+pagerNextUrl: "/bible/epistles/2-thessalonians-1"
+pagerUpTitle: "1 Thessalonians"
+pagerUpUrl: "/bible#1-thessalonians"
 ---
 
 # 1 Thessalonians 5

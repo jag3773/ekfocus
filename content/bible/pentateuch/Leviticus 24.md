@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 23"
+pagerPrevUrl: "/bible/pentateuch/leviticus-23"
+pagerNextTitle: "Leviticus 25"
+pagerNextUrl: "/bible/pentateuch/leviticus-25"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 24

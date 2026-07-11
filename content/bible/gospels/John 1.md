@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 24"
+pagerPrevUrl: "/bible/gospels/luke-24"
+pagerNextTitle: "John 2"
+pagerNextUrl: "/bible/gospels/john-2"
+pagerUpTitle: "John"
+pagerUpUrl: "/bible#john"
 ---
 
 # John 1

@@ -9,7 +9,7 @@ modified: 2026-05-09T15:48:41.000Z
 - #coworker
 - Home:: Unknown
 - Other Locales:: Galatia (or Gaul)
-- References:: [[2 Timothy 4#4:10]]
+- References:: [[2 Timothy 4#4:10|2 Timothy 4:10]]
 
 ## Notes
 - Departed from [[Paul]] to Galatia during Paul's final imprisonment
@@ -17,7 +17,7 @@ modified: 2026-05-09T15:48:41.000Z
 
 ## Summary
 
-Crescens is mentioned once in [[2 Timothy 4#4:10]], in the same verse as [[Demas]]'s desertion: "For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and [[Titus]] to Dalmatia."
+Crescens is mentioned once in [[2 Timothy 4#4:10|2 Timothy 4:10]], in the same verse as [[Demas]]'s desertion: "For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and [[Titus]] to Dalmatia."
 
 The verse's structure is significant. Paul describes Demas's departure with condemnation ("in love with this present world"), but Crescens's departure carries no censure. Crescens simply "has gone to Galatia" using the same neutral language used for Titus going to Dalmatia, which was a mission assignment. Crescens left Rome on Paul's behalf, sent to minister in Galatia (central Asia Minor) while Paul remained imprisoned.
 

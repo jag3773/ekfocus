@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Romans 10"
+pagerPrevUrl: "/bible/epistles/romans-10"
+pagerNextTitle: "Romans 12"
+pagerNextUrl: "/bible/epistles/romans-12"
+pagerUpTitle: "Romans"
+pagerUpUrl: "/bible#romans"
 ---
 
 # Romans 11

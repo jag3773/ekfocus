@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Samuel 4"
+pagerPrevUrl: "/bible/prophets/1-samuel-4"
+pagerNextTitle: "1 Samuel 6"
+pagerNextUrl: "/bible/prophets/1-samuel-6"
+pagerUpTitle: "1 Samuel"
+pagerUpUrl: "/bible#1-samuel"
 ---
 
 # 1 Samuel 5

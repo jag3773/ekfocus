@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 13"
+pagerPrevUrl: "/bible/writings/psalm-13"
+pagerNextTitle: "Psalm 15"
+pagerNextUrl: "/bible/writings/psalm-15"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 14

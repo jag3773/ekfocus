@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezra 4"
+pagerPrevUrl: "/bible/writings/ezra-4"
+pagerNextTitle: "Ezra 6"
+pagerNextUrl: "/bible/writings/ezra-6"
+pagerUpTitle: "Ezra"
+pagerUpUrl: "/bible#ezra"
 ---
 
 # Ezra 5

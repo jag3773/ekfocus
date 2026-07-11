@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Matthew 3"
+pagerPrevUrl: "/bible/gospels/matthew-3"
+pagerNextTitle: "Matthew 5"
+pagerNextUrl: "/bible/gospels/matthew-5"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 4

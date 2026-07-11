@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 48"
+pagerPrevUrl: "/bible/prophets/isaiah-48"
+pagerNextTitle: "Isaiah 50"
+pagerNextUrl: "/bible/prophets/isaiah-50"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 49

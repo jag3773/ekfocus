@@ -9,7 +9,7 @@ modified: 2026-05-07T12:23:54.000Z
 - #coworker #female
 - Home:: [[Philippian Church|Philippi]]
 - Other Locales:: None recorded
-- References:: [[Philippians 4#4:2-3]]
+- References:: [[Philippians 4#4:2-3|Philippians 4:2-3]]
 
 ## Notes
 - Paired with [[Euodia]] in Paul's appeal for reconciliation
@@ -17,7 +17,7 @@ modified: 2026-05-07T12:23:54.000Z
 
 ## Summary
 
-Syntyche is named alongside [[Euodia]] in [[Philippians 4#4:2-3]], where [[Paul]] urges both women "to agree in the Lord" and asks a mediator to help them. Paul commends both as having "labored side by side (*synēthlēsan*) with me in the gospel" using athletic language implying they contended together with Paul as active partners in ministry, not passive observers.
+Syntyche is named alongside [[Euodia]] in [[Philippians 4#4:2-3|Philippians 4:2-3]], where [[Paul]] urges both women "to agree in the Lord" and asks a mediator to help them. Paul commends both as having "labored side by side (*synēthlēsan*) with me in the gospel" using athletic language implying they contended together with Paul as active partners in ministry, not passive observers.
 
 Her name means "good fortune" or "pleasant meeting" (*syn* + *tychē*). Syntyche was a leader in the Philippian church significant enough that her personal conflict threatened the unity of the congregation and required Paul's direct intervention in a letter read to the entire community.
 

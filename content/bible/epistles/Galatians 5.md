@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Galatians 4"
+pagerPrevUrl: "/bible/epistles/galatians-4"
+pagerNextTitle: "Galatians 6"
+pagerNextUrl: "/bible/epistles/galatians-6"
+pagerUpTitle: "Galatians"
+pagerUpUrl: "/bible#galatians"
 ---
 
 # Galatians 5

@@ -103,6 +103,12 @@
       "commit": "local",
       "installedAt": "2026-07-11T18:25:24.968Z"
     },
+    "ek-pager": {
+      "source": "./plugins/ek-pager",
+      "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/ek-pager",
+      "commit": "local",
+      "installedAt": "2026-07-11T22:10:54.543Z"
+    },
     "ek-recent": {
       "source": "./plugins/ek-recent",
       "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/ek-recent",
@@ -161,7 +167,7 @@
       "source": "./plugins/graph",
       "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/graph",
       "commit": "local",
-      "installedAt": "2026-07-11T20:40:01.436Z"
+      "installedAt": "2026-07-11T22:25:31.338Z"
     },
     "hard-line-breaks": {
       "source": "github:quartz-community/hard-line-breaks",
@@ -247,10 +253,10 @@
       "installedAt": "2026-07-11T16:28:29.906Z"
     },
     "search": {
-      "source": "github:quartz-community/search",
-      "resolved": "https://github.com/quartz-community/search.git",
-      "commit": "0f4c1a233cd03a0f562e13636b89b7708f8e2698",
-      "installedAt": "2026-07-11T16:28:31.075Z"
+      "source": "./plugins/search",
+      "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/search",
+      "commit": "local",
+      "installedAt": "2026-07-11T22:10:54.542Z"
     },
     "spacer": {
       "source": "github:quartz-community/spacer",

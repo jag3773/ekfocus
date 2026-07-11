@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 1"
+pagerPrevUrl: "/bible/pentateuch/leviticus-1"
+pagerNextTitle: "Leviticus 3"
+pagerNextUrl: "/bible/pentateuch/leviticus-3"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 2

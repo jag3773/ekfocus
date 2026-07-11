@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Malachi 1"
+pagerPrevUrl: "/bible/prophets/malachi-1"
+pagerNextTitle: "Malachi 3"
+pagerNextUrl: "/bible/prophets/malachi-3"
+pagerUpTitle: "Malachi"
+pagerUpUrl: "/bible#malachi"
 ---
 
 # Malachi 2

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 29"
+pagerPrevUrl: "/bible/prophets/ezekiel-29"
+pagerNextTitle: "Ezekiel 31"
+pagerNextUrl: "/bible/prophets/ezekiel-31"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 30

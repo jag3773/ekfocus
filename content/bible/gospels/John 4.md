@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "John 3"
+pagerPrevUrl: "/bible/gospels/john-3"
+pagerNextTitle: "John 5"
+pagerNextUrl: "/bible/gospels/john-5"
+pagerUpTitle: "John"
+pagerUpUrl: "/bible#john"
 ---
 
 # John 4

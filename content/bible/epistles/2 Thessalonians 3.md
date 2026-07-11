@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Thessalonians 2"
+pagerPrevUrl: "/bible/epistles/2-thessalonians-2"
+pagerNextTitle: "1 Timothy 1"
+pagerNextUrl: "/bible/epistles/1-timothy-1"
+pagerUpTitle: "2 Thessalonians"
+pagerUpUrl: "/bible#2-thessalonians"
 ---
 
 # 2 Thessalonians 3

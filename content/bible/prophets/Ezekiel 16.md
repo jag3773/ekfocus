@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 15"
+pagerPrevUrl: "/bible/prophets/ezekiel-15"
+pagerNextTitle: "Ezekiel 17"
+pagerNextUrl: "/bible/prophets/ezekiel-17"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 16

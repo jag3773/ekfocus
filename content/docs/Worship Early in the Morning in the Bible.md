@@ -20,7 +20,7 @@ This is a list of passages that reference worship that happened in the morning.
 - 1 Sam. 1:19
 - 2 Sam. 24:11
 - 1 Chron. 23:30
-- [[Job 1#1:5]]
+- [[Job 1#1:5|Job 1:5]]
 - Ps. 5:3
 - Ps. 59:16
 - Ps. 73:14
@@ -31,9 +31,9 @@ This is a list of passages that reference worship that happened in the morning.
 - Ps. 143:8
 - Is. 50:4
 - Ezek. 12:8
-- [[Mark 1#1:35]]
-- [[Luke 21#21:38]]
-- [[John 8#8:2]]
-- [[Acts 28#28:23]]
+- [[Mark 1#1:35|Mark 1:35]]
+- [[Luke 21#21:38|Luke 21:38]]
+- [[John 8#8:2|John 8:2]]
+- [[Acts 28#28:23|Acts 28:23]]
 
 #Bible #Worship-and-love 

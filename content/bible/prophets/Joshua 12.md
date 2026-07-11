@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 11"
+pagerPrevUrl: "/bible/prophets/joshua-11"
+pagerNextTitle: "Joshua 13"
+pagerNextUrl: "/bible/prophets/joshua-13"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 12

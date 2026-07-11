@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 140"
+pagerPrevUrl: "/bible/writings/psalm-140"
+pagerNextTitle: "Psalm 142"
+pagerNextUrl: "/bible/writings/psalm-142"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 141

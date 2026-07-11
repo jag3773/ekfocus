@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Samuel 25"
+pagerPrevUrl: "/bible/prophets/1-samuel-25"
+pagerNextTitle: "1 Samuel 27"
+pagerNextUrl: "/bible/prophets/1-samuel-27"
+pagerUpTitle: "1 Samuel"
+pagerUpUrl: "/bible#1-samuel"
 ---
 
 # 1 Samuel 26

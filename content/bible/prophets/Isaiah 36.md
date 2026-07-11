@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 35"
+pagerPrevUrl: "/bible/prophets/isaiah-35"
+pagerNextTitle: "Isaiah 37"
+pagerNextUrl: "/bible/prophets/isaiah-37"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 36

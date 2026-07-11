@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 2"
+pagerPrevUrl: "/bible/writings/psalm-2"
+pagerNextTitle: "Psalm 4"
+pagerNextUrl: "/bible/writings/psalm-4"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 3

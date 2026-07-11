@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Titus 1"
+pagerPrevUrl: "/bible/epistles/titus-1"
+pagerNextTitle: "Titus 3"
+pagerNextUrl: "/bible/epistles/titus-3"
+pagerUpTitle: "Titus"
+pagerUpUrl: "/bible#titus"
 ---
 
 # [[Titus]] 2

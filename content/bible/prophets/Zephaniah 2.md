@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Zephaniah 1"
+pagerPrevUrl: "/bible/prophets/zephaniah-1"
+pagerNextTitle: "Zephaniah 3"
+pagerNextUrl: "/bible/prophets/zephaniah-3"
+pagerUpTitle: "Zephaniah"
+pagerUpUrl: "/bible#zephaniah"
 ---
 
 # Zephaniah 2

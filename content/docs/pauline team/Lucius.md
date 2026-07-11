@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: Cyrene (North Africa)
 - Other Locales:: [[Antioch Church|Antioch]], [[Corinthian Church]] (possibly)
-- References:: [[Acts 13#13:1]], [[Romans 16#16:21]]
+- References:: [[Acts 13#13:1|Acts 13:1]], [[Romans 16#16:21|Romans 16:21]]
 
 ## Notes
 - Listed among the prophets and teachers at [[Antioch Church|Antioch]]
@@ -19,9 +19,9 @@ modified: 2026-05-09T01:54:33.000Z
 
 Lucius appears in two New Testament contexts, though whether they refer to the same individual is debated.
 
-In [[Acts 13#13:1]], a "Lucius of Cyrene" is listed among the prophets and teachers in the [[Antioch Church]]. The leadership team included [[Barnabas]], [[Simeon who was called Niger]], [[Manaen]], and [[Paul]] (still called Saul). Lucius was one of the founding leaders of the [[Antioch Church]], the community that became the base of operations for the Gentile mission. Cyrene was a major city in North Africa (modern Libya) with a significant Jewish population. Cyrenian Jews are mentioned in Acts as among the early evangelists who first preached to Gentiles in [[Antioch Church|Antioch]] ([[Acts 11#11:20]]), so Lucius may have been part of that pioneering effort.
+In [[Acts 13#13:1|Acts 13:1]], a "Lucius of Cyrene" is listed among the prophets and teachers in the [[Antioch Church]]. The leadership team included [[Barnabas]], [[Simeon who was called Niger]], [[Manaen]], and [[Paul]] (still called Saul). Lucius was one of the founding leaders of the [[Antioch Church]], the community that became the base of operations for the Gentile mission. Cyrene was a major city in North Africa (modern Libya) with a significant Jewish population. Cyrenian Jews are mentioned in Acts as among the early evangelists who first preached to Gentiles in [[Antioch Church|Antioch]] ([[Acts 11#11:20|Acts 11:20]]), so Lucius may have been part of that pioneering effort.
 
-In [[Romans 16#16:21]], Paul sends greetings from "Lucius and [[Jason]] and [[Sosipater]], my kinsmen." The term "kinsmen" (*syngeneis*) identifies them as fellow Jews. If this is the same Lucius of Cyrene, he remained an active partner in Paul's mission for over a decade, present with Paul in Corinth during the writing of Romans.
+In [[Romans 16#16:21|Romans 16:21]], Paul sends greetings from "Lucius and [[Jason]] and [[Sosipater]], my kinsmen." The term "kinsmen" (*syngeneis*) identifies them as fellow Jews. If this is the same Lucius of Cyrene, he remained an active partner in Paul's mission for over a decade, present with Paul in Corinth during the writing of Romans.
 
 Ancient traditions identified Lucius with Luke the Evangelist, but the identification is incorrect. The names are different in Greek (*Loukios* vs. *Loukas*), and Luke appears to have been a Gentile while Lucius is called a kinsman (fellow Jew). Lucius of Cyrene is his own figure: a North African Jewish-Christian leader who was present at key moments in the expansion of the early church.
 

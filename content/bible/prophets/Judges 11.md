@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Judges 10"
+pagerPrevUrl: "/bible/prophets/judges-10"
+pagerNextTitle: "Judges 12"
+pagerNextUrl: "/bible/prophets/judges-12"
+pagerUpTitle: "Judges"
+pagerUpUrl: "/bible#judges"
 ---
 
 # Judges 11

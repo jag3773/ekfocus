@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Proverbs 30"
+pagerPrevUrl: "/bible/writings/proverbs-30"
+pagerNextTitle: "Ecclesiastes 1"
+pagerNextUrl: "/bible/writings/ecclesiastes-1"
+pagerUpTitle: "Proverbs"
+pagerUpUrl: "/bible#proverbs"
 ---
 
 # Proverbs 31

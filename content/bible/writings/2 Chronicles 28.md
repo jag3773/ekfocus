@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Chronicles 27"
+pagerPrevUrl: "/bible/writings/2-chronicles-27"
+pagerNextTitle: "2 Chronicles 29"
+pagerNextUrl: "/bible/writings/2-chronicles-29"
+pagerUpTitle: "2 Chronicles"
+pagerUpUrl: "/bible#2-chronicles"
 ---
 
 # 2 Chronicles 28

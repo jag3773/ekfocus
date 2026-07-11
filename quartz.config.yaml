@@ -161,13 +161,16 @@ plugins:
   - source: ./plugins/graph
     enabled: true
     options:
+      hidePaths:
+        - bible/
+        - index
       globalGraph:
         excludePaths:
           - bible/
     layout:
       position: right
       priority: 10
-  - source: github:quartz-community/search
+  - source: ./plugins/search
     enabled: true
     layout:
       position: left
@@ -245,6 +248,11 @@ plugins:
     layout:
       position: afterBody
       priority: 40
+  - source: ./plugins/ek-pager
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 5
   - source: ./plugins/footer
     enabled: true
     options:

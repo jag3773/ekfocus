@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Kings 7"
+pagerPrevUrl: "/bible/prophets/2-kings-7"
+pagerNextTitle: "2 Kings 9"
+pagerNextUrl: "/bible/prophets/2-kings-9"
+pagerUpTitle: "2 Kings"
+pagerUpUrl: "/bible#2-kings"
 ---
 
 # 2 Kings 8

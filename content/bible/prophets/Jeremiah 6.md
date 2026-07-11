@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 5"
+pagerPrevUrl: "/bible/prophets/jeremiah-5"
+pagerNextTitle: "Jeremiah 7"
+pagerNextUrl: "/bible/prophets/jeremiah-7"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 6

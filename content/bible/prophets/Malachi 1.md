@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Zechariah 14"
+pagerPrevUrl: "/bible/prophets/zechariah-14"
+pagerNextTitle: "Malachi 2"
+pagerNextUrl: "/bible/prophets/malachi-2"
+pagerUpTitle: "Malachi"
+pagerUpUrl: "/bible#malachi"
 ---
 
 # Malachi 1

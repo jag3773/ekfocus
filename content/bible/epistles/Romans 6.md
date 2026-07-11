@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Romans 5"
+pagerPrevUrl: "/bible/epistles/romans-5"
+pagerNextTitle: "Romans 7"
+pagerNextUrl: "/bible/epistles/romans-7"
+pagerUpTitle: "Romans"
+pagerUpUrl: "/bible#romans"
 ---
 
 # Romans 6

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Chronicles 21"
+pagerPrevUrl: "/bible/writings/2-chronicles-21"
+pagerNextTitle: "2 Chronicles 23"
+pagerNextUrl: "/bible/writings/2-chronicles-23"
+pagerUpTitle: "2 Chronicles"
+pagerUpUrl: "/bible#2-chronicles"
 ---
 
 # 2 Chronicles 22

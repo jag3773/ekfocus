@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #slave-freedman
 - Home:: [[Corinthian Church|Corinth]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:23]]
+- References:: [[Romans 16#16:23|Romans 16:23]]
 
 ## Notes
 - Called simply "the brother" by [[Paul]]
@@ -17,7 +17,7 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Quartus receives one of the briefest mentions in the Pauline letters. In [[Romans 16#16:23]], Paul sends greetings from "Erastus, the city treasurer, and our brother Quartus" (*Kouartos ho adelphos*). The designation "the brother" is the simplest possible Christian identification: a fellow believer.
+Quartus receives one of the briefest mentions in the Pauline letters. In [[Romans 16#16:23|Romans 16:23]], Paul sends greetings from "Erastus, the city treasurer, and our brother Quartus" (*Kouartos ho adelphos*). The designation "the brother" is the simplest possible Christian identification: a fellow believer.
 
 His Latin name, *Quartus* ("Fourth"), belongs to the numerical naming convention of [[Tertius]] ("Third") and [[Secundus]] ("Second"), names associated with slaves and freedmen in the Roman world, given based on birth order within a servile household. Some scholars have suggested that Quartus and Tertius (Paul's scribe for Romans) may have been brothers, both former slaves, now part of the Corinthian Christian community. This remains uncertain.
 

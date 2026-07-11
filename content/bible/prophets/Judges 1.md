@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 24"
+pagerPrevUrl: "/bible/prophets/joshua-24"
+pagerNextTitle: "Judges 2"
+pagerNextUrl: "/bible/prophets/judges-2"
+pagerUpTitle: "Judges"
+pagerUpUrl: "/bible#judges"
 ---
 
 # Judges 1

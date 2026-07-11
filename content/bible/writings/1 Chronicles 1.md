@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Kings 25"
+pagerPrevUrl: "/bible/prophets/2-kings-25"
+pagerNextTitle: "1 Chronicles 2"
+pagerNextUrl: "/bible/writings/1-chronicles-2"
+pagerUpTitle: "1 Chronicles"
+pagerUpUrl: "/bible#1-chronicles"
 ---
 
 # 1 Chronicles 1

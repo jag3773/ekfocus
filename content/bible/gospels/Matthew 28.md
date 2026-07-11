@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Matthew 27"
+pagerPrevUrl: "/bible/gospels/matthew-27"
+pagerNextTitle: "Mark 1"
+pagerNextUrl: "/bible/gospels/mark-1"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 28

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 47"
+pagerPrevUrl: "/bible/prophets/ezekiel-47"
+pagerNextTitle: "Daniel 1"
+pagerNextUrl: "/bible/writings/daniel-1"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 48

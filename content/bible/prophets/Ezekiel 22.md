@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 21"
+pagerPrevUrl: "/bible/prophets/ezekiel-21"
+pagerNextTitle: "Ezekiel 23"
+pagerNextUrl: "/bible/prophets/ezekiel-23"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 22

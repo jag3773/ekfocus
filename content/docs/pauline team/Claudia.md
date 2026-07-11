@@ -9,14 +9,14 @@ modified: 2026-05-09T15:48:41.000Z
 - #coworker #female
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[2 Timothy 4#4:21]]
+- References:: [[2 Timothy 4#4:21|2 Timothy 4:21]]
 
 ## Notes
 - Sends greetings to [[Timothy]] alongside [[Eubulus]], [[Pudens]], and [[Linus]]
 
 ## Summary
 
-Claudia is mentioned once in [[2 Timothy 4#4:21]], as one of four named Roman believers who send greetings to [[Timothy]]: "[[Eubulus]] greets you, as do [[Pudens]] and [[Linus]] and Claudia and all the brothers."
+Claudia is mentioned once in [[2 Timothy 4#4:21|2 Timothy 4:21]], as one of four named Roman believers who send greetings to [[Timothy]]: "[[Eubulus]] greets you, as do [[Pudens]] and [[Linus]] and Claudia and all the brothers."
 
 Her name is distinctly Roman and aristocratic: the feminine form of the *nomen gentilicium* Claudius, one of Rome's most prominent patrician families. This does not necessarily mean she was from the senatorial Claudii, but the name suggests either direct patrician descent, freedwoman status from a Claudian household, or Roman citizenship with social aspirations associated with the name. "Claudia" carries higher social connotations than the slave-freedman names (like [[Tertius]], [[Quartus]], [[Secundus]]) found elsewhere in the Pauline network.
 

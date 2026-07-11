@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 20"
+pagerPrevUrl: "/bible/writings/psalm-20"
+pagerNextTitle: "Psalm 22"
+pagerNextUrl: "/bible/writings/psalm-22"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 21

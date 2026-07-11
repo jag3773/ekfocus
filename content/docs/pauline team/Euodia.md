@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #female
 - Home:: [[Philippian Church|Philippi]]
 - Other Locales:: None recorded
-- References:: [[Philippians 4#4:2-3]]
+- References:: [[Philippians 4#4:2-3|Philippians 4:2-3]]
 
 ## Notes
 - Paired with [[Syntyche]] in Paul's appeal for reconciliation
@@ -17,7 +17,7 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Euodia is mentioned in [[Philippians 4#4:2-3]], where [[Paul]] writes: "I urge Euodia and I urge Syntyche to agree in the Lord." The repetition of "I urge" (*parakalō*) addressing each woman individually signals that Paul takes their conflict seriously and treats both as responsible parties. He then asks his "true companion" (*gnēsie syzuge*) to "help these women, for they have labored side by side with me in the gospel, together with [[Clement]] and the rest of my fellow workers, whose names are in the book of life" ([[Philippians 4#4:3]]).
+Euodia is mentioned in [[Philippians 4#4:2-3|Philippians 4:2-3]], where [[Paul]] writes: "I urge Euodia and I urge Syntyche to agree in the Lord." The repetition of "I urge" (*parakalō*) addressing each woman individually signals that Paul takes their conflict seriously and treats both as responsible parties. He then asks his "true companion" (*gnēsie syzuge*) to "help these women, for they have labored side by side with me in the gospel, together with [[Clement]] and the rest of my fellow workers, whose names are in the book of life" ([[Philippians 4#4:3|Philippians 4:3]]).
 
 The verb "labored side by side" (*synēthlēsan*) is drawn from athletic competition. They contended together with Paul, not merely assisted. This places Euodia in the same category as Paul's active ministry partners, not peripheral supporters. The nature of their labor is unspecified but likely involved evangelism and church leadership in Philippi, the first European church.
 

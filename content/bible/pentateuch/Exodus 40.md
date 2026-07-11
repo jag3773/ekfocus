@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 39"
+pagerPrevUrl: "/bible/pentateuch/exodus-39"
+pagerNextTitle: "Leviticus 1"
+pagerNextUrl: "/bible/pentateuch/leviticus-1"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 40

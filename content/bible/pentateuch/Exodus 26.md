@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 25"
+pagerPrevUrl: "/bible/pentateuch/exodus-25"
+pagerNextTitle: "Exodus 27"
+pagerNextUrl: "/bible/pentateuch/exodus-27"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 26

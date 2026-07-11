@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Colossians 1"
+pagerPrevUrl: "/bible/epistles/colossians-1"
+pagerNextTitle: "Colossians 3"
+pagerNextUrl: "/bible/epistles/colossians-3"
+pagerUpTitle: "Colossians"
+pagerUpUrl: "/bible#colossians"
 ---
 
 # Colossians 2

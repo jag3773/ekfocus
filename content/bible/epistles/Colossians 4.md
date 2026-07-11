@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Colossians 3"
+pagerPrevUrl: "/bible/epistles/colossians-3"
+pagerNextTitle: "1 Thessalonians 1"
+pagerNextUrl: "/bible/epistles/1-thessalonians-1"
+pagerUpTitle: "Colossians"
+pagerUpUrl: "/bible#colossians"
 ---
 
 # Colossians 4

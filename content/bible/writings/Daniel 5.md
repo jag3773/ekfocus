@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Daniel 4"
+pagerPrevUrl: "/bible/writings/daniel-4"
+pagerNextTitle: "Daniel 6"
+pagerNextUrl: "/bible/writings/daniel-6"
+pagerUpTitle: "Daniel"
+pagerUpUrl: "/bible#daniel"
 ---
 
 # Daniel 5

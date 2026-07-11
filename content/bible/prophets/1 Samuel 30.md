@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Samuel 29"
+pagerPrevUrl: "/bible/prophets/1-samuel-29"
+pagerNextTitle: "1 Samuel 31"
+pagerNextUrl: "/bible/prophets/1-samuel-31"
+pagerUpTitle: "1 Samuel"
+pagerUpUrl: "/bible#1-samuel"
 ---
 
 # 1 Samuel 30

@@ -9,16 +9,16 @@ modified: 2026-05-07T12:23:54.000Z
 - #coworker
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:9]]
+- References:: [[Romans 16#16:9|Romans 16:9]]
 
 ## Notes
 - Called "our fellow worker in Christ" by [[Paul]]
 
 ## Summary
 
-Urbanus is mentioned once in [[Romans 16#16:9]], where [[Paul]] writes: "Greet Urbanus, our fellow worker (*synergon hēmōn*) in Christ, and my beloved Stachys." The designation "our fellow worker" places Urbanus in Paul's own category of active ministry partners, the same term used for [[Timothy]], [[Titus]], [[Priscilla]], [[Aquila]], and other key figures.
+Urbanus is mentioned once in [[Romans 16#16:9|Romans 16:9]], where [[Paul]] writes: "Greet Urbanus, our fellow worker (*synergon hēmōn*) in Christ, and my beloved Stachys." The designation "our fellow worker" places Urbanus in Paul's own category of active ministry partners, the same term used for [[Timothy]], [[Titus]], [[Priscilla]], [[Aquila]], and other key figures.
 
-The name Urbanus ("city man") was a common Latin name in the Roman world, among slaves and freedmen associated with the imperial household. Several names in Romans 16, Urbanus, Ampliatus, Stachys, and [[Apelles]], appear in inscriptions from the *familia Caesaris* (the emperor's household servants and freedmen). This suggests a cluster of early Roman Christians came from this social group. Paul's greeting to "those who belong to the household of Aristobulus" ([[Romans 16#16:10]]) and "those in the household of Narcissus" ([[Romans 16#16:11]]) supports the presence of imperial household members in the Roman church.
+The name Urbanus ("city man") was a common Latin name in the Roman world, among slaves and freedmen associated with the imperial household. Several names in Romans 16, Urbanus, Ampliatus, Stachys, and [[Apelles]], appear in inscriptions from the *familia Caesaris* (the emperor's household servants and freedmen). This suggests a cluster of early Roman Christians came from this social group. Paul's greeting to "those who belong to the household of Aristobulus" ([[Romans 16#16:10|Romans 16:10]]) and "those in the household of Narcissus" ([[Romans 16#16:11|Romans 16:11]]) supports the presence of imperial household members in the Roman church.
 
 That Paul calls Urbanus "our" (not "my") fellow worker suggests Urbanus was recognized not just by Paul but by the broader Pauline mission as a coworker. This indicates prior contact or collaborative ministry, perhaps before Urbanus's arrival in Rome.
 

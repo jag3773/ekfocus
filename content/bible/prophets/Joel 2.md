@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joel 1"
+pagerPrevUrl: "/bible/prophets/joel-1"
+pagerNextTitle: "Joel 3"
+pagerNextUrl: "/bible/prophets/joel-3"
+pagerUpTitle: "Joel"
+pagerUpUrl: "/bible#joel"
 ---
 
 # Joel 2

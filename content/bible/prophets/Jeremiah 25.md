@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 24"
+pagerPrevUrl: "/bible/prophets/jeremiah-24"
+pagerNextTitle: "Jeremiah 26"
+pagerNextUrl: "/bible/prophets/jeremiah-26"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 25

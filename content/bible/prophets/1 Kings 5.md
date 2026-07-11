@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Kings 4"
+pagerPrevUrl: "/bible/prophets/1-kings-4"
+pagerNextTitle: "1 Kings 6"
+pagerNextUrl: "/bible/prophets/1-kings-6"
+pagerUpTitle: "1 Kings"
+pagerUpUrl: "/bible#1-kings"
 ---
 
 # 1 Kings 5

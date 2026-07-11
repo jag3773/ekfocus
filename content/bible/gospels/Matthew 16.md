@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Matthew 15"
+pagerPrevUrl: "/bible/gospels/matthew-15"
+pagerNextTitle: "Matthew 17"
+pagerNextUrl: "/bible/gospels/matthew-17"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 16

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Hosea 6"
+pagerPrevUrl: "/bible/prophets/hosea-6"
+pagerNextTitle: "Hosea 8"
+pagerNextUrl: "/bible/prophets/hosea-8"
+pagerUpTitle: "Hosea"
+pagerUpUrl: "/bible#hosea"
 ---
 
 # Hosea 7

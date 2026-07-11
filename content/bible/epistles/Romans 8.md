@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Romans 7"
+pagerPrevUrl: "/bible/epistles/romans-7"
+pagerNextTitle: "Romans 9"
+pagerNextUrl: "/bible/epistles/romans-9"
+pagerUpTitle: "Romans"
+pagerUpUrl: "/bible#romans"
 ---
 
 # Romans 8

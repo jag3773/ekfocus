@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 10"
+pagerPrevUrl: "/bible/pentateuch/exodus-10"
+pagerNextTitle: "Exodus 12"
+pagerNextUrl: "/bible/pentateuch/exodus-12"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 11

@@ -27,6 +27,13 @@ Unflagging a note (or deleting it) removes it from the site on the next publish 
 
 Site-wide settings (title, theme colors, fonts, analytics, enabled plugins) are in [`quartz.config.yaml`](./quartz.config.yaml). Custom styles live in `quartz/styles/custom.scss`.
 
+**Local plugins** live in [`plugins/`](./plugins) (top nav, footer, chapter pager, recent list, plus forks of `search` and `graph` with small patches — each patch is commented in its source). After editing a local plugin, force a reinstall or the cached copy in `.quartz/` keeps serving the old code:
+
+```sh
+python3 -c "import json; l=json.load(open('quartz.lock.json')); l['plugins'].pop('<name>',None); json.dump(l,open('quartz.lock.json','w'),indent=2)"
+rm -rf .quartz/plugins/<name> && npx quartz plugin install --from-config
+```
+
 ## Local preview
 
 ```sh

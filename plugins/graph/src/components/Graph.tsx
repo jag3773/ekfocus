@@ -64,7 +64,10 @@ const defaultOptions: GraphOptions = {
 };
 
 export default ((userOpts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const hidePaths: string[] = (userOpts as Record<string, unknown>)?.hidePaths as string[] ?? ["bible/", "index"];
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+    const slug = fileData.slug ?? "";
+    if (hidePaths.some((p) => (p.endsWith("/") ? slug.startsWith(p) : slug === p))) return null;
     const localGraph = { ...defaultOptions.localGraph, ...userOpts?.localGraph };
     const globalGraph = { ...defaultOptions.globalGraph, ...userOpts?.globalGraph };
 

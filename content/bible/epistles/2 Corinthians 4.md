@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Corinthians 3"
+pagerPrevUrl: "/bible/epistles/2-corinthians-3"
+pagerNextTitle: "2 Corinthians 5"
+pagerNextUrl: "/bible/epistles/2-corinthians-5"
+pagerUpTitle: "2 Corinthians"
+pagerUpUrl: "/bible#2-corinthians"
 ---
 
 # 2 Corinthians 4

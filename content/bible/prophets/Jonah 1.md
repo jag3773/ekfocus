@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Obadiah 1"
+pagerPrevUrl: "/bible/prophets/obadiah-1"
+pagerNextTitle: "Jonah 2"
+pagerNextUrl: "/bible/prophets/jonah-2"
+pagerUpTitle: "Jonah"
+pagerUpUrl: "/bible#jonah"
 ---
 
 # Jonah 1

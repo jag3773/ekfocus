@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Kings 21"
+pagerPrevUrl: "/bible/prophets/1-kings-21"
+pagerNextTitle: "2 Kings 1"
+pagerNextUrl: "/bible/prophets/2-kings-1"
+pagerUpTitle: "1 Kings"
+pagerUpUrl: "/bible#1-kings"
 ---
 
 # 1 Kings 22

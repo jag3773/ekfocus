@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ecclesiastes 11"
+pagerPrevUrl: "/bible/writings/ecclesiastes-11"
+pagerNextTitle: "Song of Solomon 1"
+pagerNextUrl: "/bible/writings/song-of-solomon-1"
+pagerUpTitle: "Ecclesiastes"
+pagerUpUrl: "/bible#ecclesiastes"
 ---
 
 # Ecclesiastes 12

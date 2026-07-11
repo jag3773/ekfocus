@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Esther 10"
+pagerPrevUrl: "/bible/writings/esther-10"
+pagerNextTitle: "Job 2"
+pagerNextUrl: "/bible/writings/job-2"
+pagerUpTitle: "Job"
+pagerUpUrl: "/bible#job"
 ---
 
 # Job 1

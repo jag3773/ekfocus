@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Habakkuk 2"
+pagerPrevUrl: "/bible/prophets/habakkuk-2"
+pagerNextTitle: "Zephaniah 1"
+pagerNextUrl: "/bible/prophets/zephaniah-1"
+pagerUpTitle: "Habakkuk"
+pagerUpUrl: "/bible#habakkuk"
 ---
 
 # Habakkuk 3

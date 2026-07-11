@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "John 7"
+pagerPrevUrl: "/bible/gospels/john-7"
+pagerNextTitle: "John 9"
+pagerNextUrl: "/bible/gospels/john-9"
+pagerUpTitle: "John"
+pagerUpUrl: "/bible#john"
 ---
 
 # John 8

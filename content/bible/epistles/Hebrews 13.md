@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Hebrews 12"
+pagerPrevUrl: "/bible/epistles/hebrews-12"
+pagerNextTitle: "James 1"
+pagerNextUrl: "/bible/epistles/james-1"
+pagerUpTitle: "Hebrews"
+pagerUpUrl: "/bible#hebrews"
 ---
 
 # Hebrews 13

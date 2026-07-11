@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 12"
+pagerPrevUrl: "/bible/pentateuch/exodus-12"
+pagerNextTitle: "Exodus 14"
+pagerNextUrl: "/bible/pentateuch/exodus-14"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 13

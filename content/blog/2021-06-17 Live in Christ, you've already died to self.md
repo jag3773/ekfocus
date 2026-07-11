@@ -16,7 +16,7 @@ The Bible does seem to indicate pretty clearly that if you are a believer then y
 >For you have died, and your life is hidden with Christ in God.
 >When Christ who is your life appears, then you also will appear with him in glory.
 
-There is certainly, especially in the [[Colossians 3]] passage, the imperative to die to our flesh (our worldly desires), but it seems pretty clear that our "self", is no longer our flesh, but it is who we truly are in Christ. In other words as believers we are not to die to ourselves we have to encourage ourselves to be conformed to the image of Christ–which is precisely what God is working in us, see [[Philippians 1#1:6]] in [[Colossians 3#3:10]]. Paul's argument is that our old person, our flesh, is already dead and gone, what we need to do is live fully in our new life which Christ has given us.
+There is certainly, especially in the [[Colossians 3]] passage, the imperative to die to our flesh (our worldly desires), but it seems pretty clear that our "self", is no longer our flesh, but it is who we truly are in Christ. In other words as believers we are not to die to ourselves we have to encourage ourselves to be conformed to the image of Christ–which is precisely what God is working in us, see [[Philippians 1#1:6|Philippians 1:6]] in [[Colossians 3#3:10|Colossians 3:10]]. Paul's argument is that our old person, our flesh, is already dead and gone, what we need to do is live fully in our new life which Christ has given us.
 
 Similarly, [[Ephesians 4]] talks about putting off the old self and putting on the new self:
 

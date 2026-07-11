@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #apostle #female
 - Home:: [[Roman Church]] (or Jerusalem originally)
 - Other Locales:: Unknown
-- References:: [[Romans 16#16:7]]
+- References:: [[Romans 16#16:7|Romans 16:7]]
 
 ## Notes
 - Paired with [[Andronicus]]  -  likely a married couple
@@ -18,7 +18,7 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Junia appears only in [[Romans 16#16:7]], paired with [[Andronicus]]. The implications of Paul's greeting have fueled centuries of debate about women's roles in the early church.
+Junia appears only in [[Romans 16#16:7|Romans 16:7]], paired with [[Andronicus]]. The implications of Paul's greeting have fueled centuries of debate about women's roles in the early church.
 
 The question of her gender is now settled. The name "Junia" was a common Roman woman's name, attested over 250 times in ancient inscriptions. The masculine form "Junias" has no attestation in ancient sources. Every patristic commentator treated it as feminine. John Chrysostom wrote, "How great the wisdom of this woman must have been, that she was deemed worthy of the title of apostle." Modern translations have restored the feminine reading.
 

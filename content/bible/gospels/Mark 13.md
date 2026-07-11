@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Mark 12"
+pagerPrevUrl: "/bible/gospels/mark-12"
+pagerNextTitle: "Mark 14"
+pagerNextUrl: "/bible/gospels/mark-14"
+pagerUpTitle: "Mark"
+pagerUpUrl: "/bible#mark"
 ---
 
 # Mark 13

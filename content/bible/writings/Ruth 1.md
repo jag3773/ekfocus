@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Judges 21"
+pagerPrevUrl: "/bible/prophets/judges-21"
+pagerNextTitle: "Ruth 2"
+pagerNextUrl: "/bible/writings/ruth-2"
+pagerUpTitle: "Ruth"
+pagerUpUrl: "/bible#ruth"
 ---
 
 # Ruth 1

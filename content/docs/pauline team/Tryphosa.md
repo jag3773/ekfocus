@@ -9,7 +9,7 @@ modified: 2026-05-07T12:23:54.000Z
 - #coworker #female
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:12]]
+- References:: [[Romans 16#16:12|Romans 16:12]]
 
 ## Notes
 - Paired with [[Tryphena]]  -  possibly sisters or fellow freedwomen
@@ -17,7 +17,7 @@ modified: 2026-05-07T12:23:54.000Z
 
 ## Summary
 
-Tryphosa is mentioned once in [[Romans 16#16:12]], paired with [[Tryphena]]: "Greet Tryphena and Tryphosa, who work hard in the Lord." Their similar names suggest a close relationship, likely sisters or freedwomen from the same household. See [[Tryphena]] for the full discussion of their paired ministry and social background.
+Tryphosa is mentioned once in [[Romans 16#16:12|Romans 16:12]], paired with [[Tryphena]]: "Greet Tryphena and Tryphosa, who work hard in the Lord." Their similar names suggest a close relationship, likely sisters or freedwomen from the same household. See [[Tryphena]] for the full discussion of their paired ministry and social background.
 
 ## References
 

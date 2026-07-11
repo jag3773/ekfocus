@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 2"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-2"
+pagerNextTitle: "Deuteronomy 4"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-4"
+pagerUpTitle: "Deuteronomy"
+pagerUpUrl: "/bible#deuteronomy"
 ---
 
 # Deuteronomy 3

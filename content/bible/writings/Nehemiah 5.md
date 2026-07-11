@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Nehemiah 4"
+pagerPrevUrl: "/bible/writings/nehemiah-4"
+pagerNextTitle: "Nehemiah 6"
+pagerNextUrl: "/bible/writings/nehemiah-6"
+pagerUpTitle: "Nehemiah"
+pagerUpUrl: "/bible#nehemiah"
 ---
 
 # Nehemiah 5

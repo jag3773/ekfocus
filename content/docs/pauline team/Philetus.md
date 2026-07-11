@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #opponent
 - Home:: [[Ephesian Church]] (likely)
 - Other Locales:: None recorded
-- References:: [[2 Timothy 2#2:17-18]]
+- References:: [[2 Timothy 2#2:17-18|2 Timothy 2:17-18]]
 
 ## Notes
 - Partnered with [[Hymenaeus]] in teaching that "the resurrection has already happened"
@@ -17,7 +17,7 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Philetus appears once in [[2 Timothy 2#2:17]], paired with [[Hymenaeus]] as a false teacher whose doctrine "will spread like gangrene." Their error: "saying that the resurrection has already happened, and they are upsetting the faith of some" ([[2 Timothy 2#2:18]]).
+Philetus appears once in [[2 Timothy 2#2:17|2 Timothy 2:17]], paired with [[Hymenaeus]] as a false teacher whose doctrine "will spread like gangrene." Their error: "saying that the resurrection has already happened, and they are upsetting the faith of some" ([[2 Timothy 2#2:18|2 Timothy 2:18]]).
 
 His name, Philetus ("beloved"), was common in the Greco-Roman world. He is otherwise unknown, no biblical or early church source mentions him. He served as Hymenaeus's partner in promoting over-realized eschatology that denied future bodily resurrection.
 

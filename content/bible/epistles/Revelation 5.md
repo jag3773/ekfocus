@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Revelation 4"
+pagerPrevUrl: "/bible/epistles/revelation-4"
+pagerNextTitle: "Revelation 6"
+pagerNextUrl: "/bible/epistles/revelation-6"
+pagerUpTitle: "Revelation"
+pagerUpUrl: "/bible#revelation"
 ---
 
 # Revelation 5

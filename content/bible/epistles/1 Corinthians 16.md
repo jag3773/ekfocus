@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Corinthians 15"
+pagerPrevUrl: "/bible/epistles/1-corinthians-15"
+pagerNextTitle: "2 Corinthians 1"
+pagerNextUrl: "/bible/epistles/2-corinthians-1"
+pagerUpTitle: "1 Corinthians"
+pagerUpUrl: "/bible#1-corinthians"
 ---
 
 # 1 Corinthians 16

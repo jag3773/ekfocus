@@ -9,7 +9,7 @@ modified: 2026-05-07T12:23:54.000Z
 - #coworker #female
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:12]]
+- References:: [[Romans 16#16:12|Romans 16:12]]
 
 ## Notes
 - Paired with [[Tryphosa]]  -  possibly sisters or fellow freedwomen
@@ -17,7 +17,7 @@ modified: 2026-05-07T12:23:54.000Z
 
 ## Summary
 
-Tryphena is mentioned once in [[Romans 16#16:12]], where [[Paul]] writes: "Greet Tryphena and Tryphosa, who work hard in the Lord." She is paired with [[Tryphosa]], and their similar names (both derived from the Greek root *tryphē*, meaning "daintiness" or "luxury") suggest they were sisters, possibly twins, or closely associated, perhaps freedwomen from the same household.
+Tryphena is mentioned once in [[Romans 16#16:12|Romans 16:12]], where [[Paul]] writes: "Greet Tryphena and Tryphosa, who work hard in the Lord." She is paired with [[Tryphosa]], and their similar names (both derived from the Greek root *tryphē*, meaning "daintiness" or "luxury") suggest they were sisters, possibly twins, or closely associated, perhaps freedwomen from the same household.
 
 The verb "work hard" (*kopiōsas*) in the present tense indicates ongoing, active labor, the same verb Paul uses for his own apostolic toil and for church leaders. The phrase "in the Lord" locates their work within Christian ministry. Both names connote softness and luxury (*tryphē*), while the verb Paul uses for their work connotes exhausting labor. The contrast would have been striking to original hearers.
 

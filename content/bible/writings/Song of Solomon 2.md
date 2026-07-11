@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Song of Solomon 1"
+pagerPrevUrl: "/bible/writings/song-of-solomon-1"
+pagerNextTitle: "Song of Solomon 3"
+pagerNextUrl: "/bible/writings/song-of-solomon-3"
+pagerUpTitle: "Song of Solomon"
+pagerUpUrl: "/bible#song-of-solomon"
 ---
 
 # Song of Solomon 2

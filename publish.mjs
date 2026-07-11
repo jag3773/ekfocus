@@ -59,6 +59,45 @@ for (const file of walk(cfg.vaultPath)) {
   }
 }
 
+// --- bible chapter ordering (for prev/next pager + index grouping) -------
+// mirrors Quartz v5 slugification so injected URLs match emitted pages
+const quartzSlugPath = (p) =>
+  p
+    .split("/")
+    .map((seg) =>
+      seg
+        .replace(/\s/g, "-")
+        .replace(/&/g, "-and-")
+        .replace(/%/g, "-percent")
+        .replace(/\?/g, "")
+        .replace(/#/g, "")
+        .toLowerCase(),
+    )
+    .join("/")
+
+const noteRelByName = new Map(notes.map((n) => [path.basename(n.rel, ".md"), n.rel]))
+const slugForNote = (name) => {
+  const rel = noteRelByName.get(name)
+  if (!rel) return null
+  return "/" + quartzSlugPath(rewritePath(rel.replace(/\.md$/, "")))
+}
+
+const pagerByChapter = new Map() // "Psalm 23" -> {prev, next, book}
+{
+  const idx = notes.find((n) => n.rel === cfg.bibleIndexNote)
+  if (idx) {
+    const chapters = [...idx.text.matchAll(/^##\s+\[\[(.+?)\]\]\s*$/gm)].map((m) => m[1])
+    chapters.forEach((name, i) => {
+      const bm = name.match(/^(.+?)\s+\d+$/)
+      pagerByChapter.set(name, {
+        prev: chapters[i - 1] ?? null,
+        next: chapters[i + 1] ?? null,
+        book: bm ? bm[1] : name,
+      })
+    })
+  }
+}
+
 // --- pass 2: transform + write notes, collect referenced attachments ----
 // matches ![[Some file.png]] / ![[img.png|300]] and ![alt](local-file.png)
 const EMBED_RE = /!\[\[([^\]#|]+)(?:\|[^\]]*)?\]\]|!\[[^\]]*\]\(([^)]+)\)/g
@@ -85,6 +124,26 @@ for (const { rel, text, mtime } of notes) {
   if (!/^(modified|lastmod|updated):/m.test(out.match(FRONTMATTER)[1])) {
     extras.push(`modified: ${mtime.toISOString()}`)
   }
+
+  // prev/next chapter pager for Bible notes (rendered by plugins/ek-pager)
+  const pager = pagerByChapter.get(path.basename(rel, ".md"))
+  if (pager) {
+    if (pager.prev && slugForNote(pager.prev))
+      extras.push(`pagerPrevTitle: "${pager.prev}"`, `pagerPrevUrl: "${slugForNote(pager.prev)}"`)
+    if (pager.next && slugForNote(pager.next))
+      extras.push(`pagerNextTitle: "${pager.next}"`, `pagerNextUrl: "${slugForNote(pager.next)}"`)
+    extras.push(
+      `pagerUpTitle: "${pager.book}"`,
+      `pagerUpUrl: "/bible#${pager.book.toLowerCase().replace(/\s+/g, "-")}"`,
+    )
+  }
+
+  // verse links: display "[[Leviticus 11#11:44]]" as "Leviticus 11:44"
+  // (only when the anchor starts with the chapter number and no alias is set)
+  out = out.replace(
+    /(?<!!)\[\[([^\]|#]+?)\s+(\d+)#(\d+:[\d\-–,:]+)\]\]/g,
+    (m, book, ch, anchor) => (anchor.startsWith(`${ch}:`) ? `[[${book} ${ch}#${anchor}|${book} ${anchor}]]` : m),
+  )
 
   // legacy URL aliases (old digital-garden slugs) -> alias-redirects plugin
   const alias = cfg.legacyAliases[relNoExt]

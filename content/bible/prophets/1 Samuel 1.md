@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ruth 4"
+pagerPrevUrl: "/bible/writings/ruth-4"
+pagerNextTitle: "1 Samuel 2"
+pagerNextUrl: "/bible/prophets/1-samuel-2"
+pagerUpTitle: "1 Samuel"
+pagerUpUrl: "/bible#1-samuel"
 ---
 
 # 1 Samuel 1

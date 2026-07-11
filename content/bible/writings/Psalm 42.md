@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 41"
+pagerPrevUrl: "/bible/writings/psalm-41"
+pagerNextTitle: "Psalm 43"
+pagerNextUrl: "/bible/writings/psalm-43"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 42

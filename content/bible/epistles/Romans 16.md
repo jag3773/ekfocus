@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Romans 15"
+pagerPrevUrl: "/bible/epistles/romans-15"
+pagerNextTitle: "1 Corinthians 1"
+pagerNextUrl: "/bible/epistles/1-corinthians-1"
+pagerUpTitle: "Romans"
+pagerUpUrl: "/bible#romans"
 ---
 
 # Romans 16

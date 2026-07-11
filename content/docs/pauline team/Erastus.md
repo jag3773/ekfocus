@@ -9,19 +9,19 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #benefactor
 - Home:: [[Corinthian Church|Corinth]]
 - Other Locales:: [[Ephesian Church]], Miletus
-- References:: [[Acts 19#19:22]], [[Romans 16#16:23]], [[2 Timothy 4#4:20]]
+- References:: [[Acts 19#19:22|Acts 19:22]], [[Romans 16#16:23|Romans 16:23]], [[2 Timothy 4#4:20|2 Timothy 4:20]]
 
 ## Notes
-- Held the position of city treasurer (*oikonomos*) of Corinth ([[Romans 16#16:23]])
+- Held the position of city treasurer (*oikonomos*) of Corinth ([[Romans 16#16:23|Romans 16:23]])
 - An inscription found in Corinth reading "Erastus pro aedilitate" may refer to this individual
 
 ## Summary
 
-Erastus is notable for being the highest-ranking civic official named in the Pauline network. In [[Romans 16#16:23]], Paul sends greetings from "Erastus, the city treasurer (*ho oikonomos tēs poleōs*)." The *oikonomos* was a significant municipal position responsible for the city's financial administration, making Erastus a man of considerable civic standing and wealth.
+Erastus is notable for being the highest-ranking civic official named in the Pauline network. In [[Romans 16#16:23|Romans 16:23]], Paul sends greetings from "Erastus, the city treasurer (*ho oikonomos tēs poleōs*)." The *oikonomos* was a significant municipal position responsible for the city's financial administration, making Erastus a man of considerable civic standing and wealth.
 
-In [[Acts 19#19:22]], Paul sends Erastus to Macedonia along with [[Timothy]] during the third equipping servant journey, while Paul remained in Asia. This shows Erastus was a trusted coworker, not merely a peripheral supporter. Paul assigned him to a mission alongside his closest protégé.
+In [[Acts 19#19:22|Acts 19:22]], Paul sends Erastus to Macedonia along with [[Timothy]] during the third equipping servant journey, while Paul remained in Asia. This shows Erastus was a trusted coworker, not merely a peripheral supporter. Paul assigned him to a mission alongside his closest protégé.
 
-In [[2 Timothy 4#4:20]], Paul notes that "Erastus remained at Corinth." This final reference places Erastus back in his home city during Paul's last journey before his final imprisonment, perhaps continuing his civic duties.
+In [[2 Timothy 4#4:20|2 Timothy 4:20]], Paul notes that "Erastus remained at Corinth." This final reference places Erastus back in his home city during Paul's last journey before his final imprisonment, perhaps continuing his civic duties.
 
 In 1929, archaeologists excavating ancient Corinth discovered a pavement inscription reading: "Erastus pro aedilitate s.p. stravit" ("Erastus, in return for his aedileship, laid [this pavement] at his own expense"). The *aedile* was a Roman civic magistrate responsible for public works, a role consistent with the *oikonomos* Paul mentions. If this inscription refers to the same Erastus, it provides one of the very few archaeological corroborations of a specific individual named in the New Testament. The inscription dates to the mid-first century, fitting the timeline. This remains one of the most compelling candidates for a Pauline-era epigraphic match.
 

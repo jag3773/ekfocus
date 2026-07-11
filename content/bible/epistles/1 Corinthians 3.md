@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Corinthians 2"
+pagerPrevUrl: "/bible/epistles/1-corinthians-2"
+pagerNextTitle: "1 Corinthians 4"
+pagerNextUrl: "/bible/epistles/1-corinthians-4"
+pagerUpTitle: "1 Corinthians"
+pagerUpUrl: "/bible#1-corinthians"
 ---
 
 # 1 Corinthians 3

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 19"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-19"
+pagerNextTitle: "Deuteronomy 21"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-21"
+pagerUpTitle: "Deuteronomy"
+pagerUpUrl: "/bible#deuteronomy"
 ---
 
 # Deuteronomy 20

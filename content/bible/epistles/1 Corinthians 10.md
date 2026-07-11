@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Corinthians 9"
+pagerPrevUrl: "/bible/epistles/1-corinthians-9"
+pagerNextTitle: "1 Corinthians 11"
+pagerNextUrl: "/bible/epistles/1-corinthians-11"
+pagerUpTitle: "1 Corinthians"
+pagerUpUrl: "/bible#1-corinthians"
 ---
 
 # 1 Corinthians 10

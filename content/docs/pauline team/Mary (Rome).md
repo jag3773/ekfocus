@@ -11,7 +11,7 @@ aliases:
 - #coworker #female
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:6]]
+- References:: [[Romans 16#16:6|Romans 16:6]]
 
 ## Notes
 - Commended by [[Paul]] for having "worked very hard for you"
@@ -19,7 +19,7 @@ aliases:
 
 ## Summary
 
-Mary of Rome is mentioned once in [[Romans 16#16:6]], where [[Paul]] writes, "Greet Mary, who has worked very hard for you." She is the first woman Paul greets in the Roman letter.
+Mary of Rome is mentioned once in [[Romans 16#16:6|Romans 16:6]], where [[Paul]] writes, "Greet Mary, who has worked very hard for you." She is the first woman Paul greets in the Roman letter.
 
 The name Mary was the most common Jewish women's name in first-century Palestine and the diaspora. At least six Marys appear in the New Testament. That Paul names this Mary specifically indicates she was a known and respected figure in the Roman church.
 

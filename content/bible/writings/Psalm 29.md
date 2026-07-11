@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 28"
+pagerPrevUrl: "/bible/writings/psalm-28"
+pagerNextTitle: "Psalm 30"
+pagerNextUrl: "/bible/writings/psalm-30"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 29

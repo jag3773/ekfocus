@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Proverbs 20"
+pagerPrevUrl: "/bible/writings/proverbs-20"
+pagerNextTitle: "Proverbs 22"
+pagerNextUrl: "/bible/writings/proverbs-22"
+pagerUpTitle: "Proverbs"
+pagerUpUrl: "/bible#proverbs"
 ---
 
 # Proverbs 21

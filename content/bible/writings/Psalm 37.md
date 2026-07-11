@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 36"
+pagerPrevUrl: "/bible/writings/psalm-36"
+pagerNextTitle: "Psalm 38"
+pagerNextUrl: "/bible/writings/psalm-38"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 37

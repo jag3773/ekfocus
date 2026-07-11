@@ -72,7 +72,9 @@ export function pageResources(
   })
 
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  // Lazy: the content index is ~5MB on this site; only fetch it the first
+  // time something (search, graph) actually awaits fetchData.
+  const contentIndexScript = `let __fetchDataPromise = null; Object.defineProperty(globalThis, "fetchData", { configurable: true, get: () => (__fetchDataPromise ??= fetch("${contentIndexPath}").then(data => data.json())) })`
 
   const resources: StaticResources = {
     css: [

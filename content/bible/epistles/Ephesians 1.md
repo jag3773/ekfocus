@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Galatians 6"
+pagerPrevUrl: "/bible/epistles/galatians-6"
+pagerNextTitle: "Ephesians 2"
+pagerNextUrl: "/bible/epistles/ephesians-2"
+pagerUpTitle: "Ephesians"
+pagerUpUrl: "/bible#ephesians"
 ---
 
 # Ephesians 1

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Zechariah 11"
+pagerPrevUrl: "/bible/prophets/zechariah-11"
+pagerNextTitle: "Zechariah 13"
+pagerNextUrl: "/bible/prophets/zechariah-13"
+pagerUpTitle: "Zechariah"
+pagerUpUrl: "/bible#zechariah"
 ---
 
 # Zechariah 12

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 27"
+pagerPrevUrl: "/bible/pentateuch/genesis-27"
+pagerNextTitle: "Genesis 29"
+pagerNextUrl: "/bible/pentateuch/genesis-29"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 28

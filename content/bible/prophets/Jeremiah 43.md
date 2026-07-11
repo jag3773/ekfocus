@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 42"
+pagerPrevUrl: "/bible/prophets/jeremiah-42"
+pagerNextTitle: "Jeremiah 44"
+pagerNextUrl: "/bible/prophets/jeremiah-44"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 43

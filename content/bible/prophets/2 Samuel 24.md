@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Samuel 23"
+pagerPrevUrl: "/bible/prophets/2-samuel-23"
+pagerNextTitle: "1 Kings 1"
+pagerNextUrl: "/bible/prophets/1-kings-1"
+pagerUpTitle: "2 Samuel"
+pagerUpUrl: "/bible#2-samuel"
 ---
 
 # 2 Samuel 24

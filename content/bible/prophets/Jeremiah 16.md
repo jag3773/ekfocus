@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 15"
+pagerPrevUrl: "/bible/prophets/jeremiah-15"
+pagerNextTitle: "Jeremiah 17"
+pagerNextUrl: "/bible/prophets/jeremiah-17"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 16

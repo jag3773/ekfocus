@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 48"
+pagerPrevUrl: "/bible/pentateuch/genesis-48"
+pagerNextTitle: "Genesis 50"
+pagerNextUrl: "/bible/pentateuch/genesis-50"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 49

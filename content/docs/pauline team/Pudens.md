@@ -9,14 +9,14 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[2 Timothy 4#4:21]]
+- References:: [[2 Timothy 4#4:21|2 Timothy 4:21]]
 
 ## Notes
 - Sends greetings to [[Timothy]] alongside [[Eubulus]], [[Linus]], and [[Claudia]]
 
 ## Summary
 
-Pudens is mentioned once in [[2 Timothy 4#4:21]], grouped with [[Eubulus]], [[Linus]], and [[Claudia]] among the Roman Christians who send greetings to [[Timothy]]. His Latin name (*Pudens*, "modest" or "bashful") was a common Roman cognomen, particularly among the upper and middle classes.
+Pudens is mentioned once in [[2 Timothy 4#4:21|2 Timothy 4:21]], grouped with [[Eubulus]], [[Linus]], and [[Claudia]] among the Roman Christians who send greetings to [[Timothy]]. His Latin name (*Pudens*, "modest" or "bashful") was a common Roman cognomen, particularly among the upper and middle classes.
 
 Some later traditions connect this Pudens with a Roman senator named Pudens who, according to certain church legends, hosted Peter in his home on the Viminal Hill in Rome, the site that would later become the Basilica of Santa Pudenziana, one of Rome's oldest churches. This identification is speculative and depends on late sources, but it reflects the early church's memory that Roman Christians of social standing provided hospitality and protection to apostolic figures.
 

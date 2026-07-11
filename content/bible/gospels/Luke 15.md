@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 14"
+pagerPrevUrl: "/bible/gospels/luke-14"
+pagerNextTitle: "Luke 16"
+pagerNextUrl: "/bible/gospels/luke-16"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 15

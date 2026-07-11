@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 26"
+pagerPrevUrl: "/bible/pentateuch/leviticus-26"
+pagerNextTitle: "Numbers 1"
+pagerNextUrl: "/bible/pentateuch/numbers-1"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 27

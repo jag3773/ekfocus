@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Chronicles 25"
+pagerPrevUrl: "/bible/writings/1-chronicles-25"
+pagerNextTitle: "1 Chronicles 27"
+pagerNextUrl: "/bible/writings/1-chronicles-27"
+pagerUpTitle: "1 Chronicles"
+pagerUpUrl: "/bible#1-chronicles"
 ---
 
 # 1 Chronicles 26

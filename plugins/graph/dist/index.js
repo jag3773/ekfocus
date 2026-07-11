@@ -371,7 +371,10 @@ var defaultOptions = {
   }
 };
 var Graph_default = ((userOpts) => {
-  const Graph = ({ displayClass, cfg }) => {
+  const hidePaths = userOpts?.hidePaths ?? ["bible/", "index"];
+  const Graph = ({ displayClass, cfg, fileData }) => {
+    const slug = fileData?.slug ?? "";
+    if (hidePaths.some((p) => (p.endsWith("/") ? slug.startsWith(p) : slug === p))) return null;
     const localGraph = { ...defaultOptions.localGraph, ...userOpts?.localGraph };
     const globalGraph = { ...defaultOptions.globalGraph, ...userOpts?.globalGraph };
     return /* @__PURE__ */ u2("div", { class: classNames(displayClass, "graph"), children: [

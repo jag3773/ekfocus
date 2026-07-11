@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 100"
+pagerPrevUrl: "/bible/writings/psalm-100"
+pagerNextTitle: "Psalm 102"
+pagerNextUrl: "/bible/writings/psalm-102"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 101

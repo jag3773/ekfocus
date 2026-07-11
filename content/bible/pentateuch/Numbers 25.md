@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Numbers 24"
+pagerPrevUrl: "/bible/pentateuch/numbers-24"
+pagerNextTitle: "Numbers 26"
+pagerNextUrl: "/bible/pentateuch/numbers-26"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 25

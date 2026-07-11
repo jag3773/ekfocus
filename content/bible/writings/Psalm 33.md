@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 32"
+pagerPrevUrl: "/bible/writings/psalm-32"
+pagerNextTitle: "Psalm 34"
+pagerNextUrl: "/bible/writings/psalm-34"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 33

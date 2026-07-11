@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Nahum 3"
+pagerPrevUrl: "/bible/prophets/nahum-3"
+pagerNextTitle: "Habakkuk 2"
+pagerNextUrl: "/bible/prophets/habakkuk-2"
+pagerUpTitle: "Habakkuk"
+pagerUpUrl: "/bible#habakkuk"
 ---
 
 # Habakkuk 1

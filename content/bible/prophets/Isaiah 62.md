@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 61"
+pagerPrevUrl: "/bible/prophets/isaiah-61"
+pagerNextTitle: "Isaiah 63"
+pagerNextUrl: "/bible/prophets/isaiah-63"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 62

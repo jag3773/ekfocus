@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 16"
+pagerPrevUrl: "/bible/pentateuch/leviticus-16"
+pagerNextTitle: "Leviticus 18"
+pagerNextUrl: "/bible/pentateuch/leviticus-18"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 17

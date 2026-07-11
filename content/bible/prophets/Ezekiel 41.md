@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 40"
+pagerPrevUrl: "/bible/prophets/ezekiel-40"
+pagerNextTitle: "Ezekiel 42"
+pagerNextUrl: "/bible/prophets/ezekiel-42"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 41

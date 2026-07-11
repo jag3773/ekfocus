@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Corinthians 13"
+pagerPrevUrl: "/bible/epistles/2-corinthians-13"
+pagerNextTitle: "Galatians 2"
+pagerNextUrl: "/bible/epistles/galatians-2"
+pagerUpTitle: "Galatians"
+pagerUpUrl: "/bible#galatians"
 ---
 
 # Galatians 1

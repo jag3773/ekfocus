@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 21"
+pagerPrevUrl: "/bible/pentateuch/exodus-21"
+pagerNextTitle: "Exodus 23"
+pagerNextUrl: "/bible/pentateuch/exodus-23"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 22

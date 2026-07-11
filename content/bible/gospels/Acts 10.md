@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Acts 9"
+pagerPrevUrl: "/bible/gospels/acts-9"
+pagerNextTitle: "Acts 11"
+pagerNextUrl: "/bible/gospels/acts-11"
+pagerUpTitle: "Acts"
+pagerUpUrl: "/bible#acts"
 ---
 
 # Acts 10

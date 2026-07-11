@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Timothy 6"
+pagerPrevUrl: "/bible/epistles/1-timothy-6"
+pagerNextTitle: "2 Timothy 2"
+pagerNextUrl: "/bible/epistles/2-timothy-2"
+pagerUpTitle: "2 Timothy"
+pagerUpUrl: "/bible#2-timothy"
 ---
 
 # 2 [[Timothy]] 1

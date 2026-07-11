@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Timothy 3"
+pagerPrevUrl: "/bible/epistles/2-timothy-3"
+pagerNextTitle: "Titus 1"
+pagerNextUrl: "/bible/epistles/titus-1"
+pagerUpTitle: "2 Timothy"
+pagerUpUrl: "/bible#2-timothy"
 ---
 
 # 2 [[Timothy]] 4

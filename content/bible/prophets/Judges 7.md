@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Judges 6"
+pagerPrevUrl: "/bible/prophets/judges-6"
+pagerNextTitle: "Judges 8"
+pagerNextUrl: "/bible/prophets/judges-8"
+pagerUpTitle: "Judges"
+pagerUpUrl: "/bible#judges"
 ---
 
 # Judges 7

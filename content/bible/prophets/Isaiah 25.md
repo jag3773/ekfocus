@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 24"
+pagerPrevUrl: "/bible/prophets/isaiah-24"
+pagerNextTitle: "Isaiah 26"
+pagerNextUrl: "/bible/prophets/isaiah-26"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 25

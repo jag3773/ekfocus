@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Acts 6"
+pagerPrevUrl: "/bible/gospels/acts-6"
+pagerNextTitle: "Acts 8"
+pagerNextUrl: "/bible/gospels/acts-8"
+pagerUpTitle: "Acts"
+pagerUpUrl: "/bible#acts"
 ---
 
 # Acts 7

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 3"
+pagerPrevUrl: "/bible/gospels/luke-3"
+pagerNextTitle: "Luke 5"
+pagerNextUrl: "/bible/gospels/luke-5"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 4

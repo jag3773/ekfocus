@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 38"
+pagerPrevUrl: "/bible/pentateuch/genesis-38"
+pagerNextTitle: "Genesis 40"
+pagerNextUrl: "/bible/pentateuch/genesis-40"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 39

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 23"
+pagerPrevUrl: "/bible/pentateuch/genesis-23"
+pagerNextTitle: "Genesis 25"
+pagerNextUrl: "/bible/pentateuch/genesis-25"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 24

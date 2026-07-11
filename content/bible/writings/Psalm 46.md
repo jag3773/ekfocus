@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 45"
+pagerPrevUrl: "/bible/writings/psalm-45"
+pagerNextTitle: "Psalm 47"
+pagerNextUrl: "/bible/writings/psalm-47"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 46

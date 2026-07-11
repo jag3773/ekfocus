@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 32"
+pagerPrevUrl: "/bible/prophets/ezekiel-32"
+pagerNextTitle: "Ezekiel 34"
+pagerNextUrl: "/bible/prophets/ezekiel-34"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 33

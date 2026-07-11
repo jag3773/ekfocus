@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 75"
+pagerPrevUrl: "/bible/writings/psalm-75"
+pagerNextTitle: "Psalm 77"
+pagerNextUrl: "/bible/writings/psalm-77"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 76

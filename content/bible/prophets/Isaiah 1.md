@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Song of Solomon 8"
+pagerPrevUrl: "/bible/writings/song-of-solomon-8"
+pagerNextTitle: "Isaiah 2"
+pagerNextUrl: "/bible/prophets/isaiah-2"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 1

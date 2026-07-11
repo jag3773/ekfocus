@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 31"
+pagerPrevUrl: "/bible/prophets/isaiah-31"
+pagerNextTitle: "Isaiah 33"
+pagerNextUrl: "/bible/prophets/isaiah-33"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 32

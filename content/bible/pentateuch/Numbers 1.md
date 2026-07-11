@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 27"
+pagerPrevUrl: "/bible/pentateuch/leviticus-27"
+pagerNextTitle: "Numbers 2"
+pagerNextUrl: "/bible/pentateuch/numbers-2"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 1

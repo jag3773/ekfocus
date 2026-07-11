@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: [[Corinthian Church|Corinth]] (probably)
 - Other Locales:: [[Ephesian Church]] (with Paul when 1 Corinthians was written)
-- References:: [[Acts 18#18:17]], [[1 Corinthians 1#1:1]]
+- References:: [[Acts 18#18:17|Acts 18:17]], [[1 Corinthians 1#1:1|1 Corinthians 1:1]]
 
 ## Notes
 - Co-sender of 1 Corinthians with [[Paul]]: "Paul...and our brother Sosthenes"
@@ -19,9 +19,9 @@ modified: 2026-05-09T01:54:33.000Z
 
 Sosthenes appears in two New Testament contexts that, if they refer to the same man, tell a conversion story.
 
-In [[Acts 18#18:17]], after the proconsul Gallio dismissed Jewish charges against [[Paul]] in Corinth, the crowd seized "Sosthenes, the ruler of the synagogue" and beat him before the tribunal. This Sosthenes was the leader of the Corinthian synagogue, the position previously held by Crispus, who had converted to Christianity ([[Acts 18#18:8]]). The reason for the beating is debated: some scholars argue the Greek-speaking crowd was venting anti-Jewish sentiment; others suggest Sosthenes may have been sympathetic to Paul, making him a target of Jewish opponents. Luke records that Gallio "paid no attention to any of this."
+In [[Acts 18#18:17|Acts 18:17]], after the proconsul Gallio dismissed Jewish charges against [[Paul]] in Corinth, the crowd seized "Sosthenes, the ruler of the synagogue" and beat him before the tribunal. This Sosthenes was the leader of the Corinthian synagogue, the position previously held by Crispus, who had converted to Christianity ([[Acts 18#18:8|Acts 18:8]]). The reason for the beating is debated: some scholars argue the Greek-speaking crowd was venting anti-Jewish sentiment; others suggest Sosthenes may have been sympathetic to Paul, making him a target of Jewish opponents. Luke records that Gallio "paid no attention to any of this."
 
-In [[1 Corinthians 1#1:1]], Paul opens his letter: "Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes." The designation "our brother" (*ho adelphos*) identifies Sosthenes as a fellow Christian, and his placement as co-sender gives him prominence, the same role [[Timothy]] holds in other Pauline letters.
+In [[1 Corinthians 1#1:1|1 Corinthians 1:1]], Paul opens his letter: "Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes." The designation "our brother" (*ho adelphos*) identifies Sosthenes as a fellow Christian, and his placement as co-sender gives him prominence, the same role [[Timothy]] holds in other Pauline letters.
 
 If these are the same person, Sosthenes was a synagogue ruler who converted to Christianity, a significant defection from the Jewish establishment to the messianic movement. His journey from being beaten in public as a synagogue leader to co-authoring one of the most important letters in Christian history represents a remarkable trajectory. The identification is held by many scholars, though "Sosthenes" was not a rare name and certainty remains elusive.
 

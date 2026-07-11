@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "John 10"
+pagerPrevUrl: "/bible/gospels/john-10"
+pagerNextTitle: "John 12"
+pagerNextUrl: "/bible/gospels/john-12"
+pagerUpTitle: "John"
+pagerUpUrl: "/bible#john"
 ---
 
 # John 11

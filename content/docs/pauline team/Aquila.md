@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #benefactor
 - Home:: Pontus (originally), then Rome, Corinth, Ephesus
 - Other Locales:: [[Corinthian Church]], [[Ephesian Church]], [[Roman Church]]
-- References:: [[Acts 18#18:2-3]], [[Acts 18#18:18]], [[Acts 18#18:26]], [[Romans 16#16:3-5]], [[1 Corinthians 16#16:19]], [[2 Timothy 4#4:19]]
+- References:: [[Acts 18#18:2-3|Acts 18:2-3]], [[Acts 18#18:18|Acts 18:18]], [[Acts 18#18:26|Acts 18:26]], [[Romans 16#16:3-5|Romans 16:3-5]], [[1 Corinthians 16#16:19|1 Corinthians 16:19]], [[2 Timothy 4#4:19|2 Timothy 4:19]]
 
 ## Notes
 - Husband of [[Priscilla]]; Jewish tentmaker from Pontus
@@ -18,13 +18,13 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Aquila was a Jewish tentmaker (*skēnopoios*) originally from the Roman province of Pontus on the southern coast of the Black Sea ([[Acts 18#18:2]]). Together with his wife [[Priscilla]], he formed the most significant ministry couple in the Pauline network.
+Aquila was a Jewish tentmaker (*skēnopoios*) originally from the Roman province of Pontus on the southern coast of the Black Sea ([[Acts 18#18:2|Acts 18:2]]). Together with his wife [[Priscilla]], he formed the most significant ministry couple in the Pauline network.
 
-Aquila and Priscilla were among the Jews expelled from Rome by Emperor Claudius's edict (c. 49 AD, reported by Suetonius). They settled in Corinth, where [[Paul]], also a tentmaker, joined their household and workshop ([[Acts 18#18:2-3]]). The shared trade created daily proximity and became the foundation of a deep ministry partnership. The tentmaking workshop likely doubled as a venue for teaching and evangelism, following a pattern common among ancient philosophical teachers.
+Aquila and Priscilla were among the Jews expelled from Rome by Emperor Claudius's edict (c. 49 AD, reported by Suetonius). They settled in Corinth, where [[Paul]], also a tentmaker, joined their household and workshop ([[Acts 18#18:2-3|Acts 18:2-3]]). The shared trade created daily proximity and became the foundation of a deep ministry partnership. The tentmaking workshop likely doubled as a venue for teaching and evangelism, following a pattern common among ancient philosophical teachers.
 
-The couple traveled with Paul to Ephesus ([[Acts 18#18:18]]) and remained there when Paul continued eastward. In Ephesus, they instructed [[Apollos]] in the fuller understanding of the gospel ([[Acts 18#18:26]]). They hosted a house church in Ephesus ([[1 Corinthians 16#16:19]]) and later another in Rome ([[Romans 16#16:3-5]]), making them among the few people known to have led congregations in multiple cities.
+The couple traveled with Paul to Ephesus ([[Acts 18#18:18|Acts 18:18]]) and remained there when Paul continued eastward. In Ephesus, they instructed [[Apollos]] in the fuller understanding of the gospel ([[Acts 18#18:26|Acts 18:26]]). They hosted a house church in Ephesus ([[1 Corinthians 16#16:19|1 Corinthians 16:19]]) and later another in Rome ([[Romans 16#16:3-5|Romans 16:3-5]]), making them among the few people known to have led congregations in multiple cities.
 
-Paul's tribute to them in [[Romans 16#16:3-4]] is among his warmest commendations of any coworkers: he calls them "my fellow workers in Christ Jesus" and states they "risked their necks for my life". Paul says "all the churches of the Gentiles" give thanks for this act of courage. The scope of that gratitude indicates they were known and respected across the entire Pauline mission field.
+Paul's tribute to them in [[Romans 16#16:3-4|Romans 16:3-4]] is among his warmest commendations of any coworkers: he calls them "my fellow workers in Christ Jesus" and states they "risked their necks for my life". Paul says "all the churches of the Gentiles" give thanks for this act of courage. The scope of that gratitude indicates they were known and respected across the entire Pauline mission field.
 
 Aquila's profile is inseparable from Priscilla's. They are always mentioned together, never separately, in all six New Testament references. Priscilla is named first in four passages, leading scholars to conclude she was the more prominent figure, but Aquila's consistent presence indicates a genuine partnership. Together they embodied the integration of work, hospitality, teaching, and church leadership that characterized the most effective members of the Pauline network.
 

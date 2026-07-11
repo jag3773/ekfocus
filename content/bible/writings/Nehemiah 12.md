@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Nehemiah 11"
+pagerPrevUrl: "/bible/writings/nehemiah-11"
+pagerNextTitle: "Nehemiah 13"
+pagerNextUrl: "/bible/writings/nehemiah-13"
+pagerUpTitle: "Nehemiah"
+pagerUpUrl: "/bible#nehemiah"
 ---
 
 # Nehemiah 12

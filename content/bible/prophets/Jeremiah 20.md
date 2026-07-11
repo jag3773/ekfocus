@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 19"
+pagerPrevUrl: "/bible/prophets/jeremiah-19"
+pagerNextTitle: "Jeremiah 21"
+pagerNextUrl: "/bible/prophets/jeremiah-21"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 20

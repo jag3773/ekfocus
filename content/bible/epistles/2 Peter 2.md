@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Peter 1"
+pagerPrevUrl: "/bible/epistles/2-peter-1"
+pagerNextTitle: "2 Peter 3"
+pagerNextUrl: "/bible/epistles/2-peter-3"
+pagerUpTitle: "2 Peter"
+pagerUpUrl: "/bible#2-peter"
 ---
 
 # 2 Peter 2

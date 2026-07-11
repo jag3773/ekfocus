@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ephesians 2"
+pagerPrevUrl: "/bible/epistles/ephesians-2"
+pagerNextTitle: "Ephesians 4"
+pagerNextUrl: "/bible/epistles/ephesians-4"
+pagerUpTitle: "Ephesians"
+pagerUpUrl: "/bible#ephesians"
 ---
 
 # Ephesians 3

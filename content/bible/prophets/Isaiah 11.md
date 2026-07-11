@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 10"
+pagerPrevUrl: "/bible/prophets/isaiah-10"
+pagerNextTitle: "Isaiah 12"
+pagerNextUrl: "/bible/prophets/isaiah-12"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 11

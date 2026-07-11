@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Revelation 7"
+pagerPrevUrl: "/bible/epistles/revelation-7"
+pagerNextTitle: "Revelation 9"
+pagerNextUrl: "/bible/epistles/revelation-9"
+pagerUpTitle: "Revelation"
+pagerUpUrl: "/bible#revelation"
 ---
 
 # Revelation 8

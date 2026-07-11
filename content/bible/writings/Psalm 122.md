@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 121"
+pagerPrevUrl: "/bible/writings/psalm-121"
+pagerNextTitle: "Psalm 123"
+pagerNextUrl: "/bible/writings/psalm-123"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 122

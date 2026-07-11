@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 136"
+pagerPrevUrl: "/bible/writings/psalm-136"
+pagerNextTitle: "Psalm 138"
+pagerNextUrl: "/bible/writings/psalm-138"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 137

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 10"
+pagerPrevUrl: "/bible/prophets/ezekiel-10"
+pagerNextTitle: "Ezekiel 12"
+pagerNextUrl: "/bible/prophets/ezekiel-12"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 11

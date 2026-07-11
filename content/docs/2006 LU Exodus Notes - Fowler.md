@@ -68,7 +68,7 @@ aliases:
 
         -   Unique investment of God’s power in Moses
 
--   [[Genesis 17#17:1-8]] comprises the whole OT story
+-   [[Genesis 17#17:1-8|Genesis 17:1-8]] comprises the whole OT story
 
     -   The Abrahamic covenant is fulfilled:
 
@@ -250,7 +250,7 @@ aliases:
 
             1.  Birth episode in Genesis 38
 
-            2.  [[Micah 2#2:13]] it is used of Christ – foreshadow of the one
+            2.  [[Micah 2#2:13|Micah 2:13]] it is used of Christ – foreshadow of the one
                 > who will spread out for them, Christ
 
         7.  Dread of Egyptians
@@ -1126,11 +1126,11 @@ aliases:
 
             5.  His protest, essentially, is a lack of faith
 
-            6.  [[Acts 7#7:22]]
+            6.  [[Acts 7#7:22|Acts 7:22]]
 
         26. Verse 4:11-12
 
-            1.  [[Isaiah 45#45:5-7]]; [[Psalm 139#139:1-6]]
+            1.  [[Isaiah 45#45:5-7|Isaiah 45:5-7]]; [[Psalm 139#139:1-6|Psalm 139:1-6]]
 
                 1.  God causes calamity
 
@@ -1848,7 +1848,7 @@ aliases:
                 1.  Deut. 9:10 – ten commandments written by God’s
                     > finger
 
-                2.  [[Luke 11#11:20]] – Jesus casting out demons by the finger
+                2.  [[Luke 11#11:20|Luke 11:20]] – Jesus casting out demons by the finger
                     > of God
 
                 3.  Could be a reference to Aaron’s staff
@@ -2269,7 +2269,7 @@ aliases:
 
     1.  **Verse 12:1-14**
 
-        1.  [[Ezekiel 45#45:18-20]]
+        1.  [[Ezekiel 45#45:18-20|Ezekiel 45:18-20]]
 
             1.  The only other place in the Bible where blood is placed
                 > on the door
@@ -2325,13 +2325,13 @@ aliases:
             6.  All the while everyone was singing the Hallel (Psalm
                 > 113-118)
 
-            7.  [[Hebrews 11#11:28]] alludes to some of this
+            7.  [[Hebrews 11#11:28|Hebrews 11:28]] alludes to some of this
 
             8.  Hyssop
 
                 1.  Mentioned only a few other times in the Bible
 
-                2.  [[Numbers 19#19:1-10]], [[Psalm 51#51:7]]
+                2.  [[Numbers 19#19:1-10|Numbers 19:1-10]], [[Psalm 51#51:7|Psalm 51:7]]
 
             9.  Jesus is clearly identified as the Passover Lamb in
                 > Christian theology
@@ -2384,7 +2384,7 @@ aliases:
 
             4.  Because God is present, justice is done
 
-            5.  [[Exodus 34#34:6-7]]
+            5.  [[Exodus 34#34:6-7|Exodus 34:6-7]]
 
             6.  Christians identify with God through His mercy
 
@@ -2478,12 +2478,12 @@ aliases:
 
             3.  Several differing numbers
 
-            4.  [[1 Kings 6#6:1]] – 480=1446 as the mathematical number for
+            4.  [[1 Kings 6#6:1|1 Kings 6:1]] – 480=1446 as the mathematical number for
                 > the exodus
 
                 1.  12x40=480: could argue for symbolic interpretation
 
-                2.  However, [[Judges 11#11:26]] – 300 years, that puts us in
+                2.  However, [[Judges 11#11:26|Judges 11:26]] – 300 years, that puts us in
                     > the vicinity of 1446
 
         5.  It is important to note that the biblical text, Exodus, is
@@ -2801,7 +2801,7 @@ aliases:
 
             2.  If only
 
-            3.  [[Philippians 4#4:13]] – I have learned the secret of success,
+            3.  [[Philippians 4#4:13|Philippians 4:13]] – I have learned the secret of success,
                 > to be content in all things
 
     19. Verse 14:14-18
@@ -3184,7 +3184,7 @@ aliases:
 
         4.  The bread and the quail are not the answer to their
             > problems, seeing the glory of the Lord is the final answer
-            > ([[John 1#1:14]])
+            > ([[John 1#1:14|John 1:14]])
 
     5.  Verse 16:8-30
 
@@ -3295,7 +3295,7 @@ aliases:
 
     6.  Verse 16:31-36
 
-        1.  [[Joshua 5#5:12]] says when the Manna stopped
+        1.  [[Joshua 5#5:12|Joshua 5:12]] says when the Manna stopped
 
         2.  Even in that situation they are still in a gathering
             > position
@@ -3490,9 +3490,9 @@ aliases:
 
         5.  They are probably following customary law at this time
 
-        6.  [[Deuteronomy 17#17:14-20]]
+        6.  [[Deuteronomy 17#17:14-20|Deuteronomy 17:14-20]]
 
-        7.  Passage may be similar to [[Numbers 11#11:17]]
+        7.  Passage may be similar to [[Numbers 11#11:17|Numbers 11:17]]
 
         8.  Two main points of this passage
 
@@ -3741,7 +3741,7 @@ aliases:
 
             2.  The last six are how we relate to other people
 
-            3.  This is in accordance with Jesus in [[Matthew 22#22:37-29]]
+            3.  This is in accordance with Jesus in [[Matthew 22#22:37-29|Matthew 22:37-29]]
 
         7.  Ironically, law is situated permanently in the context of
             > relationship
@@ -4745,7 +4745,7 @@ aliases:
             4.  Whatever is happening with the angel, we can say for
                 > sure that it is a relationship that is not desirable
 
-            5.  [[Exodus 4#4:19]] the “pillar of God” is called the angel of
+            5.  [[Exodus 4#4:19|Exodus 4:19]] the “pillar of God” is called the angel of
                 > God so it could be talking about his visible presence
 
         4.  Moses immediately confronts God
@@ -5070,7 +5070,7 @@ aliases:
 
         10. “Full of grace and truth”
 
-            1.  [[Exodus 34#34:6]] again
+            1.  [[Exodus 34#34:6|Exodus 34:6]] again
 
             2.  Same concepts
 
@@ -5182,7 +5182,7 @@ Covenant
 
 Promise – 2 Sam. 7:12-16
 
-Obligation – [[1 Kings 2#2:1-4]]
+Obligation – [[1 Kings 2#2:1-4|1 Kings 2:1-4]]
 
 <img src="media/image3.gif" style="width:0.65625in;height:0.91667in" />
 
@@ -5192,15 +5192,15 @@ Obligation – [[1 Kings 2#2:1-4]]
 
 New Covenant
 
-Promise – Jer. 31:31, [[Ezekiel 36#36:24-36]]
+Promise – Jer. 31:31, [[Ezekiel 36#36:24-36|Ezekiel 36:24-36]]
 
 Matt. 5:1-16, 11:28-30 “rest,” Eph. 2:8-9
 
-Obligation – [[Ezekiel 36#36:27]]b and [[Jeremiah 31#31:33]]b
+Obligation – [[Ezekiel 36#36:27|Ezekiel 36:27]]b and [[Jeremiah 31#31:33|Jeremiah 31:33]]b
 
 Matt. 5:17ff, 11:28-30 “yoke,” Eph. 2:10
 
-1.  [[Jeremiah 31#31:33]]b – “I will put my law in their minds and write it on
+1.  [[Jeremiah 31#31:33|Jeremiah 31:33]]b – “I will put my law in their minds and write it on
     > their hearts. I will be their God, and they will be my people.”
 
 Israel’s Place in the New Covenant

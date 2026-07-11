@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 45"
+pagerPrevUrl: "/bible/prophets/ezekiel-45"
+pagerNextTitle: "Ezekiel 47"
+pagerNextUrl: "/bible/prophets/ezekiel-47"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 46

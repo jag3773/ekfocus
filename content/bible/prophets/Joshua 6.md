@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 5"
+pagerPrevUrl: "/bible/prophets/joshua-5"
+pagerNextTitle: "Joshua 7"
+pagerNextUrl: "/bible/prophets/joshua-7"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 6

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 118"
+pagerPrevUrl: "/bible/writings/psalm-118"
+pagerNextTitle: "Psalm 120"
+pagerNextUrl: "/bible/writings/psalm-120"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 119

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 43"
+pagerPrevUrl: "/bible/prophets/isaiah-43"
+pagerNextTitle: "Isaiah 45"
+pagerNextUrl: "/bible/prophets/isaiah-45"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 44

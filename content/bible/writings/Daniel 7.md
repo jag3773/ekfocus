@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Daniel 6"
+pagerPrevUrl: "/bible/writings/daniel-6"
+pagerNextTitle: "Daniel 8"
+pagerNextUrl: "/bible/writings/daniel-8"
+pagerUpTitle: "Daniel"
+pagerUpUrl: "/bible#daniel"
 ---
 
 # Daniel 7

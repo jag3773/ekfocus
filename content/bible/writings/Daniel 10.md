@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Daniel 9"
+pagerPrevUrl: "/bible/writings/daniel-9"
+pagerNextTitle: "Daniel 11"
+pagerNextUrl: "/bible/writings/daniel-11"
+pagerUpTitle: "Daniel"
+pagerUpUrl: "/bible#daniel"
 ---
 
 # Daniel 10

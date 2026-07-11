@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Corinthians 11"
+pagerPrevUrl: "/bible/epistles/2-corinthians-11"
+pagerNextTitle: "2 Corinthians 13"
+pagerNextUrl: "/bible/epistles/2-corinthians-13"
+pagerUpTitle: "2 Corinthians"
+pagerUpUrl: "/bible#2-corinthians"
 ---
 
 # 2 Corinthians 12

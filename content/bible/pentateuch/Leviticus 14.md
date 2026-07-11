@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 13"
+pagerPrevUrl: "/bible/pentateuch/leviticus-13"
+pagerNextTitle: "Leviticus 15"
+pagerNextUrl: "/bible/pentateuch/leviticus-15"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 14

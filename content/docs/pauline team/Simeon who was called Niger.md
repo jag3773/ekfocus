@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #prophet
 - Home:: [[Antioch Church|Antioch]] (possibly from Africa)
 - Other Locales:: None recorded
-- References:: [[Acts 13#13:1]]
+- References:: [[Acts 13#13:1|Acts 13:1]]
 
 ## Notes
 - Called "Niger" (Latin for "black"), suggesting African descent
@@ -17,11 +17,11 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Simeon called Niger appears once in [[Acts 13#13:1]], listed among the "prophets and teachers" in the [[Antioch Church]] alongside [[Barnabas]], [[Lucius of Cyrene]], [[Manaen]], and [[Paul]].
+Simeon called Niger appears once in [[Acts 13#13:1|Acts 13:1]], listed among the "prophets and teachers" in the [[Antioch Church]] alongside [[Barnabas]], [[Lucius of Cyrene]], [[Manaen]], and [[Paul]].
 
-His Latin cognomen "Niger" means "black" and refers to his physical appearance, a dark complexion indicating African descent. Some scholars speculate that Simeon Niger is the same person as Simon of Cyrene, the African man who carried Jesus's cross ([[Mark 15#15:21]], [[Luke 23#23:26]]). Cyrene was a major North African city (modern Libya), and both "Simeon" and "Simon" are variant forms of the same Semitic name. If this identification is correct, though it remains speculative, the man who bore Christ's cross became a prophet and teacher in the church that launched the Gentile mission. Mark notes that Simon of Cyrene was "the father of Alexander and Rufus" ([[Mark 15#15:21]]), apparently known figures in the early church.
+His Latin cognomen "Niger" means "black" and refers to his physical appearance, a dark complexion indicating African descent. Some scholars speculate that Simeon Niger is the same person as Simon of Cyrene, the African man who carried Jesus's cross ([[Mark 15#15:21|Mark 15:21]], [[Luke 23#23:26|Luke 23:26]]). Cyrene was a major North African city (modern Libya), and both "Simeon" and "Simon" are variant forms of the same Semitic name. If this identification is correct, though it remains speculative, the man who bore Christ's cross became a prophet and teacher in the church that launched the Gentile mission. Mark notes that Simon of Cyrene was "the father of Alexander and Rufus" ([[Mark 15#15:21|Mark 15:21]]), apparently known figures in the early church.
 
-Simeon Niger's presence in the [[Antioch Church|Antioch]] leadership team was significant. The [[Antioch Church]]'s leadership was remarkably diverse: a North African (Simeon), a Cyrenian Jew ([[Lucius of Cyrene|Lucius]]), a Cypriot Levite ([[Barnabas]]), a Herodian courtier ([[Manaen]]), and a Pharisaic tent-maker (Paul). This ethnic, cultural, and social diversity shaped the community that the Holy Spirit chose as the launching point for the worldwide Gentile mission ([[Acts 13#13:2-3]]).
+Simeon Niger's presence in the [[Antioch Church|Antioch]] leadership team was significant. The [[Antioch Church]]'s leadership was remarkably diverse: a North African (Simeon), a Cyrenian Jew ([[Lucius of Cyrene|Lucius]]), a Cypriot Levite ([[Barnabas]]), a Herodian courtier ([[Manaen]]), and a Pharisaic tent-maker (Paul). This ethnic, cultural, and social diversity shaped the community that the Holy Spirit chose as the launching point for the worldwide Gentile mission ([[Acts 13#13:2-3|Acts 13:2-3]]).
 
 ## References
 

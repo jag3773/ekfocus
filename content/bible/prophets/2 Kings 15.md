@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Kings 14"
+pagerPrevUrl: "/bible/prophets/2-kings-14"
+pagerNextTitle: "2 Kings 16"
+pagerNextUrl: "/bible/prophets/2-kings-16"
+pagerUpTitle: "2 Kings"
+pagerUpUrl: "/bible#2-kings"
 ---
 
 # 2 Kings 15

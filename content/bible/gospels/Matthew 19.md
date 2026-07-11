@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Matthew 18"
+pagerPrevUrl: "/bible/gospels/matthew-18"
+pagerNextTitle: "Matthew 20"
+pagerNextUrl: "/bible/gospels/matthew-20"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 19

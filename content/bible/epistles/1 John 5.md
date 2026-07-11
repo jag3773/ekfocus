@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 John 4"
+pagerPrevUrl: "/bible/epistles/1-john-4"
+pagerNextTitle: "2 John 1"
+pagerNextUrl: "/bible/epistles/2-john-1"
+pagerUpTitle: "1 John"
+pagerUpUrl: "/bible#1-john"
 ---
 
 # 1 John 5

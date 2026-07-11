@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Daniel 1"
+pagerPrevUrl: "/bible/writings/daniel-1"
+pagerNextTitle: "Daniel 3"
+pagerNextUrl: "/bible/writings/daniel-3"
+pagerUpTitle: "Daniel"
+pagerUpUrl: "/bible#daniel"
 ---
 
 # Daniel 2

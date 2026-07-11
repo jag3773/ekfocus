@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezekiel 35"
+pagerPrevUrl: "/bible/prophets/ezekiel-35"
+pagerNextTitle: "Ezekiel 37"
+pagerNextUrl: "/bible/prophets/ezekiel-37"
+pagerUpTitle: "Ezekiel"
+pagerUpUrl: "/bible#ezekiel"
 ---
 
 # Ezekiel 36

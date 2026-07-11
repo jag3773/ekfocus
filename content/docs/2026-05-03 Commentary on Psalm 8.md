@@ -12,7 +12,7 @@ _A psalm of David. For the director of music. According to gittith._
 
 **"LORD, our Lord, how majestic is your name in all the earth! You have set your glory in the heavens."**
 
-The psalm opens with an exclamation of worship, addressing God with two distinct Hebrew terms: _YHWH_ (the covenant name of God) and _Adonai_ (sovereign Lord). David is not merely acknowledging that God exists, he is declaring that God's revealed character (_his name_, see [[Exodus 3#3:14]] & [[Exodus 34#34:5-7]]) fills all creation with splendor. The phrase "in all the earth" sets the cosmic scope: this is not a local deity (as was common in the Ancient Near East) but the God whose reputation extends to the edges of the world and beyond, into the heavens themselves. The verse frames everything that follows as an act of wonder, not analysis.
+The psalm opens with an exclamation of worship, addressing God with two distinct Hebrew terms: _YHWH_ (the covenant name of God) and _Adonai_ (sovereign Lord). David is not merely acknowledging that God exists, he is declaring that God's revealed character (_his name_, see [[Exodus 3#3:14|Exodus 3:14]] & [[Exodus 34#34:5-7|Exodus 34:5-7]]) fills all creation with splendor. The phrase "in all the earth" sets the cosmic scope: this is not a local deity (as was common in the Ancient Near East) but the God whose reputation extends to the edges of the world and beyond, into the heavens themselves. The verse frames everything that follows as an act of wonder, not analysis.
 
 ---
 
@@ -20,7 +20,7 @@ The psalm opens with an exclamation of worship, addressing God with two distinct
 
 **"Through the praise of children and infants you have established a stronghold against your enemies, to silence the foe and the avenger."**
 
-This is one of the most striking verses in the psalm. God's power is displayed not through military might but through the weakest voices: nursing infants and small children. The Hebrew word translated "stronghold" (_oz_) can also mean "strength" or "fortress." The paradox is deliberate: God confounds his opponents through what the world considers insignificant. Jesus quoted this verse ([[Matthew 21#21:16]]) when the chief priests objected to children praising him in the temple, connecting it to his own messianic identity. The "foe and the avenger" likely refers to any force, spiritual or human, that sets itself against God's purposes.
+This is one of the most striking verses in the psalm. God's power is displayed not through military might but through the weakest voices: nursing infants and small children. The Hebrew word translated "stronghold" (_oz_) can also mean "strength" or "fortress." The paradox is deliberate: God confounds his opponents through what the world considers insignificant. Jesus quoted this verse ([[Matthew 21#21:16|Matthew 21:16]]) when the chief priests objected to children praising him in the temple, connecting it to his own messianic identity. The "foe and the avenger" likely refers to any force, spiritual or human, that sets itself against God's purposes.
 
 ---
 
@@ -44,7 +44,7 @@ Here is the heart of the psalm. Against the backdrop of the cosmos, David asks w
 
 **"You have made them a little lower than the angels, and crowned them with glory and honor."**
 
-The answer to verse 4's question is astonishing: rather than being insignificant, humanity holds a position of extraordinary dignity. The Hebrew word translated "angels" is actually _elohim_, which can mean "God" or "heavenly beings." The Septuagint (Greek Old Testament) translated it as "angels," which is the reading the author of Hebrews follows ([[Hebrews 2#2:6-8]]). The point is that humans are placed just below the divine realm and then _crowned_, given royal honor. This is not earned status but bestowed dignity as God breathed life into us as he created us in his image ([[Genesis 1#1:27]]).
+The answer to verse 4's question is astonishing: rather than being insignificant, humanity holds a position of extraordinary dignity. The Hebrew word translated "angels" is actually _elohim_, which can mean "God" or "heavenly beings." The Septuagint (Greek Old Testament) translated it as "angels," which is the reading the author of Hebrews follows ([[Hebrews 2#2:6-8|Hebrews 2:6-8]]). The point is that humans are placed just below the divine realm and then _crowned_, given royal honor. This is not earned status but bestowed dignity as God breathed life into us as he created us in his image ([[Genesis 1#1:27|Genesis 1:27]]).
 
 ---
 
@@ -52,7 +52,7 @@ The answer to verse 4's question is astonishing: rather than being insignificant
 
 **"You made them rulers over the works of your hands; you put everything under their feet:"**
 
-This verse echoes [[Genesis 1#1:26-28]], the creation mandate where God creates us and gives us dominion over the earth. "Under their feet" is ancient Near Eastern royal language, a king placed his foot on the neck of a conquered enemy. But here the "conquest" is stewardship, not exploitation. Humanity is given responsibility for all that God has made. The author of Hebrews picks up this verse and notes that we do not yet see everything subjected to humanity, but we do see Jesus, the true human, fulfilling this role ([[Hebrews 2#2:8-9]]).
+This verse echoes [[Genesis 1#1:26-28|Genesis 1:26-28]], the creation mandate where God creates us and gives us dominion over the earth. "Under their feet" is ancient Near Eastern royal language, a king placed his foot on the neck of a conquered enemy. But here the "conquest" is stewardship, not exploitation. Humanity is given responsibility for all that God has made. The author of Hebrews picks up this verse and notes that we do not yet see everything subjected to humanity, but we do see Jesus, the true human, fulfilling this role ([[Hebrews 2#2:8-9|Hebrews 2:8-9]]).
 
 ---
 
@@ -76,6 +76,6 @@ The psalm comes back to exactly where it began (called an _inclusio_, or bookend
 
 **Creation and dignity.** [[Psalm 8]] is one of the Bible's foundational texts on human dignity — not rooted in achievement or capacity, but in God's decision to crown and commission humanity. This recaps what we see in [[Genesis 1]] and [[Genesis 2]].
 
-**Christology.** The New Testament applies this psalm directly to Jesus. [[Hebrews 2#2:6-9]] reads the "son of man" as Christ, the one who was made lower than the angels through the incarnation, crowned with glory through the resurrection, and who will ultimately have all things under his feet. Paul cites this psalm with a similar comment in [[1 Corinthians 15#15:27]].
+**Christology.** The New Testament applies this psalm directly to Jesus. [[Hebrews 2#2:6-9|Hebrews 2:6-9]] reads the "son of man" as Christ, the one who was made lower than the angels through the incarnation, crowned with glory through the resurrection, and who will ultimately have all things under his feet. Paul cites this psalm with a similar comment in [[1 Corinthians 15#15:27|1 Corinthians 15:27]].
 
 **Worship as the frame.** The psalm begins and ends with praise, not with complaint or argument. David's theology of humanity emerges from worship, not from philosophy. The proper context for understanding who we are is standing before God and marveling.

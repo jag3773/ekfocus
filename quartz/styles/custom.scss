@@ -131,18 +131,62 @@ body[data-slug^="bible/"] {
   }
 }
 
-// mobile: title row wraps, nav below
+// mobile: one compact row (title left, search + theme right), then the nav
+// as a single horizontally-scrollable line
 @media all and ($mobile) {
+  // the nav's min-content width must not widen the single grid column
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+
+    & > * {
+      min-width: 0;
+      max-width: 100%;
+    }
+  }
+
   .sidebar.left {
     flex-wrap: wrap;
-    row-gap: 0.8rem;
-    padding-bottom: 1rem;
+    align-items: center;
+    row-gap: 0.6rem;
+    padding: 1rem 0 0.6rem 0;
     border-bottom: 1px solid var(--lightgray);
+
+    & .page-title {
+      order: 1;
+      flex: 1;
+      font-size: 1.25rem;
+    }
+
+    & .flex-component {
+      order: 2;
+      flex-shrink: 0;
+    }
+
+    & .spacer {
+      display: none;
+    }
+
+    & .ek-nav {
+      order: 3;
+      width: 100%;
+      justify-content: flex-start;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      gap: 1.2rem;
+      padding-bottom: 0.2rem;
+
+      &::-webkit-scrollbar {
+        display: none;
+      }
+
+      & .ek-nav-link {
+        white-space: nowrap;
+      }
+    }
   }
-  .ek-nav {
-    width: 100%;
-    justify-content: center;
-  }
+
 }
 
 // hide heading anchor chain-link icons until hover
@@ -163,6 +207,12 @@ article :hover > a.internal[role="anchor"] {
   color: var(--gray);
 }
 
+// breadcrumbs: internal folder names are lowercase in the vault — present
+// them capitalized
+.breadcrumb-container .breadcrumb-element a {
+  text-transform: capitalize;
+}
+
 // ---- homepage ------------------------------------------------------------
 
 body[data-slug="index"] {
@@ -173,11 +223,12 @@ body[data-slug="index"] {
     max-width: 340px;
   }
 
-  // hide chrome that duplicates the wordmark, and the graph
+  // hide chrome that duplicates the wordmark; the right rail adds nothing
+  // on the landing page (graph is disabled here at the component level)
   & h1.article-title,
   & .content-meta,
   & .breadcrumb-container,
-  & .graph {
+  & .sidebar.right {
     display: none;
   }
 
@@ -336,4 +387,12 @@ body[data-slug="bible/index"] .center article {
 .popover > .popover-inner {
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+// mobile: the header already carries the brand — skip the big wordmark.
+// (kept last so it wins over the desktop img rule above)
+@media all and (max-width: 800px) {
+  body[data-slug="index"] .center article img[src*="ekfocus_wordmark"] {
+    display: none;
+  }
 }

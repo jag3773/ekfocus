@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Kings 15"
+pagerPrevUrl: "/bible/prophets/1-kings-15"
+pagerNextTitle: "1 Kings 17"
+pagerNextUrl: "/bible/prophets/1-kings-17"
+pagerUpTitle: "1 Kings"
+pagerUpUrl: "/bible#1-kings"
 ---
 
 # 1 Kings 16

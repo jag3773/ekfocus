@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 11"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-11"
+pagerNextTitle: "Deuteronomy 13"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-13"
+pagerUpTitle: "Deuteronomy"
+pagerUpUrl: "/bible#deuteronomy"
 ---
 
 # Deuteronomy 12

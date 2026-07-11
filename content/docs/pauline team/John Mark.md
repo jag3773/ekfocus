@@ -9,23 +9,23 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: Jerusalem
 - Other Locales:: [[Roman Church]], [[Colossian Church]], Cyprus
-- References:: [[Acts 12#12:25]], [[Acts 13#13:5]], [[Acts 13#13:13]], [[Acts 15#15:36-41]], [[Colossians 4#4:10]], [[2 Timothy 4#4:11]], [[Philemon 1#1:24]], [[1 Peter 5#5:13]]
+- References:: [[Acts 12#12:25|Acts 12:25]], [[Acts 13#13:5|Acts 13:5]], [[Acts 13#13:13|Acts 13:13]], [[Acts 15#15:36-41|Acts 15:36-41]], [[Colossians 4#4:10|Colossians 4:10]], [[2 Timothy 4#4:11|2 Timothy 4:11]], [[Philemon 1#1:24|Philemon 1:24]], [[1 Peter 5#5:13|1 Peter 5:13]]
 
 ## Notes
-- Cousin of [[Barnabas]] according to [[Colossians 4#4:10]]
-- His mother Mary hosted the Jerusalem prayer gathering where Peter went after his miraculous release from prison ([[Acts 12#12:12]])
+- Cousin of [[Barnabas]] according to [[Colossians 4#4:10|Colossians 4:10]]
+- His mother Mary hosted the Jerusalem prayer gathering where Peter went after his miraculous release from prison ([[Acts 12#12:12|Acts 12:12]])
 
 ## Summary
 
 John Mark, identified by his Jewish name John and his Roman name Marcus, carried both failure and restoration through his career in the early church.
 
-His family had standing in Jerusalem. His mother Mary owned a house large enough to host a prayer gathering, and [[Peter]] went there after the angel freed him from Herod's prison ([[Acts 12#12:12]]). Mark was the cousin of [[Barnabas]] ([[Colossians 4#4:10]]), which explains how he joined the first journey out of [[Antioch Church|Antioch]].
+His family had standing in Jerusalem. His mother Mary owned a house large enough to host a prayer gathering, and [[Peter]] went there after the angel freed him from Herod's prison ([[Acts 12#12:12|Acts 12:12]]). Mark was the cousin of [[Barnabas]] ([[Colossians 4#4:10|Colossians 4:10]]), which explains how he joined the first journey out of [[Antioch Church|Antioch]].
 
-[[Barnabas]] and [[Paul]] took Mark as a helper (*hypēretēs*) when they set out ([[Acts 12#12:25]], [[Acts 13#13:5]]). At Perga in Pamphylia, Mark left and returned to Jerusalem ([[Acts 13#13:13]]). Luke gives no reason, but Paul took it seriously enough that when Barnabas proposed bringing Mark on the second journey, Paul refused. The disagreement was so sharp (*paroxysmos*) that they split: Barnabas took Mark to Cyprus, Paul chose [[Silas]] for Syria and Cilicia ([[Acts 15#15:36-41]]).
+[[Barnabas]] and [[Paul]] took Mark as a helper (*hypēretēs*) when they set out ([[Acts 12#12:25|Acts 12:25]], [[Acts 13#13:5|Acts 13:5]]). At Perga in Pamphylia, Mark left and returned to Jerusalem ([[Acts 13#13:13|Acts 13:13]]). Luke gives no reason, but Paul took it seriously enough that when Barnabas proposed bringing Mark on the second journey, Paul refused. The disagreement was so sharp (*paroxysmos*) that they split: Barnabas took Mark to Cyprus, Paul chose [[Silas]] for Syria and Cilicia ([[Acts 15#15:36-41|Acts 15:36-41]]).
 
-By the time Paul writes from Roman imprisonment, Mark is restored. Paul lists him among his "fellow workers" ([[Philemon 1#1:24]]) and tells the Colossians to welcome Mark if he comes ([[Colossians 4#4:10]]), a statement that only makes sense if Mark's earlier reputation needed correction. In what may be Paul's final letter, he asks [[Timothy]] to "get Mark and bring him with you, because he is useful to me for ministry" ([[2 Timothy 4#4:11]]).
+By the time Paul writes from Roman imprisonment, Mark is restored. Paul lists him among his "fellow workers" ([[Philemon 1#1:24|Philemon 1:24]]) and tells the Colossians to welcome Mark if he comes ([[Colossians 4#4:10|Colossians 4:10]]), a statement that only makes sense if Mark's earlier reputation needed correction. In what may be Paul's final letter, he asks [[Timothy]] to "get Mark and bring him with you, because he is useful to me for ministry" ([[2 Timothy 4#4:11|2 Timothy 4:11]]).
 
-Peter called Mark "my son" ([[1 Peter 5#5:13]]), suggesting a mentoring relationship. Early church tradition identifies Mark as the author of the Gospel of Mark. Papias (c. 130 AD) described it as Peter's memoirs written down by Mark. If correct, the young man who abandoned the first journey wrote the earliest narrative of Jesus's life.
+Peter called Mark "my son" ([[1 Peter 5#5:13|1 Peter 5:13]]), suggesting a mentoring relationship. Early church tradition identifies Mark as the author of the Gospel of Mark. Papias (c. 130 AD) described it as Peter's memoirs written down by Mark. If correct, the young man who abandoned the first journey wrote the earliest narrative of Jesus's life.
 
 [[Barnabas]] invested in Mark when Paul would not. Paul later acknowledged that Barnabas was right. The relational resilience of this network turned a conspicuous failure into a Gospel author.
 

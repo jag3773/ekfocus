@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Judges 13"
+pagerPrevUrl: "/bible/prophets/judges-13"
+pagerNextTitle: "Judges 15"
+pagerNextUrl: "/bible/prophets/judges-15"
+pagerUpTitle: "Judges"
+pagerUpUrl: "/bible#judges"
 ---
 
 # Judges 14

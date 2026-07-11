@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Daniel 12"
+pagerPrevUrl: "/bible/writings/daniel-12"
+pagerNextTitle: "Hosea 2"
+pagerNextUrl: "/bible/prophets/hosea-2"
+pagerUpTitle: "Hosea"
+pagerUpUrl: "/bible#hosea"
 ---
 
 # Hosea 1

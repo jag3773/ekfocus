@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jude 1"
+pagerPrevUrl: "/bible/epistles/jude-1"
+pagerNextTitle: "Revelation 2"
+pagerNextUrl: "/bible/epistles/revelation-2"
+pagerUpTitle: "Revelation"
+pagerUpUrl: "/bible#revelation"
 ---
 
 # Revelation 1

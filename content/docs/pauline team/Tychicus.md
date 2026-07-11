@@ -9,21 +9,21 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #equipping-servant
 - Home:: Asia Minor (but town/city unknown)
 - Other Locales:: [[Colossian Church]], [[Ephesian Church]], [[Roman Church]]
-- References::  [[Acts 20#20:4]], [[Philippians 4#4:7]], [[2 Timothy 4#4:12]], [[Titus 3#3:12]], [[Colossians 4#4:7]], [[Ephesians 6#6:21]]
+- References::  [[Acts 20#20:4|Acts 20:4]], [[Philippians 4#4:7|Philippians 4:7]], [[2 Timothy 4#4:12|2 Timothy 4:12]], [[Titus 3#3:12|Titus 3:12]], [[Colossians 4#4:7|Colossians 4:7]], [[Ephesians 6#6:21|Ephesians 6:21]]
 
 ## Notes
-- According to [[Colossians 4#4:7]] he appears to be the letter bearer of Colossians, along with [[Onesimus]]
-- According to [[Ephesians 6#6:21-22]] he appears to be the letter bearer of Ephesians
+- According to [[Colossians 4#4:7|Colossians 4:7]] he appears to be the letter bearer of Colossians, along with [[Onesimus]]
+- According to [[Ephesians 6#6:21-22|Ephesians 6:21-22]] he appears to be the letter bearer of Ephesians
 
 ## Summary
 
-Tychicus came from the Roman province of Asia ([[Acts 20#20:4]]). He first appears in the delegation carrying the collection for the saints from Greece through Macedonia to Jerusalem ([[Acts 20#20:4]]), which places him among respected figures in the Asian churches before Paul's imprisonment.
+Tychicus came from the Roman province of Asia ([[Acts 20#20:4|Acts 20:4]]). He first appears in the delegation carrying the collection for the saints from Greece through Macedonia to Jerusalem ([[Acts 20#20:4|Acts 20:4]]), which places him among respected figures in the Asian churches before Paul's imprisonment.
 
-Paul called him "the beloved brother and faithful servant and fellow bondservant in the Lord" ([[Colossians 4#4:7]]) and "the faithful minister in the Lord" ([[Ephesians 6#6:21]]). The Greek term *diakonos* puts Tychicus in the same functional category as [[Paul]], [[Timothy]], [[Apollos]], [[Epaphras]], and [[Phoebe]], all identified as *diakonoi* serving the early church in leadership roles.
+Paul called him "the beloved brother and faithful servant and fellow bondservant in the Lord" ([[Colossians 4#4:7|Colossians 4:7]]) and "the faithful minister in the Lord" ([[Ephesians 6#6:21|Ephesians 6:21]]). The Greek term *diakonos* puts Tychicus in the same functional category as [[Paul]], [[Timothy]], [[Apollos]], [[Epaphras]], and [[Phoebe]], all identified as *diakonoi* serving the early church in leadership roles.
 
-Tychicus carried at least two of Paul's prison epistles. He delivered the letter to the [[Colossian Church]] with [[Onesimus]] ([[Colossians 4#4:7-9]]) and almost certainly brought the letter to the [[Ephesian Church]] too ([[Ephesians 6#6:21-22]]). As Paul's coworker, he wasn't only tasked with carrying the letter but with strengthening and encouraging the congregations he visited. He was a critical bridge of communication and exhortation in the expanding early church.
+Tychicus carried at least two of Paul's prison epistles. He delivered the letter to the [[Colossian Church]] with [[Onesimus]] ([[Colossians 4#4:7-9|Colossians 4:7-9]]) and almost certainly brought the letter to the [[Ephesian Church]] too ([[Ephesians 6#6:21-22|Ephesians 6:21-22]]). As Paul's coworker, he wasn't only tasked with carrying the letter but with strengthening and encouraging the congregations he visited. He was a critical bridge of communication and exhortation in the expanding early church.
 
-Paul sent or planned to send Tychicus to Ephesus ([[2 Timothy 4#4:12]]), probably to relieve [[Timothy]] so Timothy could rejoin Paul in Rome. Paul also considered sending either [[Artemas]] or Tychicus to Crete to replace [[Titus]] ([[Titus 3#3:12]]), which shows Paul trusted Tychicus as an equipping servant just as he did Titus.
+Paul sent or planned to send Tychicus to Ephesus ([[2 Timothy 4#4:12|2 Timothy 4:12]]), probably to relieve [[Timothy]] so Timothy could rejoin Paul in Rome. Paul also considered sending either [[Artemas]] or Tychicus to Crete to replace [[Titus]] ([[Titus 3#3:12|Titus 3:12]]), which shows Paul trusted Tychicus as an equipping servant just as he did Titus.
 
 Tychicus may not have had a strong apostolic gifting as we don't see him starting churches in new areas but he did function as an equipping servant alongside Paul.
 

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Mark 5"
+pagerPrevUrl: "/bible/gospels/mark-5"
+pagerNextTitle: "Mark 7"
+pagerNextUrl: "/bible/gospels/mark-7"
+pagerUpTitle: "Mark"
+pagerUpUrl: "/bible#mark"
 ---
 
 # Mark 6

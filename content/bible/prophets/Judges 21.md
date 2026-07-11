@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Judges 20"
+pagerPrevUrl: "/bible/prophets/judges-20"
+pagerNextTitle: "Ruth 1"
+pagerNextUrl: "/bible/writings/ruth-1"
+pagerUpTitle: "Judges"
+pagerUpUrl: "/bible#judges"
 ---
 
 # Judges 21

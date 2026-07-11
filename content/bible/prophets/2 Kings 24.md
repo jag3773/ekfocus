@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Kings 23"
+pagerPrevUrl: "/bible/prophets/2-kings-23"
+pagerNextTitle: "2 Kings 25"
+pagerNextUrl: "/bible/prophets/2-kings-25"
+pagerUpTitle: "2 Kings"
+pagerUpUrl: "/bible#2-kings"
 ---
 
 # 2 Kings 24

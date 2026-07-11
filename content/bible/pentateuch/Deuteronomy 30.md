@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 29"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-29"
+pagerNextTitle: "Deuteronomy 31"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-31"
+pagerUpTitle: "Deuteronomy"
+pagerUpUrl: "/bible#deuteronomy"
 ---
 
 # Deuteronomy 30

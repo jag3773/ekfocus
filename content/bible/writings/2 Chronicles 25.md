@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Chronicles 24"
+pagerPrevUrl: "/bible/writings/2-chronicles-24"
+pagerNextTitle: "2 Chronicles 26"
+pagerNextUrl: "/bible/writings/2-chronicles-26"
+pagerUpTitle: "2 Chronicles"
+pagerUpUrl: "/bible#2-chronicles"
 ---
 
 # 2 Chronicles 25

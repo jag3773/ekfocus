@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Numbers 28"
+pagerPrevUrl: "/bible/pentateuch/numbers-28"
+pagerNextTitle: "Numbers 30"
+pagerNextUrl: "/bible/pentateuch/numbers-30"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 29

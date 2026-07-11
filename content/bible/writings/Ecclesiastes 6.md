@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ecclesiastes 5"
+pagerPrevUrl: "/bible/writings/ecclesiastes-5"
+pagerNextTitle: "Ecclesiastes 7"
+pagerNextUrl: "/bible/writings/ecclesiastes-7"
+pagerUpTitle: "Ecclesiastes"
+pagerUpUrl: "/bible#ecclesiastes"
 ---
 
 # Ecclesiastes 6

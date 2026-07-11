@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Job 2"
+pagerPrevUrl: "/bible/writings/job-2"
+pagerNextTitle: "Job 4"
+pagerNextUrl: "/bible/writings/job-4"
+pagerUpTitle: "Job"
+pagerUpUrl: "/bible#job"
 ---
 
 # Job 3

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 34"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-34"
+pagerNextTitle: "Joshua 2"
+pagerNextUrl: "/bible/prophets/joshua-2"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 1

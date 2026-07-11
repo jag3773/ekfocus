@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 17"
+pagerPrevUrl: "/bible/prophets/joshua-17"
+pagerNextTitle: "Joshua 19"
+pagerNextUrl: "/bible/prophets/joshua-19"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 18

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 6"
+pagerPrevUrl: "/bible/prophets/isaiah-6"
+pagerNextTitle: "Isaiah 8"
+pagerNextUrl: "/bible/prophets/isaiah-8"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 7

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Samuel 14"
+pagerPrevUrl: "/bible/prophets/2-samuel-14"
+pagerNextTitle: "2 Samuel 16"
+pagerNextUrl: "/bible/prophets/2-samuel-16"
+pagerUpTitle: "2 Samuel"
+pagerUpUrl: "/bible#2-samuel"
 ---
 
 # 2 Samuel 15

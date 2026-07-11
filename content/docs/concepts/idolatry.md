@@ -3,17 +3,17 @@ publish: true
 modified: 2026-06-20T20:55:29.000Z
 ---
 
-Giving to any created thing the worship, trust, or devotion that belongs to God alone. Scripture treats idolatry as spiritual adultery: Israel is a bride who abandons her husband for lovers ([[Ezekiel 16]], [[Hosea 2#2:2-13]]). The prophets mock the absurdity of bowing to what your own hands carved ([[Isaiah 44#44:9-20]]).
+Giving to any created thing the worship, trust, or devotion that belongs to God alone. Scripture treats idolatry as spiritual adultery: Israel is a bride who abandons her husband for lovers ([[Ezekiel 16]], [[Hosea 2#2:2-13|Hosea 2:2-13]]). The prophets mock the absurdity of bowing to what your own hands carved ([[Isaiah 44#44:9-20|Isaiah 44:9-20]]).
 
-G.K. Beale's central insight: worshipers become like what they worship ([[Psalm 115#115:8]], [[Psalm 135#135:18]]). Idolatry does not leave the worshiper unchanged. Those who worship deaf, blind, mute objects grow deaf, blind, and mute to God. The same principle works in reverse: those who behold God's [[glory of God|glory]] are transformed into his image ([[2 Corinthians 3#3:18]]).
+G.K. Beale's central insight: worshipers become like what they worship ([[Psalm 115#115:8|Psalm 115:8]], [[Psalm 135#135:18|Psalm 135:18]]). Idolatry does not leave the worshiper unchanged. Those who worship deaf, blind, mute objects grow deaf, blind, and mute to God. The same principle works in reverse: those who behold God's [[glory of God|glory]] are transformed into his image ([[2 Corinthians 3#3:18|2 Corinthians 3:18]]).
 
-Ezekiel names Israel's idolatry in escalating terms: unfaithfulness ([[Ezekiel 16]]), prostitution ([[Ezekiel 23]]), and child sacrifice ([[Ezekiel 23#23:37-39]]). The consequence: God withdraws his presence from the [[temple]].
+Ezekiel names Israel's idolatry in escalating terms: unfaithfulness ([[Ezekiel 16]]), prostitution ([[Ezekiel 23]]), and child sacrifice ([[Ezekiel 23#23:37-39|Ezekiel 23:37-39]]). The consequence: God withdraws his presence from the [[temple]].
 
 Modern idolatry takes subtler forms. [[Timothy Keller]] defined an idol as anything so central to your life that losing it would make life feel meaningless. Richard Lints traces how the [[image of God]] in humanity gets inverted when we worship images we create.
 
 ## Key Passages
 
-[[Exodus 20#20:3-5]], [[Psalm 115#115:4-8]], [[Isaiah 44#44:9-20]], [[Ezekiel 16]], [[Ezekiel 23]], [[Romans 1#1:21-25]], [[1 John 5#5:21]]
+[[Exodus 20#20:3-5|Exodus 20:3-5]], [[Psalm 115#115:4-8|Psalm 115:4-8]], [[Isaiah 44#44:9-20|Isaiah 44:9-20]], [[Ezekiel 16]], [[Ezekiel 23]], [[Romans 1#1:21-25|Romans 1:21-25]], [[1 John 5#5:21|1 John 5:21]]
 
 ## Vault Notes
 

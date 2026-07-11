@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 29"
+pagerPrevUrl: "/bible/prophets/isaiah-29"
+pagerNextTitle: "Isaiah 31"
+pagerNextUrl: "/bible/prophets/isaiah-31"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 30

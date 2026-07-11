@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Esther 8"
+pagerPrevUrl: "/bible/writings/esther-8"
+pagerNextTitle: "Esther 10"
+pagerNextUrl: "/bible/writings/esther-10"
+pagerUpTitle: "Esther"
+pagerUpUrl: "/bible#esther"
 ---
 
 # Esther 9

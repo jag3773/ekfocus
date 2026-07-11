@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 52"
+pagerPrevUrl: "/bible/writings/psalm-52"
+pagerNextTitle: "Psalm 54"
+pagerNextUrl: "/bible/writings/psalm-54"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 53

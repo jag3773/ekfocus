@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Titus 2"
+pagerPrevUrl: "/bible/epistles/titus-2"
+pagerNextTitle: "Philemon 1"
+pagerNextUrl: "/bible/epistles/philemon-1"
+pagerUpTitle: "Titus"
+pagerUpUrl: "/bible#titus"
 ---
 
 # [[Titus]] 3

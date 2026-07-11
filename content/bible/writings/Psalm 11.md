@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 10"
+pagerPrevUrl: "/bible/writings/psalm-10"
+pagerNextTitle: "Psalm 12"
+pagerNextUrl: "/bible/writings/psalm-12"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 11

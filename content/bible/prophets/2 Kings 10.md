@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Kings 9"
+pagerPrevUrl: "/bible/prophets/2-kings-9"
+pagerNextTitle: "2 Kings 11"
+pagerNextUrl: "/bible/prophets/2-kings-11"
+pagerUpTitle: "2 Kings"
+pagerUpUrl: "/bible#2-kings"
 ---
 
 # 2 Kings 10

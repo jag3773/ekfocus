@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Kings 10"
+pagerPrevUrl: "/bible/prophets/1-kings-10"
+pagerNextTitle: "1 Kings 12"
+pagerNextUrl: "/bible/prophets/1-kings-12"
+pagerUpTitle: "1 Kings"
+pagerUpUrl: "/bible#1-kings"
 ---
 
 # 1 Kings 11

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ezra 10"
+pagerPrevUrl: "/bible/writings/ezra-10"
+pagerNextTitle: "Nehemiah 2"
+pagerNextUrl: "/bible/writings/nehemiah-2"
+pagerUpTitle: "Nehemiah"
+pagerUpUrl: "/bible#nehemiah"
 ---
 
 # Nehemiah 1

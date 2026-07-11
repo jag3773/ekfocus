@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 40"
+pagerPrevUrl: "/bible/pentateuch/genesis-40"
+pagerNextTitle: "Genesis 42"
+pagerNextUrl: "/bible/pentateuch/genesis-42"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 41

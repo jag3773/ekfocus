@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 5"
+pagerPrevUrl: "/bible/pentateuch/genesis-5"
+pagerNextTitle: "Genesis 7"
+pagerNextUrl: "/bible/pentateuch/genesis-7"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 6

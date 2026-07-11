@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Numbers 32"
+pagerPrevUrl: "/bible/pentateuch/numbers-32"
+pagerNextTitle: "Numbers 34"
+pagerNextUrl: "/bible/pentateuch/numbers-34"
+pagerUpTitle: "Numbers"
+pagerUpUrl: "/bible#numbers"
 ---
 
 # Numbers 33

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 4"
+pagerPrevUrl: "/bible/pentateuch/exodus-4"
+pagerNextTitle: "Exodus 6"
+pagerNextUrl: "/bible/pentateuch/exodus-6"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 5

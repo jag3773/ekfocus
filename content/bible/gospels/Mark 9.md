@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Mark 8"
+pagerPrevUrl: "/bible/gospels/mark-8"
+pagerNextTitle: "Mark 10"
+pagerNextUrl: "/bible/gospels/mark-10"
+pagerUpTitle: "Mark"
+pagerUpUrl: "/bible#mark"
 ---
 
 # Mark 9

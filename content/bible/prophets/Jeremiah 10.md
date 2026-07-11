@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 9"
+pagerPrevUrl: "/bible/prophets/jeremiah-9"
+pagerNextTitle: "Jeremiah 11"
+pagerNextUrl: "/bible/prophets/jeremiah-11"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 10

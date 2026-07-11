@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Hebrews 3"
+pagerPrevUrl: "/bible/epistles/hebrews-3"
+pagerNextTitle: "Hebrews 5"
+pagerNextUrl: "/bible/epistles/hebrews-5"
+pagerUpTitle: "Hebrews"
+pagerUpUrl: "/bible#hebrews"
 ---
 
 # Hebrews 4

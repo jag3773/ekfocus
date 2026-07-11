@@ -9,14 +9,14 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:10]]
+- References:: [[Romans 16#16:10|Romans 16:10]]
 
 ## Notes
 - Called "approved in Christ" by [[Paul]]  -  a distinctive commendation
 
 ## Summary
 
-Apelles is mentioned once in [[Romans 16#16:10]], where [[Paul]] writes: "Greet Apelles, who is approved (*ton dokimon*) in Christ." The word *dokimos* means tested and proven, like a coin that has been assayed and found genuine. Apelles endured some trial or test of faith and emerged with his integrity confirmed. Paul uses this same adjective for [[Timothy]] in [[2 Timothy 2#2:15]] ("a worker who has no need to be ashamed") and for believers who endure testing ([[James 1#1:12]]).
+Apelles is mentioned once in [[Romans 16#16:10|Romans 16:10]], where [[Paul]] writes: "Greet Apelles, who is approved (*ton dokimon*) in Christ." The word *dokimos* means tested and proven, like a coin that has been assayed and found genuine. Apelles endured some trial or test of faith and emerged with his integrity confirmed. Paul uses this same adjective for [[Timothy]] in [[2 Timothy 2#2:15|2 Timothy 2:15]] ("a worker who has no need to be ashamed") and for believers who endure testing ([[James 1#1:12|James 1:12]]).
 
 The name Apelles was common among Jewish freedmen in Rome. The satirist Horace mentions a "credulous Apella" as a stereotypical Jew (Satires 1.5.100), and the name appears in Jewish inscriptions from Rome. If Apelles was Jewish, Paul's commendation of him as "approved" carries weight in Romans, where the relationship between Jewish and Gentile believers is central.
 

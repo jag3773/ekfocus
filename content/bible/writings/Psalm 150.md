@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 149"
+pagerPrevUrl: "/bible/writings/psalm-149"
+pagerNextTitle: "Proverbs 1"
+pagerNextUrl: "/bible/writings/proverbs-1"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 150

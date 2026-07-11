@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Job 41"
+pagerPrevUrl: "/bible/writings/job-41"
+pagerNextTitle: "Psalm 1"
+pagerNextUrl: "/bible/writings/psalm-1"
+pagerUpTitle: "Job"
+pagerUpUrl: "/bible#job"
 ---
 
 # Job 42

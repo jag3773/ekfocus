@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 17"
+pagerPrevUrl: "/bible/pentateuch/genesis-17"
+pagerNextTitle: "Genesis 19"
+pagerNextUrl: "/bible/pentateuch/genesis-19"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 18

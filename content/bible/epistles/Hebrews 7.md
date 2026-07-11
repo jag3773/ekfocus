@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Hebrews 6"
+pagerPrevUrl: "/bible/epistles/hebrews-6"
+pagerNextTitle: "Hebrews 8"
+pagerNextUrl: "/bible/epistles/hebrews-8"
+pagerUpTitle: "Hebrews"
+pagerUpUrl: "/bible#hebrews"
 ---
 
 # Hebrews 7

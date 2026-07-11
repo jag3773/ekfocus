@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 23"
+pagerPrevUrl: "/bible/prophets/joshua-23"
+pagerNextTitle: "Judges 1"
+pagerNextUrl: "/bible/prophets/judges-1"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 24

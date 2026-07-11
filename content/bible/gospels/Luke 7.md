@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 6"
+pagerPrevUrl: "/bible/gospels/luke-6"
+pagerNextTitle: "Luke 8"
+pagerNextUrl: "/bible/gospels/luke-8"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 7

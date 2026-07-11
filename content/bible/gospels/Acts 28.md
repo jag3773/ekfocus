@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Acts 27"
+pagerPrevUrl: "/bible/gospels/acts-27"
+pagerNextTitle: "Romans 1"
+pagerNextUrl: "/bible/epistles/romans-1"
+pagerUpTitle: "Acts"
+pagerUpUrl: "/bible#acts"
 ---
 
 # Acts 28

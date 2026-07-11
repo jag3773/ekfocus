@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 41"
+pagerPrevUrl: "/bible/prophets/isaiah-41"
+pagerNextTitle: "Isaiah 43"
+pagerNextUrl: "/bible/prophets/isaiah-43"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 42

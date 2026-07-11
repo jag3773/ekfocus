@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 48"
+pagerPrevUrl: "/bible/writings/psalm-48"
+pagerNextTitle: "Psalm 50"
+pagerNextUrl: "/bible/writings/psalm-50"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 49

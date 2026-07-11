@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Chronicles 35"
+pagerPrevUrl: "/bible/writings/2-chronicles-35"
+pagerNextTitle: "Ezra 1"
+pagerNextUrl: "/bible/writings/ezra-1"
+pagerUpTitle: "2 Chronicles"
+pagerUpUrl: "/bible#2-chronicles"
 ---
 
 # 2 Chronicles 36

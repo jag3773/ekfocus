@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Matthew 8"
+pagerPrevUrl: "/bible/gospels/matthew-8"
+pagerNextTitle: "Matthew 10"
+pagerNextUrl: "/bible/gospels/matthew-10"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 9

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ephesians 6"
+pagerPrevUrl: "/bible/epistles/ephesians-6"
+pagerNextTitle: "Philippians 2"
+pagerNextUrl: "/bible/epistles/philippians-2"
+pagerUpTitle: "Philippians"
+pagerUpUrl: "/bible#philippians"
 ---
 
 # Philippians 1

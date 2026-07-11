@@ -9,7 +9,7 @@ modified: 2026-05-09T01:54:33.000Z
 - #coworker #female
 - Home:: [[Roman Church]]
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:12]]
+- References:: [[Romans 16#16:12|Romans 16:12]]
 
 ## Notes
 - Called "the beloved" (*tēn agapētēn*) by [[Paul]]  -  a term of personal affection
@@ -17,11 +17,11 @@ modified: 2026-05-09T01:54:33.000Z
 
 ## Summary
 
-Persis is mentioned once in [[Romans 16#16:12]], where [[Paul]] writes, "Greet the beloved Persis, who has worked hard in the Lord."
+Persis is mentioned once in [[Romans 16#16:12|Romans 16:12]], where [[Paul]] writes, "Greet the beloved Persis, who has worked hard in the Lord."
 
 The name "Persis" means "Persian woman," suggesting she may have been of Persian descent or a freedwoman who took the name from her ethnic origin. The name is well attested in Roman inscriptions, particularly among freed persons.
 
-Paul calls Persis "the beloved," using the definite article in a way that suggests personal familiarity. He commends her for having "worked hard in the Lord." The verb *kopiaō*, to toil, labor to exhaustion, is Paul's standard term for serious ministry work. He uses it for his own apostolic labor ([[1 Corinthians 15#15:10]]), for church leaders ([[1 Thessalonians 5#5:12]]), and for several women in Romans 16: [[Mary (Rome)|Mary]] "worked hard for you" ([[Romans 16#16:6]]), and [[Tryphena]] and [[Tryphosa]] "work hard in the Lord."
+Paul calls Persis "the beloved," using the definite article in a way that suggests personal familiarity. He commends her for having "worked hard in the Lord." The verb *kopiaō*, to toil, labor to exhaustion, is Paul's standard term for serious ministry work. He uses it for his own apostolic labor ([[1 Corinthians 15#15:10|1 Corinthians 15:10]]), for church leaders ([[1 Thessalonians 5#5:12|1 Thessalonians 5:12]]), and for several women in Romans 16: [[Mary (Rome)|Mary]] "worked hard for you" ([[Romans 16#16:6|Romans 16:6]]), and [[Tryphena]] and [[Tryphosa]] "work hard in the Lord."
 
 The past tense "worked hard" (aorist) may suggest that Persis's most intensive labor was in the past, though it could simply summarize her track record of service.
 

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 16"
+pagerPrevUrl: "/bible/writings/psalm-16"
+pagerNextTitle: "Psalm 18"
+pagerNextUrl: "/bible/writings/psalm-18"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 17

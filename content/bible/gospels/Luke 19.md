@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 18"
+pagerPrevUrl: "/bible/gospels/luke-18"
+pagerNextTitle: "Luke 20"
+pagerNextUrl: "/bible/gospels/luke-20"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 19

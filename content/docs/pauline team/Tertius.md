@@ -9,7 +9,7 @@ modified: 2026-05-07T12:23:54.000Z
 - #coworker #slave-freedman
 - Home:: [[Corinthian Church|Corinth]] (likely)
 - Other Locales:: None recorded
-- References:: [[Romans 16#16:22]]
+- References:: [[Romans 16#16:22|Romans 16:22]]
 
 ## Notes
 - Paul's amanuensis (scribe) for the letter to the Romans
@@ -17,9 +17,9 @@ modified: 2026-05-07T12:23:54.000Z
 
 ## Summary
 
-Tertius is the only named scribe in the Pauline corpus who personally interjects into a letter he is writing for [[Paul]]. In [[Romans 16#16:22]], amid Paul's chain of greetings, Tertius breaks in: "I, Tertius, who wrote this letter, greet you in the Lord."
+Tertius is the only named scribe in the Pauline corpus who personally interjects into a letter he is writing for [[Paul]]. In [[Romans 16#16:22|Romans 16:22]], amid Paul's chain of greetings, Tertius breaks in: "I, Tertius, who wrote this letter, greet you in the Lord."
 
-Paul routinely dictated his letters to scribes (*amanuenses*), as was standard practice in the ancient world. He typically signed off with a personal note in his own hand ([[Galatians 6#6:11]], [[1 Corinthians 16#16:21]], [[Colossians 4#4:18]], [[2 Thessalonians 3#3:17]]), a practice that confirms the rest was written by someone else. Tertius is the only scribe Paul allows to identify himself and send his own greeting. This detail humanizes the letter-writing process and suggests Tertius was a fellow believer, not a hired professional secretary.
+Paul routinely dictated his letters to scribes (*amanuenses*), as was standard practice in the ancient world. He typically signed off with a personal note in his own hand ([[Galatians 6#6:11|Galatians 6:11]], [[1 Corinthians 16#16:21|1 Corinthians 16:21]], [[Colossians 4#4:18|Colossians 4:18]], [[2 Thessalonians 3#3:17|2 Thessalonians 3:17]]), a practice that confirms the rest was written by someone else. Tertius is the only scribe Paul allows to identify himself and send his own greeting. This detail humanizes the letter-writing process and suggests Tertius was a fellow believer, not a hired professional secretary.
 
 His Latin name, *Tertius*, meaning "third," follows the numerical naming pattern of [[Quartus]] ("fourth") and [[Secundus]] ("second"), names associated with slaves and freedmen in the Roman world. If Tertius was a freedman or slave, his literary skills came from servile training in a Roman household. These skills put him in a position to produce one of the most theologically important letters in Christian history. Some scholars have suggested Tertius may have contributed to the letter's polished Greek style, though the theological content is unmistakably Paul's.
 

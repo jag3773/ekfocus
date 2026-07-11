@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "James 5"
+pagerPrevUrl: "/bible/epistles/james-5"
+pagerNextTitle: "1 Peter 2"
+pagerNextUrl: "/bible/epistles/1-peter-2"
+pagerUpTitle: "1 Peter"
+pagerUpUrl: "/bible#1-peter"
 ---
 
 # 1 Peter 1

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Amos 1"
+pagerPrevUrl: "/bible/prophets/amos-1"
+pagerNextTitle: "Amos 3"
+pagerNextUrl: "/bible/prophets/amos-3"
+pagerUpTitle: "Amos"
+pagerUpUrl: "/bible#amos"
 ---
 
 # Amos 2

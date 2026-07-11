@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 131"
+pagerPrevUrl: "/bible/writings/psalm-131"
+pagerNextTitle: "Psalm 133"
+pagerNextUrl: "/bible/writings/psalm-133"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 132

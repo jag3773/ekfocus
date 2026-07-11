@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "3 John 1"
+pagerPrevUrl: "/bible/epistles/3-john-1"
+pagerNextTitle: "Revelation 1"
+pagerNextUrl: "/bible/epistles/revelation-1"
+pagerUpTitle: "Jude"
+pagerUpUrl: "/bible#jude"
 ---
 
 # Jude 1

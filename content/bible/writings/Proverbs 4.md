@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Proverbs 3"
+pagerPrevUrl: "/bible/writings/proverbs-3"
+pagerNextTitle: "Proverbs 5"
+pagerNextUrl: "/bible/writings/proverbs-5"
+pagerUpTitle: "Proverbs"
+pagerUpUrl: "/bible#proverbs"
 ---
 
 # Proverbs 4

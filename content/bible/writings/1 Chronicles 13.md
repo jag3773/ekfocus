@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Chronicles 12"
+pagerPrevUrl: "/bible/writings/1-chronicles-12"
+pagerNextTitle: "1 Chronicles 14"
+pagerNextUrl: "/bible/writings/1-chronicles-14"
+pagerUpTitle: "1 Chronicles"
+pagerUpUrl: "/bible#1-chronicles"
 ---
 
 # 1 Chronicles 13

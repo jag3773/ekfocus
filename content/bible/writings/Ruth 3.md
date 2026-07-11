@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Ruth 2"
+pagerPrevUrl: "/bible/writings/ruth-2"
+pagerNextTitle: "Ruth 4"
+pagerNextUrl: "/bible/writings/ruth-4"
+pagerUpTitle: "Ruth"
+pagerUpUrl: "/bible#ruth"
 ---
 
 # Ruth 3

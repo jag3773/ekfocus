@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 9"
+pagerPrevUrl: "/bible/gospels/luke-9"
+pagerNextTitle: "Luke 11"
+pagerNextUrl: "/bible/gospels/luke-11"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 10

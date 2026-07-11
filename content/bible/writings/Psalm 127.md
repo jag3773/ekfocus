@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 126"
+pagerPrevUrl: "/bible/writings/psalm-126"
+pagerNextTitle: "Psalm 128"
+pagerNextUrl: "/bible/writings/psalm-128"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 127

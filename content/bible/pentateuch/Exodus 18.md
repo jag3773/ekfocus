@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 17"
+pagerPrevUrl: "/bible/pentateuch/exodus-17"
+pagerNextTitle: "Exodus 19"
+pagerNextUrl: "/bible/pentateuch/exodus-19"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 18

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Job 31"
+pagerPrevUrl: "/bible/writings/job-31"
+pagerNextTitle: "Job 33"
+pagerNextUrl: "/bible/writings/job-33"
+pagerUpTitle: "Job"
+pagerUpUrl: "/bible#job"
 ---
 
 # Job 32

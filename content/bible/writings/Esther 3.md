@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Esther 2"
+pagerPrevUrl: "/bible/writings/esther-2"
+pagerNextTitle: "Esther 4"
+pagerNextUrl: "/bible/writings/esther-4"
+pagerUpTitle: "Esther"
+pagerUpUrl: "/bible#esther"
 ---
 
 # Esther 3

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 107"
+pagerPrevUrl: "/bible/writings/psalm-107"
+pagerNextTitle: "Psalm 109"
+pagerNextUrl: "/bible/writings/psalm-109"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 108

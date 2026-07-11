@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Jeremiah 27"
+pagerPrevUrl: "/bible/prophets/jeremiah-27"
+pagerNextTitle: "Jeremiah 29"
+pagerNextUrl: "/bible/prophets/jeremiah-29"
+pagerUpTitle: "Jeremiah"
+pagerUpUrl: "/bible#jeremiah"
 ---
 
 # Jeremiah 28

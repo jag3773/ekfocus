@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Romans 13"
+pagerPrevUrl: "/bible/epistles/romans-13"
+pagerNextTitle: "Romans 15"
+pagerNextUrl: "/bible/epistles/romans-15"
+pagerUpTitle: "Romans"
+pagerUpUrl: "/bible#romans"
 ---
 
 # Romans 14

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 20"
+pagerPrevUrl: "/bible/pentateuch/genesis-20"
+pagerNextTitle: "Genesis 22"
+pagerNextUrl: "/bible/pentateuch/genesis-22"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 21

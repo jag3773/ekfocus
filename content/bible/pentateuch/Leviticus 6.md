@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Leviticus 5"
+pagerPrevUrl: "/bible/pentateuch/leviticus-5"
+pagerNextTitle: "Leviticus 7"
+pagerNextUrl: "/bible/pentateuch/leviticus-7"
+pagerUpTitle: "Leviticus"
+pagerUpUrl: "/bible#leviticus"
 ---
 
 # Leviticus 6

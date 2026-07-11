@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Philippians 3"
+pagerPrevUrl: "/bible/epistles/philippians-3"
+pagerNextTitle: "Colossians 1"
+pagerNextUrl: "/bible/epistles/colossians-1"
+pagerUpTitle: "Philippians"
+pagerUpUrl: "/bible#philippians"
 ---
 
 # Philippians 4

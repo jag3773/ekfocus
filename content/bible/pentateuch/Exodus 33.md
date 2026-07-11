@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Exodus 32"
+pagerPrevUrl: "/bible/pentateuch/exodus-32"
+pagerNextTitle: "Exodus 34"
+pagerNextUrl: "/bible/pentateuch/exodus-34"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 33

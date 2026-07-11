@@ -6,7 +6,7 @@ modified: 2026-05-09T01:54:33.000Z
 tags: #church-leadership  #apostle #equipping-servant
 - Home:: [[Tarsus]]
 - Other Locales:: [[Jerusalem]], [[Damascus]], [[Antioch]], and several journey's around the mediterranean, including significant time at [[Ephesus]] and [[Rome]]
-- References:: Acts and the Epistles, also [[2 Peter 3#3:15]]
+- References:: Acts and the Epistles, also [[2 Peter 3#3:15|2 Peter 3:15]]
 
 # Paul
 
@@ -16,7 +16,7 @@ See [[The Pauline Team]]
 
 Paul (also called Saul) is the central figure of this directory, the apostle around whom this network of coworkers, patrons, opponents, and converts orbited. Comprehensive treatment of Paul's life and theology belongs elsewhere in the vault. This note focuses on his role as a team builder.
 
-Paul was a Pharisee from Tarsus in Cilicia, trained under Gamaliel in Jerusalem ([[Acts 22#22:3]]), a Roman citizen by birth ([[Acts 22#22:28]]), and initially a violent persecutor of the church ([[Acts 8#8:3]], [[Galatians 1#1:13]]). His encounter with the risen Christ on the Damascus road ([[Acts 9#9:1-19]]) made him the apostle to the Gentiles, a calling he understood as a divine commission ([[Galatians 1#1:15-16]], [[Romans 1#1:1]]).
+Paul was a Pharisee from Tarsus in Cilicia, trained under Gamaliel in Jerusalem ([[Acts 22#22:3|Acts 22:3]]), a Roman citizen by birth ([[Acts 22#22:28|Acts 22:28]]), and initially a violent persecutor of the church ([[Acts 8#8:3|Acts 8:3]], [[Galatians 1#1:13|Galatians 1:13]]). His encounter with the risen Christ on the Damascus road ([[Acts 9#9:1-19|Acts 9:1-19]]) made him the apostle to the Gentiles, a calling he understood as a divine commission ([[Galatians 1#1:15-16|Galatians 1:15-16]], [[Romans 1#1:1|Romans 1:1]]).
 
 Paul's ministry succeeded not from theological brilliance or tireless travel alone but from his capacity to build, deploy, and sustain a team. The 68 people in this directory represent the visible portion of a much larger network. Paul used distinct relational categories for his coworkers: *synergos* (fellow worker), *systratiōtēs* (fellow soldier), *synaichmalōtos* (fellow prisoner), *diakonos* (servant), and *adelphos/adelphē* (brother/sister), each carrying distinct connotations of shared labor, risk, or identity.
 

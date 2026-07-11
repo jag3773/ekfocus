@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Titus 3"
+pagerPrevUrl: "/bible/epistles/titus-3"
+pagerNextTitle: "Hebrews 1"
+pagerNextUrl: "/bible/epistles/hebrews-1"
+pagerUpTitle: "Philemon"
+pagerUpUrl: "/bible#philemon"
 ---
 
 # Philemon 1

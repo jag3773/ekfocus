@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 114"
+pagerPrevUrl: "/bible/writings/psalm-114"
+pagerNextTitle: "Psalm 116"
+pagerNextUrl: "/bible/writings/psalm-116"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 115

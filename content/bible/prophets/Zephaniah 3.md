@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Zephaniah 2"
+pagerPrevUrl: "/bible/prophets/zephaniah-2"
+pagerNextTitle: "Haggai 1"
+pagerNextUrl: "/bible/prophets/haggai-1"
+pagerUpTitle: "Zephaniah"
+pagerUpUrl: "/bible#zephaniah"
 ---
 
 # Zephaniah 3

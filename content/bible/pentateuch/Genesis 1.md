@@ -1,6 +1,10 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerNextTitle: "Genesis 2"
+pagerNextUrl: "/bible/pentateuch/genesis-2"
+pagerUpTitle: "Genesis"
+pagerUpUrl: "/bible#genesis"
 ---
 
 # Genesis 1

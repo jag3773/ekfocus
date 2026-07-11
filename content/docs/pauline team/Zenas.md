@@ -9,7 +9,7 @@ modified: 2026-05-07T12:23:54.000Z
 - #coworker
 - Home:: Unknown
 - Other Locales:: Crete (passing through)
-- References:: [[Titus 3#3:13]]
+- References:: [[Titus 3#3:13|Titus 3:13]]
 
 ## Notes
 - Called "the lawyer" (*ton nomikon*)  -  either an expert in Jewish Torah or Roman law
@@ -17,9 +17,9 @@ modified: 2026-05-07T12:23:54.000Z
 
 ## Summary
 
-Zenas is mentioned once in [[Titus 3#3:13]], where [[Paul]] writes to [[Titus]]: "Do your best to speed Zenas the lawyer and [[Apollos]] on their journey, seeing that they lack nothing."
+Zenas is mentioned once in [[Titus 3#3:13|Titus 3:13]], where [[Paul]] writes to [[Titus]]: "Do your best to speed Zenas the lawyer and [[Apollos]] on their journey, seeing that they lack nothing."
 
-The designation "the lawyer" (*ho nomikos*) is ambiguous, it could mean an expert in the Jewish Torah (as in the Gospels, e.g. [[Luke 7#7:30]], [[Luke 14#14:3]]) or a practitioner of Roman civil law (*iuris peritus*). If the former, Zenas was a Jewish legal scholar who became a Christian; if the latter, he was a trained Roman lawyer, a professional whose skills would help the equipping servant movement navigate legal, property, and civic matters. Given the Hellenistic context of Titus and Crete, the Roman-law interpretation may be more likely.
+The designation "the lawyer" (*ho nomikos*) is ambiguous, it could mean an expert in the Jewish Torah (as in the Gospels, e.g. [[Luke 7#7:30|Luke 7:30]], [[Luke 14#14:3|Luke 14:3]]) or a practitioner of Roman civil law (*iuris peritus*). If the former, Zenas was a Jewish legal scholar who became a Christian; if the latter, he was a trained Roman lawyer, a professional whose skills would help the equipping servant movement navigate legal, property, and civic matters. Given the Hellenistic context of Titus and Crete, the Roman-law interpretation may be more likely.
 
 Paul pairs Zenas with [[Apollos]], the brilliant Alexandrian teacher, for a joint journey, suggesting collaboration in itinerant ministry. Paul's instruction to "see that they lack nothing" (*hina mēden autois leipē*) implies practical provision: travel funds, food, and lodging. This reflects the early church's system of equipping servant support in which local churches supplied the needs of traveling workers.
 

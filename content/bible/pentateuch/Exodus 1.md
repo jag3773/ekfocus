@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Genesis 50"
+pagerPrevUrl: "/bible/pentateuch/genesis-50"
+pagerNextTitle: "Exodus 2"
+pagerNextUrl: "/bible/pentateuch/exodus-2"
+pagerUpTitle: "Exodus"
+pagerUpUrl: "/bible#exodus"
 ---
 
 # Exodus 1

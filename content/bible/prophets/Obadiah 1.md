@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Amos 9"
+pagerPrevUrl: "/bible/prophets/amos-9"
+pagerNextTitle: "Jonah 1"
+pagerNextUrl: "/bible/prophets/jonah-1"
+pagerUpTitle: "Obadiah"
+pagerUpUrl: "/bible#obadiah"
 ---
 
 # Obadiah 1

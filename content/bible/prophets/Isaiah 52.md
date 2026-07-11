@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 51"
+pagerPrevUrl: "/bible/prophets/isaiah-51"
+pagerNextTitle: "Isaiah 53"
+pagerNextUrl: "/bible/prophets/isaiah-53"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 52

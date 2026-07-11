@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Chronicles 20"
+pagerPrevUrl: "/bible/writings/1-chronicles-20"
+pagerNextTitle: "1 Chronicles 22"
+pagerNextUrl: "/bible/writings/1-chronicles-22"
+pagerUpTitle: "1 Chronicles"
+pagerUpUrl: "/bible#1-chronicles"
 ---
 
 # 1 Chronicles 21

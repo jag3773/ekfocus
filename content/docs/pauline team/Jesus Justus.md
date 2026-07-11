@@ -9,18 +9,18 @@ modified: 2026-05-07T00:43:10.000Z
 - #coworker
 - Home:: Unknown
 - Other Locales:: [[Roman Church]]
-- References:: [[Colossians 4#4:11]]
+- References:: [[Colossians 4#4:11|Colossians 4:11]]
 
 ## Notes
 - One of only three Jewish coworkers with [[Paul]] in Rome, alongside [[Aristarchus]] and [[John Mark]]
 
 ## Summary
 
-Jesus Justus appears once in the New Testament, in [[Colossians 4#4:11]]. That single mention packs in several details.
+Jesus Justus appears once in the New Testament, in [[Colossians 4#4:11|Colossians 4:11]]. That single mention packs in several details.
 
 His double name reflects the bilingual world of diaspora Judaism. "Jesus" (Iēsous, the Greek form of Joshua) was his Jewish name. "Justus" was his Roman cognomen, used in Gentile contexts. The name Jesus/Joshua was common among Jews of the period; "Justus" helped distinguish him and may have avoided confusion with Jesus Christ in Christian circles.
 
-Paul groups Jesus Justus with [[Aristarchus]] and [[John Mark]] as "the only ones of the circumcision among my coworkers for the kingdom of God" ([[Colossians 4#4:11]]). Out of the Jewish believers in Rome, only these three were partnering with Paul in his apostolic work. Paul says they "have been a comfort" (*parēgoria*) to him, a word used only here in the New Testament, borrowed from medical language meaning a soothing remedy. Paul was under house arrest; this comfort was personal and strategic at the same time.
+Paul groups Jesus Justus with [[Aristarchus]] and [[John Mark]] as "the only ones of the circumcision among my coworkers for the kingdom of God" ([[Colossians 4#4:11|Colossians 4:11]]). Out of the Jewish believers in Rome, only these three were partnering with Paul in his apostolic work. Paul says they "have been a comfort" (*parēgoria*) to him, a word used only here in the New Testament, borrowed from medical language meaning a soothing remedy. Paul was under house arrest; this comfort was personal and strategic at the same time.
 
 Jesus Justus has no other letter, no narrative in Acts, no church tradition. He represents the workers who expanded the early Christian movement but left almost no trace. He accepted King Jesus as the long awaited Messiah and was a faithful servant in a context where Jewish-Gentile relations inside the church were still volatile.
 

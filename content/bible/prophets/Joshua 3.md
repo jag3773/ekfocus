@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Joshua 2"
+pagerPrevUrl: "/bible/prophets/joshua-2"
+pagerNextTitle: "Joshua 4"
+pagerNextUrl: "/bible/prophets/joshua-4"
+pagerUpTitle: "Joshua"
+pagerUpUrl: "/bible#joshua"
 ---
 
 # Joshua 3

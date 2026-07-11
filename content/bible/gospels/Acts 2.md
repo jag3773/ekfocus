@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Acts 1"
+pagerPrevUrl: "/bible/gospels/acts-1"
+pagerNextTitle: "Acts 3"
+pagerNextUrl: "/bible/gospels/acts-3"
+pagerUpTitle: "Acts"
+pagerUpUrl: "/bible#acts"
 ---
 
 # Acts 2

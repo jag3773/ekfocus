@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Micah 7"
+pagerPrevUrl: "/bible/prophets/micah-7"
+pagerNextTitle: "Nahum 2"
+pagerNextUrl: "/bible/prophets/nahum-2"
+pagerUpTitle: "Nahum"
+pagerUpUrl: "/bible#nahum"
 ---
 
 # Nahum 1

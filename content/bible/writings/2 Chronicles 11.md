@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Chronicles 10"
+pagerPrevUrl: "/bible/writings/2-chronicles-10"
+pagerNextTitle: "2 Chronicles 12"
+pagerNextUrl: "/bible/writings/2-chronicles-12"
+pagerUpTitle: "2 Chronicles"
+pagerUpUrl: "/bible#2-chronicles"
 ---
 
 # 2 Chronicles 11

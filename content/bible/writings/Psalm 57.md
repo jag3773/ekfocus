@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 56"
+pagerPrevUrl: "/bible/writings/psalm-56"
+pagerNextTitle: "Psalm 58"
+pagerNextUrl: "/bible/writings/psalm-58"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 57

@@ -9,14 +9,14 @@ modified: 2026-05-09T01:54:33.000Z
 - #opponent
 - Home:: Province of Asia (likely [[Ephesian Church]])
 - Other Locales:: None recorded
-- References:: [[2 Timothy 1#1:15]]
+- References:: [[2 Timothy 1#1:15|2 Timothy 1:15]]
 
 ## Notes
 - Named alongside [[Phygelus]] as one who "turned away" from [[Paul]]
 
 ## Summary
 
-Hermogenes is mentioned once in [[2 Timothy 1#1:15]], where [[Paul]] writes: "You are aware that all who are in Asia turned away from me, among whom are [[Phygelus]] and Hermogenes." He exemplifies the broader desertion Paul experienced from Asian believers during his final imprisonment.
+Hermogenes is mentioned once in [[2 Timothy 1#1:15|2 Timothy 1:15]], where [[Paul]] writes: "You are aware that all who are in Asia turned away from me, among whom are [[Phygelus]] and Hermogenes." He exemplifies the broader desertion Paul experienced from Asian believers during his final imprisonment.
 
 His Greek name, Hermogenes ("born of Hermes"), was common in the Hellenistic world. Scripture provides no other information about him. See [[Phygelus]] for the full discussion of their abandonment and its contrast with [[Onesiphorus]]'s courageous loyalty.
 

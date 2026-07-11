@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Acts 22"
+pagerPrevUrl: "/bible/gospels/acts-22"
+pagerNextTitle: "Acts 24"
+pagerNextUrl: "/bible/gospels/acts-24"
+pagerUpTitle: "Acts"
+pagerUpUrl: "/bible#acts"
 ---
 
 # Acts 23

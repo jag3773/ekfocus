@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 54"
+pagerPrevUrl: "/bible/prophets/isaiah-54"
+pagerNextTitle: "Isaiah 56"
+pagerNextUrl: "/bible/prophets/isaiah-56"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 55

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 68"
+pagerPrevUrl: "/bible/writings/psalm-68"
+pagerNextTitle: "Psalm 70"
+pagerNextUrl: "/bible/writings/psalm-70"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 69

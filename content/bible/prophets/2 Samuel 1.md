@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "1 Samuel 31"
+pagerPrevUrl: "/bible/prophets/1-samuel-31"
+pagerNextTitle: "2 Samuel 2"
+pagerNextUrl: "/bible/prophets/2-samuel-2"
+pagerUpTitle: "2 Samuel"
+pagerUpUrl: "/bible#2-samuel"
 ---
 
 # 2 Samuel 1

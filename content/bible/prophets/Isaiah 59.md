@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 58"
+pagerPrevUrl: "/bible/prophets/isaiah-58"
+pagerNextTitle: "Isaiah 60"
+pagerNextUrl: "/bible/prophets/isaiah-60"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 59

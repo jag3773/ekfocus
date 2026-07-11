@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Job 37"
+pagerPrevUrl: "/bible/writings/job-37"
+pagerNextTitle: "Job 39"
+pagerNextUrl: "/bible/writings/job-39"
+pagerUpTitle: "Job"
+pagerUpUrl: "/bible#job"
 ---
 
 # Job 38

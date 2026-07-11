@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Isaiah 27"
+pagerPrevUrl: "/bible/prophets/isaiah-27"
+pagerNextTitle: "Isaiah 29"
+pagerNextUrl: "/bible/prophets/isaiah-29"
+pagerUpTitle: "Isaiah"
+pagerUpUrl: "/bible#isaiah"
 ---
 
 # Isaiah 28

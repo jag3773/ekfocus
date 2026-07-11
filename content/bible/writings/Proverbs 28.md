@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Proverbs 27"
+pagerPrevUrl: "/bible/writings/proverbs-27"
+pagerNextTitle: "Proverbs 29"
+pagerNextUrl: "/bible/writings/proverbs-29"
+pagerUpTitle: "Proverbs"
+pagerUpUrl: "/bible#proverbs"
 ---
 
 # Proverbs 28

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 64"
+pagerPrevUrl: "/bible/writings/psalm-64"
+pagerNextTitle: "Psalm 66"
+pagerNextUrl: "/bible/writings/psalm-66"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 65

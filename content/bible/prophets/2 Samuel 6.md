@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Samuel 5"
+pagerPrevUrl: "/bible/prophets/2-samuel-5"
+pagerNextTitle: "2 Samuel 7"
+pagerNextUrl: "/bible/prophets/2-samuel-7"
+pagerUpTitle: "2 Samuel"
+pagerUpUrl: "/bible#2-samuel"
 ---
 
 # 2 Samuel 6

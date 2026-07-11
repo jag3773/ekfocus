@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Zechariah 6"
+pagerPrevUrl: "/bible/prophets/zechariah-6"
+pagerNextTitle: "Zechariah 8"
+pagerNextUrl: "/bible/prophets/zechariah-8"
+pagerUpTitle: "Zechariah"
+pagerUpUrl: "/bible#zechariah"
 ---
 
 # Zechariah 7

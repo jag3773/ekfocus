@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Psalm 146"
+pagerPrevUrl: "/bible/writings/psalm-146"
+pagerNextTitle: "Psalm 148"
+pagerNextUrl: "/bible/writings/psalm-148"
+pagerUpTitle: "Psalm"
+pagerUpUrl: "/bible#psalm"
 ---
 
 # Psalm 147

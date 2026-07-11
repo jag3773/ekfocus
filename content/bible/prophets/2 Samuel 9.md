@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "2 Samuel 8"
+pagerPrevUrl: "/bible/prophets/2-samuel-8"
+pagerNextTitle: "2 Samuel 10"
+pagerNextUrl: "/bible/prophets/2-samuel-10"
+pagerUpTitle: "2 Samuel"
+pagerUpUrl: "/bible#2-samuel"
 ---
 
 # 2 Samuel 9

@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Malachi 4"
+pagerPrevUrl: "/bible/prophets/malachi-4"
+pagerNextTitle: "Matthew 2"
+pagerNextUrl: "/bible/gospels/matthew-2"
+pagerUpTitle: "Matthew"
+pagerUpUrl: "/bible#matthew"
 ---
 
 # Matthew 1

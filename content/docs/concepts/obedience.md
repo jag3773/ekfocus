@@ -3,19 +3,19 @@ publish: true
 modified: 2026-07-03T14:38:46.000Z
 ---
 
-The human response God requires to his revealed will. Obedience in Scripture is not mechanical compliance with rules. It flows from relationship: "If you love me, you will keep my commandments" ([[John 14#14:15]]). Ezekiel locates life itself in following God's commands ([[Ezekiel 20#20:11]], [[Deuteronomy 4#4:8]]).
+The human response God requires to his revealed will. Obedience in Scripture is not mechanical compliance with rules. It flows from relationship: "If you love me, you will keep my commandments" ([[John 14#14:15|John 14:15]]). Ezekiel locates life itself in following God's commands ([[Ezekiel 20#20:11|Ezekiel 20:11]], [[Deuteronomy 4#4:8|Deuteronomy 4:8]]).
 
 In middle school I realized that what God is after in us is simply **willingness**.  The willingness to obey–the willingness to do what he asks.
 
-Peter weaves obedience through his first letter three times in chapter one alone ([[1 Peter 1#1:2]], [[1 Peter 1#1:14]], [[1 Peter 1#1:22]]), connecting it to purification and the capacity to love. Obedience purifies the soul; a purified soul can love other people. The sequence matters.
+Peter weaves obedience through his first letter three times in chapter one alone ([[1 Peter 1#1:2|1 Peter 1:2]], [[1 Peter 1#1:14|1 Peter 1:14]], [[1 Peter 1#1:22|1 Peter 1:22]]), connecting it to purification and the capacity to love. Obedience purifies the soul; a purified soul can love other people. The sequence matters.
 
-Paul frames the same truth through freedom: Christ freed believers from the law's curse ([[Galatians 5#5:1]]) so they could serve one another through love ([[Galatians 5#5:13]]). Peter echoes this: freedom in Christ is for service, not a cover for sin ([[1 Peter 2#2:16]]). James closes the loop: faith without obedient action is dead ([[James 2#2:17]]).
+Paul frames the same truth through freedom: Christ freed believers from the law's curse ([[Galatians 5#5:1|Galatians 5:1]]) so they could serve one another through love ([[Galatians 5#5:13|Galatians 5:13]]). Peter echoes this: freedom in Christ is for service, not a cover for sin ([[1 Peter 2#2:16|1 Peter 2:16]]). James closes the loop: faith without obedient action is dead ([[James 2#2:17|James 2:17]]).
 
 Obedience sits between [[justification by faith]] (which grounds our standing before God) and [[holiness]] (which describes the life that results). It connects to [[humility]], since obedience requires submitting your will to another's.
 
 ## Key Passages
 
-[[Deuteronomy 4#4:8]], [[Deuteronomy 6#6:4-9]], [[Ezekiel 20#20:11]], [[John 14#14:15]], [[Romans 6#6:16-18]], [[1 Peter 1#1:14-22]], [[James 2#2:14-26]], [[Hebrews 5#5:8]]
+[[Deuteronomy 4#4:8|Deuteronomy 4:8]], [[Deuteronomy 6#6:4-9|Deuteronomy 6:4-9]], [[Ezekiel 20#20:11|Ezekiel 20:11]], [[John 14#14:15|John 14:15]], [[Romans 6#6:16-18|Romans 6:16-18]], [[1 Peter 1#1:14-22|1 Peter 1:14-22]], [[James 2#2:14-26|James 2:14-26]], [[Hebrews 5#5:8|Hebrews 5:8]]
 
 ## Vault Notes
 

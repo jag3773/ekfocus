@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Luke 22"
+pagerPrevUrl: "/bible/gospels/luke-22"
+pagerNextTitle: "Luke 24"
+pagerNextUrl: "/bible/gospels/luke-24"
+pagerUpTitle: "Luke"
+pagerUpUrl: "/bible#luke"
 ---
 
 # Luke 23

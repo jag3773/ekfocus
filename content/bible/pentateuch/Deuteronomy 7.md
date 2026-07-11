@@ -1,6 +1,12 @@
 ---
 publish: true
 modified: 2026-05-02T00:30:04.000Z
+pagerPrevTitle: "Deuteronomy 6"
+pagerPrevUrl: "/bible/pentateuch/deuteronomy-6"
+pagerNextTitle: "Deuteronomy 8"
+pagerNextUrl: "/bible/pentateuch/deuteronomy-8"
+pagerUpTitle: "Deuteronomy"
+pagerUpUrl: "/bible#deuteronomy"
 ---
 
 # Deuteronomy 7
