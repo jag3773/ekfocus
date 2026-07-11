@@ -1,6 +1,7 @@
 {
   "vaultPath": "/Users/jesse/Obsidian/ekfocus",
   "homeNote": "resources/notes/EKFocus Home Page.md",
+  "bibleIndexNote": "resources/bible/Bible.md",
   "siteTitle": "EKFocus",
   "pathRewrites": {
     "resources/notes/noreferencefixer": "docs",

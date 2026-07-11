@@ -193,6 +193,101 @@ body[data-slug="index"] {
   filter: invert(1) hue-rotate(180deg);
 }
 
+// ---- circle logo next to the site title ----------------------------------
+
+.page-title a {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    background: url("/static/icon.png") center / contain no-repeat;
+  }
+}
+
+:root[saved-theme="dark"] .page-title a::before {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+// ---- footer: centered ------------------------------------------------------
+
+.ek-footer {
+  text-align: center;
+
+  & .ek-footer-links {
+    justify-content: center;
+  }
+}
+
+// ---- tag pills under the article ------------------------------------------
+
+ul.tags {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0;
+  margin: 1.6rem 0 0.4rem 0;
+
+  & li {
+    margin: 0;
+  }
+
+  & a.tag-link {
+    display: inline-block;
+    font-family: var(--headerFont);
+    font-size: 0.8rem;
+    padding: 0.15rem 0.7rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 999px;
+    background-color: var(--highlight);
+    color: var(--darkgray);
+    text-decoration: none;
+
+    &:hover {
+      border-color: var(--gray);
+      color: var(--dark);
+    }
+  }
+}
+
+// ---- Bible index: chapter-number pills grouped by book ---------------------
+
+body[data-slug="bible/index"] .center article {
+  & h2 {
+    font-size: 1.15rem;
+    margin: 1.8rem 0 0.5rem 0;
+  }
+
+  & p > a.internal {
+    display: inline-block;
+    min-width: 2.1em;
+    text-align: center;
+    font-family: var(--headerFont);
+    font-size: 0.85rem;
+    font-variant-numeric: tabular-nums;
+    padding: 0.22rem 0.45rem;
+    margin: 0.12rem 0.1rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    background-color: transparent;
+    color: var(--darkgray);
+    text-decoration: none;
+
+    &:hover {
+      border-color: var(--gray);
+      color: var(--dark);
+      background-color: var(--highlight);
+    }
+  }
+}
+
 // ---- misc softening -------------------------------------------------------
 
 .graph .graph-outer {

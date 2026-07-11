@@ -101,6 +101,23 @@ for (const { rel, text, mtime } of notes) {
   // home note becomes the site root; give it a real title if it lacks one
   if (isHome) out = out.replace(/^title:\s*$/m, `title: ${cfg.siteTitle}`)
 
+  // Bible index: regroup the flat "## [[Genesis 1]]" chapter list into one
+  // section per book with compact numbered chapter pills (styled in custom.scss)
+  if (rel === cfg.bibleIndexNote) {
+    const books = new Map()
+    for (const m of out.matchAll(/^##\s+\[\[(.+?)\]\]\s*$/gm)) {
+      const cm = m[1].match(/^(.+?)\s+(\d+)$/)
+      const [book, num] = cm ? [cm[1], cm[2]] : [m[1], null]
+      if (!books.has(book)) books.set(book, [])
+      books.get(book).push(num ? `[[${m[1]}|${num}]]` : `[[${m[1]}]]`)
+    }
+    const fmEnd = out.indexOf("\n---", 4) + 4
+    const sections = [...books.entries()]
+      .map(([book, chapters]) => `## ${book}\n\n${chapters.join(" ")}`)
+      .join("\n\n")
+    out = out.slice(0, fmEnd) + `\n\n# Berean Standard Bible\n\n${sections}\n`
+  }
+
   for (const m of out.matchAll(EMBED_RE)) {
     const target = (m[1] ?? m[2]).trim()
     if (/^[a-z]+:\/\//.test(target)) continue // external URL

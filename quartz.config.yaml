@@ -79,7 +79,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -158,8 +158,12 @@ plugins:
     layout:
       position: left
       priority: 50
-  - source: github:quartz-community/graph
+  - source: ./plugins/graph
     enabled: true
+    options:
+      globalGraph:
+        excludePaths:
+          - bible/
     layout:
       position: right
       priority: 10
@@ -187,10 +191,10 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
-      position: beforeBody
-      priority: 30
+      position: afterBody
+      priority: 10
   - source: github:quartz-community/page-title
     enabled: true
     layout:
@@ -203,7 +207,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
@@ -266,10 +270,9 @@ plugins:
     enabled: true
     options:
       includeAll: false
-      includedProperties:
-        - tags
+      includedProperties: []
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
