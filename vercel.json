@@ -2,6 +2,11 @@
   "buildCommand": "npx quartz plugin install && npx quartz build",
   "outputDirectory": "public",
   "installCommand": "npm ci",
+  "build": {
+    "env": {
+      "VERCEL_FORCE_NO_BUILD_CACHE": "1"
+    }
+  },
   "cleanUrls": true,
   "redirects": [
     { "source": "/bible/bible", "destination": "/bible", "permanent": true },
