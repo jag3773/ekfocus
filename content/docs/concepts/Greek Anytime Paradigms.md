@@ -7,7 +7,7 @@ modified: 2026-04-13T23:03:20.000Z
 
 This [Greek Anytime Paradigms PDF](https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Greek-Anytime-Paradigms.pdf) lists several important Greek paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Greek language study.
 
-<a href="https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Greek-Anytime-Paradigms.pdf"><img src="/img/user/archive/attachments/ekfocus.com/greek-anytime-paradigms.png" /></a>
+<a href="https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Greek-Anytime-Paradigms.pdf"><img src="/attachments/greek-anytime-paradigms.png" /></a>
 
 The anytime paradigms that are included are:
 

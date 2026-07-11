@@ -145,6 +145,10 @@ for (const { rel, text, mtime } of notes) {
     (m, book, ch, anchor) => (anchor.startsWith(`${ch}:`) ? `[[${book} ${ch}#${anchor}|${book} ${anchor}]]` : m),
   )
 
+  // legacy digital-garden image routes in raw HTML: /img/user/<vault path>
+  // becomes /attachments/<basename> (the file is copied below)
+  out = out.replace(/src="\/img\/user\/([^"]+)"/g, (m, p) => `src="/attachments/${path.basename(decodeURIComponent(p))}"`)
+
   // legacy URL aliases (old digital-garden slugs) -> alias-redirects plugin
   const alias = cfg.legacyAliases[relNoExt]
   if (alias) {
@@ -184,6 +188,13 @@ for (const { rel, text, mtime } of notes) {
     wanted.add(decodeURIComponent(path.basename(target)))
   }
 
+  // raw HTML images too (e.g. <img src="/attachments/foo.png">)
+  for (const m of out.matchAll(/<img[^>]+src="([^"]+)"/g)) {
+    const target = m[1].trim()
+    if (/^[a-z]+:\/\//.test(target) || target.startsWith("data:")) continue
+    wanted.add(decodeURIComponent(path.basename(target)))
+  }
+
   const dest = isHome ? "index.md" : rewritePath(relNoExt) + ".md"
   if (written.has(dest.toLowerCase())) {
     console.warn(`WARN duplicate destination ${dest} from ${rel} — skipped`)
@@ -209,10 +220,15 @@ if (fs.existsSync(sitePagesDir)) {
 }
 
 // --- pass 3: copy referenced attachments --------------------------------
+// old-garden references may use hyphenated filenames for files whose real
+// names contain spaces — index those too
+const hyphenIndex = new Map()
+for (const [name, p] of attachmentIndex) hyphenIndex.set(name.replace(/\s+/g, "-"), p)
+
 let copied = 0
 const missing = []
 for (const name of wanted) {
-  const src = attachmentIndex.get(name)
+  const src = attachmentIndex.get(name) ?? hyphenIndex.get(name)
   if (!src) {
     missing.push(name)
     continue
