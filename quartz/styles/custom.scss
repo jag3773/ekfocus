@@ -1,3 +1,119 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ekfocus.com design layer — typography-first, warm paper + ink + terracotta.
+// Fonts and the color palette are set in quartz.config.yaml; this file handles
+// everything the palette can't express.
+
+// ---- reading experience -------------------------------------------------
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.center {
+  & article {
+    font-size: 1.06rem;
+    line-height: 1.75;
+
+    & p {
+      margin: 1.1rem 0;
+    }
+  }
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.015em;
+}
+
+h1.article-title {
+  font-size: 2.1rem;
+  margin-top: 1.25rem;
+}
+
+// verse-per-heading Bible chapters: tighten the h2-per-verse rhythm
+body[data-slug^="bible/"] .center article {
+  & h2 {
+    font-size: 1.05rem;
+    font-family: var(--bodyFont);
+    font-weight: 600;
+    margin: 1.4rem 0 0.2rem 0;
+    border: none;
+  }
+}
+
+// Bible notes carry their own h1, and their file date is just the last
+// publish sync — hide the duplicate title and the misleading meta line
+body[data-slug^="bible/"] {
+  & h1.article-title,
+  & .content-meta {
+    display: none;
+  }
+}
+
+// ---- chrome: keep the shell quiet so the text leads ---------------------
+
+.page-title {
+  font-family: var(--headerFont);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// hide heading anchor chain-link icons until hover
+article a.internal[role="anchor"] {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+article :hover > a.internal[role="anchor"] {
+  opacity: 0.55;
+}
+
+// backlinks read as "Referenced by"
+.backlinks h3 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--gray);
+}
+
+// ---- homepage ------------------------------------------------------------
+
+body[data-slug="index"] {
+  // the grayscale wordmark image: center it, invert cleanly in dark mode
+  & .center article img[src*="ekfocus_wordmark"] {
+    display: block;
+    margin: 1.5rem auto 0.5rem auto;
+    max-width: 340px;
+  }
+
+  // hide the redundant "EKFocus" article title under the wordmark
+  & h1.article-title,
+  & .content-meta,
+  & .breadcrumb-container {
+    display: none;
+  }
+
+  // section headings as quiet entry points
+  & .center article h2 {
+    margin-top: 2.4rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--lightgray);
+  }
+}
+
+:root[saved-theme="dark"] body[data-slug="index"] .center article img[src*="ekfocus_wordmark"] {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+// ---- popovers / graph / search: soften ----------------------------------
+
+.graph .graph-outer {
+  border-radius: 8px;
+}
+
+.popover > .popover-inner {
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
