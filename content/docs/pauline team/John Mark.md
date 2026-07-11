@@ -1,0 +1,46 @@
+---
+publish: true
+---
+
+# John Mark
+
+## Info
+- #coworker
+- Home:: Jerusalem
+- Other Locales:: [[Roman Church]], [[Colossian Church]], Cyprus
+- References:: [[Acts 12#12:25]], [[Acts 13#13:5]], [[Acts 13#13:13]], [[Acts 15#15:36-41]], [[Colossians 4#4:10]], [[2 Timothy 4#4:11]], [[Philemon 1#1:24]], [[1 Peter 5#5:13]]
+
+## Notes
+- Cousin of [[Barnabas]] according to [[Colossians 4#4:10]]
+- His mother Mary hosted the Jerusalem prayer gathering where Peter went after his miraculous release from prison ([[Acts 12#12:12]])
+
+## Summary
+
+John Mark, identified by his Jewish name John and his Roman name Marcus, carried both failure and restoration through his career in the early church.
+
+His family had standing in Jerusalem. His mother Mary owned a house large enough to host a prayer gathering, and [[Peter]] went there after the angel freed him from Herod's prison ([[Acts 12#12:12]]). Mark was the cousin of [[Barnabas]] ([[Colossians 4#4:10]]), which explains how he joined the first journey out of [[Antioch Church|Antioch]].
+
+[[Barnabas]] and [[Paul]] took Mark as a helper (*hypēretēs*) when they set out ([[Acts 12#12:25]], [[Acts 13#13:5]]). At Perga in Pamphylia, Mark left and returned to Jerusalem ([[Acts 13#13:13]]). Luke gives no reason, but Paul took it seriously enough that when Barnabas proposed bringing Mark on the second journey, Paul refused. The disagreement was so sharp (*paroxysmos*) that they split: Barnabas took Mark to Cyprus, Paul chose [[Silas]] for Syria and Cilicia ([[Acts 15#15:36-41]]).
+
+By the time Paul writes from Roman imprisonment, Mark is restored. Paul lists him among his "fellow workers" ([[Philemon 1#1:24]]) and tells the Colossians to welcome Mark if he comes ([[Colossians 4#4:10]]), a statement that only makes sense if Mark's earlier reputation needed correction. In what may be Paul's final letter, he asks [[Timothy]] to "get Mark and bring him with you, because he is useful to me for ministry" ([[2 Timothy 4#4:11]]).
+
+Peter called Mark "my son" ([[1 Peter 5#5:13]]), suggesting a mentoring relationship. Early church tradition identifies Mark as the author of the Gospel of Mark. Papias (c. 130 AD) described it as Peter's memoirs written down by Mark. If correct, the young man who abandoned the first journey wrote the earliest narrative of Jesus's life.
+
+[[Barnabas]] invested in Mark when Paul would not. Paul later acknowledged that Barnabas was right. The relational resilience of this network turned a conspicuous failure into a Gospel author.
+
+## References
+
+- [[bruceRomans2014]]  -  Bruce's Romans commentary covers the greetings where Mark appears among Paul's Roman coworkers.
+- [[joreStudyChurchHer2022]]  -  Maps Paul's coworker network including Mark's restoration arc from deserter to fellow worker.
+- [[gilesPatternsMinistryFirst2017]]  -  Examines early church ministry patterns including Mark's helper role and later Gospel authorship.
+- [[kentPastoralEpistlesStudies2001]]  -  Commentary on 2 Timothy where Paul asks Timothy to bring Mark because "he is useful to me for ministry."
+- [[lampePaulValentinusChristians2003|From Paul to Valentinus: Christians at Rome in the First Two Centuries]]  -  Traces Roman Christians including Mark's presence during Paul's imprisonment.
+- [[mooEncounteringBookRomans2002]]  -  Moo's Romans survey covers the coworker context where Mark is greeted.
+- [[mcclainRomansGospelGod1989]]  -  McClain's Romans commentary addresses the greetings list that includes Mark.
+- [[polhillActs1992]]  -  Commentary on Acts covering Mark's role from the first journey through the Paul-Barnabas split.
+- [[wrightChallengeActsRediscovering2024]]  -  Wright's study of Acts as theological history, covering John Mark's role in Acts 12-15.
+- [[paoActsIsaianicNew2002]]  -  Pao's study of Acts through the lens of Isaiah's new exodus, providing theological context for John Mark's narrative in Acts 12-15.
+- [[addisonActsMovementGod2023]]  -  Addison examines the Acts narrative as a movement model, including John Mark's contribution in Acts 12-15.
+- [Who was John Mark in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/John-Mark-in-the-Bible.html)
+- [John Mark  -  Wikipedia](https://en.wikipedia.org/wiki/John_Mark)
+- [What Do We Know About John Mark?  -  Bible Study Tools](https://www.biblestudytools.com/bible-study/topical-studies/what-do-we-know-about-john-mark-in-the-bible.html)

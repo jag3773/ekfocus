@@ -1,0 +1,25 @@
+---
+publish: true
+date: 2021-06-17
+aliases:
+  - "/blog/2021-06-17-live-in-christ-you-ve-already-died-to-self"
+---
+
+Although commonly spoken, the phrase die to yourself, or dying to self, is not used explicitly in the Bible.
+
+The Bible does seem to indicate pretty clearly that if you are a believer then you have already died and your life is now Christ's life. Or as [[Colossians 3]] notes, your life is hidden with Christ in God:
+
+>##### 3:1-4 Raised with Christ
+>If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.
+>Set your minds on things that are above, not on things that are on earth.
+>For you have died, and your life is hidden with Christ in God.
+>When Christ who is your life appears, then you also will appear with him in glory.
+
+There is certainly, especially in the [[Colossians 3]] passage, the imperative to die to our flesh (our worldly desires), but it seems pretty clear that our "self", is no longer our flesh, but it is who we truly are in Christ. In other words as believers we are not to die to ourselves we have to encourage ourselves to be conformed to the image of Christ–which is precisely what God is working in us, see [[Philippians 1#1:6]] in [[Colossians 3#3:10]]. Paul's argument is that our old person, our flesh, is already dead and gone, what we need to do is live fully in our new life which Christ has given us.
+
+Similarly, [[Ephesians 4]] talks about putting off the old self and putting on the new self:
+
+>#### Ephesians 4:20-24
+>But that is not the way you learned Christ!—assuming that you have heard about him and were taught in him, as the truth is in Jesus, to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires, and to be renewed in the spirit of your minds, and to put on the new self, created after the likeness of God in true righteousness and holiness.
+
+See also the [[carsonNewBibleCommentary1994|New Bible commentary]] on page 1272 about [[Colossians 3]].

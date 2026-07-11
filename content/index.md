@@ -1,5 +1,40 @@
 ---
+publish: true
 title: EKFocus
+aliases:
+  - "/docs/ek-focus-home-page"
 ---
 
-Smoke test.
+![EKFocus Wordmark](ekfocus_wordmark.png)
+
+Scripture study, theological concepts, and original language resources, linked in a growing web of notes. Browse by topic, follow connections, or pick a book of the Bible and start reading.
+
+## Concepts
+
+Theological, philosophical, and cognitive ideas traced across Scripture and secondary sources. Each note maps the relevant passages, connects to related ideas, and points toward further reading. Examples:
+
+[[glory of God]] · [[justification by faith]] · [[holiness]] · [[priesthood]] · [[idolatry]] · [[humility]] · [[obedience]] · [[disciples]] · [[The Pauline Team]]
+
+## Biblical languages
+
+Study aids for Hebrew, Greek, and Aramaic. Paradigm charts, vocabulary lists, and grammar references for anyone working with the original texts.
+
+#hebrew · #greek · #aramaic
+
+## Writing
+
+Blog posts, articles, and study notes on ecclesiology, discipleship, biblical counseling, and mission. Examples:
+
+[[2021-06-17 Live in Christ, you've already died to self|Live in Christ, you've already died to self]] · [[2020-09-02 Describing Church from Scripture|Describing Church from Scripture]] · [[2026-04-13 Synthesis - Pflaeging and Crabb]] · [[2026-05-03 Commentary on Psalm 8|Commentary on Psalm 8]]
+
+## Scripture
+
+The biblical text with concept notes and cross-references linked throughout. Start with a book or follow a thread wherever it leads.
+
+[[Bible|Browse the Bible]]
+
+## Recently Updated
+
+You may also want to start exploring with the recently updated notes. You may never know what you'll find...
+
+[[Recently Updated]]

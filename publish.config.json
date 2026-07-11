@@ -1,0 +1,36 @@
+{
+  "vaultPath": "/Users/jesse/Obsidian/ekfocus",
+  "homeNote": "resources/notes/EKFocus Home Page.md",
+  "siteTitle": "EKFocus",
+  "pathRewrites": {
+    "resources/notes/noreferencefixer": "docs",
+    "resources/people/pauline team": "docs/pauline team",
+    "resources/excalidraw": "sketches",
+    "resources/notes": "docs",
+    "resources/blog": "blog",
+    "resources/bible": "bible",
+    "resources/zotero": "references",
+    "resources/concepts": "docs/concepts",
+    "archive/omnivore": "references"
+  },
+  "legacyAliases": {
+    "resources/bible/Bible": "/bible/bible",
+    "resources/blog/2021-06-17 Live in Christ, you've already died to self": "/blog/2021-06-17-live-in-christ-you-ve-already-died-to-self",
+    "resources/concepts/MOC Organizational or Business Design & Operations": "/docs/concepts/moc-organizational-or-business-design-and-operations",
+    "resources/concepts/Paul's Commission": "/docs/concepts/paul-s-commission",
+    "resources/excalidraw/2023-12 Obsidian Daily Use Diagram.excalidraw": "/sketches/2023-12-obsidian-daily-use-diagram-excalidraw",
+    "resources/notes/2023-09-17 ChatGPT on Church Planting Movement Principles": "/docs/2023-09-17-chat-gpt-on-church-planting-movement-principles",
+    "resources/notes/2026-04-13 Summary - Understanding People": "/docs/2026-04-13-summary-understanding-people",
+    "resources/notes/2026-04-13 Synthesis - Pflaeging and Crabb": "/docs/2026-04-13-synthesis-pflaeging-and-crabb",
+    "resources/notes/EKFocus Home Page": "/docs/ek-focus-home-page",
+    "resources/notes/Q-1999 Dykstra Craig-Communities of convictions’ have a shared sense of the ‘nature of reality in its broadest sense’": "/docs/q-1999-dykstra-craig-communities-of-convictions-have-a-shared-sense-of-the-nature-of-reality-in-its-broadest-sense",
+    "resources/notes/Q-2000-Mannoia V-Community is needed to affirm one’s faith": "/docs/q-2000-mannoia-v-community-is-needed-to-affirm-one-s-faith",
+    "resources/notes/Q-2003-Ferguson Duncan-A teacher is ‘integrally engaged with the students": "/docs/q-2003-ferguson-duncan-a-teacher-is-integrally-engaged-with-the-students",
+    "resources/notes/Q-Dockery David-The ideal community is a ‘bonding community": "/docs/q-dockery-david-the-ideal-community-is-a-bonding-community",
+    "resources/notes/Q-Joy is the most difficult emotion to feel, most difficult, because we are anticipating the subsequent fall": "/docs/q-joy-is-the-most-difficult-emotion-to-feel-most-difficult-because-we-are-anticipating-the-subsequent-fall",
+    "resources/notes/Q-Parks Sharon-At its best practice, higher education (plays) a primary role in the formation of critical thought and a viable faith": "/docs/q-parks-sharon-at-its-best-practice-higher-education-plays-a-primary-role-in-the-formation-of-critical-thought-and-a-viable-faith",
+    "resources/notes/The Interplay of Community, Faith, and Education in Shaping Identity and Convictions": "/docs/the-interplay-of-community-faith-and-education-in-shaping-identity-and-convictions",
+    "resources/notes/noreferencefixer/2006 LU Exodus Notes - Fowler": "/docs/2006-lu-exodus-notes-fowler",
+    "resources/people/pauline team/Mary (Rome)": "/docs/pauline-team/mary-rome"
+  }
+}
