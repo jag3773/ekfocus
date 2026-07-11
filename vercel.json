@@ -2,5 +2,14 @@
   "buildCommand": "npx quartz plugin install && npx quartz build",
   "outputDirectory": "public",
   "installCommand": "npm ci",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/bible/bible", "destination": "/bible", "permanent": true },
+    {
+      "source": "/sketches/2023-12-obsidian-daily-use-diagram-excalidraw",
+      "destination": "/sketches/2023-12-obsidian-daily-use-diagram.excalidraw",
+      "permanent": true
+    },
+    { "source": "/recently-updated", "destination": "/", "permanent": true }
+  ]
 }

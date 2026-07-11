@@ -3,8 +3,6 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 publish: true
-aliases:
-  - "/sketches/2023-12-obsidian-daily-use-diagram-excalidraw"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

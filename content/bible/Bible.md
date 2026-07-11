@@ -1,7 +1,5 @@
 ---
 publish: true
-aliases:
-  - "/bible/bible"
 ---
 
 # Berean Standard Bible
