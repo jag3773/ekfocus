@@ -257,6 +257,45 @@ ul.tags {
   }
 }
 
+// folder/tag listing pages: date + title on one row, tag pills in a small
+// left-aligned row under the title (stock layout stacks them in a right column)
+.section-li > .section {
+  display: grid;
+  grid-template-columns: 6.5em 1fr;
+  grid-template-areas:
+    "meta desc"
+    ". tags";
+  align-items: baseline;
+  column-gap: 1rem;
+
+  & > .meta {
+    grid-area: meta;
+    margin: 0;
+  }
+
+  & > .desc {
+    grid-area: desc;
+
+    & h3 {
+      margin: 0;
+    }
+  }
+
+  & > ul.tags {
+    grid-area: tags;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    margin: 0.3rem 0 0 0;
+
+    & a.tag-link {
+      font-size: 0.7rem;
+      padding: 0.06rem 0.55rem;
+      white-space: nowrap;
+    }
+  }
+}
+
 // ---- Bible index: chapter-number pills grouped by book ---------------------
 
 body[data-slug="bible/index"] .center article {
