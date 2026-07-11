@@ -107,7 +107,7 @@
       "source": "./plugins/ek-pager",
       "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/ek-pager",
       "commit": "local",
-      "installedAt": "2026-07-11T22:10:54.543Z"
+      "installedAt": "2026-07-11T22:59:35.645Z"
     },
     "ek-recent": {
       "source": "./plugins/ek-recent",
@@ -216,17 +216,6 @@
       "resolved": "https://github.com/quartz-community/page-title.git",
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-07-11T16:28:31.163Z"
-    },
-    "quartz-themes": {
-      "source": {
-        "name": "quartz-themes",
-        "repo": "github:saberzero1/quartz-themes",
-        "subdir": "plugin"
-      },
-      "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "945135e8b70576753d0591e1713fe56553100b3d",
-      "subdir": "plugin",
-      "installedAt": "2026-07-11T16:29:11.727Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
