@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-05-17T00:07:17.000Z
 ---
 
 The Adizes curve is a common framework for showing how organizations mature and then die as they age.

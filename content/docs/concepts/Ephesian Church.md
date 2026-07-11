@@ -6,6 +6,7 @@ aliases:
 tags:
   - church
   - early-church
+modified: 2026-07-08T00:39:22.000Z
 ---
 
 # Ephesian Church

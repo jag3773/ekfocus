@@ -1,6 +1,7 @@
 ---
 created: 2021-10-10
 publish: true
+modified: 2023-10-15T10:54:42.000Z
 ---
 
 Healthy churches are vibrant, they exhibit the fruit of the Spirit,

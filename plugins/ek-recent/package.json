@@ -1,0 +1,34 @@
+{
+  "name": "@ekfocus/ek-recent",
+  "version": "1.0.0",
+  "description": "Recently-updated note list, rendered only on the /recently-updated page",
+  "type": "module",
+  "license": "MIT",
+  "author": "Jesse Griffin",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": { "import": "./dist/index.js" },
+    "./components": { "import": "./dist/index.js" },
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": { "preact": "^10.0.0" },
+  "quartz": {
+    "name": "ek-recent",
+    "displayName": "Recently Updated List",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 40,
+    "defaultEnabled": true,
+    "defaultOptions": { "limit": 30 },
+    "components": {
+      "EkRecent": {
+        "displayName": "Recently Updated List",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 40
+      }
+    },
+    "optionSchema": { "limit": { "type": "number" } }
+  }
+}

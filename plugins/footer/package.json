@@ -1,0 +1,34 @@
+{
+  "name": "@ekfocus/footer",
+  "version": "1.0.0",
+  "description": "EKFocus footer: links plus copyright/license/scripture credit",
+  "type": "module",
+  "license": "MIT",
+  "author": "Jesse Griffin",
+  "main": "./dist/index.js",
+  "exports": {
+    ".": { "import": "./dist/index.js" },
+    "./components": { "import": "./dist/index.js" },
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": { "preact": "^10.0.0" },
+  "quartz": {
+    "name": "footer",
+    "displayName": "EKFocus Footer",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "Footer": {
+        "displayName": "EKFocus Footer",
+        "defaultPosition": "footer",
+        "defaultPriority": 50
+      }
+    },
+    "optionSchema": { "links": { "type": "object" } }
+  }
+}

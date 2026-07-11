@@ -6,6 +6,7 @@ tags:
   - joy
   - Spiritual-life
 publish: true
+modified: 2026-04-14T10:45:56.000Z
 aliases:
   - "/docs/2026-04-13-summary-understanding-people"
 ---

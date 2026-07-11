@@ -4,6 +4,7 @@ tags:
   - knowledge-acquisition
   - learning-process
 created: 2026-05-03
+modified: 2026-05-09T17:49:25.000Z
 ---
 
 # Reading ≠ Comprehension ≠ Recall ≠ Retention

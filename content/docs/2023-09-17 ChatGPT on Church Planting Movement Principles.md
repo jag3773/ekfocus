@@ -1,6 +1,7 @@
 ---
 publish: true
 date: 2023-09-17
+modified: 2024-01-14T03:39:27.000Z
 aliases:
   - "/docs/2023-09-17-chat-gpt-on-church-planting-movement-principles"
 ---

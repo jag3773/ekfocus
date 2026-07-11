@@ -97,6 +97,18 @@
       "commit": "56dc546614d905ad07dd0da8dd5820e25e5ea97b",
       "installedAt": "2026-07-11T16:28:29.355Z"
     },
+    "ek-nav": {
+      "source": "./plugins/ek-nav",
+      "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/ek-nav",
+      "commit": "local",
+      "installedAt": "2026-07-11T18:25:24.968Z"
+    },
+    "ek-recent": {
+      "source": "./plugins/ek-recent",
+      "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/ek-recent",
+      "commit": "local",
+      "installedAt": "2026-07-11T18:25:24.969Z"
+    },
     "encrypted-pages": {
       "source": "github:quartz-community/encrypted-pages",
       "resolved": "https://github.com/quartz-community/encrypted-pages.git",
@@ -134,10 +146,10 @@
       "installedAt": "2026-07-11T16:28:30.122Z"
     },
     "footer": {
-      "source": "github:quartz-community/footer",
-      "resolved": "https://github.com/quartz-community/footer.git",
-      "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
-      "installedAt": "2026-07-11T16:28:31.581Z"
+      "source": "./plugins/footer",
+      "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/footer",
+      "commit": "local",
+      "installedAt": "2026-07-11T18:25:46.503Z"
     },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",

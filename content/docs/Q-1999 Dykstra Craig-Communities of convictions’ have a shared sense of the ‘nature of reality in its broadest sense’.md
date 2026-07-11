@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-11T16:31:20.565Z
 aliases:
   - "/docs/q-1999-dykstra-craig-communities-of-convictions-have-a-shared-sense-of-the-nature-of-reality-in-its-broadest-sense"
 ---

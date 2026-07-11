@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-05-03T01:14:00.000Z
 ---
 
 The role assigned to Israel ([[Exodus 19#19:6]]) and transferred to the church ([[1 Peter 2#2:9]], [[Revelation 1#1:6]]): mediating God's presence to the world. Priests stood between God and the people. They offered sacrifices, maintained the [[temple]], and taught God's law.

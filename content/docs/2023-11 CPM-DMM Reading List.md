@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-06-03T17:39:39.000Z
 ---
 
 Book book introduction summary for those who like stories, and those who like theory/ models, for church planting/ DMLs. Brief annotation and priority list.

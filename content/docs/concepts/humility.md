@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-05-03T01:14:00.000Z
 ---
 
 The posture of recognizing your dependence on God and placing others' needs alongside your own. Andrew Murray calls it "the root of every virtue" and the defining mark of Christ's character. Jesus washed feet ([[John 13#13:14-15]]), emptied himself of divine prerogatives ([[Philippians 2#2:5-8]]), and told his followers that the greatest among them serves ([[Mark 10#10:43-44]]).

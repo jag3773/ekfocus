@@ -2,6 +2,7 @@
 publish: true
 date: 2009-09-08
 tags: [Bible, africa, technology]
+modified: 2023-10-15T17:02:10.000Z
 ---
 
 I've been sending this to some missions agencies working in Africa in hopes that this new and free service will be taken advantage of.  If you know anyone involved in missions in Africa please pass this information along to them.

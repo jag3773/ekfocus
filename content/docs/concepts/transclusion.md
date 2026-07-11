@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-02T12:20:07.000Z
 ---
 
 Transclusion is the inline representation of an external resource.

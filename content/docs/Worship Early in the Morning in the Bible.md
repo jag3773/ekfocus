@@ -1,6 +1,7 @@
 ---
 date: 2008
 publish: true
+modified: 2023-12-30T23:35:40.000Z
 ---
 
 This is a list of passages that reference worship that happened in the morning.

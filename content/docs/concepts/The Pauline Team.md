@@ -1,6 +1,7 @@
 ---
 publish: true
 aliases: Paul's Apostolic Team
+modified: 2026-05-11T23:23:45.000Z
 ---
 
 # The Pauline Team

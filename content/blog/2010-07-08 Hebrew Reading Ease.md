@@ -2,6 +2,7 @@
 publish: true
 date: 2010-07-08
 tags: [hre, hebrew, old-testament]
+modified: 2023-09-24T00:09:49.000Z
 ---
 
 A first iteration of the Hebrew Reading Ease script and results has been released.

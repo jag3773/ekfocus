@@ -1,8 +1,8 @@
 @use "./variables.scss" as *;
 
-// ekfocus.com design layer — typography-first, warm paper + ink + terracotta.
-// Fonts and the color palette are set in quartz.config.yaml; this file handles
-// everything the palette can't express.
+// ekfocus.com design layer — graphite monochrome, typography-first.
+// Fonts and the grayscale palette live in quartz.config.yaml; this file
+// handles layout (top bar instead of left sidebar) and reading refinements.
 
 // ---- reading experience -------------------------------------------------
 
@@ -33,6 +33,22 @@ h1.article-title {
   margin-top: 1.25rem;
 }
 
+// monochrome scheme: links are ink, distinguished by underline
+article a.internal:not([role="anchor"]),
+article a.external,
+.backlinks a,
+.ek-recent a {
+  text-decoration: underline;
+  text-decoration-color: var(--gray);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  background-color: transparent;
+
+  &:hover {
+    text-decoration-color: var(--dark);
+  }
+}
+
 // verse-per-heading Bible chapters: tighten the h2-per-verse rhythm
 body[data-slug^="bible/"] .center article {
   & h2 {
@@ -53,24 +69,93 @@ body[data-slug^="bible/"] {
   }
 }
 
-// ---- chrome: keep the shell quiet so the text leads ---------------------
+// ---- top bar: former left sidebar becomes a horizontal header -----------
 
+@media all and not ($mobile) {
+  .page > #quartz-body {
+    grid-template-columns: #{$sidePanelWidth} auto #{$sidePanelWidth};
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+      "grid-sidebar-left grid-sidebar-left grid-sidebar-left"
+      ". grid-header grid-sidebar-right"
+      ". grid-center grid-sidebar-right"
+      ". grid-footer grid-sidebar-right";
+
+    & .sidebar.left {
+      position: static;
+      height: auto;
+      width: 100%;
+      flex-direction: row;
+      align-items: center;
+      gap: 1.6rem;
+      padding: 1.7rem 2rem 1rem 2rem;
+      border-bottom: 1px solid var(--lightgray);
+      margin-bottom: 0.5rem;
+    }
+
+    // .center has no grid-area upstream (it relies on auto-placement, which
+    // would land in our empty gutter cell) — pin it explicitly
+    & .center {
+      grid-area: grid-center;
+    }
+  }
+}
+
+// site title in the bar
 .page-title {
   font-family: var(--headerFont);
   font-weight: 700;
   letter-spacing: -0.02em;
+  font-size: 1.45rem;
+  margin: 0;
+  white-space: nowrap;
+}
+
+// nav sits between title and toolbar; push toolbar to the right edge
+@media all and not ($mobile) {
+  .sidebar.left .ek-nav {
+    flex-grow: 1;
+  }
+  .sidebar.left .flex-component {
+    flex-shrink: 0;
+  }
+}
+
+// compact search button in the bar
+.search {
+  max-width: 10rem;
+
+  & .search-button {
+    border-radius: 6px;
+    padding: 0.35rem 0.7rem;
+  }
+}
+
+// mobile: title row wraps, nav below
+@media all and ($mobile) {
+  .sidebar.left {
+    flex-wrap: wrap;
+    row-gap: 0.8rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+  .ek-nav {
+    width: 100%;
+    justify-content: center;
+  }
 }
 
 // hide heading anchor chain-link icons until hover
 article a.internal[role="anchor"] {
   opacity: 0;
   transition: opacity 0.15s ease;
+  background-color: transparent;
 }
 article :hover > a.internal[role="anchor"] {
   opacity: 0.55;
 }
 
-// backlinks read as "Referenced by"
+// backlinks header, quieter
 .backlinks h3 {
   font-size: 0.95rem;
   text-transform: uppercase;
@@ -88,10 +173,11 @@ body[data-slug="index"] {
     max-width: 340px;
   }
 
-  // hide the redundant "EKFocus" article title under the wordmark
+  // hide chrome that duplicates the wordmark, and the graph
   & h1.article-title,
   & .content-meta,
-  & .breadcrumb-container {
+  & .breadcrumb-container,
+  & .graph {
     display: none;
   }
 
@@ -107,7 +193,7 @@ body[data-slug="index"] {
   filter: invert(1) hue-rotate(180deg);
 }
 
-// ---- popovers / graph / search: soften ----------------------------------
+// ---- misc softening -------------------------------------------------------
 
 .graph .graph-outer {
   border-radius: 8px;

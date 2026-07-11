@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-06-20T20:55:29.000Z
 ---
 
 Giving to any created thing the worship, trust, or devotion that belongs to God alone. Scripture treats idolatry as spiritual adultery: Israel is a bride who abandons her husband for lovers ([[Ezekiel 16]], [[Hosea 2#2:2-13]]). The prophets mock the absurdity of bowing to what your own hands carved ([[Isaiah 44#44:9-20]]).

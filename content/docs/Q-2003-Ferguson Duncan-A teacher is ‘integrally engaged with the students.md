@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-11T16:31:20.527Z
 aliases:
   - "/docs/q-2003-ferguson-duncan-a-teacher-is-integrally-engaged-with-the-students"
 ---

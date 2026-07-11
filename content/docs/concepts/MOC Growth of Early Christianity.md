@@ -9,6 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
+modified: 2026-05-18T00:59:30.000Z
 ---
 
 # Growth of Early Christianity

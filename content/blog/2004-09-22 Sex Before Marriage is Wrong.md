@@ -2,6 +2,7 @@
 publish: true
 date: 2004-09-22
 tags: [sex, Bible, study]
+modified: 2023-09-25T01:56:34.000Z
 ---
 
 In light of accusations that the Bible never expressly condemns sex before marriage I have prepared this short critique on what the Bible actually says regarding this topic. The Greek word that is to be discussed is **πορνεία.** This word means fornication, or licentiousness. Webster defines fornication as “consensual sexual intercourse between two persons not married to each other.” Licentiousness is simply not regarding sexual guidelines. The modern versions of the Bible almost always translate **πορνεία** as “sexual immorality.” This is a very good translation except that America no longer understands what sexual immorality means. Our society believes that sex before marriage, as long as it is safe sex, is okay to do. Furthermore, they believe, on the whole, that adultery is acceptable in many cases. Therefore, a better translation of passages such as [[1 Thessalonians 4#4:3]] would be to use the word “fornication,” mainly because it is a more clearly understood word. Then the Bible is taken more literally and rather than leaving the interpretation of sexual immorality up to the reader, the translation now specifically denounces any sex outside of marriage.

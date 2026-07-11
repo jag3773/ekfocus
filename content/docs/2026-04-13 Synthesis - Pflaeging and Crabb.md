@@ -4,6 +4,7 @@ tags:
   - leadership
   - organizations
 publish: true
+modified: 2026-05-02T01:00:29.000Z
 aliases:
   - "/docs/2026-04-13-synthesis-pflaeging-and-crabb"
 ---

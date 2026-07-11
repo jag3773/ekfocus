@@ -52,7 +52,8 @@ for (const file of walk(cfg.vaultPath)) {
   if (file.endsWith(".md")) {
     const text = fs.readFileSync(file, "utf8")
     const fm = text.match(FRONTMATTER)
-    if (fm && /^publish: true\s*$/m.test(fm[1])) notes.push({ rel, text })
+    if (fm && /^publish: true\s*$/m.test(fm[1]))
+      notes.push({ rel, text, mtime: fs.statSync(file).mtime })
   } else if (!attachmentIndex.has(path.basename(file))) {
     attachmentIndex.set(path.basename(file), file)
   }
@@ -72,13 +73,20 @@ function injectFrontmatter(text, extra) {
 
 if (!DRY) fs.rmSync(CONTENT, { recursive: true, force: true })
 
-for (const { rel, text } of notes) {
+for (const { rel, text, mtime } of notes) {
   const relNoExt = rel.replace(/\.md$/, "")
   const isHome = rel === cfg.homeNote
   let out = text
 
-  // legacy URL aliases (old digital-garden slugs) -> alias-redirects plugin
   const extras = []
+
+  // carry the vault file's real modification time so "recently updated"
+  // ordering survives the full content/ regeneration on every publish
+  if (!/^(modified|lastmod|updated):/m.test(out.match(FRONTMATTER)[1])) {
+    extras.push(`modified: ${mtime.toISOString()}`)
+  }
+
+  // legacy URL aliases (old digital-garden slugs) -> alias-redirects plugin
   const alias = cfg.legacyAliases[relNoExt]
   if (alias) {
     if (/^aliases:/m.test(out.match(FRONTMATTER)[1])) {
@@ -113,6 +121,17 @@ for (const { rel, text } of notes) {
   }
 }
 
+// --- site pages: repo-owned pages (not vault notes), e.g. recently-updated
+const sitePagesDir = path.join(ROOT, cfg.sitePagesDir ?? "sitePages")
+let sitePages = 0
+if (fs.existsSync(sitePagesDir)) {
+  for (const f of fs.readdirSync(sitePagesDir)) {
+    if (!f.endsWith(".md")) continue
+    if (!DRY) fs.copyFileSync(path.join(sitePagesDir, f), path.join(CONTENT, f))
+    sitePages++
+  }
+}
+
 // --- pass 3: copy referenced attachments --------------------------------
 let copied = 0
 const missing = []
@@ -131,7 +150,7 @@ for (const name of wanted) {
 }
 
 console.log(
-  `${DRY ? "[dry-run] " : ""}published ${written.size} notes, ` +
+  `${DRY ? "[dry-run] " : ""}published ${written.size} notes, ${sitePages} site pages, ` +
     `${copied} attachments, ${aliasCount} legacy aliases`,
 )
 if (missing.length) console.warn(`missing attachments: ${missing.join(", ")}`)

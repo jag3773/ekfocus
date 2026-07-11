@@ -2,6 +2,7 @@
 publish: true
 date: 2009-07-08
 tags: [paradigms, hebrew, greek, new-testament, old-testament]
+modified: 2023-09-23T22:05:40.000Z
 ---
 
 _Edit: the site linked to below is no longer available_

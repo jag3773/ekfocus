@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-04-13T23:03:20.000Z
 ---
 
 ## Hebrew Anytime Paradigms

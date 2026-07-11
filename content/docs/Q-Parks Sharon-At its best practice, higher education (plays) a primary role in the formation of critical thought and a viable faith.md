@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2023-12-30T17:33:27.000Z
 aliases:
   - "/docs/q-parks-sharon-at-its-best-practice-higher-education-plays-a-primary-role-in-the-formation-of-critical-thought-and-a-viable-faith"
 ---

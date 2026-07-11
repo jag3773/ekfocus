@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-11T16:31:20.556Z
 aliases:
   - "/docs/q-dockery-david-the-ideal-community-is-a-bonding-community"
 ---

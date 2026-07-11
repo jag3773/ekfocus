@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-06-03T17:39:39.000Z
 ---
 
 This phrase, "make [[disciples]] who make disciples in the context of [[healthy churches]]," is a great summary of the great commission plus what we see in Acts and the Epistles.

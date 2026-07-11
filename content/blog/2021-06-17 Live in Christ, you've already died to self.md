@@ -1,6 +1,7 @@
 ---
 publish: true
 date: 2021-06-17
+modified: 2024-02-18T14:56:59.000Z
 aliases:
   - "/blog/2021-06-17-live-in-christ-you-ve-already-died-to-self"
 ---

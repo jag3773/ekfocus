@@ -2,6 +2,7 @@
 publish: true
 date: 2010-05-10
 tags: [exegesis, hermeneutics, vocab]
+modified: 2023-09-23T22:05:40.000Z
 ---
 
 If anyone is looking to memorize common exegetical terms and/or common hermeneutical fallacies, I've added many of them into www.quisition.com.  They are taken from the appendices of the book [_Old Testament Exegesis_](https://www.amazon.com/Old-Testament-Exegesis-Handbook-Students/dp/0664233449), by Douglas Stuart.

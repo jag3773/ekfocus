@@ -1,6 +1,7 @@
 ---
 created: 2020-03-05
 publish: true
+modified: 2026-05-17T00:07:17.000Z
 aliases:
   - "/docs/q-joy-is-the-most-difficult-emotion-to-feel-most-difficult-because-we-are-anticipating-the-subsequent-fall"
 ---

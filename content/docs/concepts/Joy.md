@@ -1,6 +1,7 @@
 ---
 publish: true
 date: 2020-12-20
+modified: 2026-04-13T23:03:20.000Z
 ---
 
 Joy is the emotion of possessing what one desires or the prospect of possessing what one desires. Joy is relational, being happy to be with someone.

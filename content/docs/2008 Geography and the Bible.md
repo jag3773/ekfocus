@@ -1,6 +1,7 @@
 ---
 date: 2008
 publish: true
+modified: 2026-05-17T01:58:15.000Z
 ---
 
 # Geography and the Bible

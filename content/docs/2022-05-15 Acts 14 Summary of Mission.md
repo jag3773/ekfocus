@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2023-09-24T14:01:03.000Z
 ---
 
 In three short verses in [[Acts 14#14:21]] [[Acts 14#14:22]] [[Acts 14#14:23]], we see a summary of the mission that Barnabas and Paul carried out. The mission began in [[Acts 13]] and is just now coming to a conclusion. Luke provides a didactic summary statement, serving not only as a summary but a concise definition of missionary activity:

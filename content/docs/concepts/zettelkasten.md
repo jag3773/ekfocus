@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-03T14:38:46.000Z
 ---
 
 A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE]].

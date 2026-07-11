@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-04-13T23:03:20.000Z
 ---
 The "Priming bias" and the "Anchoring Effect" are essentially the same thing in concept but the anchoring effect refers primarily to numbers. Here is a brief comparison of ChatGPT 3.5 and Bard output when asked what the difference is between these two things.
 

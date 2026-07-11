@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-03T14:38:46.000Z
 ---
 
 The human response God requires to his revealed will. Obedience in Scripture is not mechanical compliance with rules. It flows from relationship: "If you love me, you will keep my commandments" ([[John 14#14:15]]). Ezekiel locates life itself in following God's commands ([[Ezekiel 20#20:11]], [[Deuteronomy 4#4:8]]).

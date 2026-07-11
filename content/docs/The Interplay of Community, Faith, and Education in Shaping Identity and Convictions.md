@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2023-12-30T17:33:27.000Z
 aliases:
   - "/docs/the-interplay-of-community-faith-and-education-in-shaping-identity-and-convictions"
 ---

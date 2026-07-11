@@ -2,6 +2,7 @@
 publish: true
 date: 2009-07-07
 tags: [vocab, hebrew, old-testament]
+modified: 2023-09-24T17:58:39.000Z
 ---
 
 This page contains lists of Hebrew vocabulary arranged by frequency. Each file is a pipe (|) delimited text file containing the Hebrew word on the left side and the English gloss(es) and frequency count on the right side.

@@ -2,6 +2,7 @@
 publish: true
 date: 2019-12-01
 tags: [hebrew, greek, aramaic, bible-translation, open-license]
+modified: 2023-09-24T00:09:49.000Z
 ---
 
 ## Overview

@@ -1,6 +1,7 @@
 ---
 publish: true
 date: 2024-01-12
+modified: 2024-01-15T14:40:16.000Z
 ---
 
 I put together an over of DMM/CPM models or pathways as described in various books. This is not a synthesis, just a conglomeration of various diagrams or models presented by the authors. Books referenced here:

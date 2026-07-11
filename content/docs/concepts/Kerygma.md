@@ -1,6 +1,7 @@
 ---
 publish: true
 created: 2024-01-04
+modified: 2026-05-17T00:07:17.000Z
 ---
 
 - Dodd's [[doddApostolicPreachingIts1937|The apostolic preaching and its developments]] covers what he thinks the kerygma is in detail, especially early in the book. Not so much the act of preaching but the message. Not so much teaching or exhortation but gospel proclamation.

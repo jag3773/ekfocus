@@ -1,6 +1,7 @@
 ---
 date: 2006
 publish: true
+modified: 2026-03-26T13:23:53.000Z
 aliases:
   - "/docs/2006-lu-exodus-notes-fowler"
 ---

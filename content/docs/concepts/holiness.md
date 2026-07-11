@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-05-03T01:14:00.000Z
 ---
 
 Being set apart for God's purposes. The Hebrew *qadosh* means separate, distinct, other. God commands his people to be holy because he is holy ([[Leviticus 11#11:44]], [[Leviticus 19#19:2]], [[1 Peter 1#1:15-16]]). This is both a status (believers are sanctified in Christ, [[1 Corinthians 1#1:2]], [[Hebrews 10#10:10]]) and a process (believers grow into that identity, [[Philippians 2#2:12-13]]).

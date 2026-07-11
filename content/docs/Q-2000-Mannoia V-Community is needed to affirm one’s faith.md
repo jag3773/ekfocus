@@ -1,5 +1,6 @@
 ---
 publish: true
+modified: 2026-07-11T16:31:20.568Z
 aliases:
   - "/docs/q-2000-mannoia-v-community-is-needed-to-affirm-one-s-faith"
 ---
