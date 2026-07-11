@@ -113,7 +113,7 @@
       "source": "./plugins/ek-recent",
       "resolved": "/Users/jesse/Documents/ekfocus-quartz/plugins/ek-recent",
       "commit": "local",
-      "installedAt": "2026-07-11T18:25:24.969Z"
+      "installedAt": "2026-07-11T22:43:30.567Z"
     },
     "encrypted-pages": {
       "source": "github:quartz-community/encrypted-pages",

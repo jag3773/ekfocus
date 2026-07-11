@@ -293,8 +293,8 @@ ul.tags {
   & a.tag-link {
     display: inline-block;
     font-family: var(--headerFont);
-    font-size: 0.8rem;
-    padding: 0.15rem 0.7rem;
+    font-size: 0.72rem;
+    padding: 0.1rem 0.6rem;
     border: 1px solid var(--lightgray);
     border-radius: 999px;
     background-color: var(--highlight);
@@ -340,8 +340,8 @@ ul.tags {
     margin: 0.3rem 0 0 0;
 
     & a.tag-link {
-      font-size: 0.7rem;
-      padding: 0.06rem 0.55rem;
+      font-size: 0.64rem;
+      padding: 0.05rem 0.5rem;
       white-space: nowrap;
     }
   }
