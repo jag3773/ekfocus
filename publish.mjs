@@ -45,11 +45,16 @@ function* walk(dir) {
 // --- pass 1: collect published notes and attachment index ---------------
 const notes = [] // { rel, text }
 const attachmentIndex = new Map() // basename -> absolute path (first hit wins)
+const zoteroByName = new Map() // citekey basename -> { rel, file }
 const FRONTMATTER = /^---\n([\s\S]*?)\n---/
 
 for (const file of walk(cfg.vaultPath)) {
   const rel = path.relative(cfg.vaultPath, file)
   if (file.endsWith(".md")) {
+    if (rel.startsWith("resources/zotero/")) {
+      zoteroByName.set(path.basename(rel, ".md"), { rel, file })
+      continue // references publish only when linked (pass 1.5), never via publish: true
+    }
     const text = fs.readFileSync(file, "utf8")
     const fm = text.match(FRONTMATTER)
     if (fm && /^publish: true\s*$/m.test(fm[1]))
@@ -57,6 +62,47 @@ for (const file of walk(cfg.vaultPath)) {
   } else if (!attachmentIndex.has(path.basename(file))) {
     attachmentIndex.set(path.basename(file), file)
   }
+}
+
+// --- pass 1.5: auto-publish zotero references linked from published notes
+// Only the part above the annotations section goes out (title, metadata,
+// bibliography, abstract). One level deep: links inside a reference's own
+// text don't pull in further references.
+const ANNOTATIONS_HEADING = /^## (?:Extracted )?Annotations\b.*$/m
+const linkedRefs = new Set()
+for (const { text } of notes) {
+  for (const m of text.matchAll(/\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]/g)) {
+    const name = path.basename(m[1].trim())
+    if (zoteroByName.has(name)) linkedRefs.add(name)
+  }
+}
+for (const name of linkedRefs) {
+  const { rel, file } = zoteroByName.get(name)
+  let text = fs.readFileSync(file, "utf8")
+  if (!FRONTMATTER.test(text)) text = `---\ntitle: "${name}"\n---\n\n` + text
+  const cut = text.match(ANNOTATIONS_HEADING)
+  if (cut) text = text.slice(0, cut.index).trimEnd() + "\n"
+  text = text
+    .split("\n")
+    // obsidian:// and zotero:// links are dead on the web — drop those lines
+    // (and the "PDF Attachments" list header left empty once they're gone)
+    .filter(
+      (l) =>
+        !/^>?\s*[-*]\s*(Attachments::|PDF Attachments\s*$)/.test(l) &&
+        !l.includes("](zotero://"),
+    )
+    .join("\n")
+    .replace(/^%% Import Date:.*%%\s*$/m, "")
+  // promote the body's first heading to the page title — citekey filenames
+  // are cryptic in search results, tabs, and listings
+  const h1 = text.match(/^# (.+?)\s*$/m)
+  let extra = "publish: true" // required by the explicit-publish filter
+  if (h1 && !/^title:/m.test(text.match(FRONTMATTER)[1])) {
+    text = text.replace(h1[0], "").replace(/\n{3,}/g, "\n\n")
+    extra = `title: ${JSON.stringify(h1[1])}\n${extra}`
+  }
+  text = text.replace(FRONTMATTER, (m, body) => `---\n${body}\n${extra}\n---`)
+  notes.push({ rel, text, mtime: fs.statSync(file).mtime })
 }
 
 // --- bible chapter ordering (for prev/next pager + index grouping) -------
@@ -252,8 +298,8 @@ for (const name of wanted) {
 }
 
 console.log(
-  `${DRY ? "[dry-run] " : ""}published ${written.size} notes, ${sitePages} site pages, ` +
-    `${copied} attachments, ${aliasCount} legacy aliases`,
+  `${DRY ? "[dry-run] " : ""}published ${written.size} notes (${linkedRefs.size} linked references), ` +
+    `${sitePages} site pages, ${copied} attachments, ${aliasCount} legacy aliases`,
 )
 if (missing.length) console.warn(`missing attachments: ${missing.join(", ")}`)
 if (!notes.some((n) => n.rel === cfg.homeNote))
