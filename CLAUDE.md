@@ -2,7 +2,7 @@
 
 Personal knowledge-garden site (Scripture study, theological concepts, biblical
 languages) for Jesse Griffin. Built with **Quartz v5**, published from the
-Obsidian vault at `/Users/jesse/Obsidian/ekfocus`, deployed on **Vercel**
+Obsidian vault at `~/Obsidian/ekfocus`, deployed on **Vercel**
 (project `ekfocus-h574`, domain www.ekfocus.com).
 
 ## Architecture
@@ -90,12 +90,8 @@ design CSS: graphite palette variables live in quartz.config.yaml).
   `/bible/bible` → 308 → `/bible`, `/attachments/hebrew-anytime-paradigms.png`
   → 200, sitemap has ~1,430 URLs.
 
-## Known issues / history
+## History
 
-- "2006 LU Exodus Notes - Fowler" references 15 `media/*.gif` images that do
-  not exist anywhere (broken on the old site too).
-- The old Digital Garden Obsidian plugin is decommissioned; its GitHub PAT
-  (visible in vault git history at `.obsidian/plugins/digitalgarden/data.json`)
-  should be revoked if not already.
-- The old 11ty working copy at `~/Documents/ekfocus` is obsolete (its checkout
-  predates the merge); this repo (`~/Documents/ekfocus-quartz`) is the one.
+- Migrated from the Obsidian Digital Garden plugin + Eleventy in July 2026.
+  That plugin is uninstalled and its GitHub token revoked; the legacy site's
+  history is reachable through the merge commit that absorbed it.

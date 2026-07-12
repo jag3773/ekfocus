@@ -1,11 +1,11 @@
 # ekfocus.com
 
-[Quartz v5](https://quartz.jzhao.xyz/) site for [ekfocus.com](https://www.ekfocus.com), published from the Obsidian vault at `/Users/jesse/Obsidian/ekfocus`. This replaced the old Eleventy digital-garden setup in July 2026; the legacy site's history is reachable through the merge commit that absorbed it. See [CLAUDE.md](./CLAUDE.md) for the full architecture and operational notes.
+[Quartz v5](https://quartz.jzhao.xyz/) site for [ekfocus.com](https://www.ekfocus.com), published from the Obsidian vault at `~/Obsidian/ekfocus`. This replaced the old Eleventy digital-garden setup in July 2026; the legacy site's history is reachable through the merge commit that absorbed it. See [CLAUDE.md](./CLAUDE.md) for the full architecture and operational notes.
 
 ## How publishing works
 
 1. Flag a note in Obsidian with `publish: true` in its frontmatter.
-2. Run `make publish` from the vault root (`/Users/jesse/Obsidian/ekfocus`).
+2. Run `make publish` from the vault root (`~/Obsidian/ekfocus`).
 3. That runs [`publish.mjs`](./publish.mjs), which regenerates `content/` from scratch:
    - selects every vault note with `publish: true`,
    - maps vault folders to site URLs (see below),
