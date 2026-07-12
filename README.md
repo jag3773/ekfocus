@@ -1,6 +1,6 @@
 # ekfocus.com
 
-[Quartz v5](https://quartz.jzhao.xyz/) site for [ekfocus.com](https://www.ekfocus.com), published from the Obsidian vault at `/Users/jesse/Obsidian/ekfocus`. This branch (`quartz`) replaced the Eleventy digital-garden setup that lives on `main`.
+[Quartz v5](https://quartz.jzhao.xyz/) site for [ekfocus.com](https://www.ekfocus.com), published from the Obsidian vault at `/Users/jesse/Obsidian/ekfocus`. This replaced the old Eleventy digital-garden setup in July 2026; the legacy site's history is reachable through the merge commit that absorbed it. See [CLAUDE.md](./CLAUDE.md) for the full architecture and operational notes.
 
 ## How publishing works
 
@@ -44,4 +44,4 @@ Requires Node ≥ 22 (`/opt/homebrew/bin/node` on this machine).
 
 ## Deployment
 
-Vercel builds the `quartz` branch. Build settings come from [`vercel.json`](./vercel.json) in this branch — no dashboard configuration needed. Rollback: switch the Vercel project's production branch back to `main` (the old Eleventy site) or use Vercel's instant rollback.
+Vercel builds `main`. Build settings come from [`vercel.json`](./vercel.json) — no dashboard configuration needed. Rollback: use Vercel's instant rollback to a previous deployment.

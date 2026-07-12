@@ -149,6 +149,16 @@ for (const { rel, text, mtime } of notes) {
   // becomes /attachments/<basename> (the file is copied below)
   out = out.replace(/src="\/img\/user\/([^"]+)"/g, (m, p) => `src="/attachments/${path.basename(decodeURIComponent(p))}"`)
 
+  // links into the old 11ty repo's tree (raw.github main/src/site/attachments)
+  // are served from this site instead — the old tree no longer exists on main
+  out = out.replace(
+    /https:\/\/github\.com\/jag3773\/ekfocus\/raw\/main\/src\/site\/attachments\/([^)\s"'<]+)/g,
+    (m, f) => {
+      wanted.add(decodeURIComponent(f))
+      return `/attachments/${f}`
+    },
+  )
+
   // legacy URL aliases (old digital-garden slugs) -> alias-redirects plugin
   const alias = cfg.legacyAliases[relNoExt]
   if (alias) {

@@ -5,9 +5,9 @@ modified: 2026-04-13T23:03:20.000Z
 
 ## Hebrew Anytime Paradigms
 
-This [Hebrew Anytime Paradigms PDF](https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Hebrew-Anytime-Paradigms.pdf) lists several important Hebrew paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Hebrew language study.
+This [Hebrew Anytime Paradigms PDF](/attachments/Hebrew-Anytime-Paradigms.pdf) lists several important Hebrew paradigms on a single page. It is very helpful to have these paradigms memorized as one embarks on Hebrew language study.
 
-<a href="https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/Hebrew-Anytime-Paradigms.pdf"><img src="/attachments/hebrew-anytime-paradigms.png" /></a>
+<a href="/attachments/Hebrew-Anytime-Paradigms.pdf"><img src="/attachments/hebrew-anytime-paradigms.png" /></a>
 
 The anytime paradigms that are included are:
 

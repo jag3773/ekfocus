@@ -11,4 +11,4 @@ The files are exports from the vocabulary packs available on [http://www.quisiti
 
 [50,524x-46x.txt](https://raw.githubusercontent.com/jag3773/ekfocus/main/src/site/attachments/vocab-lists/50%2C524x-46x.txt) is a single text file containing all of the vocab words. If you notice any errors, please email me and I will correct them.
 
-Download all files in [HebrewVocabularyLists.zip](https://github.com/jag3773/ekfocus/raw/main/src/site/attachments/HebrewVocabularyLists.zip)
+Download all files in [HebrewVocabularyLists.zip](/attachments/HebrewVocabularyLists.zip)
