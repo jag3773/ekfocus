@@ -3,14 +3,14 @@ cssclass: literature-note
 aliases: ["The Unseen Realm"]
 title: "The Unseen Realm"
 publish: true
-modified: 2026-05-23T14:48:15.000Z
+modified: 2026-08-06T13:04:09.901Z
 ---
 
 ## Metadata
 > [!info]
 > - Authors:: [[Michael S. Heiser]]
 > - Cite Key:: heiserUnseenRealmRecovering2015
-> - Tags:: #_reviewing
+> - Tags:: #Reviewed-in-2026
 > - Related:: [[joreUnchainedBibleNetwork2024]], [[joreEquippingServantsEarly2025]]
 > - Topics:: [[Church]]
 

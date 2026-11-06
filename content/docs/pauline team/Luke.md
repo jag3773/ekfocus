@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-09T01:54:33.000Z
+modified: 2026-07-27T12:40:37.316Z
 ---
 
 # Luke
@@ -28,6 +28,11 @@ In [[Philemon 1#1:24|Philemon 1:24]], Paul lists Luke among his "fellow workers"
 Early church tradition, starting with the anti-Marcionite prologue (c. 170 AD) and confirmed by Irenaeus, Eusebius, and Jerome, identifies Luke as a Syrian from [[Antioch Church|Antioch]]. Tradition also reports he remained unmarried, wrote his Gospel in Achaia, and died at age 84 in Boeotia.
 
 Luke's Gospel is the longest of the four. It contains the parables of the Good Samaritan and the Prodigal Son, the infancy narratives of John the Baptist and Jesus, the Emmaus road encounter. Acts provides the only canonical account of the early church's expansion from Jerusalem to Rome.
+
+## Related
+
+- [[Scripture's Word Count Is Distributed Very Unevenly Across Its Human Authors]] — the word counts behind Luke outwriting Paul
+- [[Biblical Authorship]] — the wider question of who wrote Scripture and in what sense
 
 ## References
 

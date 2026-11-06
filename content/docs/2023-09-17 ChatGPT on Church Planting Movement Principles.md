@@ -1,7 +1,7 @@
 ---
 publish: true
 date: 2023-09-17
-modified: 2024-01-14T03:39:27.000Z
+modified: 2026-08-06T13:48:06.887Z
 aliases:
   - "/docs/2023-09-17-chat-gpt-on-church-planting-movement-principles"
 ---
@@ -37,3 +37,10 @@ aliases:
 It's important to note that the success of a church planting movement can depend on various factors, including cultural context, leadership, and the receptivity of the community. These principles provide a general framework, but their implementation may vary in practice.
 
 #chatgpt #Ecclesiology See [[2023-09-17 Models or Pathways of DMM-CPM.excalidraw]]
+
+## Related
+
+- [[SPIN Movements Grow by Segmentation Polycentrism and Networked Integration|the SPIN framework explains the structural form these principles produce]]
+- [[All-Channel Network|the networked structure that emerges when every node can communicate with every other]]
+- [[It Takes a Network to Fight a Network|why the decentralized CPM form outperforms centralized mission organizations]]
+- [[Networks Are Held Together by Narrative|shared gospel narrative is what keeps rapidly multiplying CPM networks coherent]]

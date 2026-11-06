@@ -3,13 +3,14 @@ cssclass: literature-note
 aliases: ["Metanoia"]
 title: "Metanoia"
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-08-06T13:04:09.909Z
 ---
 
 ## Metadata
 > [!info]
 > - Authors:: [[Alan Hirsch]], [[Rob Kelly]]
 > - Cite Key:: hirschMetanoiaHowGod2023
+> - Tags:: #Reviewed-in-2026
 > - Related:: [[dignanBraveNewWork2019]], [[pflaegingOrganizeComplexityHow2014]]
 > - Topics:: [[Church]], [[Org Design]]
 

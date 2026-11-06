@@ -9,7 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
-modified: 2026-05-18T00:59:30.000Z
+modified: 2026-08-06T14:56:26.892Z
 ---
 
 # Growth of Early Christianity
@@ -88,3 +88,10 @@ Modern CPM/DMM research maps early church expansion mechanisms onto contemporary
 - [[joreStudyChurchHer2022]] — studying church from her origins
 - [[vosGatheringsThatAre2024]] — gatherings that shape the church
 - [[starkRiseChristianityHow1997]]
+## Network & Movement Synthesis
+
+- [[SPIN Movements Grow by Segmentation Polycentrism and Networked Integration|the early church was the original SPIN movement — segmented, polycentric, and networked long before the term existed]]
+- [[All-Channel Network|Paul's network of co-workers and house churches was an all-channel network — no single controlling node]]
+- [[It Takes a Network to Fight a Network|the early church's network form outlasted every imperial hierarchy that tried to suppress or co-opt it]]
+- [[Networks Are Held Together by Narrative|the resurrection narrative and the King Jesus story held the dispersed early church network together across its diversity]]
+- [[It Takes a Network to Fight a Network|early Christianity spread by out-networking Roman paganism — not by military victory or political capture]]

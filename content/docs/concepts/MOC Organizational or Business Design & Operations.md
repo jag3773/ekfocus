@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-07-02T12:20:07.000Z
+modified: 2026-08-24T09:08:07.772Z
 aliases:
   - "/docs/concepts/moc-organizational-or-business-design-and-operations"
 ---
@@ -8,6 +8,7 @@ aliases:
 ## Notes
 - [[Diagramming Organizational Maturation]]
 - [[three-box Solution]] — Box 1 (manage present), Box 2 (forget past), Box 3 (create future)
+- [[Musk Pushed Tesla Decision Authority Down to Individual Employees]] — Musk's 2018 Tesla memo as a rule-based instance of decentralized authority
 
 ## References
 

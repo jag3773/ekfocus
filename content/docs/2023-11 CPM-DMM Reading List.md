@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-06-03T17:39:39.000Z
+modified: 2026-08-06T14:56:26.559Z
 ---
 
 Book book introduction summary for those who like stories, and those who like theory/ models, for church planting/ DMLs. Brief annotation and priority list.
@@ -65,3 +65,10 @@ This is basically an annotated bibliography for CPM/DMM but broken down by categ
 - [[svigelRetroChristianityReclaimingForgotten2012|RetroChristianity]]
 - [[doddApostolicPreachingIts1937|The apostolic preaching and its developments]]
 - [[davisGreatDechurchingWho2023|The Great Dechurching]]
+## Related Synthesis Notes
+
+- [[SPIN Movements Grow by Segmentation Polycentrism and Networked Integration|SPIN is the sociological framework that names what the books in this list describe from the inside]]
+- [[All-Channel Network|the all-channel network is the structural form CPM/DMM produces]]
+- [[It Takes a Network to Fight a Network|why the decentralized network form of these movements outperforms centralized mission structures]]
+- [[Networks Are Held Together by Narrative|the shared King Jesus narrative is what holds dispersed CPM/DMM networks together]]
+- [[It Takes a Network to Fight a Network|the insight that meeting the need requires becoming a network, not building an institution]]

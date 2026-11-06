@@ -1,7 +1,7 @@
 ---
 created: 2021-10-10
 publish: true
-modified: 2023-10-15T10:54:42.000Z
+modified: 2026-08-05T09:10:37.010Z
 ---
 
 Healthy churches are vibrant, they exhibit the fruit of the Spirit,
@@ -15,3 +15,6 @@ Healthy churches also exhibit multi-generational growth from [[disciples]] makin
 Healthy churches are whole in the sense of the Hebrew word shalom, they are complete and fully equipped.
 
 #church #Missions  #Ecclesiology #Discipling [[2020-09-02 Describing Church from Scripture]]
+
+## Related
+- [[Shalom Requires Presence Not Just the Resolution of Problems]]: shalom as the wholeness healthy churches embody requires incarnational presence, not just the resolution of structural problems

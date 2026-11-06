@@ -3,7 +3,7 @@ cssclass: literature-note
 aliases: ["Networks and Netwars"]
 title: "Networks and Netwars"
 publish: true
-modified: 2026-05-23T12:35:43.000Z
+modified: 2026-08-06T13:04:09.769Z
 ---
 
 ## Metadata
@@ -11,7 +11,7 @@ modified: 2026-05-23T12:35:43.000Z
 > - Authors:: [[John Arquilla]], [[David Ronfeldt]]
 > - URL:: https://www.rand.org/pubs/monograph_reports/MR1382.html
 > - Cite Key:: arquillaNetworksNetwarsFuture2001
-> - Tags:: #_reviewing, #complexity, #Cyber-Warfare, #Cybercrime, #Cybersecurity, #Complex-Networking
+> - Tags:: #complexity, #Cyber-Warfare, #Cybercrime, #Cybersecurity, #Complex-Networking, #Reviewed-in-2026
 > - Related:: [[joreUnchainedBibleNetwork2024]], [[barabasiLinkedHowEverything2014]], [[wattsCollectiveDynamicsSmallworld1998]], [[reedBILDEncyclicals2017]], [[joreEquippingServantsEarly2025]], [[joreGatewayLanguagesStrategy2017]], [[mcchrystalTeamTeamsNew2015]]
 > - Topics:: [[References]]
 
