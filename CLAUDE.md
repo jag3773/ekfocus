@@ -2,7 +2,7 @@
 
 Personal knowledge-garden site (Scripture study, theological concepts, biblical
 languages) for Jesse Griffin. Built with **Quartz v5**, published from the
-Obsidian vault at `~/Obsidian/ekfocus`, deployed on **Vercel**
+Obsidian vault (`~/Obsidian/ekfocus` on Mac, `~/ekfocus` on Linux), deployed on **Vercel**
 (project `ekfocus-h574`, domain www.ekfocus.com).
 
 ## Architecture
@@ -18,9 +18,9 @@ Vercel builds main → www.ekfocus.com
 
 - `main` is the only branch. The pre-2026-07 Eleventy "digital garden" site's
   history is reachable through the merge commit that absorbed it.
-- Requires **Node ≥ 22**: use `/opt/homebrew/bin/node` (the default PATH node
-  on this machine is v16). Jesse's `~/.npm` cache has root-owned files — pass
-  `--cache <tmpdir>` to npm if installs fail.
+- Requires **Node ≥ 22**: Homebrew `/opt/homebrew/bin/node` on Mac (PATH node
+  is often v16); PATH `node` on Linux. Jesse's Mac `~/.npm` cache has
+  root-owned files — pass `--cache <tmpdir>` to npm if installs fail.
 
 ## Publishing (the whole authoring workflow)
 

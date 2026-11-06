@@ -1,11 +1,11 @@
 # ekfocus.com
 
-[Quartz v5](https://quartz.jzhao.xyz/) site for [ekfocus.com](https://www.ekfocus.com), published from the Obsidian vault at `~/Obsidian/ekfocus`. This replaced the old Eleventy digital-garden setup in July 2026; the legacy site's history is reachable through the merge commit that absorbed it. See [CLAUDE.md](./CLAUDE.md) for the full architecture and operational notes.
+[Quartz v5](https://quartz.jzhao.xyz/) site for [ekfocus.com](https://www.ekfocus.com), published from the Obsidian vault (`~/Obsidian/ekfocus` on Mac, `~/ekfocus` on Linux). This replaced the old Eleventy digital-garden setup in July 2026; the legacy site's history is reachable through the merge commit that absorbed it. See [CLAUDE.md](./CLAUDE.md) for the full architecture and operational notes.
 
 ## How publishing works
 
 1. Flag a note in Obsidian with `publish: true` in its frontmatter.
-2. Run `make publish` from the vault root (`~/Obsidian/ekfocus`).
+2. Run `make publish` from the vault root (`~/Obsidian/ekfocus` on Mac, `~/ekfocus` on Linux).
 3. That runs [`publish.mjs`](./publish.mjs), which regenerates `content/` from scratch:
    - selects every vault note with `publish: true`,
    - maps vault folders to site URLs (see below),
@@ -22,6 +22,7 @@ Unflagging a note (or deleting it) removes it from the site on the next publish 
 
 - `pathRewrites` — vault folder → site URL prefix. Longest prefix wins. A folder with no rule publishes at its vault-relative path.
 - `homeNote` — the vault note that becomes the site homepage.
+- `vaultPath` / `vaultPathFallbacks` — Mac vault first, then Linux (`~/ekfocus`). `VAULT_PATH` overrides both.
 - `legacyAliases` — vault note → old URL that should keep working (rendered as redirects). Add an entry here if you rename a note and want its old URL preserved.
 - `siteTitle` — fallback title for the home page.
 
@@ -40,7 +41,17 @@ rm -rf .quartz/plugins/<name> && npx quartz plugin install --from-config
 npx quartz build --serve    # http://localhost:8080
 ```
 
-Requires Node ≥ 22 (`/opt/homebrew/bin/node` on this machine).
+Requires Node ≥ 22 — Homebrew `/opt/homebrew/bin/node` on Mac (PATH node is often too old), PATH `node` on Linux.
+
+## Machines
+
+| | Mac | Linux |
+| --- | --- | --- |
+| Vault | `~/Obsidian/ekfocus` | `~/ekfocus` |
+| Site repo | `~/Documents/ekfocus-quartz` | `~/ekfocus-site` |
+| Node | `/opt/homebrew/bin/node` | `node` on PATH |
+
+`make publish` and `publish.mjs` use the first path that exists. Override with `SITE_REPO=` / `VAULT_PATH=`. Mac paths stay first so the laptop config is unchanged.
 
 ## Deployment
 

@@ -23,6 +23,20 @@ const CONTENT = path.join(ROOT, "content")
 const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, "publish.config.json"), "utf8"))
 const DRY = process.argv.includes("--dry-run")
 
+const expandHome = (p) =>
+  p === "~" ? process.env.HOME || p : p.startsWith("~/") ? path.join(process.env.HOME || "", p.slice(2)) : p
+
+function resolveVaultPath() {
+  if (process.env.VAULT_PATH) return expandHome(process.env.VAULT_PATH)
+  const candidates = [cfg.vaultPath, ...(cfg.vaultPathFallbacks || [])].filter(Boolean).map(expandHome)
+  for (const p of candidates) {
+    if (fs.existsSync(p)) return p
+  }
+  throw new Error(`Vault not found. Tried: ${candidates.join(", ")}`)
+}
+
+const VAULT = resolveVaultPath()
+
 // longest prefix wins, independent of JSON key order
 const rewrites = Object.entries(cfg.pathRewrites).sort((a, b) => b[0].length - a[0].length)
 const rewritePath = (rel) => {
@@ -48,8 +62,8 @@ const attachmentIndex = new Map() // basename -> absolute path (first hit wins)
 const zoteroByName = new Map() // citekey basename -> { rel, file }
 const FRONTMATTER = /^---\n([\s\S]*?)\n---/
 
-for (const file of walk(cfg.vaultPath)) {
-  const rel = path.relative(cfg.vaultPath, file)
+for (const file of walk(VAULT)) {
+  const rel = path.relative(VAULT, file)
   if (file.endsWith(".md")) {
     if (rel.startsWith("resources/zotero/")) {
       zoteroByName.set(path.basename(rel, ".md"), { rel, file })
