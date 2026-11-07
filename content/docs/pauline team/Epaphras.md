@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-09T01:54:33.000Z
+modified: 2026-11-07T10:18:16.727Z
 ---
 
 # Epaphras
@@ -41,3 +41,6 @@ The Pauline movement depended on equipping servants like Epaphras: people who co
 - [Who was Epaphras in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Epaphras-in-the-Bible.html)
 - [Epaphras  -  Wikipedia](https://en.wikipedia.org/wiki/Epaphras)
 - [Who is Epaphras?  -  Reading Acts](https://readingacts.com/2015/11/05/who-is-epaphras-colossians-11-8/)
+
+## Related
+- [[The Church Is One at Every Zoom Level So Speak of Places Not Brands]]: Epaphras as translocal connector of the Lycus Valley churches

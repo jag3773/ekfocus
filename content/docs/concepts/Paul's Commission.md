@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-17T00:07:17.000Z
+modified: 2026-11-07T10:18:15.863Z
 aliases:
   - "/docs/concepts/paul-s-commission"
 ---
@@ -15,3 +15,6 @@ Paul was aware that his commission was a reversal of the falling away at the tow
 
  [[Genesis 10]], [[Isaiah 66]], [[Acts 2]], [[Romans 15]]
 - [[heiserUnseenRealmRecovering2015#Page 486]]
+
+## Related
+- [[Paul's Commission Had a Second Half - Illuminating God's Plan for the Church]]: Jore on the *oikonomia* of the mystery in Ephesians 3:9

@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-09T01:54:33.000Z
+modified: 2026-11-07T10:18:16.715Z
 ---
 
 # Phoebe
@@ -43,3 +43,6 @@ Phoebe's base in Cenchreae  -  the eastern port of Corinth  -  placed her at a s
 - [Who was Phoebe in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Phoebe-in-the-Bible.html)
 - [Phoebe, carrier of Paul's letter to the Roman Christians  -  Psephizo](https://www.psephizo.com/biblical-studies/phoebe-carrier-of-pauls-letter-to-the-roman-christians/)
 - [Phoebe: Was She an Early Church Leader?  -  Ministry Magazine](https://www.ministrymagazine.org/archive/2013/04/phoebe-was-she-an-early-church-leader)
+
+## Related
+- [[Ask Why There Is a Pulpit Before Asking Whether a Woman May Fill It]]: Jore on Phoebe as letter-bearer and *diakonos*

@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-06T14:55:21.684Z
+modified: 2026-11-07T10:18:16.011Z
 ---
 
 People change through relationship, not force. This concept threads through theology, organizational theory, and counseling in the vault.
@@ -25,3 +25,6 @@ Pflaeging's Beta organizations scatter authority to the people closest to the wo
 - [[brownDaringGreatlyHow2012]]
 - [[crabbUnderstandingPeopleDeep1987]]
 - [[pflaegingOrganizeComplexityHow2014]]
+
+## Related
+- [[Character Is Read in Pre-Conscious Reactions and Formed by Attachment Love]]: Jore's account of character through attachment and imitation in the family

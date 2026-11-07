@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-01-04
-modified: 2026-05-17T00:07:17.000Z
+modified: 2026-11-07T10:18:15.791Z
 ---
 
 - Dodd's [[doddApostolicPreachingIts1937|The apostolic preaching and its developments]] covers what he thinks the kerygma is in detail, especially early in the book. Not so much the act of preaching but the message. Not so much teaching or exhortation but gospel proclamation.
@@ -31,3 +31,7 @@ modified: 2026-05-17T00:07:17.000Z
 - Thiselton, Anthony C. _Hermeneutics: An Introduction_. Grand Rapids, Mich: W.B. Eerdmans Pub. Co, 2009.
 
 #Ecclesiology #Preaching [[Didache]]
+
+## Related
+- [[The Center of the Centered Set Is King Jesus Proclaimed and Obeyed]]: Jore makes kerygma plus didache the center of the centered set
+- [[First Principles Are Objectively Consistent and Subjectively Contoured]]: kerygma and didache as the first principles, contoured to context
