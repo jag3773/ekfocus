@@ -1,11 +1,35 @@
 ---
 cssclass: literature-note
-aliases: ["The hole in our holiness"]
-title: "The hole in our holiness"
+aliases:
+- The hole in our holiness
+citekey: deyoungHoleOurHoliness2014
+type: book
+title: 'The hole in our holiness: filling the gap between gospel passion and the pursuit of Godliness'
+authors:
+- '[[Kevin DeYoung]]'
+year: 2014
+isbn: 978-1-4335-4135-3
+tags:
+- Christian-life
+- Holiness
+- Reviewed-in-2024
+- Print
+status: processed
+attachments:
+- '[[deyoungHoleOurHoliness2014-p26.jpg]]'
+- '[[deyoungHoleOurHoliness2014-p32.jpg]]'
+- '[[deyoungHoleOurHoliness2014-p33.jpg]]'
+- '[[deyoungHoleOurHoliness2014-p45.jpg]]'
+- '[[deyoungHoleOurHoliness2014-p129.jpg]]'
+- '[[deyoungHoleOurHoliness2014-p130.jpg]]'
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/2WQKJYH5
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:52.738Z
 ---
 
+# The hole in our holiness
 ## Metadata
 > [!info]
 > - Authors:: [[Kevin DeYoung]]

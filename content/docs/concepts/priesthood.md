@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-03T01:14:00.000Z
+modified: 2026-11-08T15:50:21.720Z
 ---
 
 The role assigned to Israel ([[Exodus 19#19:6|Exodus 19:6]]) and transferred to the church ([[1 Peter 2#2:9|1 Peter 2:9]], [[Revelation 1#1:6|Revelation 1:6]]): mediating God's presence to the world. Priests stood between God and the people. They offered sacrifices, maintained the [[temple]], and taught God's law.
@@ -27,6 +27,6 @@ Peter transfers the priestly identity to the church: believers are "a royal [[pr
 
 ## References
 
-- [[bealeTempleChurchMission2004|The temple and the church's mission]] — the priesthood as part of the temple/mission theme
+- [[bealeTempleChurchsMission2004|The temple and the church's mission]] — the priesthood as part of the temple/mission theme
 - [[reedBILDEncyclicals2017|BILD Encyclicals]] — apostolic teaching and the priestly teaching tradition
 - [[vosBiblicalTheologyOld2000|Biblical theology]] — the priestly role in OT redemptive history

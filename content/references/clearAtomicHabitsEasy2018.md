@@ -1,17 +1,38 @@
 ---
 cssclass: literature-note
-aliases: ["Atomic Habits"]
-title: "Atomic Habits"
+aliases:
+- Atomic Habits
+citekey: clearAtomicHabitsEasy2018
+type: book
+title: 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones'
+authors:
+- '[[James Clear]]'
+year: 2018
+publisher: Avery
+isbn: 978-0-7352-1129-2
+collections:
+- '[[Org Design]]'
+- '[[Top 10]]'
+tags:
+- Self-control
+- Identity
+- productivity
+- Habits
+status: processed
+highlights: 0
+added: 2020-12-21
+zotero: zotero://select/library/items/JBGXRIWN
 publish: true
-modified: 2025-07-26T17:07:55.729Z
+modified: 2026-11-08T15:50:36.671Z
 ---
 
+# Atomic Habits
 ## Metadata
 > [!info]
 > - Authors:: [[James Clear]]
 > - Cite Key:: clearAtomicHabitsEasy2018
 > - Tags:: #Self-control, #Identity, #productivity, #Habits
-> - Related:: [[thefortJamieWinshipFearless2024]], [[reedLifeLifeStewardship2003]], [[warnerRareLeadership42016]], [[smithDesiringKingdomWorship2009]], [[ourdailybreadministries116LearningYour2023]], [[coveyHabitsHighlyEffective2004]], [[gracefamilyofchurchesSummit2020Labs2020]], [[winshipLivingFearlessExchanging2022]], [[hendricksOtherHalfChurch2020]], [[duhiggPowerHabitWhy2012]], [[doerrMeasureWhatMatters2018]]
+> - Related:: [[thefortJamieWinshipFearless2024]], [[reedLifenLifeStewardship2003]], [[warnerRareLeadership42016]], [[smithDesiringKingdomWorship2009]], [[ourdailybreadministries116LearningYour2023]], [[covey7HabitsHighly2004]], [[gracefamilyofchurchesSummit2020Labs2020]], [[winshipLivingFearlessExchanging2022]], [[hendricksOtherHalfChurch2020]], [[duhiggPowerHabitWhy2012]], [[doerrMeasureWhatMatters2018]]
 > - Topics:: [[Read]], [[Top 10]]
 
 ## Bibliography

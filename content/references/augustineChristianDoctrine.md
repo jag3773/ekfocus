@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["On Christian Doctrine"]
-title: "On Christian Doctrine"
+aliases:
+- On Christian Doctrine
+citekey: augustineChristianDoctrine
+type: book
+title: On Christian Doctrine
+authors:
+- '[[Saint Augustine]]'
+- '[[Philip Schaff]]'
+- '[[Reverend Marcus Dods]]'
+- '[[Reverend J. F. Shaw]]'
+publisher: Edited by Philip Schaff. Translated by Reverend Marcus Dods and Reverend J. F. Shaw
+status: processed
+pdf: '[[augustineChristianDoctrine.pdf]]'
+attachments:
+- '[[augustineChristianDoctrine.pdf]]'
+highlights: 1
+last_highlighted: 2023-02-04
+added: 2021-09-01
+zotero: zotero://select/library/items/2R8DZUZR
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:48.880Z
 ---
 
+# On Christian Doctrine
 ## Metadata
 > [!info]
 > - Authors:: [[Saint Augustine]], [[Philip Schaff]], [[Reverend Marcus Dods]], [[Reverend J. F. Shaw]]

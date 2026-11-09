@@ -9,7 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
-modified: 2026-08-06T14:56:26.892Z
+modified: 2026-11-08T15:50:21.353Z
 ---
 
 # Growth of Early Christianity
@@ -28,7 +28,7 @@ It is clear that it was God's design from the beginning for his image to be refl
 
 ![Promises of God Hourglass](PromisesofGodHourglass.png)
 
-Beale's [[bealeTempleChurchMission2004|The temple and the church's mission]] does a thorough job of tracing this thread. So also does Dempster's [[dempsterDominionDynastyBiblical2003|Dominion and dynasty]].
+Beale's [[bealeTempleChurchsMission2004|The temple and the church's mission]] does a thorough job of tracing this thread. So also does Dempster's [[dempsterDominionDynastyBiblical2003|Dominion and dynasty]].
 
 ## The Social World of Paul's Churches
 
@@ -79,7 +79,7 @@ Modern CPM/DMM research maps early church expansion mechanisms onto contemporary
 ## Further Reading in the Vault
 
 - [[banksGoingChurchFirst1990|Going to Church in the First Century]] — what early gatherings looked like
-- [[banksPaulIdeaCommunity2020|Paul's Idea of Community]] — Paul's ecclesiology
+- [[banksPaulsIdeaCommunity2020|Paul's Idea of Community]] — Paul's ecclesiology
 - [[violaPaganChristianityExploring2012|Pagan Christianity]] — tracing modern church practices to their non-apostolic origins
 - [[hirschForgottenWaysReactivating2007|The Forgotten Ways]] — reactivating apostolic movement principles
 - [[reedGathering2021|Gathering]] — contemporary application of first-century gathering patterns

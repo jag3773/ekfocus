@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-10-12T09:07:38.548Z
+modified: 2026-11-08T15:46:43.085Z
 ---
 
 ## Definition
@@ -30,7 +30,7 @@ The practical upshot is that transformation through information transfer alone d
 
 - [[doidgeBrainThatChanges2007]]
 - [[warnerSolutionChoice2018]]
-- [[warnerRareLeadershipUncommon2016]]
+- [[warnerRareLeadership42016]]
 - [[kahnemanThinkingFastSlow2013]]
 - [[cronStoryHowUse2021]]
 - [[comerPracticingWayBe2024]]

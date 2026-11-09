@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["Acts and the Movement of God"]
-title: "Acts and the Movement of God"
+aliases:
+- Acts and the Movement of God
+citekey: addisonActsMovementGod2023
+type: book
+title: 'Acts and the Movement of God: From Jerusalem to the Ends of the Earth'
+authors:
+- '[[Steve Addison]]'
+- '[[Peyton Jones]]'
+year: 2023
+publisher: 100 Movements Publishing
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[addisonActsMovementGod2023.pdf]]'
+attachments:
+- '[[addisonActsMovementGod2023.pdf]]'
+highlights: 189
+last_highlighted: 2026-06-20
+added: 2024-10-14
+zotero: zotero://select/library/items/7RR4VLIF
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:30:47.837Z
 ---
 
+# Acts and the Movement of God
 ## Metadata
 > [!info]
 > - Authors:: [[Steve Addison]], [[Peyton Jones]]

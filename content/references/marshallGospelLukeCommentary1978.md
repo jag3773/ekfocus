@@ -1,11 +1,30 @@
 ---
 cssclass: literature-note
-aliases: ["The Gospel of Luke"]
-title: "The Gospel of Luke"
+aliases:
+- The Gospel of Luke
+citekey: marshallGospelLukeCommentary1978
+type: book
+title: 'The Gospel of Luke: a commentary on the Greek text'
+authors:
+- '[[I. Howard Marshall]]'
+year: 1978
+publisher: Eerdmans
+isbn: 978-0-8028-3512-3
+tags:
+- Bible
+- Commentaries
+- Greek
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/IJXLJCJE
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:02.339Z
 ---
 
+# The Gospel of Luke
 ## Metadata
 > [!info]
 > - Authors:: [[I. Howard Marshall]]

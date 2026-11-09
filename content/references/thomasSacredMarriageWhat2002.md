@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["Sacred marriage"]
-title: "Sacred marriage"
+aliases:
+- Sacred marriage
+citekey: thomasSacredMarriageWhat2002
+type: book
+title: 'Sacred marriage: what if God designed marriage to make us holy more than to make us happy?'
+authors:
+- '[[Gary Thomas]]'
+year: 2002
+publisher: Zondervan
+isbn: 978-0-310-24282-6
+collections:
+- '[[Top 10]]'
+tags:
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/7THKZ8PV
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:08.146Z
 ---
 
+# Sacred marriage
 ## Metadata
 > [!info]
 > - Authors:: [[Gary Thomas]]

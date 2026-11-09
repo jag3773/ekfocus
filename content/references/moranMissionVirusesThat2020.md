@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["Mission Viruses That Can Kill Disciple Making Movements"]
-title: "Mission Viruses That Can Kill Disciple Making Movements"
+aliases:
+- Mission Viruses That Can Kill Disciple Making Movements
+citekey: moranMissionVirusesThat2020
+type: webpage
+title: Mission Viruses That Can Kill Disciple Making Movements
+authors:
+- '[[Roy Moran]]'
+year: 2020
+url: https://www.missionfrontiers.org/issue/article/mission-viruses-that-can-kill-disciple-making-movements
+collections:
+- '[[Bible Translation]]'
+status: processed
+pdf: '[[moranMissionVirusesThat2020.pdf]]'
+attachments:
+- '[[moranMissionVirusesThat2020.pdf]]'
+highlights: 4
+last_highlighted: 2023-09-17
+added: 2023-08-24
+zotero: zotero://select/library/items/5QWGL7TT
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:02.919Z
 ---
 
+# Mission Viruses That Can Kill Disciple Making Movements
 ## Metadata
 > [!info]
 > - Authors:: [[Roy Moran]]

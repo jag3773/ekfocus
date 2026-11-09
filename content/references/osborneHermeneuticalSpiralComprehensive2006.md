@@ -1,16 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["The Hermeneutical Spiral"]
-title: "The Hermeneutical Spiral"
+aliases:
+- The Hermeneutical Spiral
+citekey: osborneHermeneuticalSpiralComprehensive2006
+type: book
+title: 'The Hermeneutical Spiral: A Comprehensive Introduction to Biblical Interpretation'
+authors:
+- '[[Grant R. Osborne]]'
+year: 2006
+publisher: IVP Academic
+isbn: 978-0-8308-2826-5
+status: processed
+highlights: 0
+added: 2020-12-20
+zotero: zotero://select/library/items/SX6IYBGY
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:50:24.677Z
 ---
 
+# The Hermeneutical Spiral
 ## Metadata
 > [!info]
 > - Authors:: [[Grant R. Osborne]]
 > - Cite Key:: osborneHermeneuticalSpiralComprehensive2006
-> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[gilesPatternsMinistryFirst2017]], [[blackburnGodWhoMakes2012]]
+> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchsMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[gilesPatternsMinistryFirst2017]], [[blackburnGodWhoMakes2012]]
 > - Topics:: [[Read]]
 
 ## Bibliography

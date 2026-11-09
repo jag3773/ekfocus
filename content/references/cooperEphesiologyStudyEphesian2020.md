@@ -1,11 +1,31 @@
 ---
 cssclass: literature-note
-aliases: ["Ephesiology"]
-title: "Ephesiology"
+aliases:
+- Ephesiology
+citekey: cooperEphesiologyStudyEphesian2020
+type: book
+title: 'Ephesiology: A Study of the Ephesian Movement'
+authors:
+- '[[Michael T. Cooper]]'
+year: 2020
+publisher: William Carey Publishing
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[cooperEphesiologyStudyEphesian2020.pdf]]'
+attachments:
+- '[[cooperEphesiologyStudyEphesian2020.pdf]]'
+highlights: 228
+last_highlighted: 2026-06-20
+added: 2023-11-24
+zotero: zotero://select/library/items/SK6SXVBA
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:30:51.410Z
 ---
 
+# Ephesiology
 ## Metadata
 > [!info]
 > - Authors:: [[Michael T. Cooper]]

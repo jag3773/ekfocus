@@ -1,11 +1,38 @@
 ---
 cssclass: literature-note
-aliases: ["Thinking, Fast and Slow"]
-title: "Thinking, Fast and Slow"
+aliases:
+- Thinking, Fast and Slow
+citekey: kahnemanThinkingFastSlow2013
+type: book
+title: Thinking, Fast and Slow
+authors:
+- '[[Daniel Kahneman]]'
+year: 2013
+publisher: Farrar, Straus and Giroux
+isbn: 978-0-374-53355-7
+collections:
+- '[[Org Design]]'
+- '[[Top 10]]'
+tags:
+- systems-thinking
+- Business-Communication
+- Economics
+- KindleHighlights
+- Psychology
+- Print
+status: processed
+pdf: '[[kahnemanThinkingFastSlow2013.pdf]]'
+attachments:
+- '[[kahnemanThinkingFastSlow2013.pdf]]'
+highlights: 7
+last_highlighted: 2025-02-23
+added: 2020-12-20
+zotero: zotero://select/library/items/PPWVWYZY
 publish: true
-modified: 2025-07-26T17:07:55.962Z
+modified: 2026-11-08T15:31:01.314Z
 ---
 
+# Thinking, Fast and Slow
 ## Metadata
 > [!info]
 > - Authors:: [[Daniel Kahneman]]

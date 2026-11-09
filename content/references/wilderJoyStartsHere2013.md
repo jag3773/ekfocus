@@ -1,11 +1,24 @@
 ---
 cssclass: literature-note
-aliases: ["Joy Starts Here"]
-title: "Joy Starts Here"
+aliases:
+- Joy Starts Here
+citekey: wilderJoyStartsHere2013
+type: book
+title: Joy Starts Here
+authors:
+- '[[E. James Wilder]]'
+year: 2013
+publisher: Shepherd's House, Inc.
+isbn: 978-1-935629-10-8
+status: queued
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/GQ94QC9A
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:09.821Z
 ---
 
+# Joy Starts Here
 ## Metadata
 > [!info]
 > - Authors:: [[E. James Wilder]]

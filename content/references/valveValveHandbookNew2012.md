@@ -1,11 +1,30 @@
 ---
 cssclass: literature-note
-aliases: ["Valve: Handbook for New Employees"]
-title: "Valve: Handbook for New Employees"
+aliases:
+- 'Valve: Handbook for New Employees'
+citekey: valveValveHandbookNew2012
+type: book
+title: 'Valve: Handbook for New Employees'
+authors:
+- '[[ Valve]]'
+year: 2012
+publisher: Valve Press
+url: https://www.goodreads.com/work/best_book/19230985-valve-handbook-for-new-employees
+collections:
+- '[[Org Design]]'
+status: processed
+pdf: '[[valveValveHandbookNew2012.pdf]]'
+attachments:
+- '[[valveValveHandbookNew2012.pdf]]'
+highlights: 15
+last_highlighted: 2020-12-24
+added: 2020-12-20
+zotero: zotero://select/library/items/7MDH8NX9
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:08.757Z
 ---
 
+# Valve: Handbook for New Employees
 ## Metadata
 > [!info]
 > - Authors:: [[ Valve]]

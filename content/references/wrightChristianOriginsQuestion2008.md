@@ -1,11 +1,27 @@
 ---
 cssclass: literature-note
-aliases: ["Christian origins and the question of God. Vol. 2"]
-title: "Christian origins and the question of God. Vol. 2"
+aliases:
+- Christian origins and the question of God. Vol. 2
+citekey: wrightChristianOriginsQuestion2008
+type: book
+title: 'Christian origins and the question of God. Vol. 2: Jesus and the victory of God'
+authors:
+- '[[N. T. Wright]]'
+year: 2008
+publisher: Fortress Press
+isbn: 978-0-8006-2682-2
+tags:
+- Print
+status: queued
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/K4DWRA2I
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:10.299Z
 ---
 
+# Christian origins and the question of God. Vol. 2
 ## Metadata
 > [!info]
 > - Authors:: [[N. T. Wright]]

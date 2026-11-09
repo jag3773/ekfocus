@@ -1,11 +1,27 @@
 ---
 cssclass: literature-note
-aliases: ["Justification"]
-title: "Justification"
+aliases:
+- Justification
+citekey: wrightJustificationGodPlan2009
+type: book
+title: 'Justification: God''s plan and Paul''s vision'
+authors:
+- '[[N. T Wright]]'
+year: 2009
+publisher: SPCK
+isbn: 978-0-281-06090-0
+tags:
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/VLHSYNYF
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:10.319Z
 ---
 
+# Justification
 ## Metadata
 > [!info]
 > - Authors:: [[N. T Wright]]

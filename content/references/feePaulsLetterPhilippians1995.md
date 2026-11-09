@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["Paul's Letter to the Philippians"]
-title: "Paul's Letter to the Philippians"
+aliases:
+- Paul's Letter to the Philippians
+citekey: feePaulsLetterPhilippians1995
+type: book
+title: Paul's Letter to the Philippians
+authors:
+- '[[Gordon D. Fee]]'
+year: 1995
+publisher: Eerdmans
+isbn: 978-0-8028-2511-7
+collections:
+- '[[Bible]]'
+status: shelved
+highlights: 0
+added: 2026-05-10
+zotero: zotero://select/library/items/PXLN396E
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:30:53.419Z
 ---
 
+# Paul's Letter to the Philippians
 ## Metadata
 > [!info]
 > - Authors:: [[Gordon D. Fee]]

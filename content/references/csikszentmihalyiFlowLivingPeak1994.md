@@ -1,11 +1,23 @@
 ---
 cssclass: literature-note
-aliases: ["Flow: Living at the Peak of your Abilities"]
-title: "Flow: Living at the Peak of your Abilities"
+aliases:
+- 'Flow: Living at the Peak of your Abilities'
+citekey: csikszentmihalyiFlowLivingPeak1994
+type: book
+title: 'Flow: Living at the Peak of your Abilities'
+authors:
+- '[[Mihaly Csikszentmihalyi]]'
+year: 1994
+publisher: ': Nightingale-Conant: Personal Development'
+status: processed
+highlights: 0
+added: 2020-12-21
+zotero: zotero://select/library/items/E6ZB8TUD
 publish: true
-modified: 2025-07-26T17:07:55.752Z
+modified: 2026-11-08T15:30:51.741Z
 ---
 
+# Flow: Living at the Peak of your Abilities
 ## Metadata
 > [!info]
 > - Authors:: [[Mihaly Csikszentmihalyi]]

@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["Identity and idolatry"]
-title: "Identity and idolatry"
+aliases:
+- Identity and idolatry
+citekey: lintsIdentityIdolatryImage2015
+type: book
+title: 'Identity and idolatry: the image of God and its inversion'
+authors:
+- '[[Richard Lints]]'
+year: 2015
+publisher: InterVarsity Press
+isbn: 978-0-8308-2636-0
+tags:
+- Christianity
+- Theological-anthropology
+- Identity
+- Idolatry
+- Image-of-God
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/2XSN3SZA
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:02.179Z
 ---
 
+# Identity and idolatry
 ## Metadata
 > [!info]
 > - Authors:: [[Richard Lints]]

@@ -1,11 +1,27 @@
 ---
 cssclass: literature-note
-aliases: ["Zúme Training Book"]
-title: "Zúme Training Book"
+aliases:
+- Zúme Training Book
+citekey: ZumeTrainingBook2022
+type: book
+title: Zúme Training Book
+year: 2022
+publisher: William Carey Publishing
+url: https://zume.training/book/
+collections:
+- '[[Church]]'
+status: reviewing
+pdf: '[[ZumeTrainingBook2022.pdf]]'
+attachments:
+- '[[ZumeTrainingBook2022.pdf]]'
+highlights: 0
+added: 2023-04-02
+zotero: zotero://select/library/items/AWSS2LAR
 publish: true
-modified: 2026-05-23T12:35:43.000Z
+modified: 2026-11-08T15:30:47.390Z
 ---
 
+# Zúme Training Book
 ## Metadata
 > [!info]
 > - Authors:: 

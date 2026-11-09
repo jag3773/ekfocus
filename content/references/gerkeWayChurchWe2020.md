@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["In the Way"]
-title: "In the Way"
+aliases:
+- In the Way
+citekey: gerkeWayChurchWe2020
+type: book
+title: 'In the Way: Church As We Know It Can Be a Discipleship Movement'
+authors:
+- '[[Damian Gerke]]'
+- '[[Curtis Sergeant]]'
+year: 2020
+collections:
+- '[[Church]]'
+tags:
+- Discipling
+- Ecclesiology
+- Reviewed-in-2025
+status: processed
+pdf: '[[gerkeWayChurchWe2020.pdf]]'
+attachments:
+- '[[gerkeWayChurchWe2020.pdf]]'
+highlights: 192
+last_highlighted: 2025-04-07
+added: 2021-05-27
+zotero: zotero://select/library/items/AQES59QC
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:30:53.640Z
 ---
 
+# In the Way
 ## Metadata
 > [!info]
 > - Authors:: [[Damian Gerke]], [[Curtis Sergeant]]

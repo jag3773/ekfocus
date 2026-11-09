@@ -1,11 +1,35 @@
 ---
 cssclass: literature-note
-aliases: ["Networks and Netwars"]
-title: "Networks and Netwars"
+aliases:
+- Networks and Netwars
+citekey: arquillaNetworksNetwarsFuture2001
+type: report
+title: 'Networks and Netwars: The Future of Terror, Crime, and Militancy'
+authors:
+- '[[John Arquilla]]'
+- '[[David Ronfeldt]]'
+year: 2001
+url: https://www.rand.org/pubs/monograph_reports/MR1382.html
+tags:
+- complexity
+- Cyber-Warfare
+- Cybercrime
+- Cybersecurity
+- Complex-Networking
+- Reviewed-in-2026
+status: processed
+pdf: '[[arquillaNetworksNetwarsFuture2001.pdf]]'
+attachments:
+- '[[arquillaNetworksNetwarsFuture2001.pdf]]'
+highlights: 119
+last_highlighted: 2026-08-06
+added: 2023-11-11
+zotero: zotero://select/library/items/AP5CEDBG
 publish: true
-modified: 2026-08-06T13:04:09.769Z
+modified: 2026-11-08T15:30:48.864Z
 ---
 
+# Networks and Netwars
 ## Metadata
 > [!info]
 > - Authors:: [[John Arquilla]], [[David Ronfeldt]]

@@ -1,11 +1,24 @@
 ---
 cssclass: literature-note
-aliases: ["Galatians"]
-title: "Galatians"
+aliases:
+- Galatians
+citekey: tenneyGalatiansCharterChristian1989
+type: book
+title: 'Galatians: The Charter of Christian Liberty'
+authors:
+- '[[Merrill C. Tenney]]'
+year: 1989
+publisher: Wm. B. Eerdmans Publishing Co.
+isbn: 978-0-8028-0449-5
+status: processed
+highlights: 0
+added: 2020-12-21
+zotero: zotero://select/library/items/NDBW6WE5
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:08.065Z
 ---
 
+# Galatians
 ## Metadata
 > [!info]
 > - Authors:: [[Merrill C. Tenney]]

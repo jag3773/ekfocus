@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-09T01:54:33.000Z
+modified: 2026-11-08T15:50:16.517Z
 ---
 
 tags: #church-leadership  #apostle #equipping-servant
@@ -28,7 +28,7 @@ Paul's letters, 13 of the 27 New Testament books, are themselves products of thi
 
 - [[addisonActsMovementGod2023]]  -  Paul's mission strategy as a model for church movements.
 - [[allenMissionaryMethodsSt2011]]  -  Roland Allen's classic study of Paul's methods for planting self-sustaining churches.
-- [[banksPaulIdeaCommunity2020]]  -  Banks's study of Paul's vision for Christian community and its social structures.
+- [[banksPaulsIdeaCommunity2020]]  -  Banks's study of Paul's vision for Christian community and its social structures.
 - [[bruceRomans2014]]  -  F.F. Bruce's commentary on Romans, Paul's most systematic theological letter.
 - [[cooperEphesiologyStudyEphesian2020]]  -  Studies the Ephesian church where Paul spent over two years and trained his team.
 - [[joreEquippingServantsEarly2025]]  -  Comprehensive analysis of Paul's servant-leader network.

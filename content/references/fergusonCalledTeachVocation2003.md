@@ -1,11 +1,25 @@
 ---
 cssclass: literature-note
-aliases: ["Called to teach"]
-title: "Called to teach"
+aliases:
+- Called to teach
+citekey: fergusonCalledTeachVocation2003
+type: book
+title: 'Called to teach: the vocation of the Presbyterian educator'
+authors:
+- '[[Duncan S Ferguson]]'
+- '[[William J Weston]]'
+year: 2003
+publisher: Geneva Press
+isbn: 978-0-664-50221-8
+status: shelved
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/CEFCQ5CQ
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:53.428Z
 ---
 
+# Called to teach
 ## Metadata
 > [!info]
 > - Authors:: [[Duncan S Ferguson]], [[William J Weston]]

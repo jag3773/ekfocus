@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["Decision making and the will of God"]
-title: "Decision making and the will of God"
+aliases:
+- Decision making and the will of God
+citekey: friesenDecisionMakingWill2004
+type: book
+title: Decision making and the will of God
+authors:
+- '[[Garry Friesen]]'
+- '[[J. Robin Maxson]]'
+year: 2004
+publisher: Multnomah Publishers
+isbn: 978-1-59052-205-9
+tags:
+- Christian-life
+- Moral-and-ethical-aspects
+- Decision-making
+- Will
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/DX34X4SL
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:53.533Z
 ---
 
+# Decision making and the will of God
 ## Metadata
 > [!info]
 > - Authors:: [[Garry Friesen]], [[J. Robin Maxson]]

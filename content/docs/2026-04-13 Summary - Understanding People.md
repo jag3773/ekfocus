@@ -6,7 +6,7 @@ tags:
   - joy
   - Spiritual-life
 publish: true
-modified: 2026-04-14T10:45:56.000Z
+modified: 2026-11-08T15:50:23.727Z
 aliases:
   - "/docs/2026-04-13-summary-understanding-people"
 ---
@@ -103,4 +103,4 @@ Life becomes "discouraging at times, often wearisome, and occasionally very pain
 - [[piperDesiringGodMeditations2011]] on desire and joy (cf. [[crabbUnderstandingPeopleDeep1987#Page 185|p. 185]], [[crabbUnderstandingPeopleDeep1987#Page 214|p. 214]])
 - [[smithDesiringKingdomWorship2009]] on liturgy, desire, and directional behavior (cf. [[crabbUnderstandingPeopleDeep1987#Page 280|p. 280]])
 - [[friesenDecisionMakingWill2004]] on decision-making amid confusion (cf. [[crabbUnderstandingPeopleDeep1987#Page 273|p. 273]])
-- [[gerkeMindYourFaith2025]] references this and builds upon it very nicely. He also incorporations [[bealeWeBecomeWhat2008]] and [[bealeTempleChurchMission2004]] nicely too!
+- [[gerkeMindYourFaith2025]] references this and builds upon it very nicely. He also incorporations [[bealeWeBecomeWhat2008]] and [[bealeTempleChurchsMission2004]] nicely too!

@@ -1,17 +1,36 @@
 ---
 cssclass: literature-note
-aliases: ["Desiring the kingdom"]
-title: "Desiring the kingdom"
+aliases:
+- Desiring the kingdom
+citekey: smithDesiringKingdomWorship2009
+type: book
+title: 'Desiring the kingdom: worship, worldview, and cultural formation'
+authors:
+- '[[James K. A. Smith]]'
+year: 2009
+publisher: Baker Academic
+isbn: 978-0-8010-3577-7
+tags:
+- American-Dream
+- Kingdom-of-God
+- Liturgy
+- Philosophy
+- Print
+status: processed
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/HY7X2WBZ
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:46:39.852Z
 ---
 
+# Desiring the kingdom
 ## Metadata
 > [!info]
 > - Authors:: [[James K. A. Smith]]
 > - Cite Key:: smithDesiringKingdomWorship2009
 > - Tags:: #American-Dream, #Kingdom-of-God, #Liturgy, #Philosophy, #Print
-> - Related:: [[batesSalvationAllegianceAlone2017]], [[lewisReflectionsPsalms1958]], [[warnerRareLeadershipUncommon2016]], [[clearAtomicHabitsEasy2018]], [[willardDivineConspiracyRediscovering1998]], [[Persuaders]], [[hendricksOtherHalfChurch2020]], [[bealeWeBecomeWhat2008]], [[wolfeAmCharlotteSimmons2010]], [[crabbUnderstandingPeopleDeep1987]]
+> - Related:: [[batesSalvationAllegianceAlone2017]], [[lewisReflectionsPsalms1958]], [[warnerRareLeadership42016]], [[clearAtomicHabitsEasy2018]], [[willardDivineConspiracyRediscovering1998]], [[Persuaders]], [[hendricksOtherHalfChurch2020]], [[bealeWeBecomeWhat2008]], [[wolfeAmCharlotteSimmons2010]], [[crabbUnderstandingPeopleDeep1987]]
 > - Topics:: [[Read]]
 
 ## Bibliography

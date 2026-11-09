@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-03T01:14:00.000Z
+modified: 2026-11-08T15:50:21.424Z
 ---
 
 The visible, weighty presence of God among his people. The Hebrew *kavod* carries the sense of heaviness or significance. In Exodus, God's glory filled the [[tabernacle]] ([[Exodus 40#40:34|Exodus 40:34]]). Solomon saw it fill the [[temple]] ([[1 Kings 8#8:10-11|1 Kings 8:10-11]]). Ezekiel watched it leave ([[Ezekiel 10#10:18-19|Ezekiel 10:18-19]]) and later return to a restored temple ([[Ezekiel 43#43:1-5|Ezekiel 43:1-5]]). The New Testament transfers this presence to Jesus ([[John 1#1:14|John 1:14]]) and to the church as God's dwelling ([[2 Corinthians 3#3:18|2 Corinthians 3:18]], [[Ephesians 2#2:21-22|Ephesians 2:21-22]]).
@@ -24,6 +24,6 @@ The departure-and-return arc in Ezekiel is one of Scripture's most striking narr
 
 ## References
 
-- [[bealeTempleChurchMission2004|The temple and the church's mission]] — traces the temple/glory theme from Eden to Revelation
+- [[bealeTempleChurchsMission2004|The temple and the church's mission]] — traces the temple/glory theme from Eden to Revelation
 - [[bealeGodDwellsUs2014|God dwells among us]] — the storyline of God dwelling with his people
 - [[vosBiblicalTheologyOld2000|Biblical theology]] — the glory theme in OT redemptive history

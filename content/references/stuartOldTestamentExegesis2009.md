@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["Old Testament exegesis"]
-title: "Old Testament exegesis"
+aliases:
+- Old Testament exegesis
+citekey: stuartOldTestamentExegesis2009
+type: book
+title: 'Old Testament exegesis: a handbook for students and pastors'
+authors:
+- '[[Douglas K Stuart]]'
+year: 2009
+isbn: 978-1-61164-057-1
+url: http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=478902
+collections:
+- '[[Top 10]]'
+tags:
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/G37IB9A2
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:07.934Z
 ---
 
+# Old Testament exegesis
 ## Metadata
 > [!info]
 > - Authors:: [[Douglas K Stuart]]

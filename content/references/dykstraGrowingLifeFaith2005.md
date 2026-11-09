@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["Growing in the life of faith"]
-title: "Growing in the life of faith"
+aliases:
+- Growing in the life of faith
+citekey: dykstraGrowingLifeFaith2005
+type: book
+title: 'Growing in the life of faith: education and Christian practices'
+authors:
+- '[[Craig Richard Dykstra]]'
+- '[[Dorothy C Bass]]'
+- '[[Westminster John Knox Press]]'
+year: 2005
+publisher: Westminster John Knox Press
+isbn: 978-0-664-22758-6
+status: shelved
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/ZY7C3UVH
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:53.154Z
 ---
 
+# Growing in the life of faith
 ## Metadata
 > [!info]
 > - Authors:: [[Craig Richard Dykstra]], [[Dorothy C Bass]], [[Westminster John Knox Press]]

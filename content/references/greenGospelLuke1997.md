@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["The Gospel of Luke"]
-title: "The Gospel of Luke"
+aliases:
+- The Gospel of Luke
+citekey: greenGospelLuke1997
+type: book
+title: The Gospel of Luke
+authors:
+- '[[Joel B. Green]]'
+year: 1997
+publisher: W.B. Eerdmans Pub. Co
+isbn: 978-0-8028-2315-1
+tags:
+- Bible
+- Commentaries
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/WUAX588U
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:53.786Z
 ---
 
+# The Gospel of Luke
 ## Metadata
 > [!info]
 > - Authors:: [[Joel B. Green]]

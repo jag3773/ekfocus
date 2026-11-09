@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["Metanoia"]
-title: "Metanoia"
+aliases:
+- Metanoia
+citekey: hirschMetanoiaHowGod2023
+type: book
+title: 'Metanoia: How God Radically Transforms People, Churches, and Organizations From the Inside Out'
+authors:
+- '[[Alan Hirsch]]'
+- '[[Rob Kelly]]'
+year: 2023
+publisher: 100 Movements Publishing
+collections:
+- '[[Church]]'
+- '[[Org Design]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[hirschMetanoiaHowGod2023.pdf]]'
+attachments:
+- '[[hirschMetanoiaHowGod2023.pdf]]'
+highlights: 151
+last_highlighted: 2026-08-06
+added: 2025-02-21
+zotero: zotero://select/library/items/IAIFW97L
 publish: true
-modified: 2026-08-06T13:04:09.909Z
+modified: 2026-11-08T15:31:00.414Z
 ---
 
+# Metanoia
 ## Metadata
 > [!info]
 > - Authors:: [[Alan Hirsch]], [[Rob Kelly]]

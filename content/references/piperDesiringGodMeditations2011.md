@@ -1,11 +1,27 @@
 ---
 cssclass: literature-note
-aliases: ["Desiring God"]
-title: "Desiring God"
+aliases:
+- Desiring God
+citekey: piperDesiringGodMeditations2011
+type: book
+title: 'Desiring God: meditations of a Christian hedonist'
+authors:
+- '[[John Piper]]'
+year: 2011
+publisher: Multnomah
+isbn: 978-1-59052-119-9
+tags:
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/V98LL3NL
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:03.740Z
 ---
 
+# Desiring God
 ## Metadata
 > [!info]
 > - Authors:: [[John Piper]]

@@ -1,11 +1,31 @@
 ---
 cssclass: literature-note
-aliases: ["Linked"]
-title: "Linked"
+aliases:
+- Linked
+citekey: barabasiLinkedHowEverything2014
+type: book
+title: 'Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life'
+authors:
+- '[[Albert-László Barabási]]'
+- '[[Jennifer Frangos]]'
+year: 2014
+publisher: Basic Books
+tags:
+- Reviewed-in-2023
+- Complex-Networking
+status: processed
+pdf: '[[barabasiLinkedHowEverything2014.pdf]]'
+attachments:
+- '[[barabasiLinkedHowEverything2014.pdf]]'
+highlights: 127
+last_highlighted: 2023-11-17
+added: 2022-06-25
+zotero: zotero://select/library/items/JKDLATBX
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:48.947Z
 ---
 
+# Linked
 ## Metadata
 > [!info]
 > - Authors:: [[Albert-László Barabási]], [[Jennifer Frangos]]

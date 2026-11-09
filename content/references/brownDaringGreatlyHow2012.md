@@ -1,11 +1,23 @@
 ---
 cssclass: literature-note
-aliases: ["Daring greatly"]
-title: "Daring greatly"
+aliases:
+- Daring greatly
+citekey: brownDaringGreatlyHow2012
+type: book
+title: 'Daring greatly: how the courage to be vulnerable transforms the way we live, love, parent, and lead'
+authors:
+- '[[Brené Brown]]'
+year: 2012
+isbn: 978-1-59240-733-0
+status: queued
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/C7VG5FBD
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:50.174Z
 ---
 
+# Daring greatly
 ## Metadata
 > [!info]
 > - Authors:: [[Brené Brown]]

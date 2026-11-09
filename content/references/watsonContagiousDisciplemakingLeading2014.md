@@ -1,11 +1,31 @@
 ---
 cssclass: literature-note
-aliases: ["Contagious disciple-making"]
-title: "Contagious disciple-making"
+aliases:
+- Contagious disciple-making
+citekey: watsonContagiousDisciplemakingLeading2014
+type: book
+title: 'Contagious disciple-making: leading others on a journey of discovery'
+authors:
+- '[[David L. Watson]]'
+- '[[Paul D. Watson]]'
+year: 2014
+publisher: Thomas Nelson
+isbn: 978-0-529-11220-0
+collections:
+- '[[Church]]'
+tags:
+- Discipling
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/HJQA7TWW
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:09.705Z
 ---
 
+# Contagious disciple-making
 ## Metadata
 > [!info]
 > - Authors:: [[David L. Watson]], [[Paul D. Watson]]

@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["RetroChristianity"]
-title: "RetroChristianity"
+aliases:
+- RetroChristianity
+citekey: svigelRetroChristianityReclaimingForgotten2012
+type: book
+title: 'RetroChristianity: Reclaiming the Forgotten Faith'
+authors:
+- '[[Michael J. Svigel]]'
+year: 2012
+publisher: Crossway
+collections:
+- '[[Church]]'
+status: reviewing
+pdf: '[[svigelRetroChristianityReclaimingForgotten2012.pdf]]'
+attachments:
+- '[[svigelRetroChristianityReclaimingForgotten2012.pdf]]'
+highlights: 68
+last_highlighted: 2022-02-28
+added: 2021-10-01
+zotero: zotero://select/library/items/6SS82TNW
 publish: true
-modified: 2026-05-23T12:35:43.000Z
+modified: 2026-11-08T15:31:07.955Z
 ---
 
+# RetroChristianity
 ## Metadata
 > [!info]
 > - Authors:: [[Michael J. Svigel]]

@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["Body Life"]
-title: "Body Life"
+aliases:
+- Body Life
+citekey: stedmanBodyLifeBook2011
+type: book
+title: 'Body Life: The Book That Inspired a Return to the Church''s Real Meaning and Mission'
+authors:
+- '[[Ray C. Stedman]]'
+year: 2011
+publisher: Discovery House
+collections:
+- '[[Church]]'
+status: reviewing
+pdf: '[[stedmanBodyLifeBook2011.pdf]]'
+attachments:
+- '[[stedmanBodyLifeBook2011.pdf]]'
+highlights: 66
+last_highlighted: 2021-09-21
+added: 2021-06-04
+zotero: zotero://select/library/items/UCY9EYQX
 publish: true
-modified: 2026-05-23T12:35:43.000Z
+modified: 2026-11-08T15:31:06.536Z
 ---
 
+# Body Life
 ## Metadata
 > [!info]
 > - Authors:: [[Ray C. Stedman]]

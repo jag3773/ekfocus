@@ -1,11 +1,24 @@
 ---
 cssclass: literature-note
-aliases: ["The gifts of imperfection"]
-title: "The gifts of imperfection"
+aliases:
+- The gifts of imperfection
+citekey: brownGiftsImperfectionLet2010
+type: book
+title: 'The gifts of imperfection: let go of who you think you''re supposed to be and embrace who you are'
+authors:
+- '[[C. Brené Brown]]'
+year: 2010
+publisher: Hazelden Publishing
+isbn: 978-1-59285-849-1
+status: queued
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/A2EB7CWR
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:50.177Z
 ---
 
+# The gifts of imperfection
 ## Metadata
 > [!info]
 > - Authors:: [[C. Brené Brown]]

@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["New Bible commentary"]
-title: "New Bible commentary"
+aliases:
+- New Bible commentary
+citekey: carsonNewBibleCommentary1994
+type: book
+title: 'New Bible commentary: 21st century edition'
+authors:
+- '[[D. A. Carson]]'
+year: 1994
+publisher: Inter-Varsity Press
+isbn: 978-0-85110-648-9
+tags:
+- Bible
+- Commentaries
+- Print
+status: shelved
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/V2ZEFEXZ
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:50.299Z
 ---
 
+# New Bible commentary
 ## Metadata
 > [!info]
 > - Authors:: [[D. A. Carson]]

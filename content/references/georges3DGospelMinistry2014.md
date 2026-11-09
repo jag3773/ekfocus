@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["The 3D Gospel"]
-title: "The 3D Gospel"
+aliases:
+- The 3D Gospel
+citekey: georges3DGospelMinistry2014
+type: book
+title: 'The 3D Gospel: Ministry in Guilt, Shame, and Fear Cultures'
+authors:
+- '[[Jayson Georges]]'
+year: 2014
+publisher: Timē Press
+url: https://honorshame.com/ministry-tools/
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2025
+status: processed
+pdf: '[[georges3DGospelMinistry2014.pdf]]'
+attachments:
+- '[[georges3DGospelMinistry2014.pdf]]'
+- '[[Theology Guide from 3D Gospel.pdf]]'
+highlights: 32
+last_highlighted: 2025-03-06
+added: 2020-12-20
+zotero: zotero://select/library/items/38X4383Q
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:30:53.606Z
 ---
 
+# The 3D Gospel
 ## Metadata
 > [!info]
 > - Authors:: [[Jayson Georges]]

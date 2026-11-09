@@ -1,11 +1,31 @@
 ---
 cssclass: literature-note
-aliases: ["The Unseen Realm"]
-title: "The Unseen Realm"
+aliases:
+- The Unseen Realm
+citekey: heiserUnseenRealmRecovering2015
+type: book
+title: 'The Unseen Realm: Recovering the Supernatural Worldview of the Bible'
+authors:
+- '[[Michael S. Heiser]]'
+year: 2015
+publisher: Lexham Press
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[heiserUnseenRealmRecovering2015.pdf]]'
+attachments:
+- '[[heiserUnseenRealmRecovering2015.pdf]]'
+highlights: 270
+last_highlighted: 2026-08-06
+added: 2023-11-24
+zotero: zotero://select/library/items/LZMVEPXZ
 publish: true
-modified: 2026-08-06T13:04:09.901Z
+modified: 2026-11-08T15:31:00.057Z
 ---
 
+# The Unseen Realm
 ## Metadata
 > [!info]
 > - Authors:: [[Michael S. Heiser]]

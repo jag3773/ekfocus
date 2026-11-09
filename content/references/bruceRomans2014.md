@@ -1,11 +1,25 @@
 ---
 cssclass: literature-note
-aliases: ["Romans"]
-title: "Romans"
+aliases:
+- Romans
+citekey: bruceRomans2014
+type: book
+title: Romans
+authors:
+- '[[F. F. Bruce]]'
+year: 2014
+publisher: IVP Academic
+tags:
+- recommended-to-me
+status: shelved
+highlights: 0
+added: 2021-06-04
+zotero: zotero://select/library/items/93REIDTI
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:50.186Z
 ---
 
+# Romans
 ## Metadata
 > [!info]
 > - Authors:: [[F. F. Bruce]]

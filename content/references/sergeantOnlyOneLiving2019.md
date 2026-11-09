@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["The Only One"]
-title: "The Only One"
+aliases:
+- The Only One
+citekey: sergeantOnlyOneLiving2019
+type: book
+title: 'The Only One:: Living Fully In, By, and For God'
+authors:
+- '[[Curtis Sergeant]]'
+year: 2019
+publisher: William Carey Publishing
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2023
+- Reviewed-in-2025
+status: processed
+pdf: '[[sergeantOnlyOneLiving2019.pdf]]'
+attachments:
+- '[[sergeantOnlyOneLiving2019.pdf]]'
+highlights: 91
+last_highlighted: 2023-09-12
+added: 2022-12-14
+zotero: zotero://select/library/items/C7C822FV
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:31:05.971Z
 ---
 
+# The Only One
 ## Metadata
 > [!info]
 > - Authors:: [[Curtis Sergeant]]

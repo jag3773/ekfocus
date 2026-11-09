@@ -1,11 +1,36 @@
 ---
 cssclass: literature-note
-aliases: ["Brave new work"]
-title: "Brave new work"
+aliases:
+- Brave new work
+citekey: dignanBraveNewWork2019
+type: book
+title: 'Brave new work: are you ready to reinvent your organization?'
+authors:
+- '[[Aaron Dignan]]'
+year: 2019
+publisher: Portfolio/Penguin
+isbn: 978-0-525-53620-8
+collections:
+- '[[Org Design]]'
+tags:
+- Cognitive-Framework
+- Change
+- Organizational-effectiveness
+status: processed
+pdf: '[[dignanBraveNewWork22.pdf]]'
+attachments:
+- '[[dignanBraveNewWork22.pdf]]'
+- '[[dignanBraveNewWork2019.pdf]]'
+- '[[dignanBraveNewWork2019-CognitiveFramework.pdf]]'
+highlights: 26
+last_highlighted: 2021-01-18
+added: 2020-12-19
+zotero: zotero://select/library/items/GPGRHU8I
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:52.765Z
 ---
 
+# Brave new work
 ## Metadata
 > [!info]
 > - Authors:: [[Aaron Dignan]]

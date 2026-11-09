@@ -1,11 +1,34 @@
 ---
 cssclass: literature-note
-aliases: ["Reframation"]
-title: "Reframation"
+aliases:
+- Reframation
+citekey: hirschReframationSeeingGod2019
+type: book
+title: 'Reframation: Seeing God, People, and Mission Through Reenchanted Frames'
+authors:
+- '[[Alan Hirsch]]'
+- '[[Mark Nelson]]'
+- '[[Danielle Strickland]]'
+- '[[Michael Frost]]'
+year: 2019
+publisher: 100 Movements Publishing
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2026
+status: reviewing
+pdf: '[[hirschReframationSeeingGod2019.pdf]]'
+attachments:
+- '[[hirschReframationSeeingGod2019.pdf]]'
+highlights: 123
+last_highlighted: 2021-08-30
+added: 2021-06-27
+zotero: zotero://select/library/items/FUCGGHSA
 publish: true
-modified: 2026-05-23T12:35:43.000Z
+modified: 2026-11-08T15:31:00.420Z
 ---
 
+# Reframation
 ## Metadata
 > [!info]
 > - Authors:: [[Alan Hirsch]], [[Mark Nelson]], [[Danielle Strickland]], [[Michael Frost]]

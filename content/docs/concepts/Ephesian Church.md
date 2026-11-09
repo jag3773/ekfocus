@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-08T00:39:22.000Z
+modified: 2026-11-08T15:50:34.624Z
 ---
 
 # Ephesian Church
@@ -29,7 +29,7 @@ Paul's address to the Ephesian elders at Miletus ([[Acts 20#20:17-38|Acts 20:17-
 
 ## The Letters
 
-The letter to the Ephesians, likely a circular for the churches of Asia with Ephesus at their head, presents the church as the centerpiece of God's cosmic plan: "through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places" ([[Ephesians 3#3:10|Ephesians 3:10]]). Reed reads the letter as the strategic keystone of the Pauline corpus, revealing the church itself as Christ's grand strategy ([[reedEphesiansRevealingChrist2023]]). [[Tychicus]], himself an Asian, carried it ([[Ephesians 6#6:21-22|Ephesians 6:21-22]]).
+The letter to the Ephesians, likely a circular for the churches of Asia with Ephesus at their head, presents the church as the centerpiece of God's cosmic plan: "through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places" ([[Ephesians 3#3:10|Ephesians 3:10]]). Reed reads the letter as the strategic keystone of the Pauline corpus, revealing the church itself as Christ's grand strategy ([[reedEphesiansRevealingChrists2023]]). [[Tychicus]], himself an Asian, carried it ([[Ephesians 6#6:21-22|Ephesians 6:21-22]]).
 
 The Miletus warning came true. Paul later stationed [[Timothy]] in Ephesus to "charge certain persons not to teach any different doctrine" ([[1 Timothy 1#1:3|1 Timothy 1:3]]), and the Pastoral Epistles name Ephesian teachers who had gone astray: [[Hymenaeus]], [[Alexander]], [[Philetus]], [[Phygelus]], [[Hermogenes]]. Reed treats 1 Timothy as the manual for ordering this church's life after its apostolic founding ([[reedTimothyOrderingChurches2022]]; [[kentPastoralEpistlesStudies2001]]). A generation later the risen Christ commends the congregation's doctrinal vigilance but indicts it: "you have abandoned the love you had at first" ([[Revelation 2#2:1-7|Revelation 2:1-7]]).
 
@@ -58,7 +58,7 @@ Members of [[The Pauline Team]] connected to the Ephesian church include:
 ## References
 
 - [[cooperEphesiologyStudyEphesian2020]]  -  Book-length study of the Ephesian movement as a model for missiology and church multiplication.
-- [[reedEphesiansRevealingChrist2023]]  -  Reed's treatment of Ephesians as the revelation of Christ's grand strategy, the church.
+- [[reedEphesiansRevealingChrists2023]]  -  Reed's treatment of Ephesians as the revelation of Christ's grand strategy, the church.
 - [[murphy-oconnorStPaulEphesus2008]]  -  Historical reconstruction of Paul's Ephesian years from the texts and the archaeology of the city.
 - [[reedTimothyOrderingChurches2022]]  -  Reads 1 Timothy as Paul's manual for ordering the life of the Ephesian church.
 - [[kentPastoralEpistlesStudies2001]]  -  Commentary on the Pastoral Epistles and the Ephesian false-teacher crisis.

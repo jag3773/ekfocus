@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["Living Fearless"]
-title: "Living Fearless"
+aliases:
+- Living Fearless
+citekey: winshipLivingFearlessExchanging2022
+type: book
+title: 'Living Fearless: Exchanging the Lies of the World for the Liberating Truth of God'
+authors:
+- '[[Jamie Winship]]'
+year: 2022
+publisher: Revell
+collections:
+- '[[Church]]'
+- '[[True Spiritual Growth]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[winshipLivingFearlessExchanging2022.pdf]]'
+attachments:
+- '[[winshipLivingFearlessExchanging2022.pdf]]'
+highlights: 125
+last_highlighted: 2026-08-06
+added: 2024-05-19
+zotero: zotero://select/library/items/SGKHNLL7
 publish: true
-modified: 2026-08-06T13:04:10.031Z
+modified: 2026-11-08T15:31:10.241Z
 ---
 
+# Living Fearless
 ## Metadata
 > [!info]
 > - Authors:: [[Jamie Winship]]

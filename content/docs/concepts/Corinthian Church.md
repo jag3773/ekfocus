@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-08T00:39:22.000Z
+modified: 2026-11-08T15:50:15.926Z
 ---
 
 # Corinthian Church
@@ -21,7 +21,7 @@ Synagogue opposition pushed the mission next door, into the house of Titius Just
 
 ## Social Composition
 
-Corinth was a refounded Roman colony, wealthy, commercial, and status-obsessed, and the church absorbed the city's character. Paul's reminder that "not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth" ([[1 Corinthians 1#1:26|1 Corinthians 1:26]]) cuts both ways: most members were ordinary, but some were not. [[Erastus]], the city's *oikonomos* (treasurer, [[Romans 16#16:23|Romans 16:23]]), [[Gaius]], host "to me and to the whole church," Crispus, and the household of [[Stephanas]], "the first converts in Achaia" ([[1 Corinthians 16#16:15|1 Corinthians 16:15]]), formed a socially elevated minority. Meeks made Corinth the primary evidence that status inconsistency, not uniform poverty, drove the community's tensions ([[meeksFirstUrbanChristians2003]]). The divisions at the Lord's Supper, where some feasted while others went hungry ([[1 Corinthians 11#11:20-22|1 Corinthians 11:20-22]]), read as class conflict inside a patron's dining room ([[banksPaulIdeaCommunity2020]], [[gehringHouseChurchMission2004]]).
+Corinth was a refounded Roman colony, wealthy, commercial, and status-obsessed, and the church absorbed the city's character. Paul's reminder that "not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth" ([[1 Corinthians 1#1:26|1 Corinthians 1:26]]) cuts both ways: most members were ordinary, but some were not. [[Erastus]], the city's *oikonomos* (treasurer, [[Romans 16#16:23|Romans 16:23]]), [[Gaius]], host "to me and to the whole church," Crispus, and the household of [[Stephanas]], "the first converts in Achaia" ([[1 Corinthians 16#16:15|1 Corinthians 16:15]]), formed a socially elevated minority. Meeks made Corinth the primary evidence that status inconsistency, not uniform poverty, drove the community's tensions ([[meeksFirstUrbanChristians2003]]). The divisions at the Lord's Supper, where some feasted while others went hungry ([[1 Corinthians 11#11:20-22|1 Corinthians 11:20-22]]), read as class conflict inside a patron's dining room ([[banksPaulsIdeaCommunity2020]], [[gehringHouseChurchMission2004]]).
 
 ## The Correspondence
 
@@ -63,7 +63,7 @@ Members of [[The Pauline Team]] connected to the Corinthian church include:
 - [[reedFirstCorinthiansCorinthian2023]]  -  Reed's study of 1 Corinthians as gospel progress through multiplying, maturing churches.
 - [[reedSecondCorinthiansCorinthian2023]]  -  Companion study of 2 Corinthians covering the severe letter, repentance, and the collection.
 - [[meeksFirstUrbanChristians2003]]  -  The foundational social description of the Corinthian community; status inconsistency and urban texture.
-- [[banksPaulIdeaCommunity2020]]  -  Banks's reconstruction of Pauline community life, drawing heavily on the Corinthian evidence for meetings and meals.
+- [[banksPaulsIdeaCommunity2020]]  -  Banks's reconstruction of Pauline community life, drawing heavily on the Corinthian evidence for meetings and meals.
 - [[gehringHouseChurchMission2004]]  -  Household archaeology and the dynamics of the whole church gathered in Gaius's house.
 - [[ciampaMarriageWomenGrecoRoman2007]]  -  Greco-Roman and Jewish background for the marriage and women questions of 1 Corinthians 7 and 11.
 - [[polhillActs1992]]  -  Acts commentary covering the founding narrative and the Gallio incident's chronological anchor.

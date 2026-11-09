@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["Thinking in Systems"]
-title: "Thinking in Systems"
+aliases:
+- Thinking in Systems
+citekey: meadowsThinkingSystemsInternational2008
+type: book
+title: 'Thinking in Systems: International Bestseller'
+authors:
+- '[[Donella H. Meadows]]'
+- '[[Diana Wright]]'
+year: 2008
+publisher: Chelsea Green Publishing
+collections:
+- '[[Org Design]]'
+- '[[Systems Thinking]]'
+tags:
+- systems-thinking
+status: processed
+pdf: '[[meadowsThinkingSystemsInternational2008.pdf]]'
+attachments:
+- '[[meadowsThinkingSystemsInternational2008.pdf]]'
+highlights: 286
+last_highlighted: 2022-11-06
+added: 2021-10-01
+zotero: zotero://select/library/items/DTVZ3ZB9
 publish: true
-modified: 2025-07-26T17:07:56.050Z
+modified: 2026-11-08T15:46:54.569Z
 ---
 
+# Thinking in Systems
 ## Metadata
 > [!info]
 > - Authors:: [[Donella H. Meadows]], [[Diana Wright]]

@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-07-03T14:38:46.000Z
+modified: 2026-11-08T23:38:37.774Z
 ---
 
 A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE]].
@@ -21,7 +21,7 @@ A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas.
     * Dated items should be formatted as `YYYY-MM-DD Title of Note`
 * The `archive` directory contains completed works (books, articles, documents, etc).
 * The `archive/zotero` directory has PDFs of my library and is full text searchable in Zotero.
-* Zotero integration:
+* Zotero integration (superseded 2026-11, see [[#Reference Library]]):
     * Zotero Integration plugin is used
     * Attach PDFs in Zotero with Zotfile, storing them in `archive/zotero`
     * Resources queued for reading are in the `Queued` collection
@@ -51,6 +51,8 @@ I used to use a daily note file with the periodic notes plugin but that become t
 Sometimes it makes sense to add meeting notes to my Resources>Notes folder and then i just link from there to respective projects or whatever else needs to be included.
 
 ## Reading Workflow
+
+> [!note] As of 2026-11 the Zotero steps below are being replaced by the Library plugin. See [[#Reference Library]].
 
 ### Web Clipping
 -  [Web Clipping Workflow](https://drive.google.com/file/d/1NH6ejjudVm-iZ4IC7SeHyqM9-SBMDq15/view) 7 mins
@@ -112,6 +114,15 @@ When the adjustments are completed it's time to extract the annotations and orga
   - Paste text into Obsidian as a quote under a page number header (e.g. [[2023-10-14 Words of Delight Highlights#Page 49]])
 - Obsidian: import resource from Zotero
 - Profit!
+
+## Reference Library
+In 2026-11 I moved my reference manager from Zotero into the vault ([[2026-10-20 Zotero to Obsidian Replacement Plan]]).
+* Each source is one note in `resources/zotero`, named by its Better BibTeX-style citekey, with metadata in properties: `type`, `title`, `authors`, `year`, `collections`, `tags`, `status`, `owned`, `pdf`, `highlights`, `added`.
+* `status` replaces the old Queued and Read collections and the `_reviewing` tag: `queued` → `reading` → `reviewing` → `processed`, with `shelved` for everything I keep but am not working through.
+* [[Library.base]] is the library view: Library, Queue, Reviewing, Recently read, Bookshelf, By collection, and Web and articles. Click a title to open the note, or the 📄 icon to open the PDF.
+* PDFs stay in `archive/zotero`, named by citekey.
+* The Library plugin (https://github.com/jag3773/obsidian-library, MIT) adds references by ISBN, DOI or URL and files whatever lands in `resources/inbox`. Tablet highlight import and citation export are next.
+* How the conversion went: [[2026-11-08 Library Base Pilot]] and [[2026-11-08 Library Full Conversion Report]].
 
 ## Misc
 

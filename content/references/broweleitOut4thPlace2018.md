@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["Out of the 4th Place"]
-title: "Out of the 4th Place"
+aliases:
+- Out of the 4th Place
+citekey: broweleitOut4thPlace2018
+type: book
+title: Out of the 4th Place
+authors:
+- '[[Matt Broweleit]]'
+- '[[Dudley Callison]]'
+year: 2018
+publisher: Back Deck Books
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2026
+- _chokes_zotero_integration
+status: processed
+pdf: '[[broweleitOut4thPlace2018.pdf]]'
+attachments:
+- '[[broweleitOut4thPlace2018.pdf]]'
+highlights: 0
+added: 2023-11-22
+zotero: zotero://select/library/items/EVEM6B3F
 publish: true
-modified: 2026-08-06T13:04:09.841Z
+modified: 2026-11-08T15:30:50.170Z
 ---
 
+# Out of the 4th Place
 ## Metadata
 > [!info]
 > - Authors:: [[Matt Broweleit]], [[Dudley Callison]]

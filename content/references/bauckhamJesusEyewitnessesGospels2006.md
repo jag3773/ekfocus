@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["Jesus and the eyewitnesses"]
-title: "Jesus and the eyewitnesses"
+aliases:
+- Jesus and the eyewitnesses
+citekey: bauckhamJesusEyewitnessesGospels2006
+type: book
+title: 'Jesus and the eyewitnesses: the Gospels as eyewitness testimony'
+authors:
+- '[[Richard Bauckham]]'
+year: 2006
+publisher: Eerdmans
+isbn: 978-0-8028-6390-4
+tags:
+- Print
+status: queued
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/IQD6PJIF
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:49.252Z
 ---
 
+# Jesus and the eyewitnesses
 ## Metadata
 > [!info]
 > - Authors:: [[Richard Bauckham]]

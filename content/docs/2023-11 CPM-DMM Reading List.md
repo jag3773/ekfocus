@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-08-06T14:56:26.559Z
+modified: 2026-11-08T15:50:41.190Z
 ---
 
 Book book introduction summary for those who like stories, and those who like theory/ models, for church planting/ DMLs. Brief annotation and priority list.
@@ -36,13 +36,13 @@ This is basically an annotated bibliography for CPM/DMM but broken down by categ
 - [[reedBILDEncyclicals2017|BILD Encyclicals]]
 - [[reedGathering2021|The Gathering]]
 - [[trousdaleKingdomUnleashedHow2018|The Kingdom Unleashed]]
-- [[woodSevenThingsVe2021|Seven Things I've Learned in Seven Years of Disciple Making]]
+- [[woodSevenThingsIve2021|Seven Things I've Learned in Seven Years of Disciple Making]]
 - [[joreEquippingServantsEarly2023|The Equipping Servants of the Early Church]]
 - [[joreUnderstandingChurchHer2025|Understanding the Church and Her Mission]]
 
 ## For Readers Who Want More
 *If you've read the above and you want more...*
-- [[coleChurchUpgradesFuture2010|Church 3.0]]
+- [[coleChurch30Upgrades2010|Church 3.0]]
 - [[fordStarfishSpiritUnleashing2021|The Starfish and the Spirit]]
 - [[reachMovementsThatMove2016|Movements That Move]]
 - [[reedBILDEncyclicals2017|BILD Encyclicals]]
@@ -59,12 +59,12 @@ This is basically an annotated bibliography for CPM/DMM but broken down by categ
 ## Tangentially Related for Deeper Discovery
 - [[smithDesiringKingdomWorship2009|Desiring the kingdom: worship]]
 - [[blackburnGodWhoMakes2012|The God who makes himself known]]
-- [[bealeTempleChurchMission2004|The temple and the church's mission]]
+- [[bealeTempleChurchsMission2004|The temple and the church's mission]]
 - [[stedmanBodyLifeBook2011|Body Life]]
-- [[banksPaulIdeaCommunity2020|Paul’s Idea of Community]]
+- [[banksPaulsIdeaCommunity2020|Paul’s Idea of Community]]
 - [[svigelRetroChristianityReclaimingForgotten2012|RetroChristianity]]
 - [[doddApostolicPreachingIts1937|The apostolic preaching and its developments]]
-- [[davisGreatDechurchingWho2023|The Great Dechurching]]
+- [[davisGreatDechurchingWhos2023|The Great Dechurching]]
 ## Related Synthesis Notes
 
 - [[SPIN Movements Grow by Segmentation Polycentrism and Networked Integration|SPIN is the sociological framework that names what the books in this list describe from the inside]]

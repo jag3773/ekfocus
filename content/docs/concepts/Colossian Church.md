@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-08T00:39:22.000Z
+modified: 2026-11-08T15:50:15.811Z
 ---
 
 # Colossian Church
@@ -21,7 +21,7 @@ Jore treats Epaphras and the Colossian case as the paradigm of the *diakonos* pa
 
 ## The Household of Philemon
 
-The congregation met in a home: "to Philemon our beloved fellow worker, and Apphia our sister, and Archippus our fellow soldier, and the church in your house" ([[Philemon 1#1:1-2|Philemon 1:1-2]]). [[Philemon]], [[Apphia]] (likely his wife), and [[Archippus]] form the hosting household, and the letter to Philemon shows the social reality of a house church in miniature: a slaveholder, his family, and his runaway slave [[Onesimus]], now "no longer a slave but more than a slave, a beloved brother" ([[Philemon 1#1:16|Philemon 1:16]]), all members of one assembly. Gehring reads the Colossian evidence as a standard case of the household serving as both meeting place and social unit of the mission ([[gehringHouseChurchMission2004]]; [[banksPaulIdeaCommunity2020]]).
+The congregation met in a home: "to Philemon our beloved fellow worker, and Apphia our sister, and Archippus our fellow soldier, and the church in your house" ([[Philemon 1#1:1-2|Philemon 1:1-2]]). [[Philemon]], [[Apphia]] (likely his wife), and [[Archippus]] form the hosting household, and the letter to Philemon shows the social reality of a house church in miniature: a slaveholder, his family, and his runaway slave [[Onesimus]], now "no longer a slave but more than a slave, a beloved brother" ([[Philemon 1#1:16|Philemon 1:16]]), all members of one assembly. Gehring reads the Colossian evidence as a standard case of the household serving as both meeting place and social unit of the mission ([[gehringHouseChurchMission2004]]; [[banksPaulsIdeaCommunity2020]]).
 
 Paul dispatched [[Tychicus]] and Onesimus together, carrying Colossians and Philemon in one journey ([[Colossians 4#4:7-9|Colossians 4:7-9]]), and instructed the Colossians to exchange letters with Laodicea ([[Colossians 4#4:16|Colossians 4:16]]), a glimpse of letters circulating through a valley network within the first generation. The pointed public charge to Archippus, "See that you fulfill the ministry that you have received in the Lord" ([[Colossians 4#4:17|Colossians 4:17]]), suggests he carried pastoral responsibility during Epaphras's absence in Rome.
 
@@ -61,7 +61,7 @@ Members of [[The Pauline Team]] connected to the Colossian church include:
 - [[joreWhoWereDeacons2023]]  -  Study of the *diakonoi*, with Epaphras and the Colossian case as primary evidence.
 - [[reedPaulLaterLetters2023]]  -  Reed's study of Paul's later letters, establishing churches according to Christ's design, the Colossian letter's program.
 - [[gehringHouseChurchMission2004]]  -  The household of Philemon as a documented case of house church structure in the Pauline mission.
-- [[banksPaulIdeaCommunity2020]]  -  Community dynamics of a Pauline house assembly, including the slave-brother tension of Philemon.
+- [[banksPaulsIdeaCommunity2020]]  -  Community dynamics of a Pauline house assembly, including the slave-brother tension of Philemon.
 - [[polhillActs1992]]  -  Acts commentary on the Ephesian ministry (Acts 19:10) from which the Lycus Valley churches grew.
 - [[wrightChallengeActsRediscovering2024]]  -  Wright's account of the Asian expansion that reached Colossae without Paul.
 - [[addisonActsMovementGod2023]]  -  Reads the Lycus Valley churches as second-generation fruit of the Ephesian training hub.

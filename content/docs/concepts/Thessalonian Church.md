@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-08T00:39:22.000Z
+modified: 2026-11-08T15:50:16.263Z
 ---
 
 # Thessalonian Church
@@ -25,7 +25,7 @@ Jealous opponents recruited agitators from the marketplace, set the city in an u
 
 Torn away "for a short time, in person not in heart" ([[1 Thessalonians 2#2:17|1 Thessalonians 2:17]]), and blocked from returning ([[1 Thessalonians 2#2:18|1 Thessalonians 2:18]]), Paul sent [[Timothy]] back from Athens to establish and encourage the church in its afflictions ([[1 Thessalonians 3#3:1-3|1 Thessalonians 3:1-3]]). Timothy's report reached Paul in Corinth and flooded the first letter with relief: "now we live, if you are standing fast in the Lord" ([[1 Thessalonians 3#3:8|1 Thessalonians 3:8]]).
 
-What Timothy found was a church that had absorbed the founders' pattern and begun broadcasting it. "The word of the Lord sounded forth (*exēchētai*) from you in Macedonia and Achaia" ([[1 Thessalonians 1#1:8|1 Thessalonians 1:8]]): a months-old congregation was already an emitting station, not merely a receiving one. They had become "imitators of us and of the Lord" and in turn a *typos* (pattern) for all Macedonian and Achaian believers ([[1 Thessalonians 1#1:6-7|1 Thessalonians 1:6-7]]), imitating too the suffering of the Judean churches under their own countrymen ([[1 Thessalonians 2#2:14|1 Thessalonians 2:14]]). Addison reads the Thessalonian case as the movement dynamic in its purest form: gospel in, persecution absorbed, gospel out ([[addisonActsMovementGod2023]]; [[banksPaulIdeaCommunity2020]]).
+What Timothy found was a church that had absorbed the founders' pattern and begun broadcasting it. "The word of the Lord sounded forth (*exēchētai*) from you in Macedonia and Achaia" ([[1 Thessalonians 1#1:8|1 Thessalonians 1:8]]): a months-old congregation was already an emitting station, not merely a receiving one. They had become "imitators of us and of the Lord" and in turn a *typos* (pattern) for all Macedonian and Achaian believers ([[1 Thessalonians 1#1:6-7|1 Thessalonians 1:6-7]]), imitating too the suffering of the Judean churches under their own countrymen ([[1 Thessalonians 2#2:14|1 Thessalonians 2:14]]). Addison reads the Thessalonian case as the movement dynamic in its purest form: gospel in, persecution absorbed, gospel out ([[addisonActsMovementGod2023]]; [[banksPaulsIdeaCommunity2020]]).
 
 ## Eschatology and Work
 
@@ -58,7 +58,7 @@ Members of [[The Pauline Team]] connected to the Thessalonian church include:
 - [[addisonActsMovementGod2023]]  -  Treats Thessalonica as a case study of movement transmission: a receiving church becoming a sending one.
 - [[paoActsIsaianicNew2002]]  -  The Macedonian advance within the Isaianic new exodus program of Acts.
 - [[meeksFirstUrbanChristians2003]]  -  Social world of the Thessalonian artisans; work, idleness, and community discipline.
-- [[banksPaulIdeaCommunity2020]]  -  Pauline community formation, imitation language, and the household assembly at Jason's house.
+- [[banksPaulsIdeaCommunity2020]]  -  Pauline community formation, imitation language, and the household assembly at Jason's house.
 - [[gehringHouseChurchMission2004]]  -  Jason's house as the structural base of the Thessalonian congregation.
 - [[joreEquippingServantsEarly2025]]  -  Places the Thessalonian founding team and its delegates within the equipping-servant network.
 - [[reedGathering2021]]  -  Situates Thessalonica in the gathering and expansion narrative of the earliest churches.

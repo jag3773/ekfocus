@@ -1,11 +1,30 @@
 ---
 cssclass: literature-note
-aliases: ["The Equipping Servants of the Early Church: Rediscovering the Original Function of the Deacons in the New Testament"]
-title: "The Equipping Servants of the Early Church: Rediscovering the Original Function of the Deacons in the New Testament"
+aliases:
+- 'The Equipping Servants of the Early Church: Rediscovering the Original Function of the Deacons in the New Testament'
+citekey: joreEquippingServantsEarly2025
+type: document
+title: 'The Equipping Servants of the Early Church: Rediscovering the Original Function of the Deacons in the New Testament'
+authors:
+- '[[Tim Jore]]'
+year: 2025
+url: https://www.academia.edu/111091528/The_Equipping_Servants_of_the_Early_Church_Rediscovering_the_Original_Function_of_the_Deacons_in_the_New_Testament
+tags:
+- Ecclesiology
+- Reviewed-in-2025
+status: processed
+pdf: '[[joreEquippingServantsEarly2025.pdf]]'
+attachments:
+- '[[joreEquippingServantsEarly2025.pdf]]'
+highlights: 32
+last_highlighted: 2025-10-10
+added: 2025-07-10
+zotero: zotero://select/library/items/WLLN9IBS
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:31:01.241Z
 ---
 
+# The Equipping Servants of the Early Church: Rediscovering the Original Function of the Deacons in the New Testament
 ## Metadata
 > [!info]
 > - Authors:: [[Tim Jore]]

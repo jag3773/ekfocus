@@ -1,7 +1,7 @@
 ---
 publish: true
 date: 2020-12-20
-modified: 2026-09-26T11:20:08.717Z
+modified: 2026-11-08T15:46:43.069Z
 ---
 
 Joy is the emotion of possessing what one desires or the prospect of possessing what one desires. Joy is relational, being happy to be with someone.
@@ -11,7 +11,7 @@ Joy is the emotion of possessing what one desires or the prospect of possessing 
 * [[lewisSurprisedJoy1998|Surprised by joy]]
 * [[alcornTreasurePrincipleUnlocking2005|The treasure principle]]
 * [[wilderJoyStartsHere2013|Joy Starts Here]]
-* [[warnerRareLeadershipUncommon2016|Rare Leadership]]
+* [[warnerRareLeadership42016|Rare Leadership]]
 * [[brownPowerVulnerabilityTeachings2012|The Power of Vulnerability: Teachings of Authenticity, Connection, and Courage]]
 * [[Nehemiah 8#8:10|Nehemiah 8:10]], applied to a son in [[2025-02-25 Griffin Family Blessings - Anna David Joel Eve|David's blessing]]
 * [[Philippians 4#4:4|Philippians 4:4]] we have joy because we belong to the Lord!

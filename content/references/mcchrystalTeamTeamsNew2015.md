@@ -1,11 +1,40 @@
 ---
 cssclass: literature-note
-aliases: ["Team of Teams"]
-title: "Team of Teams"
+aliases:
+- Team of Teams
+citekey: mcchrystalTeamTeamsNew2015
+type: book
+title: 'Team of Teams: New Rules of Engagement for a Complex World'
+authors:
+- '[[Stanley McChrystal]]'
+- '[[Tantum Collins]]'
+- '[[David Silverman]]'
+- '[[Chris Fussell]]'
+year: 2015
+publisher: Portfolio
+collections:
+- '[[Org Design]]'
+- '[[Top 10]]'
+tags:
+- Information-technology
+- Business
+- Organizational-effectiveness
+- Decision-making
+- decentralized
+- Teams
+status: processed
+pdf: '[[mcchrystalTeamTeamsNew2015.pdf]]'
+attachments:
+- '[[mcchrystalTeamTeamsNew2015.pdf]]'
+highlights: 259
+last_highlighted: 2022-04-22
+added: 2020-12-20
+zotero: zotero://select/library/items/YEJDAPEA
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:02.399Z
 ---
 
+# Team of Teams
 ## Metadata
 > [!info]
 > - Authors:: [[Stanley McChrystal]], [[Tantum Collins]], [[David Silverman]], [[Chris Fussell]]

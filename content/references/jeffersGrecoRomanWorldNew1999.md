@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["The Greco-Roman World of the New Testament Era"]
-title: "The Greco-Roman World of the New Testament Era"
+aliases:
+- The Greco-Roman World of the New Testament Era
+citekey: jeffersGrecoRomanWorldNew1999
+type: book
+title: 'The Greco-Roman World of the New Testament Era: Exploring the Background of Early Christianity'
+authors:
+- '[[James S. Jeffers]]'
+year: 1999
+publisher: IVP Academic
+isbn: 978-0-8308-1589-0
+collections:
+- '[[Bible]]'
+status: shelved
+highlights: 0
+added: 2026-05-10
+zotero: zotero://select/library/items/MNHE86A8
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:31:01.114Z
 ---
 
+# The Greco-Roman World of the New Testament Era
 ## Metadata
 > [!info]
 > - Authors:: [[James S. Jeffers]]

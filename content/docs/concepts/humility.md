@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-03T01:14:00.000Z
+modified: 2026-11-08T15:50:26.812Z
 ---
 
 The posture of recognizing your dependence on God and placing others' needs alongside your own. Andrew Murray calls it "the root of every virtue" and the defining mark of Christ's character. Jesus washed feet ([[John 13#13:14-15|John 13:14-15]]), emptied himself of divine prerogatives ([[Philippians 2#2:5-8|Philippians 2:5-8]]), and told his followers that the greatest among them serves ([[Mark 10#10:43-44|Mark 10:43-44]]).
@@ -26,6 +26,6 @@ Humility shows up in community as "unity of mind" ([[1 Peter 3#3:8|1 Peter 3:8]]
 ## References
 
 - [[murrayHumility2016|Humility]] — Murray's classic on humility as the mark of the Christ-follower
-- [[warnerRareLeadershipUncommon2016|Rare Leadership]] — Warner on joy-based rather than fear-based leadership, rooted in humility
-- [[coveyHabitsHighlyEffective2004|The 7 Habits]] — Covey on maturity as moving from dependence to interdependence
+- [[warnerRareLeadership42016|Rare Leadership]] — Warner on joy-based rather than fear-based leadership, rooted in humility
+- [[covey7HabitsHighly2004|The 7 Habits]] — Covey on maturity as moving from dependence to interdependence
 - [[chanUnity2021|Until Unity]]

@@ -1,11 +1,27 @@
 ---
 cssclass: literature-note
-aliases: ["The Pastoral Epistles"]
-title: "The Pastoral Epistles"
+aliases:
+- The Pastoral Epistles
+citekey: kentPastoralEpistlesStudies2001
+type: book
+title: 'The Pastoral Epistles: studies in 1 and 2 Timothy and Titus'
+authors:
+- '[[Homer Austin Kent]]'
+year: 2001
+publisher: BMH Books
+isbn: 978-0-88469-075-7
+tags:
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/TH8LJ46M
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:01.395Z
 ---
 
+# The Pastoral Epistles
 ## Metadata
 > [!info]
 > - Authors:: [[Homer Austin Kent]]

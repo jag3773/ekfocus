@@ -1,11 +1,22 @@
 ---
 cssclass: literature-note
-aliases: ["Commentary on Romans"]
-title: "Commentary on Romans"
+aliases:
+- Commentary on Romans
+citekey: theodoretCommentaryRomansc425
+type: book
+title: Commentary on Romans
+authors:
+- '[[of Cyrus Theodoret]]'
+url: https://librivox.org/commentary-on-romans-by-theodoret-of-cyrus/
+status: queued
+highlights: 0
+added: 2021-09-01
+zotero: zotero://select/library/items/ZNJFF2JP
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:08.092Z
 ---
 
+# Commentary on Romans
 ## Metadata
 > [!info]
 > - Authors:: [[of Cyrus Theodoret]]

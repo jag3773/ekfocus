@@ -1,11 +1,36 @@
 ---
 cssclass: literature-note
-aliases: ["Understanding people"]
-title: "Understanding people"
+aliases:
+- Understanding people
+citekey: crabbUnderstandingPeopleDeep1987
+type: book
+title: 'Understanding people: deep longings for relationship'
+authors:
+- '[[Larry Crabb]]'
+year: 1987
+publisher: Ministry Resources Library
+isbn: 978-0-310-22600-0
+collections:
+- '[[Top 10]]'
+- '[[True Spiritual Growth]]'
+tags:
+- Bible
+- Pastoral-counseling
+- Print
+- Reviewed-in-2026
+status: processed
+pdf: '[[crabbUnderstandingPeopleDeep1987.pdf]]'
+attachments:
+- '[[crabbUnderstandingPeopleDeep1987.pdf]]'
+highlights: 336
+last_highlighted: 2021-01-31
+added: 2020-12-19
+zotero: zotero://select/library/items/YBTPEGAL
 publish: true
-modified: 2026-06-20T20:31:28.000Z
+modified: 2026-11-08T15:46:41.001Z
 ---
 
+# Understanding people
 ## Metadata
 > [!info]
 > - Authors:: [[Larry Crabb]]

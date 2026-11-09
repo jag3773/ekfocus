@@ -1,17 +1,38 @@
 ---
 cssclass: literature-note
-aliases: ["From Christendom to Apostolic Mission"]
-title: "From Christendom to Apostolic Mission"
+aliases:
+- From Christendom to Apostolic Mission
+citekey: maryChristendomApostolicMission2020
+type: book
+title: 'From Christendom to Apostolic Mission: Pastoral Strategies for an Apostolic Age'
+authors:
+- '[[University of Mary]]'
+- '[[Prime Matters]]'
+- '[[Monsignor James P. Shea]]'
+year: 2020
+publisher: University of Mary Press
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2023
+status: processed
+pdf: '[[maryChristendomApostolicMission2020.pdf]]'
+attachments:
+- '[[maryChristendomApostolicMission2020.pdf]]'
+highlights: 0
+added: 2023-01-30
+zotero: zotero://select/library/items/7FJJ6VZV
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:50:43.523Z
 ---
 
+# From Christendom to Apostolic Mission
 ## Metadata
 > [!info]
 > - Authors:: [[University of Mary]], [[Prime Matters]], [[Monsignor James P. Shea]]
 > - Cite Key:: maryChristendomApostolicMission2020
 > - Tags:: #Reviewed-in-2023
-> - Related:: [[coleChurchUpgradesFuture2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWho2023]], [[banksPaulIdeaCommunity2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[joreWhoWereDeacons2023]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsVe2021]], [[addisonMovementsThatChange2011]]
+> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[joreWhoWereDeacons2023]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
 > - Topics:: [[References]], [[Church]]
 
 ## Bibliography

@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["The Epistle of Paul the Apostle to the Romans"]
-title: "The Epistle of Paul the Apostle to the Romans"
+aliases:
+- The Epistle of Paul the Apostle to the Romans
+citekey: mouleEpistlePaulApostle2015
+type: book
+title: The Epistle of Paul the Apostle to the Romans
+authors:
+- '[[Handley C. G. Moule]]'
+year: 2015
+publisher: Wipf and Stock
+isbn: 978-1-4982-0826-0
+tags:
+- recommended-to-me
+status: shelved
+highlights: 0
+added: 2021-06-04
+zotero: zotero://select/library/items/3BBVAU5I
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:02.944Z
 ---
 
+# The Epistle of Paul the Apostle to the Romans
 ## Metadata
 > [!info]
 > - Authors:: [[Handley C. G. Moule]]

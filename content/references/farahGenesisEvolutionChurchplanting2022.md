@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["The genesis and evolution of church-planting movements missiology"]
-title: "The genesis and evolution of church-planting movements missiology"
+aliases:
+- The genesis and evolution of church-planting movements missiology
+citekey: farahGenesisEvolutionChurchplanting2022
+type: article
+title: The genesis and evolution of church-planting movements missiology
+authors:
+- '[[Warrick Farah]]'
+year: 2022
+journal: 'Missiology: An International Review'
+url: https://www.academia.edu/80063140/The_Genesis_and_Evolution_of_Church_Planting_Movements_Missiology
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2025
+status: processed
+pdf: '[[farahGenesisEvolutionChurchplanting2022.pdf]]'
+attachments:
+- '[[farahGenesisEvolutionChurchplanting2022.pdf]]'
+highlights: 6
+last_highlighted: 2025-03-27
+added: 2025-03-25
+zotero: zotero://select/library/items/NKCIPMJY
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:30:53.387Z
 ---
 
+# The genesis and evolution of church-planting movements missiology
 ## Metadata
 > [!info]
 > - Authors:: [[Warrick Farah]]

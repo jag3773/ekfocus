@@ -1,11 +1,27 @@
 ---
 cssclass: literature-note
-aliases: ["Zettelkasten — How One German Scholar Was So Freakishly Productive"]
-title: "Zettelkasten — How One German Scholar Was So Freakishly Productive"
+aliases:
+- Zettelkasten — How One German Scholar Was So Freakishly Productive
+citekey: clearZettelkastenHowOne2021
+type: webpage
+title: Zettelkasten — How One German Scholar Was So Freakishly Productive
+authors:
+- '[[David B. Clear]]'
+year: 2021
+journal: Medium
+url: https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
+status: shelved
+pdf: '[[clearZettelkastenHowOne2021.pdf]]'
+attachments:
+- '[[clearZettelkastenHowOne2021.pdf]]'
+highlights: 0
+added: 2021-04-19
+zotero: zotero://select/library/items/QM2D8MWR
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:51.005Z
 ---
 
+# Zettelkasten — How One German Scholar Was So Freakishly Productive
 ## Metadata
 > [!info]
 > - Authors:: [[David B. Clear]]

@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["Philippians"]
-title: "Philippians"
+aliases:
+- Philippians
+citekey: fowlPhilippians2005
+type: book
+title: Philippians
+authors:
+- '[[Stephen E. Fowl]]'
+year: 2005
+publisher: Wm. B. Eerdmans Publishing Co.
+isbn: 978-0-8028-2551-3
+collections:
+- '[[Bible]]'
+status: shelved
+highlights: 0
+added: 2026-05-10
+zotero: zotero://select/library/items/GIE4L2X6
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:30:53.500Z
 ---
 
+# Philippians
 ## Metadata
 > [!info]
 > - Authors:: [[Stephen E. Fowl]]

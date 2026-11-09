@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["The Rise of Christianity"]
-title: "The Rise of Christianity"
+aliases:
+- The Rise of Christianity
+citekey: starkRiseChristianityHow1997
+type: book
+title: 'The Rise of Christianity: How the Obscure, Marginal Jesus Movement Became the Dominant Religious Force in the Western World in a Few Centuries'
+authors:
+- '[[Rodney Stark]]'
+year: 1997
+publisher: HarperSanFrancisco
+isbn: 978-0-06-067701-5
+collections:
+- '[[Church]]'
+status: shelved
+highlights: 0
+added: 2026-04-20
+zotero: zotero://select/library/items/8QVZWIV6
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:31:06.524Z
 ---
 
+# The Rise of Christianity
 ## Metadata
 > [!info]
 > - Authors:: [[Rodney Stark]]

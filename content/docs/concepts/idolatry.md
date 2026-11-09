@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-06-20T20:55:29.000Z
+modified: 2026-11-08T15:50:21.569Z
 ---
 
 Giving to any created thing the worship, trust, or devotion that belongs to God alone. Scripture treats idolatry as spiritual adultery: Israel is a bride who abandons her husband for lovers ([[Ezekiel 16]], [[Hosea 2#2:2-13|Hosea 2:2-13]]). The prophets mock the absurdity of bowing to what your own hands carved ([[Isaiah 44#44:9-20|Isaiah 44:9-20]]).
@@ -31,5 +31,5 @@ Modern idolatry takes subtler forms. [[Timothy Keller]] defined an idol as anyth
 
 - [[bealeWeBecomeWhat2008|We become what we worship]] — the transformative power of worship, for good or ill
 - [[lintsIdentityIdolatryImage2015|Identity and idolatry]] — the image of God and its inversion through idol worship
-- [[bealeTempleChurchMission2004|The temple and the church's mission]] — idolatry as the reason God's glory departs
+- [[bealeTempleChurchsMission2004|The temple and the church's mission]] — idolatry as the reason God's glory departs
 - [[smithDesiringKingdomWorship2009|Desiring the kingdom]]

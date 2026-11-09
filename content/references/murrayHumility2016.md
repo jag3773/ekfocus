@@ -1,11 +1,29 @@
 ---
 cssclass: literature-note
-aliases: ["Humility"]
-title: "Humility"
+aliases:
+- Humility
+citekey: murrayHumility2016
+type: book
+title: Humility
+authors:
+- '[[Andrew Murray]]'
+year: 2016
+publisher: Aneko Press
+tags:
+- Humility
+status: processed
+pdf: '[[murrayHumility2016.pdf]]'
+attachments:
+- '[[murrayHumility2016.pdf]]'
+highlights: 30
+last_highlighted: 2021-12-11
+added: 2021-08-04
+zotero: zotero://select/library/items/B6CXALY3
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:31:03.324Z
 ---
 
+# Humility
 ## Metadata
 > [!info]
 > - Authors:: [[Andrew Murray]]

@@ -1,11 +1,36 @@
 ---
 cssclass: literature-note
-aliases: ["'The Roman Family' in Recent Research"]
-title: "'The Roman Family' in Recent Research"
+aliases:
+- '''The Roman Family'' in Recent Research'
+citekey: rawsonRomanFamilyRecent2003
+type: article
+title: '''The Roman Family'' in Recent Research: State of the Question'
+authors:
+- '[[Beryl Rawson]]'
+year: 2003
+publisher: Brill
+journal: Biblical Interpretation
+doi: 10.1163/156851503765661249
+url: https://brill.com/view/journals/bi/11/2/article-p119_2.xml
+collections:
+- '[[Bible]]'
+tags:
+- Biblical-Interpretations
+- Biblical-Studies
+- Biblical-Theology
+- General
+- Journal
+- Religious-Studies
+- Theology-and-World-Christianity
+status: shelved
+highlights: 0
+added: 2026-05-10
+zotero: zotero://select/library/items/ZEKJ5HMQ
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:31:04.579Z
 ---
 
+# 'The Roman Family' in Recent Research
 ## Metadata
 > [!info]
 > - Authors:: [[Beryl Rawson]]

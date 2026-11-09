@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["Story or Die"]
-title: "Story or Die"
+aliases:
+- Story or Die
+citekey: cronStoryHowUse2021
+type: book
+title: 'Story or Die: How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life'
+authors:
+- '[[Lisa Cron]]'
+year: 2021
+publisher: Ten Speed Press
+status: reviewing
+pdf: '[[cronStoryHowUse2021.pdf]]'
+attachments:
+- '[[cronStoryHowUse2021.pdf]]'
+highlights: 0
+added: 2023-06-29
+zotero: zotero://select/library/items/9KMH6ZG7
 publish: true
-modified: 2025-07-26T17:07:55.750Z
+modified: 2026-11-08T15:30:51.734Z
 ---
 
+# Story or Die
 ## Metadata
 > [!info]
 > - Authors:: [[Lisa Cron]]

@@ -1,11 +1,32 @@
 ---
 cssclass: literature-note
-aliases: ["Understanding the Church and Her Mission"]
-title: "Understanding the Church and Her Mission"
+aliases:
+- Understanding the Church and Her Mission
+citekey: joreUnderstandingChurchHer2025
+type: paper
+title: 'Understanding the Church and Her Mission: An Overview of the Model Depicted in the New Testament'
+authors:
+- '[[Tim Jore]]'
+year: 2025
+doi: 10.6084/m9.figshare.28230137
+url: https://www.academia.edu/127404288/Understanding_the_Church_and_Her_Mission
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2025
+status: processed
+pdf: '[[joreUnderstandingChurchHer2025.pdf]]'
+attachments:
+- '[[joreUnderstandingChurchHer2025.pdf]]'
+highlights: 7
+last_highlighted: 2025-10-15
+added: 2025-01-23
+zotero: zotero://select/library/items/XGXMF8MK
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:31:01.287Z
 ---
 
+# Understanding the Church and Her Mission
 ## Metadata
 > [!info]
 > - Authors:: [[Tim Jore]]

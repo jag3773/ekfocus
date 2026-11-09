@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["The Return of Oral Hermeneutics"]
-title: "The Return of Oral Hermeneutics"
+aliases:
+- The Return of Oral Hermeneutics
+citekey: steffenReturnOralHermeneutics2020
+type: book
+title: 'The Return of Oral Hermeneutics: As Good Today as It Was for the Hebrew Bible and First-Century Christianity'
+authors:
+- '[[Tom Steffen]]'
+- '[[William Bjoraker]]'
+- '[[R. Daniel Shaw]]'
+year: 2020
+publisher: Wipf and Stock Publishers
+collections:
+- '[[Bible]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[steffenReturnOralHermeneutics2020.pdf]]'
+attachments:
+- '[[steffenReturnOralHermeneutics2020.pdf]]'
+highlights: 181
+last_highlighted: 2026-06-26
+added: 2024-10-31
+zotero: zotero://select/library/items/ALGKEM4C
 publish: true
-modified: 2026-06-26T19:16:35.000Z
+modified: 2026-11-08T15:31:06.881Z
 ---
 
+# The Return of Oral Hermeneutics
 ## Metadata
 > [!info]
 > - Authors:: [[Tom Steffen]], [[William Bjoraker]], [[R. Daniel Shaw]]

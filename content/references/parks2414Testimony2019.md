@@ -1,11 +1,31 @@
 ---
 cssclass: literature-note
-aliases: ["24"]
-title: "24"
+aliases:
+- '24'
+citekey: parks2414Testimony2019
+type: book
+title: 24:14 - A Testimony to All Peoples
+authors:
+- '[[Stan Parks]]'
+- '[[Dave Coles]]'
+year: 2019
+collections:
+- '[[Church]]'
+tags:
+- Reviewed-in-2024
+status: processed
+pdf: '[[parks2414Testimony2019.pdf]]'
+attachments:
+- '[[parks2414Testimony2019.pdf]]'
+highlights: 196
+last_highlighted: 2024-04-29
+added: 2022-12-14
+zotero: zotero://select/library/items/DG4RDLYL
 publish: true
-modified: 2026-01-20T14:24:52.000Z
+modified: 2026-11-08T15:31:03.617Z
 ---
 
+# 24
 ## Metadata
 > [!info]
 > - Authors:: [[Stan Parks]], [[Dave Coles]]

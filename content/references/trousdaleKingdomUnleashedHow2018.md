@@ -1,11 +1,34 @@
 ---
 cssclass: literature-note
-aliases: ["The Kingdom Unleashed"]
-title: "The Kingdom Unleashed"
+aliases:
+- The Kingdom Unleashed
+citekey: trousdaleKingdomUnleashedHow2018
+type: book
+title: 'The Kingdom Unleashed: How Jesus'' 1st-Century Kingdom Values Are Transforming Thousands of Cultures and Awakening His Church'
+authors:
+- '[[Jerry Trousdale]]'
+- '[[Glenn Sunshine]]'
+year: 2018
+publisher: DMM Library
+isbn: 978-1-7322399-0-6
+collections:
+- '[[Church]]'
+tags:
+- _chokes_zotero_integration
+- Reviewed-in-2026
+status: processed
+pdf: '[[trousdaleKingdomUnleashedHow2018.pdf]]'
+attachments:
+- '[[trousdaleKingdomUnleashedHow2018.pdf]]'
+highlights: 148
+last_highlighted: 2026-07-02
+added: 2020-12-20
+zotero: zotero://select/library/items/862V24R6
 publish: true
-modified: 2026-07-02T12:20:07.000Z
+modified: 2026-11-08T15:46:55.670Z
 ---
 
+# The Kingdom Unleashed
 ## Metadata
 > [!info]
 > - Authors:: [[Jerry Trousdale]], [[Glenn Sunshine]]

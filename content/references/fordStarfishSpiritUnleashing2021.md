@@ -1,17 +1,40 @@
 ---
 cssclass: literature-note
-aliases: ["The Starfish and the Spirit"]
-title: "The Starfish and the Spirit"
+aliases:
+- The Starfish and the Spirit
+citekey: fordStarfishSpiritUnleashing2021
+type: book
+title: 'The Starfish and the Spirit: Unleashing the Leadership Potential of Churches and Organizations'
+authors:
+- '[[Lance Ford]]'
+- '[[Rob Wegner]]'
+- '[[Alan Hirsch]]'
+- '[[Ori Brafman]]'
+year: 2021
+publisher: Zondervan
+collections:
+- '[[Church]]'
+- '[[Org Design]]'
+tags:
+- Reviewed-in-2023
+status: processed
+pdf: '[[fordStarfishSpiritUnleashing2021.pdf]]'
+attachments:
+- '[[fordStarfishSpiritUnleashing2021.pdf]]'
+highlights: 0
+added: 2021-09-21
+zotero: zotero://select/library/items/MMWKJAD7
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:50:42.927Z
 ---
 
+# The Starfish and the Spirit
 ## Metadata
 > [!info]
 > - Authors:: [[Lance Ford]], [[Rob Wegner]], [[Alan Hirsch]], [[Ori Brafman]]
 > - Cite Key:: fordStarfishSpiritUnleashing2021
 > - Tags:: #Reviewed-in-2023
-> - Related:: [[coleChurchUpgradesFuture2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWho2023]], [[banksPaulIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[brafmanStarfishSpiderUnstoppable2008]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsVe2021]], [[addisonMovementsThatChange2011]]
+> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[brafmanStarfishSpiderUnstoppable2008]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
 > - Topics:: [[Read]], [[Church]]
 
 ## Bibliography

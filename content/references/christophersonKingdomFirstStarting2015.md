@@ -1,11 +1,30 @@
 ---
 cssclass: literature-note
-aliases: ["Kingdom First"]
-title: "Kingdom First"
+aliases:
+- Kingdom First
+citekey: christophersonKingdomFirstStarting2015
+type: book
+title: 'Kingdom First: Starting Churches That Shape Movements'
+authors:
+- '[[Jeff Christopherson]]'
+- '[[Mac Lake]]'
+year: 2015
+publisher: B&H Books
+collections:
+- '[[Church]]'
+status: reviewing
+pdf: '[[christophersonKingdomFirstStarting2015.pdf]]'
+attachments:
+- '[[christophersonKingdomFirstStarting2015.pdf]]'
+highlights: 178
+last_highlighted: 2023-09-17
+added: 2021-06-27
+zotero: zotero://select/library/items/8KP5SH68
 publish: true
-modified: 2026-05-23T12:35:43.000Z
+modified: 2026-11-08T15:30:50.980Z
 ---
 
+# Kingdom First
 ## Metadata
 > [!info]
 > - Authors:: [[Jeff Christopherson]], [[Mac Lake]]

@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["Organize for Complexity"]
-title: "Organize for Complexity"
+aliases:
+- Organize for Complexity
+citekey: pflaegingOrganizeComplexityHow2014
+type: book
+title: 'Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization'
+authors:
+- '[[Niels Pflaeging]]'
+- '[[Pia Steinmann]]'
+year: 2014
+publisher: BetaCodex Publishing
+isbn: 978-0-9915376-0-0
+collections:
+- '[[Org Design]]'
+tags:
+- Reviewed-in-2026
+status: processed
+pdf: '[[pflaegingOrganizeComplexityHow2014.pdf]]'
+attachments:
+- '[[pflaegingOrganizeComplexityHow2014.pdf]]'
+highlights: 117
+last_highlighted: 2024-01-19
+added: 2021-01-15
+zotero: zotero://select/library/items/WNGWHITF
 publish: true
-modified: 2026-06-20T20:31:28.000Z
+modified: 2026-11-08T15:46:40.936Z
 ---
 
+# Organize for Complexity
 ## Metadata
 > [!info]
 > - Authors:: [[Niels Pflaeging]], [[Pia Steinmann]]

@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["Philippians"]
-title: "Philippians"
+aliases:
+- Philippians
+citekey: craddockPhilippiansInterpretationBible2011
+type: book
+title: 'Philippians: Interpretation: A Bible Commentary for Teaching and Preaching'
+authors:
+- '[[Fred B. Craddock]]'
+year: 2011
+publisher: Westminster John Knox Press
+isbn: 978-0-664-23883-4
+collections:
+- '[[Bible]]'
+status: shelved
+highlights: 0
+added: 2026-05-10
+zotero: zotero://select/library/items/QPS8VCHC
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:30:51.726Z
 ---
 
+# Philippians
 ## Metadata
 > [!info]
 > - Authors:: [[Fred B. Craddock]]

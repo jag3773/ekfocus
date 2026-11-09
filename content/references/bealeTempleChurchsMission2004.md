@@ -1,11 +1,33 @@
 ---
 cssclass: literature-note
-aliases: ["The temple and the church's mission"]
-title: "The temple and the church's mission"
+aliases:
+- The temple and the church's mission
+citekey: bealeTempleChurchsMission2004
+type: book
+title: 'The temple and the church''s mission: a biblical theology of the dwelling place of God'
+authors:
+- '[[G. K. Beale]]'
+year: 2004
+publisher: 'Apollos : Inter-Varsity Press'
+isbn: 978-0-8308-2618-6
+collections:
+- '[[Angelology]]'
+- '[[Top 10]]'
+tags:
+- Bible
+- Theology
+- Temple-of-God
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/3VURLSXD
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:46:55.241Z
 ---
 
+# The temple and the church's mission
 ## Metadata
 > [!info]
 > - Authors:: [[G. K. Beale]]

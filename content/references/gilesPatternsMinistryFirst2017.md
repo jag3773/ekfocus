@@ -1,17 +1,34 @@
 ---
 cssclass: literature-note
-aliases: ["Patterns of Ministry among the First Christians"]
-title: "Patterns of Ministry among the First Christians"
+aliases:
+- Patterns of Ministry among the First Christians
+citekey: gilesPatternsMinistryFirst2017
+type: book
+title: 'Patterns of Ministry among the First Christians: Second Edition, Revised and Enlarged'
+authors:
+- '[[Kevin Giles]]'
+year: 2017
+publisher: Cascade Books, an Imprint of Wipf and Stock Publishers
+tags:
+- KindleHighlights
+status: processed
+pdf: '[[gilesPatternsMinistryFirst2017.pdf]]'
+attachments:
+- '[[gilesPatternsMinistryFirst2017.pdf]]'
+highlights: 0
+added: 2020-12-20
+zotero: zotero://select/library/items/A3JB4F54
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:50:24.429Z
 ---
 
+# Patterns of Ministry among the First Christians
 ## Metadata
 > [!info]
 > - Authors:: [[Kevin Giles]]
 > - Cite Key:: gilesPatternsMinistryFirst2017
 > - Tags:: #KindleHighlights
-> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[blackburnGodWhoMakes2012]], [[osborneHermeneuticalSpiralComprehensive2006]]
+> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchsMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[blackburnGodWhoMakes2012]], [[osborneHermeneuticalSpiralComprehensive2006]]
 > - Topics:: [[Read]]
 
 ## Bibliography

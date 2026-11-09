@@ -1,11 +1,30 @@
 ---
 cssclass: literature-note
-aliases: ["New Testament exegesis"]
-title: "New Testament exegesis"
+aliases:
+- New Testament exegesis
+citekey: feeNewTestamentExegesis2002
+type: book
+title: 'New Testament exegesis: a handbook for students and pastors'
+authors:
+- '[[Gordon D. Fee]]'
+year: 2002
+publisher: Westminster John Knox Press
+isbn: 978-0-664-22316-8
+collections:
+- '[[Top 10]]'
+tags:
+- study
+- Print
+status: processed
+owned: true
+highlights: 0
+added: 2020-12-19
+zotero: zotero://select/library/items/2TYJVCDX
 publish: true
-modified: 2025-07-26T20:01:45.000Z
+modified: 2026-11-08T15:30:53.416Z
 ---
 
+# New Testament exegesis
 ## Metadata
 > [!info]
 > - Authors:: [[Gordon D. Fee]]

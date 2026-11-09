@@ -1,11 +1,26 @@
 ---
 cssclass: literature-note
-aliases: ["The Epistle to the Philippians"]
-title: "The Epistle to the Philippians"
+aliases:
+- The Epistle to the Philippians
+citekey: obrienEpistlePhilippians2013
+type: book
+title: The Epistle to the Philippians
+authors:
+- '[[Peter T. O''Brien]]'
+year: 2013
+publisher: Eerdmans
+isbn: 978-0-8028-7213-5
+collections:
+- '[[Bible]]'
+status: shelved
+highlights: 0
+added: 2026-05-10
+zotero: zotero://select/library/items/DW4YH7JR
 publish: true
-modified: 2026-06-20T21:31:41.000Z
+modified: 2026-11-08T15:31:03.481Z
 ---
 
+# The Epistle to the Philippians
 ## Metadata
 > [!info]
 > - Authors:: [[Peter T. O'Brien]]
