@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-08T23:38:37.774Z
+modified: 2026-11-11T10:07:10.305Z
 ---
 
 A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE]].
@@ -139,6 +139,8 @@ In 2026-11 I moved my reference manager from Zotero into the vault ([[2026-10-20
 
 ## Related
 - [[MOC Concepts]]
+- [[griffinObsidianstacks2026|Stacks]]: the plugin (formerly Library) behind the [[#Reference Library]]; see [[Stacks - A Research Library Inside Obsidian - Summary]]
+- [[File Over App]]: why the vault keeps its library and notes as plain files
 
 ## References
 
