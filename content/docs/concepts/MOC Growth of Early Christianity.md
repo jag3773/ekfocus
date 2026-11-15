@@ -9,7 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
-modified: 2026-11-08T15:50:21.353Z
+modified: 2026-11-14T20:30:35.500Z
 ---
 
 # Growth of Early Christianity
@@ -88,6 +88,9 @@ Modern CPM/DMM research maps early church expansion mechanisms onto contemporary
 - [[joreStudyChurchHer2022]] — studying church from her origins
 - [[vosGatheringsThatAre2024]] — gatherings that shape the church
 - [[starkRiseChristianityHow1997]]
+- [[greenEvangelismEarlyChurch2004|Evangelism in the Early Church]] — Green's case that every believer evangelized; see [[2026-11-14 Tension - Green's Every-Member Evangelists Versus Kreider's Church Without a Mission Program]]
+- [[grantAugustusConstantineThrust1970|Augustus to Constantine]] — persecution as sporadic and local; see [[2026-11-14 Grant Treats Persecution as Sporadic Local Outbursts Within a Long Accommodation]]
+- [[2026-11-14 Primary Sources of the Early Church in English - Catalog]] and [[2026-11-14 Church History Surveys and Reference Works - Catalog]] — the primary and secondary shelves
 ## Network & Movement Synthesis
 
 - [[SPIN Movements Grow by Segmentation Polycentrism and Networked Integration|the early church was the original SPIN movement — segmented, polycentric, and networked long before the term existed]]

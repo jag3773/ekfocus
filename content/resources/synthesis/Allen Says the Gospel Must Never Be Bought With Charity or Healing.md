@@ -4,7 +4,7 @@ tags:
   - mission
   - evangelism
 publish: true
-modified: 2026-08-06T15:17:43.489Z
+modified: 2026-11-14T20:32:41.266Z
 ---
 
 # Allen Says the Gospel Must Never Be Bought With Charity or Healing
@@ -20,3 +20,5 @@ This sits beside [[Paul's Three Money Rules Left Every Church to Fund and Govern
 - [[Paul's Three Money Rules Left Every Church to Fund and Govern Itself]]: the financial twin of this principle
 - [[Gospel Patronage]]: the funding question viewed from the giver's side
 - [[Missionary Methods - Summary]]: the wider argument
+- [[2026-11-14 Missionary Affluence Can Make Material Gain Look Like Part of the Gospel]]: Bonk on how the missionary's wealth sends the same wrong message
+- [[2026-11-14 Tension - Weber's Apples-Not-Mushrooms Rule Versus Dyrness's Whole-Person Mission]]: the wider debate over service and proclamation

@@ -16,12 +16,12 @@ status: reviewing
 pdf: '[[coleChurchUpgradesFuture2010.pdf]]'
 attachments:
 - '[[coleChurchUpgradesFuture2010.pdf]]'
-highlights: 242
-last_highlighted: 2024-03-05
+highlights: 328
+last_highlighted: 2026-11-14
 added: 2023-09-02
 zotero: zotero://select/library/items/5JGBIS29
 publish: true
-modified: 2026-11-08T15:30:51.050Z
+modified: 2026-11-14T20:41:31.559Z
 ---
 
 # Church 3.0

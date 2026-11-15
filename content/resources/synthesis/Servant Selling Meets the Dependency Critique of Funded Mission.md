@@ -4,7 +4,7 @@ tags:
   - persuasion
   - mission-sustainability
 publish: true
-modified: 2026-08-06T15:29:29.817Z
+modified: 2026-11-14T20:32:41.268Z
 ---
 
 # Servant Selling Meets the Dependency Critique of Funded Mission
@@ -18,3 +18,5 @@ The tension does not cancel either view; it sharpens both. Pink's framework supp
 ## Related
 - [[Servant Selling]]
 - [[2026-05 Kingdom Funding Literature Review]]
+- [[dependency]]: the concept file
+- [[2026-11-14 Tension - Bonk's Call to Missionary Simplicity Versus the Case for Fully Funded Mission]]: borrows this note's third question as a test

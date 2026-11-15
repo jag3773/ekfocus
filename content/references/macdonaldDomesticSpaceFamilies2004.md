@@ -17,7 +17,7 @@ attachments:
 highlights: 0
 added: 2021-01-17
 publish: true
-modified: 2026-11-08T15:31:02.279Z
+modified: 2026-11-14T20:24:02.126Z
 ---
 
 # Domestic Space and Families in Early Christianity: Editors’ Introduction
@@ -28,3 +28,4 @@ modified: 2026-11-08T15:31:02.279Z
 * Cite key:: macdonaldDomesticSpaceFamilies2004
 * Tags:: #Early-Church-ca-30-600
 * Topics:: [[Read]], [[References]]
+	- [[macdonaldDomesticSpaceFamilies2004.pdf|macdonaldDomesticSpaceFamilies2004.pdf]]

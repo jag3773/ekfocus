@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-02T00:30:04.000Z
+modified: 2026-11-14T20:42:38.588Z
 pagerPrevTitle: "2 Thessalonians 3"
 pagerPrevUrl: "/bible/epistles/2-thessalonians-3"
 pagerNextTitle: "1 Timothy 2"
@@ -90,3 +90,8 @@ holding on to faith and a good conscience, which some have rejected and thereby 
 ###### 1:20
 
 Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme.
+
+## Commentaries
+
+- [[guthriePastoralEpistlesIntroduction1991|Guthrie, The Pastoral Epistles (TNTC)]]
+- [[mouncePastoralEpistles2000|Mounce, Pastoral Epistles (WBC)]]

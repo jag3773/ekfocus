@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-11T10:07:10.305Z
+modified: 2026-11-14T18:01:22.290Z
 ---
 
 A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE]].
@@ -52,7 +52,7 @@ Sometimes it makes sense to add meeting notes to my Resources>Notes folder and t
 
 ## Reading Workflow
 
-> [!note] As of 2026-11 the Zotero steps below are being replaced by the Library plugin. See [[#Reference Library]].
+> [!note] As of 2026-11 the Zotero steps below are being replaced by the Stacks plugin. See [[#Reference Library]].
 
 ### Web Clipping
 -  [Web Clipping Workflow](https://drive.google.com/file/d/1NH6ejjudVm-iZ4IC7SeHyqM9-SBMDq15/view) 7 mins
@@ -121,7 +121,7 @@ In 2026-11 I moved my reference manager from Zotero into the vault ([[2026-10-20
 * `status` replaces the old Queued and Read collections and the `_reviewing` tag: `queued` → `reading` → `reviewing` → `processed`, with `shelved` for everything I keep but am not working through.
 * [[Library.base]] is the library view: Library, Queue, Reviewing, Recently read, Bookshelf, By collection, and Web and articles. Click a title to open the note, or the 📄 icon to open the PDF.
 * PDFs stay in `archive/zotero`, named by citekey.
-* The Library plugin (https://github.com/jag3773/obsidian-library, MIT) adds references by ISBN, DOI or URL and files whatever lands in `resources/inbox`. Tablet highlight import and citation export are next.
+* The Stacks plugin ([[griffinObsidianstacks2026]], https://github.com/jag3773/obsidian-stacks, MIT; formerly Library) adds references by ISBN, DOI or URL, files whatever lands in `resources/inbox`, extracts annotations, runs the tablet round trip and exports bibliographies. In-editor citations are next.
 * How the conversion went: [[2026-11-08 Library Base Pilot]] and [[2026-11-08 Library Full Conversion Report]].
 
 ## Misc

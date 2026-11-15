@@ -15,12 +15,12 @@ status: reviewing
 pdf: '[[svigelRetroChristianityReclaimingForgotten2012.pdf]]'
 attachments:
 - '[[svigelRetroChristianityReclaimingForgotten2012.pdf]]'
-highlights: 68
-last_highlighted: 2022-02-28
+highlights: 94
+last_highlighted: 2026-11-14
 added: 2021-10-01
 zotero: zotero://select/library/items/6SS82TNW
 publish: true
-modified: 2026-11-08T15:31:07.955Z
+modified: 2026-11-14T20:41:31.712Z
 ---
 
 # RetroChristianity

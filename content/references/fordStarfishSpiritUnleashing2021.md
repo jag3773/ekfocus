@@ -21,11 +21,12 @@ status: processed
 pdf: '[[fordStarfishSpiritUnleashing2021.pdf]]'
 attachments:
 - '[[fordStarfishSpiritUnleashing2021.pdf]]'
-highlights: 0
+highlights: 260
+last_highlighted: 2026-11-14
 added: 2021-09-21
 zotero: zotero://select/library/items/MMWKJAD7
 publish: true
-modified: 2026-11-08T15:50:42.927Z
+modified: 2026-11-14T20:40:58.851Z
 ---
 
 # The Starfish and the Spirit

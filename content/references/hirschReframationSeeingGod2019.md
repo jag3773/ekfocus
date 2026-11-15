@@ -20,12 +20,12 @@ status: reviewing
 pdf: '[[hirschReframationSeeingGod2019.pdf]]'
 attachments:
 - '[[hirschReframationSeeingGod2019.pdf]]'
-highlights: 123
-last_highlighted: 2021-08-30
+highlights: 162
+last_highlighted: 2026-11-14
 added: 2021-06-27
 zotero: zotero://select/library/items/FUCGGHSA
 publish: true
-modified: 2026-11-08T15:31:00.420Z
+modified: 2026-11-14T20:41:31.670Z
 ---
 
 # Reframation

@@ -6,7 +6,7 @@ citekey: valveValveHandbookNew2012
 type: book
 title: 'Valve: Handbook for New Employees'
 authors:
-- '[[ Valve]]'
+- '[[Valve]]'
 year: 2012
 publisher: Valve Press
 url: https://www.goodreads.com/work/best_book/19230985-valve-handbook-for-new-employees
@@ -21,13 +21,13 @@ last_highlighted: 2020-12-24
 added: 2020-12-20
 zotero: zotero://select/library/items/7MDH8NX9
 publish: true
-modified: 2026-11-08T15:31:08.757Z
+modified: 2026-11-14T20:24:03.236Z
 ---
 
 # Valve: Handbook for New Employees
 ## Metadata
 > [!info]
-> - Authors:: [[ Valve]]
+> - Authors:: [[Valve]]
 > - URL:: https://www.goodreads.com/work/best_book/19230985-valve-handbook-for-new-employees
 > - Cite Key:: valveValveHandbookNew2012
 > - Topics:: [[Read]]

@@ -4,7 +4,7 @@ tags:
   - mission
   - discipleship
 publish: true
-modified: 2026-08-06T15:36:26.682Z
+modified: 2026-11-14T20:31:28.980Z
 ---
 
 # The Body of Ordinary Believers Carries the Expansion of the Church
@@ -21,3 +21,4 @@ The shared logic also explains why both writers distrust importing a paid foreig
 - [[New Generations Defines a Movement as a Self-Sustaining Chain Reaction of Ordinary People]]: the definition both authors reinforce
 - [[Disciple Making Movement]]: the tradition that every disciple makes disciples
 - [[Three-Self Church]]: Allen's structural ground for the claim
+- [[2026-11-14 Anabaptists Made the Great Commission Binding on Every Member]]: a sixteenth-century case of the same wager

@@ -15,12 +15,12 @@ status: reviewing
 pdf: '[[stedmanBodyLifeBook2011.pdf]]'
 attachments:
 - '[[stedmanBodyLifeBook2011.pdf]]'
-highlights: 66
-last_highlighted: 2021-09-21
+highlights: 67
+last_highlighted: 2026-11-14
 added: 2021-06-04
 zotero: zotero://select/library/items/UCY9EYQX
 publish: true
-modified: 2026-11-08T15:31:06.536Z
+modified: 2026-11-14T20:41:31.762Z
 ---
 
 # Body Life

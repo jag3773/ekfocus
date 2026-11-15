@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-07-03T14:38:46.000Z
+modified: 2026-11-14T20:30:21.233Z
 ---
 
 God declares sinners righteous on the basis of Christ's work, received through faith rather than earned through law-keeping. Paul builds this argument across Romans and Galatians by reaching back to Abraham, whom God credited with righteousness because he believed ([[Genesis 15#15:6|Genesis 15:6]], [[Romans 4#4:3|Romans 4:3]], [[Galatians 3#3:6|Galatians 3:6]]).
@@ -32,3 +32,4 @@ This doctrine holds together with [[holiness]] and [[obedience]]: justification 
 - [[piperFutureJustificationResponse2007|The Future of Justification]] — Piper's response defending imputation
 - [[tenneyGalatiansCharterChristian1989|Galatians]] — Tenney's commentary on the Galatians argument
 - [[fergusonWholeChristLegalism2016|The Whole Christ]] — Ferguson on the law-gospel relationship and assurance
+- [[2026-11-14 Luther's Revolt Grew From a Search for a Gracious God]] — how Luther came to the doctrine, with the Luther biographies

@@ -22,11 +22,12 @@ status: processed
 pdf: '[[reachMovementsThatMove2016.pdf]]'
 attachments:
 - '[[reachMovementsThatMove2016.pdf]]'
-highlights: 0
+highlights: 147
+last_highlighted: 2026-11-14
 added: 2020-12-20
 zotero: zotero://select/library/items/8RD6KPIC
 publish: true
-modified: 2026-11-08T15:50:43.528Z
+modified: 2026-11-14T20:41:08.252Z
 ---
 
 # Movements That Move

@@ -16,12 +16,12 @@ status: reviewing
 pdf: '[[christophersonKingdomFirstStarting2015.pdf]]'
 attachments:
 - '[[christophersonKingdomFirstStarting2015.pdf]]'
-highlights: 178
-last_highlighted: 2023-09-17
+highlights: 222
+last_highlighted: 2026-11-14
 added: 2021-06-27
 zotero: zotero://select/library/items/8KP5SH68
 publish: true
-modified: 2026-11-08T15:30:50.980Z
+modified: 2026-11-14T20:41:31.647Z
 ---
 
 # Kingdom First

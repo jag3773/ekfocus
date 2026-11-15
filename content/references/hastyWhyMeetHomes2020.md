@@ -15,7 +15,7 @@ attachments:
 highlights: 0
 added: 2021-02-03
 publish: true
-modified: 2026-11-08T15:30:54.588Z
+modified: 2026-11-14T20:24:03.640Z
 ---
 
 # Why Meet in Homes? - Christ Fellowship of Kansas City
@@ -26,6 +26,7 @@ modified: 2026-11-08T15:30:54.588Z
 * URL:: [https://christfellowshipkc.org/how-we-meet/why-meet-in-homes/](https://christfellowshipkc.org/how-we-meet/why-meet-in-homes/)
 * Cite key:: hastyWhyMeetHomes2020
 * Topics:: [[Read]]
+	- [[hastyWhyMeetHomes2020.pdf|hastyWhyMeetHomes2020.pdf]]
 
 ## Abstract
 

@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-11-08T15:50:34.624Z
+modified: 2026-11-14T20:30:23.129Z
 ---
 
 # Ephesian Church
@@ -69,3 +69,6 @@ Members of [[The Pauline Team]] connected to the Ephesian church include:
 - [[gehringHouseChurchMission2004]]  -  Analyzes the "from house to house" structure of the Ephesian congregation.
 - [Ephesus  -  Wikipedia](https://en.wikipedia.org/wiki/Ephesus)
 - [What is the significance of the church at Ephesus?  -  GotQuestions.org](https://www.gotquestions.org/church-in-Ephesus.html)
+
+## Related
+- [[2026-11-14 Early Evangelism Radiated Outward From Hot Centers Like Antioch and Ephesus]]: Ephesus as one of Green's hot centers

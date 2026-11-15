@@ -4,7 +4,7 @@ tags:
   - mission
   - funding
 publish: true
-modified: 2026-08-06T15:38:28.747Z
+modified: 2026-11-14T20:31:34.958Z
 ---
 
 # Imported Buildings and Subsidy Pauperize Converts Into Passive Recipients
@@ -21,3 +21,4 @@ This is the financial face of [[The Mission Station Substitutes a Foreign Instit
 - [[Donated Goods Function Like a Drug That Recipients Must Quit]]: the modern dependency parallel
 - [[Three-Self Church]]: the self-supporting alternative subsidy undermines
 - [[Missionary Methods - Summary]]: the wider argument
+- [[2026-11-14 Nevius Kept Converts in Their Own Callings and Refused Paid National Agents]]: Nevius's earlier field case against subsidy

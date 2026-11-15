@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-02T00:30:04.000Z
+modified: 2026-11-14T20:42:38.589Z
 pagerPrevTitle: "2 Timothy 4"
 pagerPrevUrl: "/bible/epistles/2-timothy-4"
 pagerNextTitle: "Titus 2"
@@ -74,3 +74,8 @@ To the pure, all things are pure; but to the defiled and unbelieving, nothing is
 ###### 1:16
 
 They profess to know God, but by their actions they deny Him. They are detestable, disobedient, and unfit for any good deed.
+
+## Commentaries
+
+- [[guthriePastoralEpistlesIntroduction1991|Guthrie, The Pastoral Epistles (TNTC)]]
+- [[mouncePastoralEpistles2000|Mounce, Pastoral Epistles (WBC)]]

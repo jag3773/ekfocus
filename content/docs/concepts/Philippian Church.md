@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-08T00:39:22.000Z
+modified: 2026-11-14T20:30:42.760Z
 ---
 
 # Philippian Church
@@ -72,3 +72,4 @@ Members of [[The Pauline Team]] connected to the Philippian church include:
 - [[wrightChallengeActsRediscovering2024]]  -  Wright's treatment of the Philippian founding within Acts as theological history.
 - [Philippi  -  Wikipedia](https://en.wikipedia.org/wiki/Philippi)
 - [What is the significance of the church at Philippi?  -  GotQuestions.org](https://www.gotquestions.org/church-in-Philippi.html)
+- [[feePhilippiansCommentaryNew2010]]  -  Fee's shorter IVP commentary, reading the letter as a hortatory letter of friendship ([[2026-11-14 Fee Reads Philippians as a Hortatory Letter of Friendship]]).

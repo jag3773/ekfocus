@@ -7,7 +7,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-09T13:16:37.000Z
+modified: 2026-11-14T20:32:41.254Z
 ---
 
 # Antioch Church
@@ -87,3 +87,8 @@ The Antioch church established patterns that shaped the rest of the New Testamen
 - [Church of Antioch  -  Wikipedia](https://en.wikipedia.org/wiki/Church_of_Antioch)
 - [What is the history and significance of the church at Antioch?  -  GotQuestions.org](https://www.gotquestions.org/church-at-Antioch.html)
 - [Antioch: Where Jesus' Followers Were First Called Christians  -  Christianity.com](https://www.christianity.com/wiki/bible/what-is-the-significance-of-antioch-in-the-bible.html)
+
+## Related
+- [[2026-11-14 Early Evangelism Radiated Outward From Hot Centers Like Antioch and Ephesus]]: Antioch as one of Green's hot centers
+- [[2026-11-14 A Missionary Call Needs Outward Confirmation by the Church as Well as Inward Conviction]]: Griffiths on church-confirmed sending
+- [[2026-11-14 Tension - Boer's Spirit-Driven Mission Versus the Great Commission as Command]]: Antioch as the passage that holds command and Spirit together

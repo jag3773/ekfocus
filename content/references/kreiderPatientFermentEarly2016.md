@@ -18,7 +18,7 @@ attachments:
 highlights: 0
 added: 2021-01-11
 publish: true
-modified: 2026-11-08T15:31:01.911Z
+modified: 2026-11-14T20:24:01.205Z
 ---
 
 # The patient ferment of the early church: the improbable rise of Christianity in the Roman Empire
@@ -29,3 +29,4 @@ modified: 2026-11-08T15:31:01.911Z
 * Cite key:: kreiderPatientFermentEarly2016
 * Tags:: #Church-history, #Early-Church-ca-30-600
 * Topics:: [[Read]]
+	- [[kreiderPatientFermentEarly2016.pdf|kreiderPatientFermentEarly2016.pdf]]

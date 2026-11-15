@@ -19,11 +19,12 @@ status: processed
 pdf: '[[maryChristendomApostolicMission2020.pdf]]'
 attachments:
 - '[[maryChristendomApostolicMission2020.pdf]]'
-highlights: 0
+highlights: 59
+last_highlighted: 2026-11-14
 added: 2023-01-30
 zotero: zotero://select/library/items/7FJJ6VZV
 publish: true
-modified: 2026-11-08T15:50:43.523Z
+modified: 2026-11-14T20:41:08.261Z
 ---
 
 # From Christendom to Apostolic Mission

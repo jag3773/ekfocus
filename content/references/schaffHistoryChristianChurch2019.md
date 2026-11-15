@@ -15,11 +15,12 @@ status: queued
 pdf: '[[schaffHistoryChristianChurch2019.pdf]]'
 attachments:
 - '[[schaffHistoryChristianChurch2019.pdf]]'
-highlights: 0
+highlights: 4
+last_highlighted: 2026-11-14
 added: 2020-12-21
 zotero: zotero://select/library/items/K6MAWDPD
 publish: true
-modified: 2026-11-08T15:31:05.900Z
+modified: 2026-11-14T20:41:31.472Z
 ---
 
 # History of the Christian Church

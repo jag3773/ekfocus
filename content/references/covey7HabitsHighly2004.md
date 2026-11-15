@@ -23,12 +23,12 @@ owned: true
 pdf: '[[coveyHabitsHighlyEffective2004.pdf]]'
 attachments:
 - '[[coveyHabitsHighlyEffective2004.pdf]]'
-highlights: 2
-last_highlighted: 2022-02-16
+highlights: 3
+last_highlighted: 2026-11-14
 added: 2020-12-19
 zotero: zotero://select/library/items/KAVSF9L3
 publish: true
-modified: 2026-11-08T15:46:53.846Z
+modified: 2026-11-14T20:41:31.838Z
 ---
 
 # The 7 habits of highly effective people

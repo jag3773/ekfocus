@@ -13,11 +13,12 @@ status: reviewing
 pdf: '[[cronStoryHowUse2021.pdf]]'
 attachments:
 - '[[cronStoryHowUse2021.pdf]]'
-highlights: 0
+highlights: 134
+last_highlighted: 2026-11-14
 added: 2023-06-29
 zotero: zotero://select/library/items/9KMH6ZG7
 publish: true
-modified: 2026-11-08T15:30:51.734Z
+modified: 2026-11-14T20:41:31.457Z
 ---
 
 # Story or Die

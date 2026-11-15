@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-02T00:30:04.000Z
+modified: 2026-11-14T20:42:38.586Z
 pagerPrevTitle: "Ephesians 6"
 pagerPrevUrl: "/bible/epistles/ephesians-6"
 pagerNextTitle: "Philippians 2"
@@ -130,3 +130,7 @@ For it has been granted to you on behalf of Christ not only to believe in Him, b
 ###### 1:30
 
 since you are encountering the same struggle you saw I had, and now hear that I still have.
+
+## Commentaries
+
+- [[feePhilippiansCommentaryNew2010|Fee, Philippians (IVP NTC)]]: reads the letter as friendship and moral exhortation

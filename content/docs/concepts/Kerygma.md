@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-01-04
-modified: 2026-11-07T10:18:15.791Z
+modified: 2026-11-15T10:10:04.515Z
 ---
 
 - Dodd's [[doddApostolicPreachingIts1937|The apostolic preaching and its developments]] covers what he thinks the kerygma is in detail, especially early in the book. Not so much the act of preaching but the message. Not so much teaching or exhortation but gospel proclamation.
@@ -21,6 +21,7 @@ modified: 2026-11-07T10:18:15.791Z
   - Kingdom of God is near
   - new of the victory is being proclaimed
   - See [[Ephesians 2]]
+- Jore summarizes the kerygma in five points (prophesied beforehand; Jesus is the Messiah; Jesus is King; Jesus will establish the kingdom forever; Jesus saves those who follow him) drawing on Dodd, Mounce, McKnight, Reed, and Bates, in [[joreRediscoveringWayKing2024]] §1.5.1.
 - See [[1 Corinthians 15]]:1-6
 
 ## References
@@ -35,3 +36,5 @@ modified: 2026-11-07T10:18:15.791Z
 ## Related
 - [[The Center of the Centered Set Is King Jesus Proclaimed and Obeyed]]: Jore makes kerygma plus didache the center of the centered set
 - [[First Principles Are Objectively Consistent and Subjectively Contoured]]: kerygma and didache as the first principles, contoured to context
+- [[McKnight Finds Four Constants in the Gospel Sermons of Acts]]: [[mcknightKingJesusGospel2011|McKnight's]] four-part summary of apostolic gospeling
+- [[First Corinthians 15 Is the Seed From Which the Rule of Faith and the Nicene Creed Grew]]: the kerygma text as the root of the creeds

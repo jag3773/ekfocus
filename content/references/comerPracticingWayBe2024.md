@@ -1,25 +1,26 @@
 ---
 cssclass: literature-note
 aliases:
-- Practicing the Way
+  - Practicing the Way
 citekey: comerPracticingWayBe2024
 type: book
-title: 'Practicing the Way: Be with Jesus. Become like him. Do as he did.'
+title: "Practicing the Way: Be with Jesus. Become like him. Do as he did."
 authors:
-- '[[John Mark Comer]]'
+  - "[[John Mark Comer]]"
 year: 2024
 publisher: WaterBrook
 collections:
-- '[[True Spiritual Growth]]'
-status: shelved
-pdf: '[[comerPracticingWayBe2024.pdf]]'
+  - "[[True Spiritual Growth]]"
+status: processed
+pdf: "[[comerPracticingWayBe2024.pdf]]"
 attachments:
-- '[[comerPracticingWayBe2024.pdf]]'
-highlights: 0
+  - "[[comerPracticingWayBe2024.pdf]]"
+highlights: 175
 added: 2025-02-21
 zotero: zotero://select/library/items/SCIUC3KK
+last_highlighted: 2026-11-14
 publish: true
-modified: 2026-11-08T15:30:51.075Z
+modified: 2026-11-15T02:47:23.312Z
 ---
 
 # Practicing the Way

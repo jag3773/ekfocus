@@ -19,11 +19,12 @@ status: processed
 pdf: '[[broweleitOut4thPlace2018.pdf]]'
 attachments:
 - '[[broweleitOut4thPlace2018.pdf]]'
-highlights: 0
+highlights: 159
+last_highlighted: 2026-11-14
 added: 2023-11-22
 zotero: zotero://select/library/items/EVEM6B3F
 publish: true
-modified: 2026-11-08T15:30:50.170Z
+modified: 2026-11-14T20:40:58.864Z
 ---
 
 # Out of the 4th Place
