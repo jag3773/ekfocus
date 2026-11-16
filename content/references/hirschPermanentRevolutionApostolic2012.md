@@ -23,18 +23,48 @@ status: queued
 highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/NVS7TVUA
+related:
+- '[[coleChurch30Upgrades2010]]'
+- '[[addisonRiseFallMovements2019]]'
+- '[[hirschForgottenWaysReactivating2007]]'
+- '[[svigelRetroChristianityReclaimingForgotten2012]]'
+- '[[davisGreatDechurchingWhos2023]]'
+- '[[banksPaulsIdeaCommunity2020]]'
+- '[[maryChristendomApostolicMission2020]]'
+- '[[chesterTotalChurchRadical2008]]'
+- '[[ZumeTraining2023]]'
+- '[[trousdaleKingdomUnleashedHow2018]]'
+- '[[christophersonKingdomFirstStarting2015]]'
+- '[[allenMissionaryMethodsSt2011]]'
+- '[[reachMovementsThatMove2016]]'
+- '[[gerkeWayChurchWe2020]]'
+- '[[ZumeTrainingBook2022]]'
+- '[[chanMultiplyDisciplesMaking2012]]'
+- '[[sergeantOnlyOneLiving2019]]'
+- '[[parks2414Testimony2019]]'
+- '[[banksGoingChurchFirst1990]]'
+- '[[broweleitOut4thPlace2018]]'
+- '[[kennedyKingdomComeGospelCentered2012]]'
+- '[[hirschReframationSeeingGod2019]]'
+- '[[watsonContagiousDisciplemakingLeading2014]]'
+- '[[rushikDiscoveryBibleStudy2020]]'
+- '[[march01WhatChurchPlanting]]'
+- '[[fordStarfishSpiritUnleashing2021]]'
+- '[[johnBhojpuriBreakthroughMovement2019]]'
+- '[[joreEquippingServantsEarly2023]]'
+- '[[christophersonVenalDogmataParable2020]]'
+- '[[reedGathering2021]]'
+- '[[stedmanBodyLifeBook2011]]'
+- '[[hendricksOtherHalfChurch2020]]'
+- '[[doddApostolicPreachingIts1937]]'
+- '[[allenSpontaneousExpansionChurch2018]]'
+- '[[woodSevenThingsIve2021]]'
+- '[[addisonMovementsThatChange2011]]'
 publish: true
-modified: 2026-11-08T15:50:43.094Z
+modified: 2026-11-15T19:37:27.715Z
 ---
 
 # The permanent revolution
-## Metadata
-> [!info]
-> - Authors:: [[Alan Hirsch]], [[Tim Catchim]], [[Mike Breen]]
-> - Cite Key:: hirschPermanentRevolutionApostolic2012
-> - Tags:: #Church-Planting, #Church, #Missiology, #Ecclesiology
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Queued]], [[Church]]
 
 ## Bibliography
     Hirsch, Alan, Tim Catchim, and Mike Breen. 2012. _The Permanent Revolution: Apostolic Imagination and Practice for the 21st Century Church_. 1st ed. Jossey-Bass Leadership Network Series 57. San Francisco: Jossey-Bass.

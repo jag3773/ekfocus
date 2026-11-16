@@ -18,17 +18,51 @@ status: shelved
 highlights: 0
 added: 2023-11-22
 zotero: zotero://select/library/items/6YDNRRQ8
+related:
+- '[[coleChurch30Upgrades2010]]'
+- '[[addisonRiseFallMovements2019]]'
+- '[[hirschForgottenWaysReactivating2007]]'
+- '[[svigelRetroChristianityReclaimingForgotten2012]]'
+- '[[st.peterthefishermanGreatDechurchingEvening2023]]'
+- '[[banksPaulsIdeaCommunity2020]]'
+- '[[maryChristendomApostolicMission2020]]'
+- '[[chesterTotalChurchRadical2008]]'
+- '[[ZumeTraining2023]]'
+- '[[trousdaleKingdomUnleashedHow2018]]'
+- '[[christophersonKingdomFirstStarting2015]]'
+- '[[allenMissionaryMethodsSt2011]]'
+- '[[reachMovementsThatMove2016]]'
+- '[[gerkeWayChurchWe2020]]'
+- '[[ZumeTrainingBook2022]]'
+- '[[chanMultiplyDisciplesMaking2012]]'
+- '[[sergeantOnlyOneLiving2019]]'
+- '[[parks2414Testimony2019]]'
+- '[[banksGoingChurchFirst1990]]'
+- '[[broweleitOut4thPlace2018]]'
+- '[[kennedyKingdomComeGospelCentered2012]]'
+- '[[hirschReframationSeeingGod2019]]'
+- '[[watsonContagiousDisciplemakingLeading2014]]'
+- '[[rushikDiscoveryBibleStudy2020]]'
+- '[[smietanaGreatDechurchingLooks2023]]'
+- '[[march01WhatChurchPlanting]]'
+- '[[fordStarfishSpiritUnleashing2021]]'
+- '[[johnBhojpuriBreakthroughMovement2019]]'
+- '[[hirschPermanentRevolutionApostolic2012]]'
+- '[[joreEquippingServantsEarly2023]]'
+- '[[christophersonVenalDogmataParable2020]]'
+- '[[reedGathering2021]]'
+- '[[stedmanBodyLifeBook2011]]'
+- '[[hendricksOtherHalfChurch2020]]'
+- '[[doddApostolicPreachingIts1937]]'
+- '[[allenSpontaneousExpansionChurch2018]]'
+- '[[woodSevenThingsIve2021]]'
+- '[[addisonMovementsThatChange2011]]'
 publish: true
-modified: 2026-11-08T15:50:44.028Z
+modified: 2026-11-15T19:37:26.042Z
 ---
 
 # The Great Dechurching
-## Metadata
-> [!info]
-> - Authors:: [[Jim Davis]], [[Michael Graham]], [[Ryan P. Burge]], [[Collin Hansen]]
-> - Cite Key:: davisGreatDechurchingWho2023
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[st.peterthefishermanGreatDechurchingEvening2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[smietanaGreatDechurchingLooks2023]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/Great-Dechurching-Leaving-Going-Bring-ebook/dp/B0BN19KT5M/ref=sr_1_1?crid=28ODLUD7NY7KB&keywords=the+great+dechurching+jim+davis&qid=1700618507&sprefix=great+dechur%2Caps%2C128&sr=8-1)
 
 ## Bibliography
     Davis, Jim, Michael Graham, Ryan P. Burge, and Collin Hansen. 2023. _The Great Dechurching: Who’s Leaving, Why Are They Going, and What Will It Take to Bring Them Back?_ Zondervan.

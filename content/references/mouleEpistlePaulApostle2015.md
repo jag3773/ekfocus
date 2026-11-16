@@ -17,16 +17,11 @@ highlights: 0
 added: 2021-06-04
 zotero: zotero://select/library/items/3BBVAU5I
 publish: true
-modified: 2026-11-08T15:31:02.944Z
+modified: 2026-11-15T19:37:29.526Z
 ---
 
 # The Epistle of Paul the Apostle to the Romans
-## Metadata
-> [!info]
-> - Authors:: [[Handley C. G. Moule]]
-> - Cite Key:: mouleEpistlePaulApostle2015
-> - Tags:: #recommended-to-me
-> - Topics:: [[References]]
+Links: [Amazon.com Link](https://smile.amazon.com/Epistle-Apostle-Romans-Biblical-Library/dp/1498208266/ref=sr_1_1?dchild=1&keywords=romans+commentary+moule&qid=1622849332&sr=8-1)
 
 ## Bibliography
     Moule, Handley C. G. 2015. _The Epistle of Paul the Apostle to the Romans_. Illustrated edition. Place of publication not identified: Wipf and Stock.

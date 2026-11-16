@@ -18,16 +18,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/XD84RU94
 publish: true
-modified: 2026-11-08T15:30:49.239Z
+modified: 2026-11-15T19:37:24.765Z
 ---
 
 # The semantics of biblical language
-## Metadata
-> [!info]
-> - Authors:: [[James Barr]]
-> - Cite Key:: barrSemanticsBiblicalLanguage2004
-> - Tags:: #Own
-> - Topics:: [[Read]]
 
 ## Bibliography
     Barr, James. 2004. _The Semantics of Biblical Language_. Eugene, Oregon: Wipf & Stock.

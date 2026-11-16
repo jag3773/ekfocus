@@ -1,32 +1,26 @@
 ---
 cssclass: literature-note
 aliases:
-- Evolution of CPM/DMM Thought
+  - Evolution of CPM/DMM Thought
 citekey: hartmanEvolutionCPMDMM2026
 type: webpage
 title: Evolution of CPM/DMM Thought
 authors:
-- '[[Cory Hartman]]'
+  - "[[Cory Hartman]]"
 year: 2026
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 status: shelved
-pdf: '[[hartmanEvolutionCPMDMM2026.pdf]]'
 attachments:
-- '[[hartmanEvolutionCPMDMM2026.pdf]]'
+  - "[[hartmanEvolutionCPMDMM2026.pdf]]"
 highlights: 0
 added: 2026-01-22
 zotero: zotero://select/library/items/JTDJDCRI
 publish: true
-modified: 2026-11-08T15:30:54.582Z
+modified: 2026-11-16T01:39:49.545Z
 ---
 
 # Evolution of CPM/DMM Thought
-## Metadata
-> [!info]
-> - Authors:: [[Cory Hartman]]
-> - Cite Key:: hartmanEvolutionCPMDMM2026
-> - Topics:: [[Church]]
 
 ## Bibliography
     Hartman, Cory. 2026. “Evolution of CPM/DMM Thought.” January.

@@ -1,42 +1,75 @@
 ---
 cssclass: literature-note
 aliases:
-- The Starfish and the Spirit
+  - The Starfish and the Spirit
 citekey: fordStarfishSpiritUnleashing2021
 type: book
-title: 'The Starfish and the Spirit: Unleashing the Leadership Potential of Churches and Organizations'
+title: "The Starfish and the Spirit: Unleashing the Leadership Potential of Churches and Organizations"
 authors:
-- '[[Lance Ford]]'
-- '[[Rob Wegner]]'
-- '[[Alan Hirsch]]'
-- '[[Ori Brafman]]'
+  - "[[Lance Ford]]"
+  - "[[Rob Wegner]]"
+  - "[[Alan Hirsch]]"
+  - "[[Ori Brafman]]"
 year: 2021
 publisher: Zondervan
 collections:
-- '[[Church]]'
-- '[[Org Design]]'
+  - "[[Church]]"
+  - "[[Org Design]]"
 tags:
-- Reviewed-in-2023
+  - Reviewed-in-2023
 status: processed
-pdf: '[[fordStarfishSpiritUnleashing2021.pdf]]'
 attachments:
-- '[[fordStarfishSpiritUnleashing2021.pdf]]'
+  - "[[fordStarfishSpiritUnleashing2021.pdf]]"
+  - "[[fordStarfishSpiritUnleashing2021BK.pdf]]"
 highlights: 260
 last_highlighted: 2026-11-14
 added: 2021-09-21
 zotero: zotero://select/library/items/MMWKJAD7
+ingested: 2026-11-15
+related:
+  - "[[coleChurch30Upgrades2010]]"
+  - "[[addisonRiseFallMovements2019]]"
+  - "[[hirschForgottenWaysReactivating2007]]"
+  - "[[svigelRetroChristianityReclaimingForgotten2012]]"
+  - "[[davisGreatDechurchingWhos2023]]"
+  - "[[banksPaulsIdeaCommunity2020]]"
+  - "[[maryChristendomApostolicMission2020]]"
+  - "[[chesterTotalChurchRadical2008]]"
+  - "[[ZumeTraining2023]]"
+  - "[[trousdaleKingdomUnleashedHow2018]]"
+  - "[[christophersonKingdomFirstStarting2015]]"
+  - "[[allenMissionaryMethodsSt2011]]"
+  - "[[reachMovementsThatMove2016]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[ZumeTrainingBook2022]]"
+  - "[[chanMultiplyDisciplesMaking2012]]"
+  - "[[sergeantOnlyOneLiving2019]]"
+  - "[[brafmanStarfishSpiderUnstoppable2008]]"
+  - "[[parks2414Testimony2019]]"
+  - "[[banksGoingChurchFirst1990]]"
+  - "[[broweleitOut4thPlace2018]]"
+  - "[[kennedyKingdomComeGospelCentered2012]]"
+  - "[[hirschReframationSeeingGod2019]]"
+  - "[[watsonContagiousDisciplemakingLeading2014]]"
+  - "[[rushikDiscoveryBibleStudy2020]]"
+  - "[[march01WhatChurchPlanting]]"
+  - "[[johnBhojpuriBreakthroughMovement2019]]"
+  - "[[hirschPermanentRevolutionApostolic2012]]"
+  - "[[joreEquippingServantsEarly2023]]"
+  - "[[christophersonVenalDogmataParable2020]]"
+  - "[[reedGathering2021]]"
+  - "[[stedmanBodyLifeBook2011]]"
+  - "[[hendricksOtherHalfChurch2020]]"
+  - "[[doddApostolicPreachingIts1937]]"
+  - "[[allenSpontaneousExpansionChurch2018]]"
+  - "[[woodSevenThingsIve2021]]"
+  - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-14T20:40:58.851Z
+modified: 2026-11-16T01:39:37.633Z
 ---
 
 # The Starfish and the Spirit
-## Metadata
-> [!info]
-> - Authors:: [[Lance Ford]], [[Rob Wegner]], [[Alan Hirsch]], [[Ori Brafman]]
-> - Cite Key:: fordStarfishSpiritUnleashing2021
-> - Tags:: #Reviewed-in-2023
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[brafmanStarfishSpiderUnstoppable2008]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Read]], [[Church]]
+Links: [Amazon.com Link](https://smile.amazon.com/Starfish-Spirit-Unleashing-Leadership-Organizations-ebook/dp/B07T8SDC2Z/ref=sr_1_1?dchild=1&keywords=starfish+and+the+spirit&qid=1632246650&sr=8-1)
 
 ## Bibliography
     Ford, Lance, Rob Wegner, Alan Hirsch, and Ori Brafman. 2021. _The Starfish and the Spirit: Unleashing the Leadership Potential of Churches and Organizations_. Zondervan.

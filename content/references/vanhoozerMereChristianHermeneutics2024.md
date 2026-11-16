@@ -1,31 +1,26 @@
 ---
 cssclass: literature-note
 aliases:
-- Mere Christian Hermeneutics
+  - Mere Christian Hermeneutics
 citekey: vanhoozerMereChristianHermeneutics2024
 type: book
-title: 'Mere Christian Hermeneutics: Transfiguring What It Means to Read the Bible Theologically'
+title: "Mere Christian Hermeneutics: Transfiguring What It Means to Read the Bible Theologically"
 authors:
-- '[[Kevin J. Vanhoozer]]'
+  - "[[Kevin J. Vanhoozer]]"
 year: 2024
 publisher: Zondervan Academic
 status: shelved
-pdf: '[[vanhoozerMereChristianHermeneutics2024.pdf]]'
 attachments:
-- '[[vanhoozerMereChristianHermeneutics2024.pdf]]'
+  - "[[vanhoozerMereChristianHermeneutics2024.pdf]]"
 highlights: 0
 added: 2025-02-21
 zotero: zotero://select/library/items/3KXR94G5
 publish: true
-modified: 2026-11-08T15:31:08.789Z
+modified: 2026-11-16T01:40:49.862Z
 ---
 
 # Mere Christian Hermeneutics
-## Metadata
-> [!info]
-> - Authors:: [[Kevin J. Vanhoozer]]
-> - Cite Key:: vanhoozerMereChristianHermeneutics2024
-> - Topics:: [[References]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B0CW1BZB9Y/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20)
 
 ## Bibliography
     Vanhoozer, Kevin J. 2024. _Mere Christian Hermeneutics: Transfiguring What It Means to Read the Bible Theologically_. Zondervan Academic.

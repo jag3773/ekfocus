@@ -1,40 +1,36 @@
 ---
 cssclass: literature-note
 aliases:
-- Metanoia
+  - Metanoia
 citekey: hirschMetanoiaHowGod2023
 type: book
-title: 'Metanoia: How God Radically Transforms People, Churches, and Organizations From the Inside Out'
+title: "Metanoia: How God Radically Transforms People, Churches, and Organizations From the Inside Out"
 authors:
-- '[[Alan Hirsch]]'
-- '[[Rob Kelly]]'
+  - "[[Alan Hirsch]]"
+  - "[[Rob Kelly]]"
 year: 2023
 publisher: 100 Movements Publishing
 collections:
-- '[[Church]]'
-- '[[Org Design]]'
+  - "[[Church]]"
+  - "[[Org Design]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[hirschMetanoiaHowGod2023.pdf]]'
 attachments:
-- '[[hirschMetanoiaHowGod2023.pdf]]'
+  - "[[hirschMetanoiaHowGod2023.pdf]]"
 highlights: 151
 last_highlighted: 2026-08-06
 added: 2025-02-21
 zotero: zotero://select/library/items/IAIFW97L
+related:
+  - "[[dignanBraveNewWork2019]]"
+  - "[[pflaegingOrganizeComplexityHow2014]]"
 publish: true
-modified: 2026-11-08T15:31:00.414Z
+modified: 2026-11-16T01:39:52.045Z
 ---
 
 # Metanoia
-## Metadata
-> [!info]
-> - Authors:: [[Alan Hirsch]], [[Rob Kelly]]
-> - Cite Key:: hirschMetanoiaHowGod2023
-> - Tags:: #Reviewed-in-2026
-> - Related:: [[dignanBraveNewWork2019]], [[pflaegingOrganizeComplexityHow2014]]
-> - Topics:: [[Church]], [[Org Design]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B0BZJ99TSJ/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0BZJ99TSJ&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
 ## Bibliography
     Hirsch, Alan, and Rob Kelly. 2023. _Metanoia: How God Radically Transforms People, Churches, and Organizations From the Inside Out_. 100 Movements Publishing.

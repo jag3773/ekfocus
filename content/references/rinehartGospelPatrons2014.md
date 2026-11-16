@@ -1,39 +1,35 @@
 ---
 cssclass: literature-note
 aliases:
-- Gospel Patrons
+  - Gospel Patrons
 citekey: rinehartGospelPatrons2014
 type: book
 title: Gospel Patrons
 authors:
-- '[[John Rinehart]]'
+  - "[[John Rinehart]]"
 year: 2014
 publisher: Reclaimed Publishing
 tags:
-- Missions
-- Church-work
-- Church-history
-- Generosity
+  - Missions
+  - Church-work
+  - Church-history
+  - Generosity
 status: processed
-pdf: '[[rinehartGospelPatrons2014.pdf]]'
 attachments:
-- '[[rinehartGospelPatrons2014.pdf]]'
+  - "[[rinehartGospelPatrons2014.pdf]]"
 highlights: 37
 last_highlighted: 2022-05-10
 added: 2022-04-21
 zotero: zotero://select/library/items/NT7YUDMJ
+related:
+  - "[[petersonMorePro2024]]"
+  - "[[greenThisBookAlive2024]]"
 publish: true
-modified: 2026-11-08T15:46:55.465Z
+modified: 2026-11-16T01:40:31.751Z
 ---
 
 # Gospel Patrons
-## Metadata
-> [!info]
-> - Authors:: [[John Rinehart]]
-> - Cite Key:: rinehartGospelPatrons2014
-> - Tags:: #Missions, #Church-work, #Church-history, #Generosity
-> - Related:: [[petersonMorePro2024]], [[greenThisBookAlive2024]]
-> - Topics:: [[Queued]]
+Links: [Amazon.com Link](https://smile.amazon.com/Gospel-Patrons-John-Rinehart-ebook/dp/B00HR6NANE/ref=sr_1_1?crid=1PTU65TSLB1IY&keywords=gospel+patrons&qid=1650503532&s=digital-text&sprefix=gospel+patrons%2Cdigital-text%2C108&sr=1-1)
 
 ## Bibliography
     Rinehart, John. 2014. _Gospel Patrons_. Reclaimed Publishing.

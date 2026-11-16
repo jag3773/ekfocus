@@ -20,16 +20,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/I5XF5VPT
 publish: true
-modified: 2026-11-08T15:31:03.782Z
+modified: 2026-11-15T19:37:30.176Z
 ---
 
 # Acts
-## Metadata
-> [!info]
-> - Authors:: [[John B. Polhill]]
-> - Cite Key:: polhillActs1992
-> - Tags:: #Own, #Bible, #Commentaries
-> - Topics:: [[Read]]
 
 ## Bibliography
     Polhill, John B. 1992. _Acts_. The New American Commentary, v. 26. Nashville, Tenn: Broadman Press.

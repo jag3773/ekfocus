@@ -27,17 +27,10 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/ZEKJ5HMQ
 publish: true
-modified: 2026-11-08T15:31:04.579Z
+modified: 2026-11-15T19:37:30.347Z
 ---
 
 # 'The Roman Family' in Recent Research
-## Metadata
-> [!info]
-> - Authors:: [[Beryl Rawson]]
-> - URL:: https://brill.com/view/journals/bi/11/2/article-p119_2.xml
-> - Cite Key:: rawsonRomanFamilyRecent2003
-> - Tags:: #Biblical-Interpretations, #Biblical-Studies, #Biblical-Theology, #General, #Journal, #Religious-Studies, #Theology-and-World-Christianity
-> - Topics:: [[Bible]]
 
 ## Bibliography
     Rawson, Beryl. 2003. “‘The Roman Family’ in Recent Research: State of the Question.” _Biblical Interpretation_ 11 (2): 119–38. [https://doi.org/10.1163/156851503765661249](https://doi.org/10.1163/156851503765661249).

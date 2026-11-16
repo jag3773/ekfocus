@@ -9,7 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
-modified: 2026-11-14T20:30:35.500Z
+modified: 2026-11-15T20:16:57.132Z
 ---
 
 # Growth of Early Christianity
@@ -85,6 +85,8 @@ Modern CPM/DMM research maps early church expansion mechanisms onto contemporary
 - [[reedGathering2021|Gathering]] — contemporary application of first-century gathering patterns
 - [[reedMissionHistoryBild2018|Mission History]] — BILD's historical framework for mission
 - [[gonzalezChristianThoughtRevisited2013|Christian Thought Revisited]] — intellectual currents in early Christianity
+- [[bruceAdvanceChristianityThrough1968|The Spreading Flame]] — Bruce's narrative from Jerusalem to the conversion of the English; see [[2026-11-15 Bruce Traced the Spreading Flame From Jerusalem to the Conversion of the English]]
+- [[latouretteHistoryExpansionChristianity1970|A History of the Expansion of Christianity]] — volume 1 treats the first five centuries; see [[2026-11-15 Latourette Charted Christianity's Expansion as Pulses of Advance and Recession With Each Advance Reaching Farther]]
 - [[joreStudyChurchHer2022]] — studying church from her origins
 - [[vosGatheringsThatAre2024]] — gatherings that shape the church
 - [[starkRiseChristianityHow1997]]

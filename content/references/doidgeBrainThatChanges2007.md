@@ -15,15 +15,11 @@ highlights: 0
 added: 2022-07-12
 zotero: zotero://select/library/items/DZ3K6UPN
 publish: true
-modified: 2026-11-08T15:30:52.789Z
+modified: 2026-11-15T19:37:26.203Z
 ---
 
 # The Brain That Changes Itself
-## Metadata
-> [!info]
-> - Authors:: [[Norman Doidge]]
-> - Cite Key:: doidgeBrainThatChanges2007
-> - Topics:: [[References]]
+Links: [Amazon.com Link](https://www.amazon.com/Brain-That-Changes-Itself-Frontiers-dp-0143113100/dp/0143113100/ref=mt_other?_encoding=UTF8&me=&qid=1657655124)
 
 ## Bibliography
     Doidge, Norman. 2007. _The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science_. Reprint edition. London: Penguin Life.

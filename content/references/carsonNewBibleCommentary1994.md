@@ -20,16 +20,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/V2ZEFEXZ
 publish: true
-modified: 2026-11-08T15:30:50.299Z
+modified: 2026-11-15T19:37:25.556Z
 ---
 
 # New Bible commentary
-## Metadata
-> [!info]
-> - Authors:: [[D. A. Carson]]
-> - Cite Key:: carsonNewBibleCommentary1994
-> - Tags:: #Own, #Bible, #Commentaries
-> - Topics:: [[References]]
 
 ## Bibliography
     Carson, D. A., ed. 1994. _New Bible Commentary: 21st Century Edition_. 4th ed. Leicester, England ; Downers Grove, Ill., USA: Inter-Varsity Press.

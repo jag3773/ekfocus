@@ -17,15 +17,11 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/DW4YH7JR
 publish: true
-modified: 2026-11-08T15:31:03.481Z
+modified: 2026-11-15T19:37:29.786Z
 ---
 
 # The Epistle to the Philippians
-## Metadata
-> [!info]
-> - Authors:: [[Peter T. O'Brien]]
-> - Cite Key:: obrienEpistlePhilippians2013
-> - Topics:: [[Bible]]
+Links: [Amazon.com Link](https://www.amazon.com/Epistle-Philippians-International-Testament-Commentary/dp/0802872131)
 
 ## Bibliography
     O’Brien, Peter T. 2013. _The Epistle to the Philippians_. Eerdmans.

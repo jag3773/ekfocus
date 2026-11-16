@@ -1,38 +1,32 @@
 ---
 cssclass: literature-note
 aliases:
-- Acts and the Movement of God
+  - Acts and the Movement of God
 citekey: addisonActsMovementGod2023
 type: book
-title: 'Acts and the Movement of God: From Jerusalem to the Ends of the Earth'
+title: "Acts and the Movement of God: From Jerusalem to the Ends of the Earth"
 authors:
-- '[[Steve Addison]]'
-- '[[Peyton Jones]]'
+  - "[[Steve Addison]]"
+  - "[[Peyton Jones]]"
 year: 2023
 publisher: 100 Movements Publishing
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[addisonActsMovementGod2023.pdf]]'
 attachments:
-- '[[addisonActsMovementGod2023.pdf]]'
+  - "[[addisonActsMovementGod2023.pdf]]"
 highlights: 189
 last_highlighted: 2026-06-20
 added: 2024-10-14
 zotero: zotero://select/library/items/7RR4VLIF
 publish: true
-modified: 2026-11-08T15:30:47.837Z
+modified: 2026-11-16T01:39:00.357Z
 ---
 
 # Acts and the Movement of God
-## Metadata
-> [!info]
-> - Authors:: [[Steve Addison]], [[Peyton Jones]]
-> - Cite Key:: addisonActsMovementGod2023
-> - Tags:: #Reviewed-in-2026
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B0C4RN6JMY/ref=kinw_myk_ro_title)
 
 ## Bibliography
     Addison, Steve, and Peyton Jones. 2023. _Acts and the Movement of God: From Jerusalem to the Ends of the Earth_. 100 Movements Publishing.

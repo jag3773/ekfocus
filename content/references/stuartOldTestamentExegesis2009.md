@@ -20,17 +20,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/G37IB9A2
 publish: true
-modified: 2026-11-08T15:31:07.934Z
+modified: 2026-11-15T19:37:31.285Z
 ---
 
 # Old Testament exegesis
-## Metadata
-> [!info]
-> - Authors:: [[Douglas K Stuart]]
-> - URL:: http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=478902
-> - Cite Key:: stuartOldTestamentExegesis2009
-> - Tags:: #Own
-> - Topics:: [[Read]], [[Top 10 Lists]]
 
 ## Bibliography
     Stuart, Douglas K. 2009. _Old Testament Exegesis: A Handbook for Students and Pastors_. [http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=478902](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=478902).

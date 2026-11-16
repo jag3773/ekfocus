@@ -21,16 +21,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/7QFZ8RQA
 publish: true
-modified: 2026-11-08T15:30:50.942Z
+modified: 2026-11-15T19:37:25.650Z
 ---
 
 # Total church
-## Metadata
-> [!info]
-> - Authors:: [[Tim Chester]], [[Steve Timmis]]
-> - Cite Key:: chesterTotalChurchRadical2008
-> - Tags:: #Own
-> - Topics:: [[Read]]
 
 ## Bibliography
     Chester, Tim, and Steve Timmis. 2008. _Total Church: A Radical Reshaping around Gospel and Community_. Wheaton, Ill: Crossway Books.

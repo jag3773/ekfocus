@@ -22,16 +22,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/HJQA7TWW
 publish: true
-modified: 2026-11-08T15:31:09.705Z
+modified: 2026-11-15T19:37:32.128Z
 ---
 
 # Contagious disciple-making
-## Metadata
-> [!info]
-> - Authors:: [[David L. Watson]], [[Paul D. Watson]]
-> - Cite Key:: watsonContagiousDisciplemakingLeading2014
-> - Tags:: #Own, #Discipling
-> - Topics:: [[Read]]
 
 ## Bibliography
     Watson, David L., and Paul D. Watson. 2014. _Contagious Disciple-Making: Leading Others on a Journey of Discovery_. Nashville, Tennessee: Thomas Nelson.

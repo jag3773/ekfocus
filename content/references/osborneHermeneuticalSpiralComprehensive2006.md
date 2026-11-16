@@ -14,17 +14,20 @@ status: processed
 highlights: 0
 added: 2020-12-20
 zotero: zotero://select/library/items/SX6IYBGY
+related:
+- '[[lintsIdentityIdolatryImage2015]]'
+- '[[bealeTempleChurchsMission2004]]'
+- '[[kostenbergerFatherSonSpirit2008]]'
+- '[[dempsterDominionDynastyBiblical2003]]'
+- '[[martinDictionaryLaterNew2010]]'
+- '[[gilesPatternsMinistryFirst2017]]'
+- '[[blackburnGodWhoMakes2012]]'
 publish: true
-modified: 2026-11-08T15:50:24.677Z
+modified: 2026-11-15T19:37:29.838Z
 ---
 
 # The Hermeneutical Spiral
-## Metadata
-> [!info]
-> - Authors:: [[Grant R. Osborne]]
-> - Cite Key:: osborneHermeneuticalSpiralComprehensive2006
-> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchsMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[gilesPatternsMinistryFirst2017]], [[blackburnGodWhoMakes2012]]
-> - Topics:: [[Read]]
+Links: [Amazon.com Link](https://www.amazon.com/Hermeneutical-Spiral-Comprehensive-Introduction-Interpretation/dp/0830828265/ref=sr_1_1?crid=8TK1ZFP4JUR2&dchild=1&keywords=the+hermeneutical+spiral&qid=1608426687&s=books&sprefix=the+hermeneutical+spi%2Cstripbooks%2C177&sr=1-1)
 
 ## Bibliography
     Osborne, Grant R. 2006. _The Hermeneutical Spiral: A Comprehensive Introduction to Biblical Interpretation_. Revised and Expanded edition. Downers Grove, Ill: IVP Academic.

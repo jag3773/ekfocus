@@ -20,18 +20,22 @@ status: processed
 highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/HY7X2WBZ
+related:
+- '[[batesSalvationAllegianceAlone2017]]'
+- '[[lewisReflectionsPsalms1958]]'
+- '[[warnerRareLeadership42016]]'
+- '[[clearAtomicHabitsEasy2018]]'
+- '[[willardDivineConspiracyRediscovering1998]]'
+- '[[Persuaders]]'
+- '[[hendricksOtherHalfChurch2020]]'
+- '[[bealeWeBecomeWhat2008]]'
+- '[[wolfeAmCharlotteSimmons2010]]'
+- '[[crabbUnderstandingPeopleDeep1987]]'
 publish: true
-modified: 2026-11-08T15:46:39.852Z
+modified: 2026-11-15T19:37:31.018Z
 ---
 
 # Desiring the kingdom
-## Metadata
-> [!info]
-> - Authors:: [[James K. A. Smith]]
-> - Cite Key:: smithDesiringKingdomWorship2009
-> - Tags:: #American-Dream, #Kingdom-of-God, #Liturgy, #Philosophy, #Print
-> - Related:: [[batesSalvationAllegianceAlone2017]], [[lewisReflectionsPsalms1958]], [[warnerRareLeadership42016]], [[clearAtomicHabitsEasy2018]], [[willardDivineConspiracyRediscovering1998]], [[Persuaders]], [[hendricksOtherHalfChurch2020]], [[bealeWeBecomeWhat2008]], [[wolfeAmCharlotteSimmons2010]], [[crabbUnderstandingPeopleDeep1987]]
-> - Topics:: [[Read]]
 
 ## Bibliography
     Smith, James K. A. 2009. _Desiring the Kingdom: Worship, Worldview, and Cultural Formation_. Volume 1 of Cultural Liturgies. Grand Rapids, Mich: Baker Academic.

@@ -17,15 +17,11 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/QPS8VCHC
 publish: true
-modified: 2026-11-08T15:30:51.726Z
+modified: 2026-11-15T19:37:25.938Z
 ---
 
 # Philippians
-## Metadata
-> [!info]
-> - Authors:: [[Fred B. Craddock]]
-> - Cite Key:: craddockPhilippiansInterpretationBible2011
-> - Topics:: [[Bible]]
+Links: [Amazon.com Link](https://www.amazon.com/Philippians-Interpretation-Commentary-Teaching-Preaching/dp/0664238831)
 
 ## Bibliography
     Craddock, Fred B. 2011. _Philippians: Interpretation: A Bible Commentary for Teaching and Preaching_. Westminster John Knox Press.

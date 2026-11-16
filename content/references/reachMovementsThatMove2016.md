@@ -1,43 +1,79 @@
 ---
 cssclass: literature-note
 aliases:
-- Movements That Move
+  - Movements That Move
 citekey: reachMovementsThatMove2016
 type: book
 title: Movements That Move
 authors:
-- '[[Robert M. Reach]]'
+  - "[[Robert M. Reach]]"
 year: 2016
 publisher: ChurchSmart Resources
 isbn: 978-1-936812-18-9
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Church-Planting
-- KindleHighlights
-- Church
-- Missiology
-- Ecclesiology
+  - Church-Planting
+  - KindleHighlights
+  - Church
+  - Missiology
+  - Ecclesiology
 status: processed
-pdf: '[[reachMovementsThatMove2016.pdf]]'
 attachments:
-- '[[reachMovementsThatMove2016.pdf]]'
+  - "[[reachMovementsThatMove2016.pdf]]"
 highlights: 147
 last_highlighted: 2026-11-14
 added: 2020-12-20
 zotero: zotero://select/library/items/8RD6KPIC
+ingested: 2026-11-15
+related:
+  - "[[coleChurch30Upgrades2010]]"
+  - "[[moranMissionVirusesThat2020]]"
+  - "[[addisonRiseFallMovements2019]]"
+  - "[[bayer13BiblicalPrinciples2022]]"
+  - "[[hirschForgottenWaysReactivating2007]]"
+  - "[[svigelRetroChristianityReclaimingForgotten2012]]"
+  - "[[davisGreatDechurchingWhos2023]]"
+  - "[[banksPaulsIdeaCommunity2020]]"
+  - "[[maryChristendomApostolicMission2020]]"
+  - "[[chesterTotalChurchRadical2008]]"
+  - "[[ZumeTraining2023]]"
+  - "[[trousdaleKingdomUnleashedHow2018]]"
+  - "[[christophersonKingdomFirstStarting2015]]"
+  - "[[allenMissionaryMethodsSt2011]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[ZumeTrainingBook2022]]"
+  - "[[johnsonJesus10Movement2022]]"
+  - "[[chanMultiplyDisciplesMaking2012]]"
+  - "[[sergeantOnlyOneLiving2019]]"
+  - "[[parks2414Testimony2019]]"
+  - "[[corleyLookWhereYou2023]]"
+  - "[[banksGoingChurchFirst1990]]"
+  - "[[broweleitOut4thPlace2018]]"
+  - "[[kennedyKingdomComeGospelCentered2012]]"
+  - "[[hirschReframationSeeingGod2019]]"
+  - "[[watsonContagiousDisciplemakingLeading2014]]"
+  - "[[rushikDiscoveryBibleStudy2020]]"
+  - "[[march01WhatChurchPlanting]]"
+  - "[[johnsonKeyPrayerPoints2022]]"
+  - "[[fordStarfishSpiritUnleashing2021]]"
+  - "[[johnBhojpuriBreakthroughMovement2019]]"
+  - "[[hirschPermanentRevolutionApostolic2012]]"
+  - "[[joreEquippingServantsEarly2023]]"
+  - "[[christophersonVenalDogmataParable2020]]"
+  - "[[reedGathering2021]]"
+  - "[[stedmanBodyLifeBook2011]]"
+  - "[[hendricksOtherHalfChurch2020]]"
+  - "[[doddApostolicPreachingIts1937]]"
+  - "[[allenSpontaneousExpansionChurch2018]]"
+  - "[[woodSevenThingsIve2021]]"
+  - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-14T20:41:08.252Z
+modified: 2026-11-16T02:09:47.779Z
 ---
 
 # Movements That Move
-## Metadata
-> [!info]
-> - Authors:: [[Robert M. Reach]]
-> - Cite Key:: reachMovementsThatMove2016
-> - Tags:: #Church-Planting, #KindleHighlights, #Church, #Missiology, #Ecclesiology
-> - Related:: [[coleChurch30Upgrades2010]], [[moranMissionVirusesThat2020]], [[addisonRiseFallMovements2019]], [[bayer13BiblicalPrinciples2022]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[johnsonJesus10Movement2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[corleyLookWhereYou2023]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[johnsonKeyPrayerPoints2022]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Read]], [[Church]]
+Links: [Amazon.com Link](https://smile.amazon.com/Movements-That-Move-Robert-Reach/dp/1936812185/ref=sr_1_1?dchild=1&keywords=movements+that+move&qid=1608483790&sr=8-1)
 
 ## Bibliography
     Reach, Robert M. 2016. _Movements That Move_. ChurchSmart Resources.

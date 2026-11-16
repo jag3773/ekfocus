@@ -40,18 +40,19 @@ attachments:
 highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/SA3IK77V
+related:
+- '[[lintsIdentityIdolatryImage2015]]'
+- '[[bealeTempleChurchsMission2004]]'
+- '[[kostenbergerFatherSonSpirit2008]]'
+- '[[dempsterDominionDynastyBiblical2003]]'
+- '[[martinDictionaryLaterNew2010]]'
+- '[[gilesPatternsMinistryFirst2017]]'
+- '[[osborneHermeneuticalSpiralComprehensive2006]]'
 publish: true
-modified: 2026-11-08T15:50:24.262Z
+modified: 2026-11-15T19:37:25.051Z
 ---
 
 # The God who makes himself known
-## Metadata
-> [!info]
-> - Authors:: [[W. Ross Blackburn]]
-> - Cite Key:: blackburnGodWhoMakes2012
-> - Tags:: #Missions, #Bible, #Biblical-teaching, #Self-Revelation, #Reviewed-in-2024, #Print
-> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchsMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[gilesPatternsMinistryFirst2017]], [[osborneHermeneuticalSpiralComprehensive2006]]
-> - Topics:: [[Read]], [[Top 10]]
 
 ## Bibliography
     Blackburn, W. Ross. 2012. _The God Who Makes Himself Known: The Missionary Heart of the Book of Exodus_. New Studies in Biblical Theology 28. Downers Grove, Ill: Apollos.

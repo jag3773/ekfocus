@@ -1,40 +1,74 @@
 ---
 cssclass: literature-note
 aliases:
-- Out of the 4th Place
+  - Out of the 4th Place
 citekey: broweleitOut4thPlace2018
 type: book
 title: Out of the 4th Place
 authors:
-- '[[Matt Broweleit]]'
-- '[[Dudley Callison]]'
+  - "[[Matt Broweleit]]"
+  - "[[Dudley Callison]]"
 year: 2018
 publisher: Back Deck Books
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Reviewed-in-2026
-- _chokes_zotero_integration
+  - Reviewed-in-2026
+  - _chokes_zotero_integration
 status: processed
-pdf: '[[broweleitOut4thPlace2018.pdf]]'
 attachments:
-- '[[broweleitOut4thPlace2018.pdf]]'
+  - "[[broweleitOut4thPlace2018.pdf]]"
 highlights: 159
 last_highlighted: 2026-11-14
 added: 2023-11-22
 zotero: zotero://select/library/items/EVEM6B3F
+ingested: 2026-11-15
+related:
+  - "[[coleChurch30Upgrades2010]]"
+  - "[[addisonRiseFallMovements2019]]"
+  - "[[hirschForgottenWaysReactivating2007]]"
+  - "[[svigelRetroChristianityReclaimingForgotten2012]]"
+  - "[[davisGreatDechurchingWhos2023]]"
+  - "[[banksPaulsIdeaCommunity2020]]"
+  - "[[maryChristendomApostolicMission2020]]"
+  - "[[chesterTotalChurchRadical2008]]"
+  - "[[ZumeTraining2023]]"
+  - "[[trousdaleKingdomUnleashedHow2018]]"
+  - "[[christophersonKingdomFirstStarting2015]]"
+  - "[[allenMissionaryMethodsSt2011]]"
+  - "[[reachMovementsThatMove2016]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[ZumeTrainingBook2022]]"
+  - "[[chanMultiplyDisciplesMaking2012]]"
+  - "[[sergeantOnlyOneLiving2019]]"
+  - "[[parks2414Testimony2019]]"
+  - "[[joreUnchainedBibleNetwork2024]]"
+  - "[[banksGoingChurchFirst1990]]"
+  - "[[kennedyKingdomComeGospelCentered2012]]"
+  - "[[hirschReframationSeeingGod2019]]"
+  - "[[watsonContagiousDisciplemakingLeading2014]]"
+  - "[[reedUneducatedApostles2018]]"
+  - "[[rushikDiscoveryBibleStudy2020]]"
+  - "[[reedGlobalPentacostalismSpirit2019]]"
+  - "[[march01WhatChurchPlanting]]"
+  - "[[fordStarfishSpiritUnleashing2021]]"
+  - "[[johnBhojpuriBreakthroughMovement2019]]"
+  - "[[hirschPermanentRevolutionApostolic2012]]"
+  - "[[christophersonVenalDogmataParable2020]]"
+  - "[[reedGathering2021]]"
+  - "[[stedmanBodyLifeBook2011]]"
+  - "[[hendricksOtherHalfChurch2020]]"
+  - "[[doddApostolicPreachingIts1937]]"
+  - "[[joreEquippingServantsEarly2025]]"
+  - "[[allenSpontaneousExpansionChurch2018]]"
+  - "[[woodSevenThingsIve2021]]"
+  - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-14T20:40:58.864Z
+modified: 2026-11-16T01:39:14.877Z
 ---
 
 # Out of the 4th Place
-## Metadata
-> [!info]
-> - Authors:: [[Matt Broweleit]], [[Dudley Callison]]
-> - Cite Key:: broweleitOut4thPlace2018
-> - Tags:: #Reviewed-in-2026
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[joreUnchainedBibleNetwork2024]], [[banksGoingChurchFirst1990]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[reedUneducatedApostles2018]], [[rushikDiscoveryBibleStudy2020]], [[reedGlobalPentacostalismSpirit2019]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[joreEquippingServantsEarly2025]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/Out-4th-Place-Matt-Broweleit-ebook/dp/B07HC8HFSS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1700618368&sr=8-1)
 
 ## Bibliography
     Broweleit, Matt, and Dudley Callison. 2018. _Out of the 4th Place_. Back Deck Books.

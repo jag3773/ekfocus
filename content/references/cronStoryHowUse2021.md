@@ -1,34 +1,29 @@
 ---
 cssclass: literature-note
 aliases:
-- Story or Die
+  - Story or Die
 citekey: cronStoryHowUse2021
 type: book
-title: 'Story or Die: How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life'
+title: "Story or Die: How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life"
 authors:
-- '[[Lisa Cron]]'
+  - "[[Lisa Cron]]"
 year: 2021
 publisher: Ten Speed Press
 status: reviewing
-pdf: '[[cronStoryHowUse2021.pdf]]'
 attachments:
-- '[[cronStoryHowUse2021.pdf]]'
+  - "[[cronStoryHowUse2021.pdf]]"
 highlights: 134
 last_highlighted: 2026-11-14
 added: 2023-06-29
 zotero: zotero://select/library/items/9KMH6ZG7
+related:
+  - "[[cteintrocommercialsRunGirlCommercial2014]]"
 publish: true
-modified: 2026-11-14T20:41:31.457Z
+modified: 2026-11-16T01:39:23.434Z
 ---
 
 # Story or Die
-## Metadata
-> [!info]
-> - Authors:: [[Lisa Cron]]
-> - Cite Key:: cronStoryHowUse2021
-> - Tags:: #_reviewing
-> - Related:: [[cteintrocommercialsRunGirlCommercial2014]]
-> - Topics:: [[References]]
+Links: [Amazon.com Link](https://www.amazon.com/Story-Die-Science-Persuade-Business-ebook/dp/B089S7DT47/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Bibliography
     Cron, Lisa. 2021. _Story or Die: How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life_. Ten Speed Press.

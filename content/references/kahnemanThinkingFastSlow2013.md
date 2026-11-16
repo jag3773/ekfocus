@@ -1,45 +1,41 @@
 ---
 cssclass: literature-note
 aliases:
-- Thinking, Fast and Slow
+  - Thinking, Fast and Slow
 citekey: kahnemanThinkingFastSlow2013
 type: book
 title: Thinking, Fast and Slow
 authors:
-- '[[Daniel Kahneman]]'
+  - "[[Daniel Kahneman]]"
 year: 2013
 publisher: Farrar, Straus and Giroux
 isbn: 978-0-374-53355-7
 collections:
-- '[[Org Design]]'
-- '[[Top 10]]'
+  - "[[Org Design]]"
+  - "[[Top 10]]"
 tags:
-- systems-thinking
-- Business-Communication
-- Economics
-- KindleHighlights
-- Psychology
-- Print
+  - systems-thinking
+  - Business-Communication
+  - Economics
+  - KindleHighlights
+  - Psychology
+  - Print
 status: processed
-pdf: '[[kahnemanThinkingFastSlow2013.pdf]]'
 attachments:
-- '[[kahnemanThinkingFastSlow2013.pdf]]'
+  - "[[kahnemanThinkingFastSlow2013.pdf]]"
 highlights: 7
 last_highlighted: 2025-02-23
 added: 2020-12-20
 zotero: zotero://select/library/items/PPWVWYZY
+related:
+  - "[[taylorThinkingFastLearning2024]]"
+  - "[[kurzweilLawAcceleratingReturns2004]]"
 publish: true
-modified: 2026-11-08T15:31:01.314Z
+modified: 2026-11-16T02:05:48.938Z
 ---
 
 # Thinking, Fast and Slow
-## Metadata
-> [!info]
-> - Authors:: [[Daniel Kahneman]]
-> - Cite Key:: kahnemanThinkingFastSlow2013
-> - Tags:: #systems-thinking, #Business-Communication, #Economics, #KindleHighlights, #Psychology, #Print
-> - Related:: [[taylorThinkingFastLearning2024]], [[kurzweilLawAcceleratingReturns2004]]
-> - Topics:: [[Read]], [[Top 10]]
+Links: [Amazon.com Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_3?crid=D0VBJIINMBT6&dchild=1&keywords=thinking+fast+and+slow&qid=1608425290&sprefix=thinking+fast%2Caps%2C195&sr=8-3)
 
 ## Bibliography
     Kahneman, Daniel. 2013. _Thinking, Fast and Slow_. 1st edition. New York: Farrar, Straus and Giroux.

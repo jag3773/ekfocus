@@ -1,46 +1,40 @@
 ---
 cssclass: literature-note
 aliases:
-- Team of Teams
+  - Team of Teams
 citekey: mcchrystalTeamTeamsNew2015
 type: book
-title: 'Team of Teams: New Rules of Engagement for a Complex World'
+title: "Team of Teams: New Rules of Engagement for a Complex World"
 authors:
-- '[[Stanley McChrystal]]'
-- '[[Tantum Collins]]'
-- '[[David Silverman]]'
-- '[[Chris Fussell]]'
+  - "[[Stanley McChrystal]]"
+  - "[[Tantum Collins]]"
+  - "[[David Silverman]]"
+  - "[[Chris Fussell]]"
 year: 2015
 publisher: Portfolio
 collections:
-- '[[Org Design]]'
-- '[[Top 10]]'
+  - "[[Org Design]]"
+  - "[[Top 10]]"
 tags:
-- Information-technology
-- Business
-- Organizational-effectiveness
-- Decision-making
-- decentralized
-- Teams
+  - Information-technology
+  - Business
+  - Organizational-effectiveness
+  - Decision-making
+  - decentralized
+  - Teams
 status: processed
-pdf: '[[mcchrystalTeamTeamsNew2015.pdf]]'
 attachments:
-- '[[mcchrystalTeamTeamsNew2015.pdf]]'
+  - "[[mcchrystalTeamTeamsNew2015.pdf]]"
 highlights: 259
 last_highlighted: 2022-04-22
 added: 2020-12-20
 zotero: zotero://select/library/items/YEJDAPEA
 publish: true
-modified: 2026-11-08T15:31:02.399Z
+modified: 2026-11-16T01:40:15.790Z
 ---
 
 # Team of Teams
-## Metadata
-> [!info]
-> - Authors:: [[Stanley McChrystal]], [[Tantum Collins]], [[David Silverman]], [[Chris Fussell]]
-> - Cite Key:: mcchrystalTeamTeamsNew2015
-> - Tags:: #Information-technology, #Business, #Organizational-effectiveness, #Decision-making, #decentralized, #Teams
-> - Topics:: [[Read]], [[Top 10 Lists]]
+Links: [Amazon.com Link](https://smile.amazon.com/Team-Teams-Rules-Engagement-Complex-ebook/dp/B00KWG9OF4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1608481998&sr=8-1)
 
 ## Bibliography
     McChrystal, Stanley, Tantum Collins, David Silverman, and Chris Fussell. 2015. _Team of Teams: New Rules of Engagement for a Complex World_. 1st edition. Portfolio.

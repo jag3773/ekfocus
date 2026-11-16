@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-08-24T09:08:07.772Z
+modified: 2026-11-15T19:34:43.266Z
 aliases:
   - "/docs/concepts/moc-organizational-or-business-design-and-operations"
 ---
@@ -165,3 +165,7 @@ Dignan, Aaron. _Brave New Work: Are You Ready to Reinvent Your Organization?_ Ne
 > Dignan organizes organizational design into twelve domains (purpose, authority, structure, strategy, resources, innovation, workflow, meetings, information, membership, mastery, compensation) and asks provocative questions about each. uW's strategy document cites Dignan's observations about the three organizational structures as a key influence. This book is the closest thing to a full operating manual for how uW thinks about organizational design. Read it if you want to understand the "why" and "how" behind our approach to purpose, authority, meetings, and everything in between.
 
 #unfoldingWord 
+
+## Related
+- [[fordStarfishSpiritUnleashing2021|The Starfish and the Spirit]]: see [[2026-11-15 The Starfish and the Spirit - Summary]]
+- [[brafmanStarfishSpiderUnstoppable2008|The Starfish and the Spider]]: see [[Brafman Shows Leaderless Starfish Organizations Outlast Centralized Spiders]]

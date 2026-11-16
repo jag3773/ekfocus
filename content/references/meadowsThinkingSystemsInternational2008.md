@@ -1,40 +1,37 @@
 ---
 cssclass: literature-note
 aliases:
-- Thinking in Systems
+  - Thinking in Systems
 citekey: meadowsThinkingSystemsInternational2008
 type: book
-title: 'Thinking in Systems: International Bestseller'
+title: "Thinking in Systems: International Bestseller"
 authors:
-- '[[Donella H. Meadows]]'
-- '[[Diana Wright]]'
+  - "[[Donella H. Meadows]]"
+  - "[[Diana Wright]]"
 year: 2008
 publisher: Chelsea Green Publishing
 collections:
-- '[[Org Design]]'
-- '[[Systems Thinking]]'
+  - "[[Org Design]]"
+  - "[[Systems Thinking]]"
 tags:
-- systems-thinking
+  - systems-thinking
 status: processed
-pdf: '[[meadowsThinkingSystemsInternational2008.pdf]]'
 attachments:
-- '[[meadowsThinkingSystemsInternational2008.pdf]]'
+  - "[[meadowsThinkingSystemsInternational2008.pdf]]"
 highlights: 286
 last_highlighted: 2022-11-06
 added: 2021-10-01
 zotero: zotero://select/library/items/DTVZ3ZB9
+related:
+  - "[[heathUpstreamQuestSolve2020]]"
+  - "[[zsoltsvisualpersonalknowledgemanagementEmergenceBookPage2022]]"
+  - "[[kurzweilLawAcceleratingReturns2004]]"
 publish: true
-modified: 2026-11-08T15:46:54.569Z
+modified: 2026-11-16T01:40:16.297Z
 ---
 
 # Thinking in Systems
-## Metadata
-> [!info]
-> - Authors:: [[Donella H. Meadows]], [[Diana Wright]]
-> - Cite Key:: meadowsThinkingSystemsInternational2008
-> - Tags:: #systems-thinking
-> - Related:: [[heathUpstreamQuestSolve2020]], [[zsoltsvisualpersonalknowledgemanagementEmergenceBookPage2022]], [[kurzweilLawAcceleratingReturns2004]]
-> - Topics:: [[Read]], [[Queued]], [[Systems Thinking]]
+Links: [Amazon.com Link](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA/ref=sr_1_1?dchild=1&keywords=thinking+in+systems&qid=1633114019&s=digital-text&sr=1-1)
 
 ## Bibliography
     Meadows, Donella H. 2008. _Thinking in Systems: International Bestseller_. Edited by Diana Wright. Illustrated edition. Chelsea Green Publishing.

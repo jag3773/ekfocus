@@ -1,40 +1,43 @@
 ---
 cssclass: literature-note
 aliases:
-- Organize for Complexity
+  - Organize for Complexity
 citekey: pflaegingOrganizeComplexityHow2014
 type: book
-title: 'Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization'
+title: "Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization"
 authors:
-- '[[Niels Pflaeging]]'
-- '[[Pia Steinmann]]'
+  - "[[Niels Pflaeging]]"
+  - "[[Pia Steinmann]]"
 year: 2014
 publisher: BetaCodex Publishing
 isbn: 978-0-9915376-0-0
 collections:
-- '[[Org Design]]'
+  - "[[Org Design]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[pflaegingOrganizeComplexityHow2014.pdf]]'
 attachments:
-- '[[pflaegingOrganizeComplexityHow2014.pdf]]'
+  - "[[pflaegingOrganizeComplexityHow2014.pdf]]"
 highlights: 117
 last_highlighted: 2024-01-19
 added: 2021-01-15
 zotero: zotero://select/library/items/WNGWHITF
+related:
+  - "[[robertsonHolacracyNewManagement2015]]"
+  - "[[morseTheory1970]]"
+  - "[[dignanBraveNewWork2019]]"
+  - "[[hirschMetanoiaHowGod2023]]"
+  - "[[shawCompanyWhereColleagues2021]]"
+  - "[[wohllebenWatchIntelligentTrees]]"
+  - "[[fordOODAOperationalExcellence]]"
+  - "[[jackHierarchyIntelligence2026]]"
+  - "[[hamelFirstLetsFire2011]]"
 publish: true
-modified: 2026-11-08T15:46:40.936Z
+modified: 2026-11-16T01:40:24.729Z
 ---
 
 # Organize for Complexity
-## Metadata
-> [!info]
-> - Authors:: [[Niels Pflaeging]], [[Pia Steinmann]]
-> - Cite Key:: pflaegingOrganizeComplexityHow2014
-> - Tags:: #Reviewed-in-2026
-> - Related:: [[robertsonHolacracyNewManagement2015]], [[morseTheory1970]], [[dignanBraveNewWork2019]], [[hirschMetanoiaHowGod2023]], [[shawCompanyWhereColleagues2021]], [[wohllebenWatchIntelligentTrees]], [[fordOODAOperationalExcellence]], [[jackHierarchyIntelligence2026]], [[hamelFirstLetsFire2011]]
-> - Topics:: [[Read]], [[Org Design]]
+Links: [Amazon.com Link](https://www.amazon.com/Organize-Complexity-High-Performance-Organization-Publishing/dp/0991537602/ref=sr_1_4?dchild=1&keywords=Niels+Pflaeging&qid=1610719179&sr=8-4)
 
 ## Bibliography
     Pflaeging, Niels. 2014. _Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization_. 5th revised edition. With Pia Steinmann. BetaCodex Publishing.

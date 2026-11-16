@@ -20,16 +20,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/7THKZ8PV
 publish: true
-modified: 2026-11-08T15:31:08.146Z
+modified: 2026-11-15T19:37:31.548Z
 ---
 
 # Sacred marriage
-## Metadata
-> [!info]
-> - Authors:: [[Gary Thomas]]
-> - Cite Key:: thomasSacredMarriageWhat2002
-> - Tags:: #Own
-> - Topics:: [[Read]], [[Top 10 Lists]]
 
 ## Bibliography
     Thomas, Gary. 2002. _Sacred Marriage: What If God Designed Marriage to Make Us Holy More than to Make Us Happy?_ Grand Rapids, Mich.: Zondervan.

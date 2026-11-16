@@ -1,38 +1,33 @@
 ---
 cssclass: literature-note
 aliases:
-- Christian Thought Revisited
+  - Christian Thought Revisited
 citekey: gonzalezChristianThoughtRevisited2013
 type: book
-title: 'Christian Thought Revisited: Three Types of Theology'
+title: "Christian Thought Revisited: Three Types of Theology"
 authors:
-- '[[Justo L. Gonzalez]]'
+  - "[[Justo L. Gonzalez]]"
 year: 2013
 publisher: ORBIS
 collections:
-- '[[Bible]]'
+  - "[[Bible]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[gonzalezChristianThoughtRevisited2013.pdf]]'
 attachments:
-- '[[gonzalezChristianThoughtRevisited2013.pdf]]'
+  - "[[gonzalezChristianThoughtRevisited2013.pdf]]"
 highlights: 112
 last_highlighted: 2026-02-26
 added: 2023-04-02
 zotero: zotero://select/library/items/A25QENPS
+related:
+  - "[[miglioreFaithSeekingUnderstanding2004]]"
 publish: true
-modified: 2026-11-08T15:30:53.715Z
+modified: 2026-11-16T01:39:41.961Z
 ---
 
 # Christian Thought Revisited
-## Metadata
-> [!info]
-> - Authors:: [[Justo L. Gonzalez]]
-> - Cite Key:: gonzalezChristianThoughtRevisited2013
-> - Tags:: #Reviewed-in-2026
-> - Related:: [[miglioreFaithSeekingUnderstanding2004]]
-> - Topics:: [[Bible]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B00BWRH4TK/ref=kinw_myk_ro_title)
 
 ## Bibliography
     Gonzalez, Justo L. 2013. _Christian Thought Revisited: Three Types of Theology_. Revised ed. edition. ORBIS.

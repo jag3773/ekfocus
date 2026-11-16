@@ -1,38 +1,43 @@
 ---
 cssclass: literature-note
 aliases:
-- Ephesiology
+  - Ephesiology
 citekey: cooperEphesiologyStudyEphesian2020
 type: book
-title: 'Ephesiology: A Study of the Ephesian Movement'
+title: "Ephesiology: A Study of the Ephesian Movement"
 authors:
-- '[[Michael T. Cooper]]'
+  - "[[Michael T. Cooper]]"
 year: 2020
 publisher: William Carey Publishing
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[cooperEphesiologyStudyEphesian2020.pdf]]'
 attachments:
-- '[[cooperEphesiologyStudyEphesian2020.pdf]]'
+  - "[[cooperEphesiologyStudyEphesian2020.pdf]]"
 highlights: 228
 last_highlighted: 2026-06-20
 added: 2023-11-24
 zotero: zotero://select/library/items/SK6SXVBA
+related:
+  - "[[trousdaleKingdomUnleashedHow2018]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[sergeantOnlyOneLiving2019]]"
+  - "[[farahMotusMovementGod2021]]"
+  - "[[parks2414Testimony2019]]"
+  - "[[joreUnchainedBibleNetwork2024]]"
+  - "[[tasseCabbagesDesertHow2024]]"
+  - "[[farahGenesisEvolutionChurchplanting2022]]"
+  - "[[murphy-oconnorStPaulEphesus2008]]"
+  - "[[5QCentralReactivating]]"
+  - "[[joreEquippingServantsEarly2025]]"
 publish: true
-modified: 2026-11-08T15:30:51.410Z
+modified: 2026-11-16T01:39:22.107Z
 ---
 
 # Ephesiology
-## Metadata
-> [!info]
-> - Authors:: [[Michael T. Cooper]]
-> - Cite Key:: cooperEphesiologyStudyEphesian2020
-> - Tags:: #Reviewed-in-2026
-> - Related:: [[trousdaleKingdomUnleashedHow2018]], [[gerkeWayChurchWe2020]], [[sergeantOnlyOneLiving2019]], [[farahMotusMovementGod2021]], [[parks2414Testimony2019]], [[joreUnchainedBibleNetwork2024]], [[tasseCabbagesDesertHow2024]], [[farahGenesisEvolutionChurchplanting2022]], [[murphy-oconnorStPaulEphesus2008]], [[5QCentralReactivating]], [[joreEquippingServantsEarly2025]]
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/Ephesiology-Ephesian-Movement-Michael-Cooper-ebook/dp/B09NRS185T/ref=sr_1_1?crid=38XVECYI3ZAHV&keywords=ephesiology&qid=1700857681&s=digital-text&sprefix=ephesiology%2Cdigital-text%2C108&sr=1-1)
 
 ## Bibliography
     Cooper, Michael T. 2020. _Ephesiology: A Study of the Ephesian Movement_. William Carey Publishing.

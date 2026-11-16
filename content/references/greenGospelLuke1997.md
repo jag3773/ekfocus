@@ -20,16 +20,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/WUAX588U
 publish: true
-modified: 2026-11-08T15:30:53.786Z
+modified: 2026-11-15T19:37:27.147Z
 ---
 
 # The Gospel of Luke
-## Metadata
-> [!info]
-> - Authors:: [[Joel B. Green]]
-> - Cite Key:: greenGospelLuke1997
-> - Tags:: #Own, #Bible, #Commentaries
-> - Topics:: [[Read]]
 
 ## Bibliography
     Green, Joel B. 1997. _The Gospel of Luke_. The New International Commentary on the New Testament. Grand Rapids, Mich: W.B. Eerdmans Pub. Co.

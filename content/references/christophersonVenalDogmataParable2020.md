@@ -18,17 +18,50 @@ status: processed
 highlights: 0
 added: 2020-12-24
 zotero: zotero://select/library/items/QWUKFVC5
+related:
+- '[[coleChurch30Upgrades2010]]'
+- '[[addisonRiseFallMovements2019]]'
+- '[[hirschForgottenWaysReactivating2007]]'
+- '[[svigelRetroChristianityReclaimingForgotten2012]]'
+- '[[davisGreatDechurchingWhos2023]]'
+- '[[banksPaulsIdeaCommunity2020]]'
+- '[[maryChristendomApostolicMission2020]]'
+- '[[chesterTotalChurchRadical2008]]'
+- '[[ZumeTraining2023]]'
+- '[[trousdaleKingdomUnleashedHow2018]]'
+- '[[christophersonKingdomFirstStarting2015]]'
+- '[[allenMissionaryMethodsSt2011]]'
+- '[[reachMovementsThatMove2016]]'
+- '[[gerkeWayChurchWe2020]]'
+- '[[ZumeTrainingBook2022]]'
+- '[[chanMultiplyDisciplesMaking2012]]'
+- '[[sergeantOnlyOneLiving2019]]'
+- '[[parks2414Testimony2019]]'
+- '[[banksGoingChurchFirst1990]]'
+- '[[broweleitOut4thPlace2018]]'
+- '[[kennedyKingdomComeGospelCentered2012]]'
+- '[[hirschReframationSeeingGod2019]]'
+- '[[watsonContagiousDisciplemakingLeading2014]]'
+- '[[rushikDiscoveryBibleStudy2020]]'
+- '[[march01WhatChurchPlanting]]'
+- '[[fordStarfishSpiritUnleashing2021]]'
+- '[[johnBhojpuriBreakthroughMovement2019]]'
+- '[[hirschPermanentRevolutionApostolic2012]]'
+- '[[joreEquippingServantsEarly2023]]'
+- '[[christophersonDangerMakeBelieveOrthodoxy2023]]'
+- '[[reedGathering2021]]'
+- '[[stedmanBodyLifeBook2011]]'
+- '[[hendricksOtherHalfChurch2020]]'
+- '[[doddApostolicPreachingIts1937]]'
+- '[[allenSpontaneousExpansionChurch2018]]'
+- '[[woodSevenThingsIve2021]]'
+- '[[addisonMovementsThatChange2011]]'
 publish: true
-modified: 2026-11-08T15:50:42.653Z
+modified: 2026-11-15T19:37:25.708Z
 ---
 
 # Venal Dogmata
-## Metadata
-> [!info]
-> - Authors:: [[Jeff Christopherson]], [[Alan Hirsch]]
-> - Cite Key:: christophersonVenalDogmataParable2020
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[joreEquippingServantsEarly2023]], [[christophersonDangerMakeBelieveOrthodoxy2023]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Read]], [[Top 10]], [[Church]]
+Links: [Amazon.com Link](https://smile.amazon.com/Venal-Dogmata-Parable-Future-Church/dp/1624240399/ref=sr_1_2?crid=1RJFZXOB0952O&dchild=1&keywords=venal+dogmata+a+parable+of+the+future+church&qid=1608819325&sprefix=venal+dogm%2Caps%2C200&sr=8-2)
 
 ## Bibliography
     Christopherson, Jeff, and Alan Hirsch. 2020. _Venal Dogmata: A Parable of the Future Church_. Exponential.

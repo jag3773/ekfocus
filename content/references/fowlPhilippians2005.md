@@ -17,15 +17,11 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/GIE4L2X6
 publish: true
-modified: 2026-11-08T15:30:53.500Z
+modified: 2026-11-15T19:37:26.744Z
 ---
 
 # Philippians
-## Metadata
-> [!info]
-> - Authors:: [[Stephen E. Fowl]]
-> - Cite Key:: fowlPhilippians2005
-> - Topics:: [[Bible]]
+Links: [Amazon.com Link](https://www.amazon.com/Philippians-Two-Horizons-Testament-Commentary/dp/0802825516)
 
 ## Bibliography
     Fowl, Stephen E. 2005. _Philippians_. Wm. B. Eerdmans Publishing Co.

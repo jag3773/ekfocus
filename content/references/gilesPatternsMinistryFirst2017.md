@@ -1,35 +1,36 @@
 ---
 cssclass: literature-note
 aliases:
-- Patterns of Ministry among the First Christians
+  - Patterns of Ministry among the First Christians
 citekey: gilesPatternsMinistryFirst2017
 type: book
-title: 'Patterns of Ministry among the First Christians: Second Edition, Revised and Enlarged'
+title: "Patterns of Ministry among the First Christians: Second Edition, Revised and Enlarged"
 authors:
-- '[[Kevin Giles]]'
+  - "[[Kevin Giles]]"
 year: 2017
 publisher: Cascade Books, an Imprint of Wipf and Stock Publishers
 tags:
-- KindleHighlights
+  - KindleHighlights
 status: processed
-pdf: '[[gilesPatternsMinistryFirst2017.pdf]]'
 attachments:
-- '[[gilesPatternsMinistryFirst2017.pdf]]'
+  - "[[gilesPatternsMinistryFirst2017.pdf]]"
 highlights: 0
 added: 2020-12-20
 zotero: zotero://select/library/items/A3JB4F54
+related:
+  - "[[lintsIdentityIdolatryImage2015]]"
+  - "[[bealeTempleChurchsMission2004]]"
+  - "[[kostenbergerFatherSonSpirit2008]]"
+  - "[[dempsterDominionDynastyBiblical2003]]"
+  - "[[martinDictionaryLaterNew2010]]"
+  - "[[blackburnGodWhoMakes2012]]"
+  - "[[osborneHermeneuticalSpiralComprehensive2006]]"
 publish: true
-modified: 2026-11-08T15:50:24.429Z
+modified: 2026-11-16T02:05:48.935Z
 ---
 
 # Patterns of Ministry among the First Christians
-## Metadata
-> [!info]
-> - Authors:: [[Kevin Giles]]
-> - Cite Key:: gilesPatternsMinistryFirst2017
-> - Tags:: #KindleHighlights
-> - Related:: [[lintsIdentityIdolatryImage2015]], [[bealeTempleChurchsMission2004]], [[kostenbergerFatherSonSpirit2008]], [[dempsterDominionDynastyBiblical2003]], [[martinDictionaryLaterNew2010]], [[blackburnGodWhoMakes2012]], [[osborneHermeneuticalSpiralComprehensive2006]]
-> - Topics:: [[Read]]
+Links: [Amazon.com Link](https://smile.amazon.com/Patterns-Ministry-among-First-Christians-ebook/dp/B0748GN1D2/ref=sr_1_1?dchild=1&keywords=patterns+of+ministry+among+the&qid=1608483579&sr=8-1)
 
 ## Bibliography
     Giles, Kevin. 2017. _Patterns of Ministry among the First Christians: Second Edition, Revised and Enlarged_. Cascade Books, an Imprint of Wipf and Stock Publishers.

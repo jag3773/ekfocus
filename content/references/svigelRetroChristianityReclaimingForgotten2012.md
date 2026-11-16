@@ -1,36 +1,69 @@
 ---
 cssclass: literature-note
 aliases:
-- RetroChristianity
+  - RetroChristianity
 citekey: svigelRetroChristianityReclaimingForgotten2012
 type: book
-title: 'RetroChristianity: Reclaiming the Forgotten Faith'
+title: "RetroChristianity: Reclaiming the Forgotten Faith"
 authors:
-- '[[Michael J. Svigel]]'
+  - "[[Michael J. Svigel]]"
 year: 2012
 publisher: Crossway
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 status: reviewing
-pdf: '[[svigelRetroChristianityReclaimingForgotten2012.pdf]]'
 attachments:
-- '[[svigelRetroChristianityReclaimingForgotten2012.pdf]]'
+  - "[[svigelRetroChristianityReclaimingForgotten2012.pdf]]"
 highlights: 94
 last_highlighted: 2026-11-14
 added: 2021-10-01
 zotero: zotero://select/library/items/6SS82TNW
+related:
+  - "[[coleChurch30Upgrades2010]]"
+  - "[[addisonRiseFallMovements2019]]"
+  - "[[hirschForgottenWaysReactivating2007]]"
+  - "[[davisGreatDechurchingWhos2023]]"
+  - "[[banksPaulsIdeaCommunity2020]]"
+  - "[[maryChristendomApostolicMission2020]]"
+  - "[[chesterTotalChurchRadical2008]]"
+  - "[[ZumeTraining2023]]"
+  - "[[trousdaleKingdomUnleashedHow2018]]"
+  - "[[christophersonKingdomFirstStarting2015]]"
+  - "[[allenMissionaryMethodsSt2011]]"
+  - "[[reachMovementsThatMove2016]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[ZumeTrainingBook2022]]"
+  - "[[chanMultiplyDisciplesMaking2012]]"
+  - "[[sergeantOnlyOneLiving2019]]"
+  - "[[parks2414Testimony2019]]"
+  - "[[joreUnchainedBibleNetwork2024]]"
+  - "[[banksGoingChurchFirst1990]]"
+  - "[[broweleitOut4thPlace2018]]"
+  - "[[kennedyKingdomComeGospelCentered2012]]"
+  - "[[hirschReframationSeeingGod2019]]"
+  - "[[watsonContagiousDisciplemakingLeading2014]]"
+  - "[[reedUneducatedApostles2018]]"
+  - "[[rushikDiscoveryBibleStudy2020]]"
+  - "[[reedGlobalPentacostalismSpirit2019]]"
+  - "[[march01WhatChurchPlanting]]"
+  - "[[fordStarfishSpiritUnleashing2021]]"
+  - "[[johnBhojpuriBreakthroughMovement2019]]"
+  - "[[hirschPermanentRevolutionApostolic2012]]"
+  - "[[christophersonVenalDogmataParable2020]]"
+  - "[[reedGathering2021]]"
+  - "[[stedmanBodyLifeBook2011]]"
+  - "[[hendricksOtherHalfChurch2020]]"
+  - "[[doddApostolicPreachingIts1937]]"
+  - "[[joreEquippingServantsEarly2025]]"
+  - "[[allenSpontaneousExpansionChurch2018]]"
+  - "[[woodSevenThingsIve2021]]"
+  - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-14T20:41:31.712Z
+modified: 2026-11-16T01:40:44.629Z
 ---
 
 # RetroChristianity
-## Metadata
-> [!info]
-> - Authors:: [[Michael J. Svigel]]
-> - Cite Key:: svigelRetroChristianityReclaimingForgotten2012
-> - Tags:: #_reviewing
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[joreUnchainedBibleNetwork2024]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[reedUneducatedApostles2018]], [[rushikDiscoveryBibleStudy2020]], [[reedGlobalPentacostalismSpirit2019]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[joreEquippingServantsEarly2025]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Queued]], [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/RetroChristianity-Reclaiming-Forgotten-Michael-Svigel-ebook/dp/B007RPRSP6/ref=sr_1_3?dchild=1&keywords=retro+christianity&qid=1633114062&s=digital-text&sr=1-3)
 
 ## Bibliography
     Svigel, Michael J. 2012. _RetroChristianity: Reclaiming the Forgotten Faith_. Crossway.

@@ -1,46 +1,60 @@
 ---
 cssclass: literature-note
 aliases:
-- Rare Leadership
+  - Rare Leadership
 citekey: warnerRareLeadership42016
 type: book
-title: 'Rare Leadership: 4 Uncommon Habits For Increasing Trust, Joy, and Engagement in the People You Lead'
+title: "Rare Leadership: 4 Uncommon Habits For Increasing Trust, Joy, and Engagement in the People You Lead"
 authors:
-- '[[Marcus Warner]]'
-- '[[Jim Wilder]]'
+  - "[[Marcus Warner]]"
+  - "[[Jim Wilder]]"
 year: 2016
 publisher: Moody Publishers
 isbn: 978-0-8024-1454-0
 collections:
-- '[[Org Design]]'
-- '[[Top 10]]'
-- '[[True Spiritual Growth]]'
+  - "[[Org Design]]"
+  - "[[Top 10]]"
+  - "[[True Spiritual Growth]]"
 tags:
-- Leadership
-- Cognitive-Framework
-- KindleHighlights
-- Business
-- Church
+  - Leadership
+  - Cognitive-Framework
+  - KindleHighlights
+  - Business
+  - Church
 status: reviewing
-pdf: '[[warnerRareLeadershipUncommon2016.pdf]]'
 attachments:
-- '[[warnerRareLeadershipUncommon2016.pdf]]'
-- '[[warnerRareLeadershipUncommon2016CognitiveFramework.pdf]]'
+  - "[[warnerRareLeadership42016.pdf]]"
+  - "[[warnerRareLeadershipUncommon2016CognitiveFramework.pdf]]"
 highlights: 0
 added: 2020-12-20
 zotero: zotero://select/library/items/BGTSNPII
+related:
+  - "[[thefortJamieWinshipFearless2024]]"
+  - "[[wilderPandoraProblemFacing2019]]"
+  - "[[universityConflictResolutionRestoring2006]]"
+  - "[[burtonBestTipsHelp2014]]"
+  - "[[boydMythChristianNation2005]]"
+  - "[[reedLifenLifeStewardship2003]]"
+  - "[[pattersonCrucialConversationsTools2002]]"
+  - "[[strauchIfYouBite2011]]"
+  - "[[gallagherRootSinExposed2017]]"
+  - "[[smithDesiringKingdomWorship2009]]"
+  - "[[ourdailybreadministries116LearningYour2023]]"
+  - "[[clearAtomicHabitsEasy2018]]"
+  - "[[wilderEscapingEnemyMode2022]]"
+  - "[[warnerRARELeadershipWorkplace2021]]"
+  - "[[gracefamilyofchurchesSummit2020Labs2020]]"
+  - "[[abellWhyWePrefer]]"
+  - "[[winshipLivingFearlessExchanging2022]]"
+  - "[[hendricksOtherHalfChurch2020]]"
+  - "[[bonhoefferLifeTogether2005]]"
+  - "[[crabbUnderstandingPeopleDeep1987]]"
 publish: true
-modified: 2026-11-08T15:50:38.015Z
+modified: 2026-11-16T02:05:48.936Z
 ---
 
 # Rare Leadership
-## Metadata
-> [!info]
-> - Authors:: [[Marcus Warner]], [[Jim Wilder]]
-> - Cite Key:: warnerRareLeadership42016
-> - Tags:: #Leadership, #_reviewing, #Cognitive-Framework, #KindleHighlights, #Business, #Church
-> - Related:: [[thefortJamieWinshipFearless2024]], [[wilderPandoraProblemFacing2019]], [[universityConflictResolutionRestoring2006]], [[burtonBestTipsHelp2014]], [[boydMythChristianNation2005]], [[reedLifenLifeStewardship2003]], [[pattersonCrucialConversationsTools2002]], [[strauchIfYouBite2011]], [[gallagherRootSinExposed2017]], [[smithDesiringKingdomWorship2009]], [[ourdailybreadministries116LearningYour2023]], [[clearAtomicHabitsEasy2018]], [[wilderEscapingEnemyMode2022]], [[warnerRARELeadershipWorkplace2021]], [[gracefamilyofchurchesSummit2020Labs2020]], [[abellWhyWePrefer]], [[winshipLivingFearlessExchanging2022]], [[hendricksOtherHalfChurch2020]], [[bonhoefferLifeTogether2005]], [[crabbUnderstandingPeopleDeep1987]]
-> - Topics:: [[Read]], [[Top 10]], [[True Spiritual Growth]], [[Org Design]]
+Links: [Amazon.com Link](https://smile.amazon.com/Rare-Leadership-Uncommon-Increasing-Engagement/dp/0802414540/ref=sr_1_1?dchild=1&keywords=rare+leadership&qid=1608483388&sr=8-1)
 
 ## Bibliography
     Warner, Marcus, and Jim Wilder. 2016. _Rare Leadership: 4 Uncommon Habits For Increasing Trust, Joy, and Engagement in the People You Lead_. Moody Publishers.

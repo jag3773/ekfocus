@@ -18,16 +18,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/V98LL3NL
 publish: true
-modified: 2026-11-08T15:31:03.740Z
+modified: 2026-11-15T19:37:30.115Z
 ---
 
 # Desiring God
-## Metadata
-> [!info]
-> - Authors:: [[John Piper]]
-> - Cite Key:: piperDesiringGodMeditations2011
-> - Tags:: #Own
-> - Topics:: [[Read]]
 
 ## Bibliography
     Piper, John. 2011. _Desiring God: Meditations of a Christian Hedonist_. Colorado Springs, Colo.: Multnomah.

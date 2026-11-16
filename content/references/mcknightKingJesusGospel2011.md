@@ -13,23 +13,19 @@ publisher: Zondervan
 collections:
   - "[[Church]]"
 status: processed
-pdf: "[[mcknightKingJesusGospel2011.pdf]]"
 attachments:
   - "[[mcknightKingJesusGospel2011.pdf]]"
 highlights: 232
 added: 2024-10-14
 zotero: zotero://select/library/items/7D93WXJ7
 last_highlighted: 2026-11-14
+ingested: 2026-11-15
 publish: true
-modified: 2026-11-15T02:52:30.480Z
+modified: 2026-11-16T01:40:16.063Z
 ---
 
 # The King Jesus Gospel
-## Metadata
-> [!info]
-> - Authors:: [[Scot McKnight]], [[N. T. Wright and Dallas Willard]]
-> - Cite Key:: mcknightKingJesusGospel2011
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B005IOZUDA/ref=kinw_myk_ro_title)
 
 ## Bibliography
     McKnight, Scot, and N. T. Wright and Dallas Willard. 2011. _The King Jesus Gospel: The Original Good News Revisited_. Zondervan.

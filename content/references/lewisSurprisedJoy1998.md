@@ -18,16 +18,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/AV64QJVS
 publish: true
-modified: 2026-11-08T15:31:02.134Z
+modified: 2026-11-15T19:37:28.917Z
 ---
 
 # Surprised by joy.
-## Metadata
-> [!info]
-> - Authors:: [[C. S Lewis]]
-> - Cite Key:: lewisSurprisedJoy1998
-> - Tags:: #Own
-> - Topics:: [[Read]]
 
 ## Bibliography
     Lewis, C. S. 1998. _Surprised by Joy._ London: Fount.

@@ -15,15 +15,11 @@ highlights: 0
 added: 2020-12-21
 zotero: zotero://select/library/items/NDBW6WE5
 publish: true
-modified: 2026-11-08T15:31:08.065Z
+modified: 2026-11-15T19:37:31.467Z
 ---
 
 # Galatians
-## Metadata
-> [!info]
-> - Authors:: [[Merrill C. Tenney]]
-> - Cite Key:: tenneyGalatiansCharterChristian1989
-> - Topics:: [[Read]]
+Links: [Amazon.com Link](https://smile.amazon.com/Galatians-Christian-Merrill-C-Tenney/dp/0802804497/ref=sr_1_1?dchild=1&keywords=galatians+Tenney&qid=1608515754&sr=8-1)
 
 ## Bibliography
     Tenney, Merrill C. 1989. _Galatians: The Charter of Christian Liberty_. Grand Rapids, Mich.: Wm. B. Eerdmans Publishing Co.

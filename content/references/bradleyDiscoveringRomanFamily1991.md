@@ -21,17 +21,10 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/U2U78ISL
 publish: true
-modified: 2026-11-08T15:30:49.833Z
+modified: 2026-11-15T19:37:25.214Z
 ---
 
 # Discovering the Roman family
-## Metadata
-> [!info]
-> - Authors:: [[K. R. Bradley]], [[Internet Archive]]
-> - URL:: http://archive.org/details/discoveringroman0000brad
-> - Cite Key:: bradleyDiscoveringRomanFamily1991
-> - Tags:: #Families----Rome----History
-> - Topics:: [[Bible]]
 
 ## Bibliography
     Bradley, K. R. 1991. _Discovering the Roman Family : Studies in Roman Social History_. With Internet Archive. New York : Oxford University Press. [http://archive.org/details/discoveringroman0000brad](http://archive.org/details/discoveringroman0000brad).

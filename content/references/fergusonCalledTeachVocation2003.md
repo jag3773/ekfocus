@@ -16,15 +16,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/CEFCQ5CQ
 publish: true
-modified: 2026-11-08T15:30:53.428Z
+modified: 2026-11-15T19:37:26.642Z
 ---
 
 # Called to teach
-## Metadata
-> [!info]
-> - Authors:: [[Duncan S Ferguson]], [[William J Weston]]
-> - Cite Key:: fergusonCalledTeachVocation2003
-> - Topics:: [[References]]
 
 ## Bibliography
     Ferguson, Duncan S, and William J Weston. 2003. _Called to Teach: The Vocation of the Presbyterian Educator_. Louisville, Ky.: Geneva Press.

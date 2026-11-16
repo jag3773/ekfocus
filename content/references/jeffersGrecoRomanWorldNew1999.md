@@ -17,15 +17,11 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/MNHE86A8
 publish: true
-modified: 2026-11-08T15:31:01.114Z
+modified: 2026-11-15T19:37:28.036Z
 ---
 
 # The Greco-Roman World of the New Testament Era
-## Metadata
-> [!info]
-> - Authors:: [[James S. Jeffers]]
-> - Cite Key:: jeffersGrecoRomanWorldNew1999
-> - Topics:: [[Bible]]
+Links: [Amazon.com Link](https://www.amazon.com/Greco-Roman-World-New-Testament-Era/dp/0830815899)
 
 ## Bibliography
     Jeffers, James S. 1999. _The Greco-Roman World of the New Testament Era: Exploring the Background of Early Christianity_. IVP Academic.

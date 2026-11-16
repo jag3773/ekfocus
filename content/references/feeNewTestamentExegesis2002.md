@@ -21,16 +21,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/2TYJVCDX
 publish: true
-modified: 2026-11-08T15:30:53.416Z
+modified: 2026-11-15T19:37:26.628Z
 ---
 
 # New Testament exegesis
-## Metadata
-> [!info]
-> - Authors:: [[Gordon D. Fee]]
-> - Cite Key:: feeNewTestamentExegesis2002
-> - Tags:: #Own, #study
-> - Topics:: [[Read]], [[Top 10 Lists]]
 
 ## Bibliography
     Fee, Gordon D. 2002. _New Testament Exegesis: A Handbook for Students and Pastors_. 3rd ed, 4. pr. Louisville, Ky: Westminster John Knox Press.

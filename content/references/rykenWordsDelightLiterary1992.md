@@ -31,18 +31,15 @@ attachments:
 highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/3UFKYIRV
+related:
+- '[[alterArtBiblicalNarrative2006]]'
+- '[[andersonOutDepthsPsalms2000]]'
+- '[[fretheimExodus1991]]'
 publish: true
-modified: 2026-11-08T15:31:05.806Z
+modified: 2026-11-15T19:37:30.666Z
 ---
 
 # Words of delight
-## Metadata
-> [!info]
-> - Authors:: [[Leland Ryken]], [[Leland Ryken]]
-> - Cite Key:: rykenWordsDelightLiterary1992
-> - Tags:: #Own, #Bible, #Theology, #Hermeneutics, #Metaphor, #Reviewed-in-2023, #Literature, #Narrative, #Figures-of-Speech
-> - Related:: [[alterArtBiblicalNarrative2006]], [[andersonOutDepthsPsalms2000]], [[fretheimExodus1991]]
-> - Topics:: [[Read]]
 
 ## Bibliography
     Ryken, Leland, and Leland Ryken. 1992. _Words of Delight: A Literary Introduction to the Bible_. 2nd ed. Grand Rapids, Mich: Baker Book House.

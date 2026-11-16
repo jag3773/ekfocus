@@ -17,17 +17,50 @@ status: shelved
 highlights: 0
 added: 2021-04-04
 zotero: zotero://select/library/items/DSPQMJJ9
+related:
+- '[[coleChurch30Upgrades2010]]'
+- '[[addisonRiseFallMovements2019]]'
+- '[[hirschForgottenWaysReactivating2007]]'
+- '[[svigelRetroChristianityReclaimingForgotten2012]]'
+- '[[davisGreatDechurchingWhos2023]]'
+- '[[banksPaulsIdeaCommunity2020]]'
+- '[[maryChristendomApostolicMission2020]]'
+- '[[chesterTotalChurchRadical2008]]'
+- '[[ZumeTraining2023]]'
+- '[[trousdaleKingdomUnleashedHow2018]]'
+- '[[christophersonKingdomFirstStarting2015]]'
+- '[[allenMissionaryMethodsSt2011]]'
+- '[[reachMovementsThatMove2016]]'
+- '[[gerkeWayChurchWe2020]]'
+- '[[ZumeTrainingBook2022]]'
+- '[[chanMultiplyDisciplesMaking2012]]'
+- '[[sergeantOnlyOneLiving2019]]'
+- '[[parks2414Testimony2019]]'
+- '[[broweleitOut4thPlace2018]]'
+- '[[kennedyKingdomComeGospelCentered2012]]'
+- '[[hirschReframationSeeingGod2019]]'
+- '[[watsonContagiousDisciplemakingLeading2014]]'
+- '[[rushikDiscoveryBibleStudy2020]]'
+- '[[march01WhatChurchPlanting]]'
+- '[[fordStarfishSpiritUnleashing2021]]'
+- '[[johnBhojpuriBreakthroughMovement2019]]'
+- '[[hirschPermanentRevolutionApostolic2012]]'
+- '[[reedBILDEncyclicals2017]]'
+- '[[joreEquippingServantsEarly2023]]'
+- '[[christophersonVenalDogmataParable2020]]'
+- '[[reedGathering2021]]'
+- '[[stedmanBodyLifeBook2011]]'
+- '[[hendricksOtherHalfChurch2020]]'
+- '[[doddApostolicPreachingIts1937]]'
+- '[[allenSpontaneousExpansionChurch2018]]'
+- '[[woodSevenThingsIve2021]]'
+- '[[addisonMovementsThatChange2011]]'
 publish: true
-modified: 2026-11-08T15:50:42.493Z
+modified: 2026-11-15T19:37:24.711Z
 ---
 
 # Going to Church in the First Century
-## Metadata
-> [!info]
-> - Authors:: [[Robert Banks]], [[Judith Clingan]]
-> - Cite Key:: banksGoingChurchFirst1990
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[rushikDiscoveryBibleStudy2020]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[reedBILDEncyclicals2017]], [[joreEquippingServantsEarly2023]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[stedmanBodyLifeBook2011]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[References]], [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/Going-Church-First-Century-Robert/dp/0940232375/ref=sr_1_1?dchild=1&keywords=going+to+church+in+the+first+century&qid=1617557497&s=books&sr=1-1)
 
 ## Bibliography
     Banks, Robert. 1990. _Going to Church in the First Century_. 2nd edition. Jacksonville, Fla.: Seedsowers Christian Books Publishing.

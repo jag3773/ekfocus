@@ -1,41 +1,37 @@
 ---
 cssclass: literature-note
 aliases:
-- The 3D Gospel
+  - The 3D Gospel
 citekey: georges3DGospelMinistry2014
 type: book
-title: 'The 3D Gospel: Ministry in Guilt, Shame, and Fear Cultures'
+title: "The 3D Gospel: Ministry in Guilt, Shame, and Fear Cultures"
 authors:
-- '[[Jayson Georges]]'
+  - "[[Jayson Georges]]"
 year: 2014
 publisher: Timē Press
 url: https://honorshame.com/ministry-tools/
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Reviewed-in-2025
+  - Reviewed-in-2025
 status: processed
-pdf: '[[georges3DGospelMinistry2014.pdf]]'
 attachments:
-- '[[georges3DGospelMinistry2014.pdf]]'
-- '[[Theology Guide from 3D Gospel.pdf]]'
+  - "[[georges3DGospelMinistry2014.pdf]]"
+  - "[[Theology Guide from 3D Gospel.pdf]]"
 highlights: 32
 last_highlighted: 2025-03-06
 added: 2020-12-20
 zotero: zotero://select/library/items/38X4383Q
+related:
+  - "[[www.honorshame.comBackGodsVillage2014]]"
+  - "[[hiebertConversionCultureCognitive1978]]"
+  - "[[hiebertFlawExcludedMiddle1982]]"
 publish: true
-modified: 2026-11-08T15:30:53.606Z
+modified: 2026-11-16T01:39:40.049Z
 ---
 
 # The 3D Gospel
-## Metadata
-> [!info]
-> - Authors:: [[Jayson Georges]]
-> - URL:: https://honorshame.com/ministry-tools/
-> - Cite Key:: georges3DGospelMinistry2014
-> - Tags:: #Reviewed-in-2025
-> - Related:: [[www.honorshame.comBackGodsVillage2014]], [[hiebertConversionCultureCognitive1978]], [[hiebertFlawExcludedMiddle1982]]
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://smile.amazon.com/3D-Gospel-Ministry-Guilt-Cultures-ebook/dp/B00OV4FVMS/ref=sr_1_1_sspa?dchild=1&keywords=the+3d+gospel&qid=1608481942&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUlNUWkhJRlAyOFNQJmVuY3J5cHRlZElkPUEwMDY0MzcyMks2MUtVRlpWNE5MRSZlbmNyeXB0ZWRBZElkPUEwNDk5NTQwT0VBQkNJQ0ZDM01KJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 ## Bibliography
     Georges, Jayson. 2014. _The 3D Gospel: Ministry in Guilt, Shame, and Fear Cultures_. Timē Press. [https://honorshame.com/ministry-tools/](https://honorshame.com/ministry-tools/).

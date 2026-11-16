@@ -13,16 +13,10 @@ highlights: 0
 added: 2021-09-01
 zotero: zotero://select/library/items/ZNJFF2JP
 publish: true
-modified: 2026-11-08T15:31:08.092Z
+modified: 2026-11-15T19:37:31.498Z
 ---
 
 # Commentary on Romans
-## Metadata
-> [!info]
-> - Authors:: [[of Cyrus Theodoret]]
-> - URL:: https://librivox.org/commentary-on-romans-by-theodoret-of-cyrus/
-> - Cite Key:: theodoretCommentaryRomansc425
-> - Topics:: [[Queued]]
 
 ## Bibliography
     Theodoret, of Cyrus. c425. _Commentary on Romans_. [https://librivox.org/commentary-on-romans-by-theodoret-of-cyrus/](https://librivox.org/commentary-on-romans-by-theodoret-of-cyrus/).

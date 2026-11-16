@@ -14,15 +14,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/C7VG5FBD
 publish: true
-modified: 2026-11-08T15:30:50.174Z
+modified: 2026-11-15T19:37:25.335Z
 ---
 
 # Daring greatly
-## Metadata
-> [!info]
-> - Authors:: [[Brené Brown]]
-> - Cite Key:: brownDaringGreatlyHow2012
-> - Topics:: [[Queued]]
 
 ## Bibliography
     Brown, Brené. 2012. _Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead_.

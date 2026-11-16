@@ -16,16 +16,11 @@ highlights: 0
 added: 2021-06-04
 zotero: zotero://select/library/items/93REIDTI
 publish: true
-modified: 2026-11-08T15:30:50.186Z
+modified: 2026-11-15T19:37:25.360Z
 ---
 
 # Romans
-## Metadata
-> [!info]
-> - Authors:: [[F. F. Bruce]]
-> - Cite Key:: bruceRomans2014
-> - Tags:: #recommended-to-me
-> - Topics:: [[References]]
+Links: [Amazon.com Link](https://smile.amazon.com/Romans-Tyndale-Testament-Commentaries-Book-ebook/dp/B016LEOZ6S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1622849348&sr=8-2)
 
 ## Bibliography
     Bruce, F. F. 2014. _Romans_. IVP Academic.

@@ -1,7 +1,7 @@
 ---
 publish: true
 date: 2024-01-12
-modified: 2024-01-15T14:40:16.000Z
+modified: 2026-11-15T19:38:06.860Z
 ---
 
 I put together an over of DMM/CPM models or pathways as described in various books. This is not a synthesis, just a conglomeration of various diagrams or models presented by the authors. Books referenced here:
@@ -18,3 +18,6 @@ I also prompted ChatGPT to give me an overview of church planting principles tha
 <a href="https://github.com/jag3773/ekfocus/blob/main/src/site/img/user/archive/attachments/ekfocus.com/2023-09-17-Models-or-Pathways-of-DMM-CPM.excalidraw.png" target="_blank"><img src="/attachments/2023-09-17-Models-or-Pathways-of-DMM-CPM.excalidraw.png" /></a>
 
 #Ecclesiology #systems-thinking 
+
+## Related
+- [[johnBhojpuriBreakthroughMovement2019|Bhojpuri Breakthrough]]: reference note for the Bhojpuri book cited above

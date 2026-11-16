@@ -1,36 +1,69 @@
 ---
 cssclass: literature-note
 aliases:
-- Body Life
+  - Body Life
 citekey: stedmanBodyLifeBook2011
 type: book
-title: 'Body Life: The Book That Inspired a Return to the Church''s Real Meaning and Mission'
+title: "Body Life: The Book That Inspired a Return to the Church's Real Meaning and Mission"
 authors:
-- '[[Ray C. Stedman]]'
+  - "[[Ray C. Stedman]]"
 year: 2011
 publisher: Discovery House
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 status: reviewing
-pdf: '[[stedmanBodyLifeBook2011.pdf]]'
 attachments:
-- '[[stedmanBodyLifeBook2011.pdf]]'
+  - "[[stedmanBodyLifeBook2011.pdf]]"
 highlights: 67
 last_highlighted: 2026-11-14
 added: 2021-06-04
 zotero: zotero://select/library/items/UCY9EYQX
+related:
+  - "[[coleChurch30Upgrades2010]]"
+  - "[[addisonRiseFallMovements2019]]"
+  - "[[hirschForgottenWaysReactivating2007]]"
+  - "[[svigelRetroChristianityReclaimingForgotten2012]]"
+  - "[[davisGreatDechurchingWhos2023]]"
+  - "[[banksPaulsIdeaCommunity2020]]"
+  - "[[maryChristendomApostolicMission2020]]"
+  - "[[chesterTotalChurchRadical2008]]"
+  - "[[ZumeTraining2023]]"
+  - "[[trousdaleKingdomUnleashedHow2018]]"
+  - "[[christophersonKingdomFirstStarting2015]]"
+  - "[[allenMissionaryMethodsSt2011]]"
+  - "[[reachMovementsThatMove2016]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[ZumeTrainingBook2022]]"
+  - "[[chanMultiplyDisciplesMaking2012]]"
+  - "[[sergeantOnlyOneLiving2019]]"
+  - "[[parks2414Testimony2019]]"
+  - "[[joreUnchainedBibleNetwork2024]]"
+  - "[[banksGoingChurchFirst1990]]"
+  - "[[broweleitOut4thPlace2018]]"
+  - "[[kennedyKingdomComeGospelCentered2012]]"
+  - "[[hirschReframationSeeingGod2019]]"
+  - "[[watsonContagiousDisciplemakingLeading2014]]"
+  - "[[reedUneducatedApostles2018]]"
+  - "[[rushikDiscoveryBibleStudy2020]]"
+  - "[[reedGlobalPentacostalismSpirit2019]]"
+  - "[[march01WhatChurchPlanting]]"
+  - "[[fordStarfishSpiritUnleashing2021]]"
+  - "[[johnBhojpuriBreakthroughMovement2019]]"
+  - "[[hirschPermanentRevolutionApostolic2012]]"
+  - "[[christophersonVenalDogmataParable2020]]"
+  - "[[reedGathering2021]]"
+  - "[[hendricksOtherHalfChurch2020]]"
+  - "[[doddApostolicPreachingIts1937]]"
+  - "[[joreEquippingServantsEarly2025]]"
+  - "[[allenSpontaneousExpansionChurch2018]]"
+  - "[[woodSevenThingsIve2021]]"
+  - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-14T20:41:31.762Z
+modified: 2026-11-16T01:40:42.778Z
 ---
 
 # Body Life
-## Metadata
-> [!info]
-> - Authors:: [[Ray C. Stedman]]
-> - Cite Key:: stedmanBodyLifeBook2011
-> - Tags:: #_reviewing
-> - Related:: [[coleChurch30Upgrades2010]], [[addisonRiseFallMovements2019]], [[hirschForgottenWaysReactivating2007]], [[svigelRetroChristianityReclaimingForgotten2012]], [[davisGreatDechurchingWhos2023]], [[banksPaulsIdeaCommunity2020]], [[maryChristendomApostolicMission2020]], [[chesterTotalChurchRadical2008]], [[ZumeTraining2023]], [[trousdaleKingdomUnleashedHow2018]], [[christophersonKingdomFirstStarting2015]], [[allenMissionaryMethodsSt2011]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[ZumeTrainingBook2022]], [[chanMultiplyDisciplesMaking2012]], [[sergeantOnlyOneLiving2019]], [[parks2414Testimony2019]], [[joreUnchainedBibleNetwork2024]], [[banksGoingChurchFirst1990]], [[broweleitOut4thPlace2018]], [[kennedyKingdomComeGospelCentered2012]], [[hirschReframationSeeingGod2019]], [[watsonContagiousDisciplemakingLeading2014]], [[reedUneducatedApostles2018]], [[rushikDiscoveryBibleStudy2020]], [[reedGlobalPentacostalismSpirit2019]], [[march01WhatChurchPlanting]], [[fordStarfishSpiritUnleashing2021]], [[johnBhojpuriBreakthroughMovement2019]], [[hirschPermanentRevolutionApostolic2012]], [[christophersonVenalDogmataParable2020]], [[reedGathering2021]], [[hendricksOtherHalfChurch2020]], [[doddApostolicPreachingIts1937]], [[joreEquippingServantsEarly2025]], [[allenSpontaneousExpansionChurch2018]], [[woodSevenThingsIve2021]], [[addisonMovementsThatChange2011]]
-> - Topics:: [[Read]], [[Church]]
+Links: [Amazon.com Link](https://smile.amazon.com/Body-Life-Inspired-Churchs-Meaning-ebook/dp/B0052NUKKU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1622811747&sr=1-1)
 
 ## Bibliography
     Stedman, Ray C. 2011. _Body Life: The Book That Inspired a Return to the Church’s Real Meaning and Mission_. Discovery House.

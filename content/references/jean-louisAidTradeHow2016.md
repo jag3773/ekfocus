@@ -1,46 +1,40 @@
 ---
 cssclass: literature-note
 aliases:
-- From aid to trade
+  - From aid to trade
 citekey: jean-louisAidTradeHow2016
 type: book
-title: 'From aid to trade: how aid organizations, businesses, and governments can work together: lessons learned from Haiti'
+title: "From aid to trade: how aid organizations, businesses, and governments can work together: lessons learned from Haiti"
 authors:
-- '[[Daniel Jean-Louis]]'
-- '[[Jacqueline Klamer]]'
+  - "[[Daniel Jean-Louis]]"
+  - "[[Jacqueline Klamer]]"
 year: 2016
 publisher: Fresh Strategy Press
 isbn: 978-0-9980044-0-2
 collections:
-- '[[Systems Thinking]]'
+  - "[[Systems Thinking]]"
 tags:
-- Economic-assistance
-- Economic-conditions
-- Economic-development
-- Economic-history
-- Haiti
-- Non-governmental-organizations
-- Reviewed-in-2026
+  - Economic-assistance
+  - Economic-conditions
+  - Economic-development
+  - Economic-history
+  - Haiti
+  - Non-governmental-organizations
+  - Reviewed-in-2026
 status: processed
-pdf: '[[jean-louisAidTradeHow2016.pdf]]'
 attachments:
-- '[[jean-louisAidTradeHow2016.pdf]]'
+  - "[[jean-louisAidTradeHow2016.pdf]]"
 highlights: 55
 last_highlighted: 2026-06-20
 added: 2020-12-19
 zotero: zotero://select/library/items/PJFJRVKP
+related:
+  - "[[corbettWhenHelpingHurts2014]]"
 publish: true
-modified: 2026-11-08T15:31:01.112Z
+modified: 2026-11-16T01:39:55.914Z
 ---
 
 # From aid to trade
-## Metadata
-> [!info]
-> - Authors:: [[Daniel Jean-Louis]], [[Jacqueline Klamer]]
-> - Cite Key:: jean-louisAidTradeHow2016
-> - Tags:: #Economic-assistance, #Economic-conditions, #Economic-development, #Economic-history, #Haiti, #Non-governmental-organizations, #Reviewed-in-2026
-> - Related:: [[corbettWhenHelpingHurts2014]]
-> - Topics:: [[Systems Thinking]], [[References]]
 
 ## Bibliography
     Jean-Louis, Daniel, and Jacqueline Klamer. 2016. _From Aid to Trade: How Aid Organizations, Businesses, and Governments Can Work Together: Lessons Learned from Haiti_. Fresh Strategy Press.

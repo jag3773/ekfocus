@@ -17,15 +17,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/ZY7C3UVH
 publish: true
-modified: 2026-11-08T15:30:53.154Z
+modified: 2026-11-15T19:37:26.285Z
 ---
 
 # Growing in the life of faith
-## Metadata
-> [!info]
-> - Authors:: [[Craig Richard Dykstra]], [[Dorothy C Bass]], [[Westminster John Knox Press]]
-> - Cite Key:: dykstraGrowingLifeFaith2005
-> - Topics:: [[References]]
 
 ## Bibliography
     Dykstra, Craig Richard, Dorothy C Bass, and Westminster John Knox Press. 2005. _Growing in the Life of Faith: Education and Christian Practices_. Louisville; London: Westminster John Knox Press.

@@ -42,18 +42,13 @@ attachments:
 highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/QFBI4PU7
+related:
+- '[[cooperEphesiologyStudyEphesian2020]]'
 publish: true
-modified: 2026-11-08T15:31:03.311Z
+modified: 2026-11-15T19:37:29.574Z
 ---
 
 # St. Paul's Ephesus
-## Metadata
-> [!info]
-> - Authors:: [[J. Murphy-O'Connor]]
-> - Cite Key:: murphy-oconnorStPaulEphesus2008
-> - Tags:: #Bible, #History, #Religion, #Church-history, #Artemis, #Cult, #Ephesus, #Ecclesiology, #Reviewed-in-2024, #Print
-> - Related:: [[cooperEphesiologyStudyEphesian2020]]
-> - Topics:: [[Read]]
 
 ## Bibliography
     Murphy-O’Connor, J. 2008. _St. Paul’s Ephesus: Texts and Archaeology_. Collegeville, Minn: Liturgical Press.

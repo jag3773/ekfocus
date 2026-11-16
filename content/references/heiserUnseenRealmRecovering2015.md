@@ -1,38 +1,34 @@
 ---
 cssclass: literature-note
 aliases:
-- The Unseen Realm
+  - The Unseen Realm
 citekey: heiserUnseenRealmRecovering2015
 type: book
-title: 'The Unseen Realm: Recovering the Supernatural Worldview of the Bible'
+title: "The Unseen Realm: Recovering the Supernatural Worldview of the Bible"
 authors:
-- '[[Michael S. Heiser]]'
+  - "[[Michael S. Heiser]]"
 year: 2015
 publisher: Lexham Press
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[heiserUnseenRealmRecovering2015.pdf]]'
 attachments:
-- '[[heiserUnseenRealmRecovering2015.pdf]]'
+  - "[[heiserUnseenRealmRecovering2015.pdf]]"
 highlights: 270
 last_highlighted: 2026-08-06
 added: 2023-11-24
 zotero: zotero://select/library/items/LZMVEPXZ
+related:
+  - "[[joreUnchainedBibleNetwork2024]]"
+  - "[[joreEquippingServantsEarly2025]]"
 publish: true
-modified: 2026-11-08T15:31:00.057Z
+modified: 2026-11-16T01:39:50.876Z
 ---
 
 # The Unseen Realm
-## Metadata
-> [!info]
-> - Authors:: [[Michael S. Heiser]]
-> - Cite Key:: heiserUnseenRealmRecovering2015
-> - Tags:: #Reviewed-in-2026
-> - Related:: [[joreUnchainedBibleNetwork2024]], [[joreEquippingServantsEarly2025]]
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B0141QB9XA?storeType=ebooks&pf_rd_p=114af915-8ac1-4c2e-b2e9-571a645b5906&pf_rd_r=JC4V9S67QHHQAMZ1Q1KV&pd_rd_wg=Wp5uf&pd_rd_i=B0141QB9XA&ref_=dbs_f_def_rwt_wigo_cp_recs_wigo_0&pd_rd_w=BLUWt&content-id=amzn1.sym.114af915-8ac1-4c2e-b2e9-571a645b5906&pd_rd_r=da7695b0-d48f-457d-b5c9-a67bcabf07d2)
 
 ## Bibliography
     Heiser, Michael S. 2015. _The Unseen Realm: Recovering the Supernatural Worldview of the Bible_. Lexham Press.

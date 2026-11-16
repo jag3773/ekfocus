@@ -23,16 +23,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/2XSN3SZA
 publish: true
-modified: 2026-11-08T15:31:02.179Z
+modified: 2026-11-15T19:37:28.981Z
 ---
 
 # Identity and idolatry
-## Metadata
-> [!info]
-> - Authors:: [[Richard Lints]]
-> - Cite Key:: lintsIdentityIdolatryImage2015
-> - Tags:: #Own, #Christianity, #Theological-anthropology, #Identity, #Idolatry, #Image-of-God
-> - Topics:: [[Read]]
 
 ## Bibliography
     Lints, Richard. 2015. _Identity and Idolatry: The Image of God and Its Inversion_. New Studies in Biblical Theology 36. Downers Grove, Illinois: InterVarsity Press.

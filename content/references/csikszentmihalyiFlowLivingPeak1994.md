@@ -14,15 +14,10 @@ highlights: 0
 added: 2020-12-21
 zotero: zotero://select/library/items/E6ZB8TUD
 publish: true
-modified: 2026-11-08T15:30:51.741Z
+modified: 2026-11-15T19:37:25.962Z
 ---
 
 # Flow: Living at the Peak of your Abilities
-## Metadata
-> [!info]
-> - Authors:: [[Mihaly Csikszentmihalyi]]
-> - Cite Key:: csikszentmihalyiFlowLivingPeak1994
-> - Topics:: [[Read]]
 
 ## Bibliography
     Csikszentmihalyi, Mihaly. 1994. _Flow: Living at the Peak of Your Abilities_. : Nightingale-Conant: Personal Development.

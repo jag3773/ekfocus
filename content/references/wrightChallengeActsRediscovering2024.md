@@ -1,37 +1,31 @@
 ---
 cssclass: literature-note
 aliases:
-- The Challenge of Acts
+  - The Challenge of Acts
 citekey: wrightChallengeActsRediscovering2024
 type: book
-title: 'The Challenge of Acts: Rediscovering What the Church Was and Is'
+title: "The Challenge of Acts: Rediscovering What the Church Was and Is"
 authors:
-- '[[N. T. Wright]]'
+  - "[[N. T. Wright]]"
 year: 2024
 publisher: Zondervan Academic
 collections:
-- '[[Church]]'
+  - "[[Church]]"
 tags:
-- Reviewed-in-2026
+  - Reviewed-in-2026
 status: processed
-pdf: '[[wrightChallengeActsRediscovering2024.pdf]]'
 attachments:
-- '[[wrightChallengeActsRediscovering2024.pdf]]'
+  - "[[wrightChallengeActsRediscovering2024.pdf]]"
 highlights: 150
 last_highlighted: 2026-06-20
 added: 2025-02-21
 zotero: zotero://select/library/items/ITTU6NK2
 publish: true
-modified: 2026-11-08T15:31:10.294Z
+modified: 2026-11-16T01:40:56.023Z
 ---
 
 # The Challenge of Acts
-## Metadata
-> [!info]
-> - Authors:: [[N. T. Wright]]
-> - Cite Key:: wrightChallengeActsRediscovering2024
-> - Tags:: #Reviewed-in-2026
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/Challenge-Acts-Rediscovering-What-Church-ebook/dp/B0D8VLCH9J/ref=tmm_kin_swatch_0)
 
 ## Bibliography
     Wright, N. T. 2024. _The Challenge of Acts: Rediscovering What the Church Was and Is_. Zondervan Academic.

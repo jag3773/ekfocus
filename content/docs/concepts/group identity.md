@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-06T14:56:20.828Z
+modified: 2026-11-15T19:33:57.773Z
 ---
 
 The shared sense of "how our people act" — the communal identity that shapes individual behavior below the level of conscious decision-making. Wilder identifies it as the only part of the brain that can overcome narcissistic self-justification, making it essential for character formation and spiritual maturity.
@@ -39,3 +39,4 @@ Pflaeging's Beta organizations depend on group identity to function. When you re
 - [[wilderPandoraProblemFacing2019]]
 - [[2026-04-14 The Melding of Crabb and Nee - A Synthesis]]
 - [[2021-01-25 Marcus Warner]]
+- [[2026-11-15 Contact Between Peoples Sharpens Identity Instead of Dissolving It]]: Huntington on identity defined by contrast with outsiders ([[huntingtonClashCivilizationsRemaking2007|The Clash of Civilizations]])

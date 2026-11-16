@@ -12,23 +12,19 @@ publisher: WaterBrook
 collections:
   - "[[True Spiritual Growth]]"
 status: processed
-pdf: "[[comerPracticingWayBe2024.pdf]]"
 attachments:
   - "[[comerPracticingWayBe2024.pdf]]"
 highlights: 175
 added: 2025-02-21
 zotero: zotero://select/library/items/SCIUC3KK
 last_highlighted: 2026-11-14
+ingested: 2026-11-15
 publish: true
-modified: 2026-11-15T02:47:23.312Z
+modified: 2026-11-16T01:39:21.974Z
 ---
 
 # Practicing the Way
-## Metadata
-> [!info]
-> - Authors:: [[John Mark Comer]]
-> - Cite Key:: comerPracticingWayBe2024
-> - Topics:: [[True Spiritual Growth]]
+Links: [Amazon.com Link](https://www.amazon.com/gp/product/B0BSL2JSBB/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20)
 
 ## Bibliography
     Comer, John Mark. 2024. _Practicing the Way: Be with Jesus. Become like Him. Do as He Did._ WaterBrook.

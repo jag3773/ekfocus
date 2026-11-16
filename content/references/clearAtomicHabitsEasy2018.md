@@ -22,18 +22,24 @@ status: processed
 highlights: 0
 added: 2020-12-21
 zotero: zotero://select/library/items/JBGXRIWN
+related:
+- '[[thefortJamieWinshipFearless2024]]'
+- '[[reedLifenLifeStewardship2003]]'
+- '[[warnerRareLeadership42016]]'
+- '[[smithDesiringKingdomWorship2009]]'
+- '[[ourdailybreadministries116LearningYour2023]]'
+- '[[covey7HabitsHighly2004]]'
+- '[[gracefamilyofchurchesSummit2020Labs2020]]'
+- '[[winshipLivingFearlessExchanging2022]]'
+- '[[hendricksOtherHalfChurch2020]]'
+- '[[duhiggPowerHabitWhy2012]]'
+- '[[doerrMeasureWhatMatters2018]]'
 publish: true
-modified: 2026-11-08T15:50:36.671Z
+modified: 2026-11-15T19:37:25.731Z
 ---
 
 # Atomic Habits
-## Metadata
-> [!info]
-> - Authors:: [[James Clear]]
-> - Cite Key:: clearAtomicHabitsEasy2018
-> - Tags:: #Self-control, #Identity, #productivity, #Habits
-> - Related:: [[thefortJamieWinshipFearless2024]], [[reedLifenLifeStewardship2003]], [[warnerRareLeadership42016]], [[smithDesiringKingdomWorship2009]], [[ourdailybreadministries116LearningYour2023]], [[covey7HabitsHighly2004]], [[gracefamilyofchurchesSummit2020Labs2020]], [[winshipLivingFearlessExchanging2022]], [[hendricksOtherHalfChurch2020]], [[duhiggPowerHabitWhy2012]], [[doerrMeasureWhatMatters2018]]
-> - Topics:: [[Read]], [[Top 10]]
+Links: [Amazon.com Link](https://smile.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1608516798&sr=8-1)
 
 ## Bibliography
     Clear, James. 2018. _Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones_. Illustrated edition. New York: Avery.

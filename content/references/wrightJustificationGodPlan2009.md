@@ -18,16 +18,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/VLHSYNYF
 publish: true
-modified: 2026-11-08T15:31:10.319Z
+modified: 2026-11-15T19:37:32.453Z
 ---
 
 # Justification
-## Metadata
-> [!info]
-> - Authors:: [[N. T Wright]]
-> - Cite Key:: wrightJustificationGodPlan2009
-> - Tags:: #Own
-> - Topics:: [[Read]]
 
 ## Bibliography
     Wright, N. T. 2009. _Justification: God’s Plan and Paul’s Vision_. London: SPCK.

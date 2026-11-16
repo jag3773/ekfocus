@@ -1,41 +1,35 @@
 ---
 cssclass: literature-note
 aliases:
-- Running Lean
+  - Running Lean
 citekey: mauryaRunningLeanIterate2012
 type: book
-title: 'Running Lean: Iterate from Plan A to a Plan That Works'
+title: "Running Lean: Iterate from Plan A to a Plan That Works"
 authors:
-- '[[Ash Maurya]]'
+  - "[[Ash Maurya]]"
 year: 2012
 publisher: O'Reilly Media
 isbn: 978-1-4493-0517-8
 collections:
-- '[[Org Design]]'
+  - "[[Org Design]]"
 tags:
-- lean
-- Software
-- Business
-- Technology
+  - lean
+  - Software
+  - Business
+  - Technology
 status: processed
-pdf: '[[mauryaRunningLeanIterate2012.pdf]]'
 attachments:
-- '[[mauryaRunningLeanIterate2012.pdf]]'
+  - "[[mauryaRunningLeanIterate2012.pdf]]"
 highlights: 79
 last_highlighted: 2022-02-09
 added: 2021-03-25
 zotero: zotero://select/library/items/6NLQSNJP
 publish: true
-modified: 2026-11-08T15:31:02.371Z
+modified: 2026-11-16T01:40:15.185Z
 ---
 
 # Running Lean
-## Metadata
-> [!info]
-> - Authors:: [[Ash Maurya]]
-> - Cite Key:: mauryaRunningLeanIterate2012
-> - Tags:: #lean, #Software, #Business, #Technology
-> - Topics:: [[Read]]
+Links: [Amazon.com Link](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
 ## Bibliography
     Maurya, Ash. 2012. _Running Lean: Iterate from Plan A to a Plan That Works_. 2nd edition. Sebastopol, CA: O’Reilly Media.

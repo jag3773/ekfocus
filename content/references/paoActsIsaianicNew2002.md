@@ -21,16 +21,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/4WZMHYSH
 publish: true
-modified: 2026-11-08T15:31:03.596Z
+modified: 2026-11-15T19:37:29.925Z
 ---
 
 # Acts and the Isaianic new exodus
-## Metadata
-> [!info]
-> - Authors:: [[David W. Pao]]
-> - Cite Key:: paoActsIsaianicNew2002
-> - Tags:: #Bible, #Exodus, #Relation-to-Acts, #Relation-to-Isaiah, #Typology
-> - Topics:: [[Queued]]
 
 ## Bibliography
     Pao, David W. 2002. _Acts and the Isaianic New Exodus_. Biblical Studies Library. Grand Rapids, Mich: Baker Academic.

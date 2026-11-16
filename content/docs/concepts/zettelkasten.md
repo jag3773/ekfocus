@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-14T18:01:22.290Z
+modified: 2026-11-16T01:47:45.959Z
 ---
 
 A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE]].
@@ -20,12 +20,7 @@ A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas.
     * Quotes are prefixed with `Q-`
     * Dated items should be formatted as `YYYY-MM-DD Title of Note`
 * The `archive` directory contains completed works (books, articles, documents, etc).
-* The `archive/zotero` directory has PDFs of my library and is full text searchable in Zotero.
-* Zotero integration (superseded 2026-11, see [[#Reference Library]]):
-    * Zotero Integration plugin is used
-    * Attach PDFs in Zotero with Zotfile, storing them in `archive/zotero`
-    * Resources queued for reading are in the `Queued` collection
-    * Zotmoov: https://github.com/wileyyugioh/zotmoov/releases
+* The `archive/zotero` directory holds the PDFs for my reference library, named by citekey. See [[#Reference Library]].
 
 ## Bible Setup
 * The `bible` directory contains the Scriptures in Markdown format, which can be downloaded using the [[get_text.sh]] script.
@@ -52,82 +47,73 @@ Sometimes it makes sense to add meeting notes to my Resources>Notes folder and t
 
 ## Reading Workflow
 
-> [!note] As of 2026-11 the Zotero steps below are being replaced by the Stacks plugin. See [[#Reference Library]].
+My library lives in `resources/zotero`, one note per source, managed by the Stacks plugin. [[Stacks.base]] is where I see what's queued, being read, and waiting for review.
 
 ### Web Clipping
 -  [Web Clipping Workflow](https://drive.google.com/file/d/1NH6ejjudVm-iZ4IC7SeHyqM9-SBMDq15/view) 7 mins
+- Clips saved with Obsidian Web Clipper land in `resources/inbox`. Stacks looks up the page's metadata, names the note by citekey, files it in `resources/zotero`, and marks it `processed`, so the [[Vault-Ingestor]] picks it up on its next run.
 
 ### Find It! Workflow
 - [Find It! Workflow](https://drive.google.com/file/d/1b_A3txc64_TpYWLHu98bM3-kPwpDJBAJ/view) 3 mins
 
+### Adding a Book
+- `Cmd-P` → **Stacks: Add reference**, then paste the ISBN or the book's Amazon or Goodreads URL. Stacks creates the note with status `queued`.
+- For something with no ISBN, DOI or URL, use **Stacks: New reference without a lookup**.
+
 ### Getting eBooks
 - Look first on http://www.gutenberg.org/ebooks/bookshelf/119 or for audio books, https://librivox.org/, maybe also Anna's Archive
-- Else, get Kindle version:
-    -  Visit Amazon page for paperback, add to the Zotero
-    -  Purchase Kindle version
-    -  Download azw from Content & Devices pages or ePub from other site
-- Else, Kobo:
-    - Still visit Amazon page and click add to Zotero
-    - Find and purchase book on kobo.com
-    - Download .ascm book 
-- Create clean ePub and PDF:
-    - Import .acsm or .azw to Calibre (see [[Calibre Setup]] for configuration)
-    -  Convert to ePub and PDF with Calibre
-    -  Drag PDF to Zotero item (which copies the file and renames it according to the citekey)
+- Else, get the Kindle version: purchase it, then download the azw from the Content & Devices page (or an ePub from another site)
+- Else, Kobo: find and purchase the book on kobo.com, then download the .acsm file
+- Create a clean ePub and PDF:
+    - Import the .acsm or .azw into Calibre (see [[Calibre Setup]] for configuration)
+    - Convert to ePub and PDF with Calibre
+    - Drop the PDF into `resources/inbox`. Stacks reads the ISBN from the opening pages and files it in `archive/zotero` as `<citekey>.pdf` on the book's note. If it can't match the PDF, rename it to the citekey, put it in `archive/zotero`, and set the note's `pdf` property (or run **Stacks: Find PDF for current reference**).
 
 ### Reading eBooks
-- In Goodreads, add book to Currently Reading
-- In Zotero: send file to tablet
-- On tablet, open MoonReader+ and download file from Dropbox folder
+- In Goodreads, add the book to Currently Reading
+- Set the note's `status` to `reading`. Stacks copies the PDF to the Dropbox `Reading` folder (or run **Stacks: Send PDF to tablet folder**).
+- On the tablet, open MoonReader+ and download the file from the Dropbox folder
 - Listen, highlighting words/phrases of paragraphs that I want to remember
-- After finished:
-    - Select Send File and upload it to Dropbox
-    - In Zotero:
-      - in "Tablet Files (modified)", select "Get from Tablet"
-      - Tag as `_reviewing`
-    - In Goodreads, mark complete
+- After finishing:
+    - In MoonReader+, select Send File and upload it to Dropbox
+    - Stacks notices the returned PDF (or run **Stacks: Check tablet folder for returned PDFs**), expands each highlight to its full paragraph with `parabloom`, copies it back over the original, and sets `status: reviewing`
+    - In Goodreads, mark the book complete
 
 ### Reviewing eBooks
-The books that are ready to be reviewed are in the "Reviewing" saved search in Zotero. Pick one of those and begin adjusting the highlights:
-- Add notes, they come into Obsidian as a Note callout (this can also be helpful for adding a caption to an image that doesn't have one that I can highlight)
+Books ready for review are in the **Reviewing** view of [[Stacks.base]]. Open the PDF in Obsidian and adjust the highlights:
+- Add comments; they come into the note as a Note callout (also useful for captioning an image that has no text to highlight)
 - <mark style="background: #ADCCFFA6;">Blue highlight</mark> is for images
 - <mark style="background: #FF5582A6;">Red highlight</mark> is for important items (usually only a few per book)
-- <mark style="background: #BBFABBA6;">Green highlight</mark> is for making resources that I may want to add to my [[Reading List|reading list]]
+- <mark style="background: #BBFABBA6;">Green highlight</mark> is for resources I may want to add to my [[Reading List|reading list]]
 - ==Yellow highlight== is for a normal paragraph highlight
-See [[parks2414Testimony2019]] for an example that uses all of the above features (and this [zulip post about it](https://unfoldingword.zulipchat.com/#narrow/channel/303759-PKM/topic/Book.20Highlights/near/495087477)).
 
-When the adjustments are completed it's time to extract the annotations and organize in Zotero:
-- Organize the book in a collection and apply tags
-- Remove the tag for `_reviewing`
-- In Obsidian, Cmd-P > "Zotero Integration: Import Literature Note" and select the book
+See [[parks2414Testimony2019]] for an example that uses all of the above (and this [zulip post about it](https://unfoldingword.zulipchat.com/#narrow/channel/303759-PKM/topic/Book.20Highlights/near/495087477)).
 
-*Bulk Import: Toggle developer tools and find the failing PDF and mark it as `_chokes_zotero_intergration`
+Saving the PDF re-extracts its annotations into the note's `## Annotations` section, each linked to its page. When I'm done:
+- Run **Stacks: Extract annotations for current note** one last time; Stacks sets `status: processed`
+- Set `collections` and `tags` on the note
+- The [[Vault-Ingestor]] then turns the highlights into atomic notes, concept files and links, and sets `ingested` on the note
 
 ### Importing Highlights from Physical Books
 - Take photos of relevant pages, ideally in numeric order for easier processing.
-- Obsidian: Create a note in resources/notes that's appropriately named, for this example, I did [[2023-10-14 Words of Delight Highlights]]
-- Zotero: Add a note to the entry with Obsidians inline code, for this example `![[2023-10-14 Words of Delight Highlights]]` 
-- Google Photos, Zotero, Obsidian: For each photo:
-  - Open in Photos, copy text from image (if this doesn't work, copy from Mac's Preview app after downloaded)
-  - Download photo (to /tmp)
-  - Attach new file from Zotero (which moves and renames, `Cmd+Shift+Z`), add `-p#` to the filename for the page number.
-  - Paste text into Obsidian as a quote under a page number header (e.g. [[2023-10-14 Words of Delight Highlights#Page 49]])
-- Obsidian: import resource from Zotero
-- Profit!
+- Add the book with **Stacks: Add reference** if it isn't in the library yet.
+- Create a highlights note in `resources/notes`, for example [[2023-10-14 Words of Delight Highlights]], and embed it in the book's note under `## Annotations` (e.g. `![[2023-10-14 Words of Delight Highlights]]`).
+- For each photo:
+  - Open it in Photos and copy the text from the image (if that doesn't work, use Mac's Preview app after downloading)
+  - Save the photo to `archive/zotero` as `<citekey>-p#.jpg`, using the page number
+  - Paste the text into the highlights note as a quote under a page heading (e.g. [[2023-10-14 Words of Delight Highlights#Page 49]])
+- Set the book's `status` to `processed` when finished.
 
 ## Reference Library
-In 2026-11 I moved my reference manager from Zotero into the vault ([[2026-10-20 Zotero to Obsidian Replacement Plan]]).
-* Each source is one note in `resources/zotero`, named by its Better BibTeX-style citekey, with metadata in properties: `type`, `title`, `authors`, `year`, `collections`, `tags`, `status`, `owned`, `pdf`, `highlights`, `added`.
-* `status` replaces the old Queued and Read collections and the `_reviewing` tag: `queued` → `reading` → `reviewing` → `processed`, with `shelved` for everything I keep but am not working through.
-* [[Library.base]] is the library view: Library, Queue, Reviewing, Recently read, Bookshelf, By collection, and Web and articles. Click a title to open the note, or the 📄 icon to open the PDF.
-* PDFs stay in `archive/zotero`, named by citekey.
-* The Stacks plugin ([[griffinObsidianstacks2026]], https://github.com/jag3773/obsidian-stacks, MIT; formerly Library) adds references by ISBN, DOI or URL, files whatever lands in `resources/inbox`, extracts annotations, runs the tablet round trip and exports bibliographies. In-editor citations are next.
-* How the conversion went: [[2026-11-08 Library Base Pilot]] and [[2026-11-08 Library Full Conversion Report]].
+* Each source is one note in `resources/zotero`, named by its citekey (formula `auth.lower + shorttitle(3, 3) + year`), with metadata in properties: `type`, `title`, `authors`, `year`, `collections`, `tags`, `status`, `owned`, `pdf`, `highlights`, `added`, `related`.
+* `status` tracks reading: `queued` → `reading` → `reviewing` → `processed`, with `shelved` for everything I keep but am not working through.
+* [[Stacks.base]] is the library view: Library, Queue, Reviewing, Recently read, Bookshelf, By collection, and Web and articles. Click a title to open the note, or the 📄 icon to open the PDF.
+* PDFs live in `archive/zotero`, named by citekey; annotation links open the PDF at the right page.
+* The Stacks plugin ([[griffinObsidianstacks2026]], https://github.com/jag3773/obsidian-stacks) adds references by ISBN, DOI or URL, files whatever lands in `resources/inbox`, extracts annotations, runs the tablet round trip, inserts citations and exports bibliographies.
 
 ## Misc
 
 - See [[Search Google Drive in Obsidian! - Share & showcase - Jesse Griffin]] for steps to import Google Drive files so that they are findable
-- For Zotero integration, I used to use ~~[[2021-01-10 Zotero Setup]]~~ but now I use the **Zotero Integration** plugin and this template: [[Zotero Integration Template]]
 - [[Obsidian's Value Proposition]]
 - See [[2024 Using Obsidian for Beginners]] also
 - See [[2024-03 Personal Knowledge Management Workshop]] for a good set of resources to send to newbies
@@ -157,11 +143,3 @@ The following videos and sites might also be helpful:
 - [[erikssonLivingZettelkastenBlay2015]]
 - [organizing the Bible in Obsidian thread](https://forum.obsidian.md/t/organising-the-bible-in-obsidian/1490/54?u=jag3773)
 - [[2024-03-22 Damian and Bible Study in Obsidian]]
-
-## ~~Import Browsing History~~
-
-*This froze zotero several times, turns out that 71k records aren't handled easily.*
-
-1. Export Firefox browsing history using "History Export" extension.
-2. Add required "type" field by running `cat data.json|jq '.[] += { type: "webpage" }' >Browsing\ History.json`
-3. Import into Zotero

@@ -15,15 +15,11 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/GQ94QC9A
 publish: true
-modified: 2026-11-08T15:31:09.821Z
+modified: 2026-11-15T19:37:32.277Z
 ---
 
 # Joy Starts Here
-## Metadata
-> [!info]
-> - Authors:: [[E. James Wilder]]
-> - Cite Key:: wilderJoyStartsHere2013
-> - Topics:: [[Queued]]
+Links: [Amazon.com Link](https://smile.amazon.com/Joy-Starts-Here-transformation-Model/dp/1935629107/ref=sr_1_1?dchild=1&keywords=joy+starts+here&qid=1608493081&sr=8-1)
 
 ## Bibliography
     Wilder, E. James. 2013. _Joy Starts Here_. Seoul: Shepherd’s House, Inc.

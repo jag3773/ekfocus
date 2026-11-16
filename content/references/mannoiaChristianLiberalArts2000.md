@@ -15,15 +15,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/GNAFI8UM
 publish: true
-modified: 2026-11-08T15:31:02.308Z
+modified: 2026-11-15T19:37:29.132Z
 ---
 
 # Christian liberal arts
-## Metadata
-> [!info]
-> - Authors:: [[V. James Mannoia]]
-> - Cite Key:: mannoiaChristianLiberalArts2000
-> - Topics:: [[References]]
 
 ## Bibliography
     Mannoia, V. James. 2000. _Christian Liberal Arts: An Education That Goes Beyond_. Lanham, Md.: Rowman & Littlefield.

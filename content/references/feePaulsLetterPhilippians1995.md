@@ -17,15 +17,11 @@ highlights: 0
 added: 2026-05-10
 zotero: zotero://select/library/items/PXLN396E
 publish: true
-modified: 2026-11-08T15:30:53.419Z
+modified: 2026-11-15T19:37:26.631Z
 ---
 
 # Paul's Letter to the Philippians
-## Metadata
-> [!info]
-> - Authors:: [[Gordon D. Fee]]
-> - Cite Key:: feePaulsLetterPhilippians1995
-> - Topics:: [[Bible]]
+Links: [Amazon.com Link](https://www.amazon.com/Letter-Philippians-International-Commentary-Testament/dp/0802825117)
 
 ## Bibliography
     Fee, Gordon D. 1995. _Paul’s Letter to the Philippians_. Eerdmans.

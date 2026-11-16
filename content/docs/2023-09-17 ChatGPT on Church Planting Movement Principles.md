@@ -1,7 +1,7 @@
 ---
 publish: true
 date: 2023-09-17
-modified: 2026-08-06T13:48:06.887Z
+modified: 2026-11-15T19:32:09.000Z
 aliases:
   - "/docs/2023-09-17-chat-gpt-on-church-planting-movement-principles"
 ---
@@ -44,3 +44,4 @@ It's important to note that the success of a church planting movement can depend
 - [[All-Channel Network|the networked structure that emerges when every node can communicate with every other]]
 - [[It Takes a Network to Fight a Network|why the decentralized CPM form outperforms centralized mission organizations]]
 - [[Networks Are Held Together by Narrative|shared gospel narrative is what keeps rapidly multiplying CPM networks coherent]]
+- [[The LORD-PEN Pattern Names Seven Behaviors That Statistically Drive Movement Growth]]: a survey-tested list to set against this generated one ([[reachMovementsThatMove2016]])

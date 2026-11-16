@@ -15,15 +15,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/A2EB7CWR
 publish: true
-modified: 2026-11-08T15:30:50.177Z
+modified: 2026-11-15T19:37:25.342Z
 ---
 
 # The gifts of imperfection
-## Metadata
-> [!info]
-> - Authors:: [[C. Brené Brown]]
-> - Cite Key:: brownGiftsImperfectionLet2010
-> - Topics:: [[Queued]]
 
 ## Bibliography
     Brown, C. Brené. 2010. _The Gifts of Imperfection: Let Go of Who You Think You’re Supposed to Be and Embrace Who You Are_. Center City, Minn. : Hazelden Publishing.

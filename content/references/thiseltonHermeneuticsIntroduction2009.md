@@ -18,16 +18,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/EHKGXZDE
 publish: true
-modified: 2026-11-08T15:31:08.122Z
+modified: 2026-11-15T19:37:31.518Z
 ---
 
 # Hermeneutics
-## Metadata
-> [!info]
-> - Authors:: [[Anthony C. Thiselton]]
-> - Cite Key:: thiseltonHermeneuticsIntroduction2009
-> - Tags:: #Bible, #Hermeneutics
-> - Topics:: [[Queued]]
 
 ## Bibliography
     Thiselton, Anthony C. 2009. _Hermeneutics: An Introduction_. Grand Rapids, Mich: W.B. Eerdmans Pub. Co.

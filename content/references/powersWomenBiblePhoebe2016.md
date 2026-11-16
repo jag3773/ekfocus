@@ -15,16 +15,10 @@ highlights: 0
 added: 2022-04-21
 zotero: zotero://select/library/items/TH75F6ML
 publish: true
-modified: 2026-11-08T15:31:04.155Z
+modified: 2026-11-15T19:37:30.232Z
 ---
 
 # Women of the Bible
-## Metadata
-> [!info]
-> - Authors:: [[Leigh Powers]]
-> - URL:: https://leighpowers.com/2016/04/28/women-bible-phoebe-romans-161-2/
-> - Cite Key:: powersWomenBiblePhoebe2016
-> - Topics:: [[References]]
 
 ## Bibliography
     Powers, Leigh. 2016. “Women of the Bible: Phoebe (Romans 16:1-2).” _My Life.  His Story._ (blog). April 28, 2016. [https://leighpowers.com/2016/04/28/women-bible-phoebe-romans-161-2/](https://leighpowers.com/2016/04/28/women-bible-phoebe-romans-161-2/).

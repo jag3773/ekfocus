@@ -16,17 +16,19 @@ status: shelved
 highlights: 0
 added: 2026-04-20
 zotero: zotero://select/library/items/8QVZWIV6
+related:
+- '[[hirschForgottenWaysReactivating2007]]'
+- '[[banksPaulsIdeaCommunity2020]]'
+- '[[allenMissionaryMethodsSt2011]]'
+- '[[barabasiLinkedHowEverything2014]]'
+- '[[reedBILDEncyclicals2017]]'
+- '[[joreEquippingServantsEarly2023]]'
 publish: true
-modified: 2026-11-08T15:31:06.524Z
+modified: 2026-11-15T19:37:31.155Z
 ---
 
 # The Rise of Christianity
-## Metadata
-> [!info]
-> - Authors:: [[Rodney Stark]]
-> - Cite Key:: starkRiseChristianityHow1997
-> - Related:: [[hirschForgottenWaysReactivating2007]], [[banksPaulsIdeaCommunity2020]], [[allenMissionaryMethodsSt2011]], [[barabasiLinkedHowEverything2014]], [[reedBILDEncyclicals2017]], [[joreEquippingServantsEarly2023]]
-> - Topics:: [[Church]]
+Links: [Amazon.com Link](https://www.amazon.com/Rise-Christianity-Marginal-Religious-Centuries/dp/0060677015)
 
 ## Bibliography
     Stark, Rodney. 1997. _The Rise of Christianity: How the Obscure, Marginal Jesus Movement Became the Dominant Religious Force in the Western World in a Few Centuries_. HarperSanFrancisco.

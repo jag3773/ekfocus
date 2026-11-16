@@ -55,18 +55,23 @@ attachments:
 highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/V7EAIKJ9
+related:
+- '[[vanhoozerExegesisHermeneutics2000]]'
+- '[[bealeTempleChurchsMission2004]]'
+- '[[dempsterDominionDynastyBiblical2003]]'
+- '[[blauwMissionaryNatureChurch2002]]'
+- '[[ortlundGodUnfaithfulWife2016]]'
+- '[[blombergNeitherPovertyRiches2015]]'
+- '[[smithDesiringKingdomWorship2009]]'
+- '[[niehausAncientEasternThemes2008]]'
+- '[[vosBiblicalTheologyOld2000]]'
+- '[[bealeNewTestamentBiblical2011]]'
+- '[[barrConceptBiblicalTheology1999]]'
 publish: true
-modified: 2026-11-08T15:50:24.154Z
+modified: 2026-11-15T19:37:24.847Z
 ---
 
 # We become what we worship
-## Metadata
-> [!info]
-> - Authors:: [[G. K. Beale]]
-> - Cite Key:: bealeWeBecomeWhat2008
-> - Tags:: #Idolatry
-> - Related:: [[vanhoozerExegesisHermeneutics2000]], [[bealeTempleChurchsMission2004]], [[dempsterDominionDynastyBiblical2003]], [[blauwMissionaryNatureChurch2002]], [[ortlundGodUnfaithfulWife2016]], [[blombergNeitherPovertyRiches2015]], [[smithDesiringKingdomWorship2009]], [[niehausAncientEasternThemes2008]], [[vosBiblicalTheologyOld2000]], [[bealeNewTestamentBiblical2011]], [[barrConceptBiblicalTheology1999]]
-> - Topics:: [[Read]], [[Top 10]]
 
 ## Bibliography
     Beale, G. K. 2008. _We Become What We Worship: A Biblical Theology of Idolatry_. Downers Grove, Ill. : Nottingham, England: IVP Academic ; Apollos.

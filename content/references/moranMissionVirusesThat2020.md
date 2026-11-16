@@ -1,36 +1,37 @@
 ---
 cssclass: literature-note
 aliases:
-- Mission Viruses That Can Kill Disciple Making Movements
+  - Mission Viruses That Can Kill Disciple Making Movements
 citekey: moranMissionVirusesThat2020
 type: webpage
 title: Mission Viruses That Can Kill Disciple Making Movements
 authors:
-- '[[Roy Moran]]'
+  - "[[Roy Moran]]"
 year: 2020
 url: https://www.missionfrontiers.org/issue/article/mission-viruses-that-can-kill-disciple-making-movements
 collections:
-- '[[Bible Translation]]'
+  - "[[Bible Translation]]"
 status: processed
-pdf: '[[moranMissionVirusesThat2020.pdf]]'
 attachments:
-- '[[moranMissionVirusesThat2020.pdf]]'
+  - "[[moranMissionVirusesThat2020.pdf]]"
 highlights: 4
 last_highlighted: 2023-09-17
 added: 2023-08-24
 zotero: zotero://select/library/items/5QWGL7TT
+related:
+  - "[[addisonRiseFallMovements2019]]"
+  - "[[bayer13BiblicalPrinciples2022]]"
+  - "[[christophersonKingdomFirstStarting2015]]"
+  - "[[reachMovementsThatMove2016]]"
+  - "[[gerkeWayChurchWe2020]]"
+  - "[[johnsonJesus10Movement2022]]"
+  - "[[corleyLookWhereYou2023]]"
+  - "[[johnsonKeyPrayerPoints2022]]"
 publish: true
-modified: 2026-11-08T15:31:02.919Z
+modified: 2026-11-16T01:40:18.101Z
 ---
 
 # Mission Viruses That Can Kill Disciple Making Movements
-## Metadata
-> [!info]
-> - Authors:: [[Roy Moran]]
-> - URL:: https://www.missionfrontiers.org/issue/article/mission-viruses-that-can-kill-disciple-making-movements
-> - Cite Key:: moranMissionVirusesThat2020
-> - Related:: [[addisonRiseFallMovements2019]], [[bayer13BiblicalPrinciples2022]], [[christophersonKingdomFirstStarting2015]], [[reachMovementsThatMove2016]], [[gerkeWayChurchWe2020]], [[johnsonJesus10Movement2022]], [[corleyLookWhereYou2023]], [[johnsonKeyPrayerPoints2022]]
-> - Topics:: [[Bible Translation]]
 
 ## Bibliography
     Moran, Roy. 2020. “Mission Viruses That Can Kill Disciple Making Movements.” September 1, 2020. [https://www.missionfrontiers.org/issue/article/mission-viruses-that-can-kill-disciple-making-movements](https://www.missionfrontiers.org/issue/article/mission-viruses-that-can-kill-disciple-making-movements).

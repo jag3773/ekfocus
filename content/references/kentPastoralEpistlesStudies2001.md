@@ -18,16 +18,10 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/TH8LJ46M
 publish: true
-modified: 2026-11-08T15:31:01.395Z
+modified: 2026-11-15T19:37:28.416Z
 ---
 
 # The Pastoral Epistles
-## Metadata
-> [!info]
-> - Authors:: [[Homer Austin Kent]]
-> - Cite Key:: kentPastoralEpistlesStudies2001
-> - Tags:: #Own
-> - Topics:: [[Read]]
 
 ## Bibliography
     Kent, Homer Austin. 2001. _The Pastoral Epistles: Studies in 1 and 2 Timothy and Titus_. Winona Lake: BMH Books.
