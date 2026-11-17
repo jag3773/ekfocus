@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-11-08T15:50:15.926Z
+modified: 2026-11-17T10:06:15.143Z
 ---
 
 # Corinthian Church
@@ -71,3 +71,4 @@ Members of [[The Pauline Team]] connected to the Corinthian church include:
 - [[addisonActsMovementGod2023]]  -  Places the Corinth residency in the movement pattern of long hub investments.
 - [Ancient Corinth  -  Wikipedia](https://en.wikipedia.org/wiki/Ancient_Corinth)
 - [What is the significance of the church in Corinth?  -  GotQuestions.org](https://www.gotquestions.org/church-in-Corinth.html)
+- [[Pauline Chronology]]  -  How the Gallio date anchors the rest of Paul's timeline ([[2026-11-17 Acts Gives No Years So Paul's Chronology Hangs on Gallio]]).

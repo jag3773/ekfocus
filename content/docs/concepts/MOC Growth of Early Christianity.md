@@ -9,7 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
-modified: 2026-11-15T20:16:57.132Z
+modified: 2026-11-17T10:06:15.143Z
 ---
 
 # Growth of Early Christianity
@@ -54,7 +54,7 @@ The content of the early proclamation mattered as much as its delivery mechanism
 
 ## Networks and Hubs
 
-Paul functioned as a network hub in first-century social infrastructure. [[barabasiLinkedHowEverything2014|Linked]] frames Paul's missionary strategy through the science of scale-free networks: he targeted the largest urban centers, lowered barriers to entry (no circumcision requirement), and walked nearly 10,000 miles in twelve years to seed the faith at the most connected nodes. The parallel to modern network dynamics is direct.
+Paul functioned as a network hub in first-century social infrastructure. [[barabasiLinkedHowEverything2014|Linked]] frames Paul's missionary strategy through the science of scale-free networks: he targeted the largest urban centers, lowered barriers to entry (no circumcision requirement), and walked nearly 10,000 miles in twelve years to seed the faith at the most connected nodes. The parallel to modern network dynamics is direct. (The mileage figure is complicated by distance estimates that put much of the travel at sea: see [[2026-11-17 Tension - Barabási Says Paul Walked Nearly 10,000 Miles but Land Estimates Run Lower]].)
 
 [[arquillaNetworksNetwarsFuture2001|Networks and Netwars]] extends this into networked organizational theory, and the [[reedBILDEncyclicals2017|BILD Encyclicals]] synthesize these network insights with New Testament theology into a practical framework for church-planting movements. [[cooperEphesiologyStudyEphesian2020|Ephesiology]] provides a concrete case study of how this played out at the city level: 40% of the NT relates directly to Ephesus, where Paul and John connected the Jesus story to local religious, intellectual, and economic structures.
 
