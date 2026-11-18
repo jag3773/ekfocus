@@ -21,6 +21,7 @@ attachments:
 highlights: 7
 last_highlighted: 2025-07-10
 added: 2023-11-09
+ingested: 2026-11-17
 zotero: zotero://select/library/items/QFF8Y4DT
 related:
   - "[[joreEquippingServantsVisual2025]]"
@@ -35,7 +36,7 @@ related:
   - "[[kansascityundergroundUpsideKingdomEquipping2025]]"
   - "[[joreEquippingServantsEarly2025]]"
 publish: true
-modified: 2026-11-16T01:39:59.057Z
+modified: 2026-11-17T22:47:22.701Z
 ---
 
 # The Equipping Servants of the Early Church

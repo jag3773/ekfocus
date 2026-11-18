@@ -20,12 +20,13 @@ attachments:
 highlights: 7
 last_highlighted: 2025-10-15
 added: 2025-01-23
+ingested: 2026-11-17
 zotero: zotero://select/library/items/XGXMF8MK
 related:
   - "[[vosGatheringsThatAre2024]]"
   - "[[joreEquippingServantsEarly2025]]"
 publish: true
-modified: 2026-11-16T01:40:00.673Z
+modified: 2026-11-17T22:47:24.878Z
 ---
 
 # Understanding the Church and Her Mission

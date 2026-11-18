@@ -21,9 +21,10 @@ attachments:
 highlights: 181
 last_highlighted: 2026-06-26
 added: 2024-10-31
+ingested: 2026-11-17
 zotero: zotero://select/library/items/ALGKEM4C
 publish: true
-modified: 2026-11-16T01:40:42.886Z
+modified: 2026-11-17T22:10:47.206Z
 ---
 
 # The Return of Oral Hermeneutics

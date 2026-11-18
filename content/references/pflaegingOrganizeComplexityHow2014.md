@@ -21,6 +21,7 @@ attachments:
 highlights: 117
 last_highlighted: 2024-01-19
 added: 2021-01-15
+ingested: 2026-11-17
 zotero: zotero://select/library/items/WNGWHITF
 related:
   - "[[robertsonHolacracyNewManagement2015]]"
@@ -33,7 +34,7 @@ related:
   - "[[jackHierarchyIntelligence2026]]"
   - "[[hamelFirstLetsFire2011]]"
 publish: true
-modified: 2026-11-16T01:40:24.729Z
+modified: 2026-11-17T22:53:00.813Z
 ---
 
 # Organize for Complexity

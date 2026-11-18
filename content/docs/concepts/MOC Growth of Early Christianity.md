@@ -9,7 +9,7 @@ aliases:
   - Growth of Early Christianity
   - Spread of Christianity
   - Early Church Expansion
-modified: 2026-11-17T10:06:15.143Z
+modified: 2026-11-17T23:29:48.326Z
 ---
 
 # Growth of Early Christianity
@@ -100,3 +100,6 @@ Modern CPM/DMM research maps early church expansion mechanisms onto contemporary
 - [[It Takes a Network to Fight a Network|the early church's network form outlasted every imperial hierarchy that tried to suppress or co-opt it]]
 - [[Networks Are Held Together by Narrative|the resurrection narrative and the King Jesus story held the dispersed early church network together across its diversity]]
 - [[It Takes a Network to Fight a Network|early Christianity spread by out-networking Roman paganism — not by military victory or political capture]]
+
+## Related
+- [[The More the Church Is Punished the More It Increases]]: Diognetus on growth under persecution ([[holmesApostolicFathersGreek1999]])

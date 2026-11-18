@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-07-27T12:40:37.316Z
+modified: 2026-11-17T23:32:40.097Z
 ---
 
 # Luke
@@ -47,3 +47,7 @@ Luke's Gospel is the longest of the four. It contains the parables of the Good S
 - [Luke the Evangelist  -  Wikipedia](https://en.wikipedia.org/wiki/Luke_the_Evangelist)
 - [Who was Luke in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Luke-in-the-Bible.html)
 - [Saint Luke  -  Britannica](https://www.britannica.com/biography/Saint-Luke)
+
+## Related
+- [[2026-11-17 Green Reads Salvation in Luke as God Restoring the Poor and the Outsider to Community]]: Green's reading of Luke's salvation as status reversal
+- [[2026-11-17 Marshall Reads Luke Clause by Clause in Greek as Both Historian and Theologian]]: Marshall treats Luke as a careful historian serving a theology of salvation

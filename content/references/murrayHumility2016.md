@@ -17,9 +17,10 @@ attachments:
 highlights: 30
 last_highlighted: 2021-12-11
 added: 2021-08-04
+ingested: 2026-11-17
 zotero: zotero://select/library/items/B6CXALY3
 publish: true
-modified: 2026-11-16T01:40:19.500Z
+modified: 2026-11-17T23:44:15.398Z
 ---
 
 # Humility

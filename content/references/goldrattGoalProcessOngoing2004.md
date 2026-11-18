@@ -16,6 +16,7 @@ tags:
 status: processed
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/5UK9E4FV
 related:
 - '[[riesLeanStartupHow2014]]'
@@ -29,7 +30,7 @@ related:
 - '[[LeanStartupMustReadSummariescom1970]]'
 - '[[poppendieckLeanSoftwareDevelopment2003]]'
 publish: true
-modified: 2026-11-15T19:37:27.032Z
+modified: 2026-11-17T23:34:02.492Z
 ---
 
 # The goal

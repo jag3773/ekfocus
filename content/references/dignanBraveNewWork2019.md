@@ -23,6 +23,7 @@ attachments:
 highlights: 26
 last_highlighted: 2021-01-18
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/GPGRHU8I
 related:
   - "[[ismailExponentialOrganizationsWhy2014]]"
@@ -40,7 +41,7 @@ related:
   - "[[doerrMeasureWhatMatters2018]]"
   - "[[mcchrystalTeamTeamsNew2015]]"
 publish: true
-modified: 2026-11-16T01:39:26.239Z
+modified: 2026-11-17T22:41:15.730Z
 ---
 
 # Brave new work

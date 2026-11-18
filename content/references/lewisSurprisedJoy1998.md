@@ -16,9 +16,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/AV64QJVS
 publish: true
-modified: 2026-11-15T19:37:28.917Z
+modified: 2026-11-17T23:13:19.085Z
 ---
 
 # Surprised by joy.

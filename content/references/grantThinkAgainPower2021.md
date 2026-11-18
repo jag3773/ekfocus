@@ -17,6 +17,7 @@ attachments:
 highlights: 139
 last_highlighted: 2024-04-29
 added: 2022-11-12
+ingested: 2026-11-17
 zotero: zotero://select/library/items/V96KSBBB
 related:
   - "[[lewisReflectionsPsalms1958]]"
@@ -25,7 +26,7 @@ related:
   - "[[gawandeChecklistManifestoHow2010]]"
   - "[[galefScoutMindsetWhy2021]]"
 publish: true
-modified: 2026-11-16T01:39:42.717Z
+modified: 2026-11-17T23:44:45.109Z
 ---
 
 # Think Again

@@ -18,9 +18,10 @@ attachments:
 highlights: 14
 last_highlighted: 2025-09-10
 added: 2025-06-22
+ingested: 2026-11-17
 zotero: zotero://select/library/items/X6XLQT5M
 publish: true
-modified: 2026-11-16T01:39:40.742Z
+modified: 2026-11-17T22:46:49.058Z
 ---
 
 # Mind Your Faith Outline

@@ -39,6 +39,7 @@ attachments:
 - '[[blackburnGodWhoMakes2012-p211.jpg]]'
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/SA3IK77V
 related:
 - '[[lintsIdentityIdolatryImage2015]]'
@@ -49,7 +50,7 @@ related:
 - '[[gilesPatternsMinistryFirst2017]]'
 - '[[osborneHermeneuticalSpiralComprehensive2006]]'
 publish: true
-modified: 2026-11-15T19:37:25.051Z
+modified: 2026-11-17T22:40:35.059Z
 ---
 
 # The God who makes himself known

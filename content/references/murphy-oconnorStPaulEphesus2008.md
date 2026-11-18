@@ -39,13 +39,14 @@ attachments:
 - '[[murphy-oconnorStPaulEphesus2008-p221.jpg]]'
 - '[[murphy-oconnorStPaulEphesus2008-p222.jpg]]'
 - '[[murphy-oconnorStPaulEphesus2008-p228.jpg]]'
-highlights: 0
+highlights: 16
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/QFBI4PU7
 related:
 - '[[cooperEphesiologyStudyEphesian2020]]'
 publish: true
-modified: 2026-11-15T19:37:29.574Z
+modified: 2026-11-18T02:47:31.675Z
 ---
 
 # St. Paul's Ephesus

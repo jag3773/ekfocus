@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-08T15:50:16.517Z
+modified: 2026-11-17T23:35:55.458Z
 ---
 
 tags: #church-leadership  #apostle #equipping-servant
@@ -46,3 +46,6 @@ Paul's letters, 13 of the 27 New Testament books, are themselves products of thi
 - [Paul the Apostle  -  Wikipedia](https://en.wikipedia.org/wiki/Paul_the_Apostle)
 - [The Life of Paul  -  Bible.org](https://bible.org/article/life-paul)
 - [Paul the Apostle  -  Britannica](https://www.britannica.com/biography/Saint-Paul-the-Apostle)
+
+## Related
+- [[2026-11-17 St. Paul's Ephesus - Summary]]: Murphy-O'Connor's reconstruction of Paul's Ephesian years

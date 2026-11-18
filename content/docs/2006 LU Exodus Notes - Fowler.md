@@ -1,7 +1,7 @@
 ---
 date: 2006
 publish: true
-modified: 2026-03-26T13:23:53.000Z
+modified: 2026-11-17T22:41:14.070Z
 aliases:
   - "/docs/2006-lu-exodus-notes-fowler"
 ---
@@ -5233,3 +5233,6 @@ Church
 > Jews – Greeks – Women – Men – Slaves – Free – Rich – Poor
 
 #Bible #Exodus 
+
+## Related
+- [[fretheimExodus1991|Fretheim, Exodus (Interpretation)]]: the commentary whose outline these notes follow

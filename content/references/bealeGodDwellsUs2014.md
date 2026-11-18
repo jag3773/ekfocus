@@ -18,9 +18,10 @@ attachments:
 highlights: 30
 last_highlighted: 2021-01-22
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/UT7J2F7D
 publish: true
-modified: 2026-11-16T01:39:07.755Z
+modified: 2026-11-17T23:09:36.175Z
 ---
 
 # God dwells among us

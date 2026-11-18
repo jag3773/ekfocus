@@ -21,6 +21,7 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/66D8CTA8
 related:
 - '[[lintsIdentityIdolatryImage2015]]'
@@ -40,7 +41,7 @@ related:
 - '[[bealeWeBecomeWhat2008]]'
 - '[[barrConceptBiblicalTheology1999]]'
 publish: true
-modified: 2026-11-15T19:37:26.086Z
+modified: 2026-11-17T22:16:34.786Z
 ---
 
 # Dominion and dynasty

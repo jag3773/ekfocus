@@ -18,9 +18,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/7THKZ8PV
 publish: true
-modified: 2026-11-15T19:37:31.548Z
+modified: 2026-11-17T23:12:59.293Z
 ---
 
 # Sacred marriage

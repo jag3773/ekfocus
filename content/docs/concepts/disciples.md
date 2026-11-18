@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-04-13T23:03:20.000Z
+modified: 2026-11-17T22:09:30.674Z
 ---
 
 A disciple is someone who follows and learns from someone else.
@@ -12,3 +12,6 @@ Curiously, there is no spiritual gift of making disciples, even though it is pre
 [[Colossians 3#3:12-17|Colossians 3:12-17]] gives a similar list to Romans, describing what a disciple should put on.
 
 #Discipling #Bible 
+
+## Related
+- [[2026-11-17 Kendall Reads Peter's Arc as Grace Turning a Failed Disciple Into a Leader]]: Peter as the failed disciple restored to lead ([[kendallTwelveChroniclesApostles2023]])

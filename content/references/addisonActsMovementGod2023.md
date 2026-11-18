@@ -20,9 +20,10 @@ attachments:
 highlights: 189
 last_highlighted: 2026-06-20
 added: 2024-10-14
+ingested: 2026-11-17
 zotero: zotero://select/library/items/7RR4VLIF
 publish: true
-modified: 2026-11-16T01:39:00.357Z
+modified: 2026-11-17T22:16:07.004Z
 ---
 
 # Acts and the Movement of God

@@ -17,9 +17,10 @@ attachments:
 highlights: 1
 last_highlighted: 2023-02-04
 added: 2021-09-01
+ingested: 2026-11-17
 zotero: zotero://select/library/items/2R8DZUZR
 publish: true
-modified: 2026-11-16T01:39:05.733Z
+modified: 2026-11-18T02:45:49.981Z
 ---
 
 # On Christian Doctrine

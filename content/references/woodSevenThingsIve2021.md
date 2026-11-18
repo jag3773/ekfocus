@@ -16,6 +16,7 @@ attachments:
 highlights: 6
 last_highlighted: 2022-11-23
 added: 2022-11-11
+ingested: 2026-11-17
 zotero: zotero://select/library/items/Z7E8VMQ7
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -55,7 +56,7 @@ related:
   - "[[allenSpontaneousExpansionChurch2018]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:55.803Z
+modified: 2026-11-17T22:40:03.902Z
 ---
 
 # Seven Things I've Learned in Seven Years of Disciple Making

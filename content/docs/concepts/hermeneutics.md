@@ -53,6 +53,8 @@ The history of hermeneutics as a discipline is long. [[augustineChristianDoctrin
 - [[MOC Biblical Studies]] — broader map of biblical studies resources
 - [[MOC Biblical Languages & Textual Studies]] — languages, source texts, and tools that undergird exegesis
 - [[MOC The Importance of Storying]] — why narrative form matters for how Scripture communicates
+- [[blackInterpretingNewTestament2001|Black and Dockery, Interpreting the New Testament]]: an evangelical collection of essays on New Testament methods, from textual criticism to literary and social-scientific readings
+- [[boydSpectrumUnderstandingIssues2002|Boyd and Eddy, Across the Spectrum]]: rival evangelical positions set side by side, see [[2026-11-17 Boyd and Eddy Lay Out Evangelical Debates as Rival Positions Side by Side]]
 
 ## Annotated Bibliography
 
@@ -76,3 +78,19 @@ For a detailed assessment of my top hermeneutics resources, see [[2026-04-30 Ann
 - [[2012-09 12 Steps of Exegesis - Fee Stuart]]
 
 #Hermeneutics #Bible #Theology
+
+## Related
+- [[berdingThreeViewsNew2009|Three Views on the New Testament Use of the Old Testament]]: Kaiser, Bock and Enns debate how the New Testament reads the Old
+- [[johnstonUseBibleTheology1997|The Use of the Bible in Theology: Evangelical Options]]: Johnston's collection in which evangelical theologians of different traditions explain how Scripture functions in their theology
+- [[2026-11-17 Tension - Fee Separates Exegesis From Application While Thiselton Fuses the Horizons]]: staged method versus fused horizons
+- [[2026-11-17 Tension - Blocher Reads Genesis for Its Original Meaning While Bonhoeffer Reads It From Christ]]: whether Genesis is read from its original setting or from Christ
+- [[2026-11-17 Tension - Goldingay Refuses a Christ-Centered First Testament While Goodwin and Bonhoeffer Read Everything From Christ]]: whether the Old Testament should be read through Christ at all ([[goldingayWeNeedNew2015|Goldingay]])
+- [[soulenHandbookBiblicalCriticism2001|Soulen, Handbook of Biblical Criticism]]: a dictionary that defines the technical terms of critical and interpretive method
+- [[Guthrie Maps How Hebrews Interweaves Exposition and Exhortation]]: discourse analysis as an interpretive tool ([[guthrieStructureHebrewsTextlinguistic1998]])
+- [[Enns Models Scripture on the Incarnation to Face the Old Testament]]: Enns's incarnational model for reading the Old Testament's human marks
+- [[2026-11-17 Live With a Hard Text for Years Rather Than Impose Your View on It]]: [[wrightHowCanBible1991|Wright]] on waiting out a hard verse instead of forcing a reading
+- [[Four Scholars Model Rival Routes From Biblical Text to Theology]]: Kaiser, Doriani, Vanhoozer and Webb on moving from text to theology ([[meadorsFourViewsMoving2009|Four Views]])
+- [[2026-11-17 Tenney Reads Galatians Ten Times Using Ten Different Methods of Bible Study]]: one book read through ten methods
+- [[2026-11-17 Tension - Christians Take Spiritual Advice From AI Alone While the Vault Places Interpretation in the Gathered Church]]: AI as a private interpreter
+- [[Speech-Act Theory]]: texts as communicative acts with determinate meaning ([[vanhoozerThereMeaningThis2009|Is There a Meaning in This Text?]])
+- [[2026-11-17 Wright Reads Scripture as a Five-Act Drama With the Church Improvising the Last Act]]: Wright's dramatic model of interpretation ([[wrightLastWordScripture2006|The Last Word]])

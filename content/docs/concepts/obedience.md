@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-07-03T14:38:46.000Z
+modified: 2026-11-17T23:38:06.710Z
 ---
 
 The human response God requires to his revealed will. Obedience in Scripture is not mechanical compliance with rules. It flows from relationship: "If you love me, you will keep my commandments" ([[John 14#14:15|John 14:15]]). Ezekiel locates life itself in following God's commands ([[Ezekiel 20#20:11|Ezekiel 20:11]], [[Deuteronomy 4#4:8|Deuteronomy 4:8]]).
@@ -47,3 +47,10 @@ The first-century patterns share this instinct: new believers obeyed and taught 
 - [[reedBILDEncyclicals2017|BILD Encyclicals]] — the apostolic pattern of teaching that produces obedient communities
 - [[deyoungHoleOurHoliness2014|Hole in Our Holiness]] — the pursuit of personal holiness as an act of obedience
 - [[Discovery Bible Study]]
+
+## Related
+- [[Inerrancy Implies a Bible-Obeying People Not Doctrinal Stakeholders]]: from [[christophersonDangerMakeBelieveOrthodoxy2023|The Danger of Make-Believe Orthodoxy]]
+- [[Blackaby Locates God's Will by Joining the Work God Is Already Doing]]: obedience in the crisis of belief comes before seeing the outcome ([[blackabyExperiencingGodKnowing2008|Experiencing God]])
+- [[Colson Measures Love for God by Costly Obedience]]: love for God shown in costly obedience ([[colsonLovingGod2018|Loving God]])
+- [[2026-11-17 Lucy Must Follow Aslan Before the Others Can See Him]]: Lewis makes sight follow obedience in [[lewisPrinceCaspianReturn2008|Prince Caspian]]
+- [[2026-11-17 Knowledge Stocked Up Without Obedience Is Sin Not Spirituality]]: [[chanForgottenGodReversing2009|Chan]] on knowing without doing

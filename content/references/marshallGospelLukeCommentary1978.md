@@ -19,9 +19,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/IJXLJCJE
 publish: true
-modified: 2026-11-15T19:37:29.172Z
+modified: 2026-11-17T23:32:40.113Z
 ---
 
 # The Gospel of Luke

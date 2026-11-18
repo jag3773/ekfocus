@@ -18,9 +18,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/WUAX588U
 publish: true
-modified: 2026-11-15T19:37:27.147Z
+modified: 2026-11-17T23:13:02.277Z
 ---
 
 # The Gospel of Luke

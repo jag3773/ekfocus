@@ -18,8 +18,9 @@ tags:
 status: processed
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 publish: true
-modified: 2026-11-08T15:31:04.166Z
+modified: 2026-11-17T23:32:50.435Z
 ---
 
 # Basics of biblical Hebrew workbook

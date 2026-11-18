@@ -17,9 +17,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/D32NDUT9
 publish: true
-modified: 2026-11-15T19:37:29.255Z
+modified: 2026-11-17T23:32:40.125Z
 ---
 
 # Romans

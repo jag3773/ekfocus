@@ -22,6 +22,7 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/3VURLSXD
 related:
 - '[[lintsIdentityIdolatryImage2015]]'
@@ -42,7 +43,7 @@ related:
 - '[[bealeWeBecomeWhat2008]]'
 - '[[barrConceptBiblicalTheology1999]]'
 publish: true
-modified: 2026-11-15T19:37:24.841Z
+modified: 2026-11-18T02:46:59.020Z
 ---
 
 # The temple and the church's mission
@@ -51,4 +52,4 @@ modified: 2026-11-15T19:37:24.841Z
     Beale, G. K. 2004. _The Temple and the Church’s Mission: A Biblical Theology of the Dwelling Place of God_. New Studies in Biblical Theology 17. Downers Grove, Ill: Apollos : Inter-Varsity Press.
 
 ## Citekey
-    [[bealeTempleChurchMission2004]]
+    [[bealeTempleChurchsMission2004]]

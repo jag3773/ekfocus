@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-03T14:37:13.000Z
+modified: 2026-11-17T23:32:53.790Z
 ---
 # [[Psalm 8]] — A Verse-by-Verse Commentary
 
@@ -79,3 +79,6 @@ The psalm comes back to exactly where it began (called an _inclusio_, or bookend
 **Christology.** The New Testament applies this psalm directly to Jesus. [[Hebrews 2#2:6-9|Hebrews 2:6-9]] reads the "son of man" as Christ, the one who was made lower than the angels through the incarnation, crowned with glory through the resurrection, and who will ultimately have all things under his feet. Paul cites this psalm with a similar comment in [[1 Corinthians 15#15:27|1 Corinthians 15:27]].
 
 **Worship as the frame.** The psalm begins and ends with praise, not with complaint or argument. David's theology of humanity emerges from worship, not from philosophy. The proper context for understanding who we are is standing before God and marveling.
+
+## Related
+- [[2026-11-17 Hagfish Slime Expands Ten Thousand Times in a Fraction of a Second]]: one creature of the paths of the seas ([[yongNoOnePrepared2019]])

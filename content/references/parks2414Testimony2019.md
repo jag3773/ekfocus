@@ -19,6 +19,7 @@ attachments:
 highlights: 196
 last_highlighted: 2024-04-29
 added: 2022-12-14
+ingested: 2026-11-17
 zotero: zotero://select/library/items/DG4RDLYL
 related:
   - "[[2414Conference2022]]"
@@ -71,7 +72,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:23.650Z
+modified: 2026-11-17T22:25:02.140Z
 ---
 
 # 24

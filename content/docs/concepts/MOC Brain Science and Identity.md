@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-08T15:46:43.085Z
+modified: 2026-11-17T22:46:38.322Z
 ---
 
 ## Definition
@@ -37,3 +37,6 @@ The practical upshot is that transformation through information transfer alone d
 
 ## Related
 - [[2026-10-12 Luckey Would Treat Divorce With Oxytocin but No Trial Has Measured That Outcome]]: a claim about oxytocin and pair bonding, checked against the research
+- [[2026-11-17 Tension - Sinek Grounds the Golden Circle in Limbic-Brain Biology That Neuroscience Has Moved Past]]: Sinek's limbic-brain claim set against the vault's hemisphere sources ([[sinekStartWhyHow2009]])
+- [[The Other Half of Church - Summary]]: [[hendricksOtherHalfChurch2020|Hendricks and Wilder]] apply right-brain relational neuroscience to church life
+- [[Hemisphere Hypothesis]]: concept file for McGilchrist's divided-brain thesis

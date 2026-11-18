@@ -1,20 +1,22 @@
 ---
-aliases: Why Meet in Homes? - Christ Fellowship of Kansas City
+aliases:
+  - "Why Meet in Homes? - Christ Fellowship of Kansas City"
 citekey: hastyWhyMeetHomes2020
 type: webpage
 title: Why Meet in Homes? - Christ Fellowship of Kansas City
 authors:
   - "[[Jordan Hasty]]"
 year: 2020
-journal: https://christfellowshipkc.org/
+journal: Christ Fellowship of Kansas City
 url: https://christfellowshipkc.org/how-we-meet/why-meet-in-homes/
 status: processed
 attachments:
   - "[[hastyWhyMeetHomes2020.pdf]]"
 highlights: 0
 added: 2021-02-03
+ingested: 2026-11-17
 publish: true
-modified: 2026-11-16T01:39:49.793Z
+modified: 2026-11-18T02:45:57.938Z
 ---
 
 # Why Meet in Homes? - Christ Fellowship of Kansas City

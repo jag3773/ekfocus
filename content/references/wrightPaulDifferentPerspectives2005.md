@@ -6,7 +6,7 @@ citekey: wrightPaulDifferentPerspectives2005
 type: webpage
 title: Paul in Different Perspectives
 authors:
-  - "[[N. T. Wright]]"
+  - "[[N.T. Wright]]"
 year: 2005
 journal: NTWrightPage
 url: https://ntwrightpage.com/2005/01/03/paul-in-different-perspectives/
@@ -16,9 +16,10 @@ attachments:
 highlights: 3
 last_highlighted: 2021-10-02
 added: 2021-10-02
+ingested: 2026-11-17
 zotero: zotero://select/library/items/DSV4UY2P
 publish: true
-modified: 2026-11-16T01:40:56.494Z
+modified: 2026-11-18T02:54:54.302Z
 ---
 
 # Paul in Different Perspectives

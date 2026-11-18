@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-09T01:54:33.000Z
+modified: 2026-11-17T23:35:55.454Z
 ---
 
 # Lydia
@@ -42,3 +42,6 @@ Lydia's story illustrates a pattern repeated across the Pauline mission: the gos
 - [Who was Lydia in the Bible?  -  GotQuestions.org](https://www.gotquestions.org/Lydia-in-the-Bible.html)
 - [Lydia of Philippi  -  Bible Insides](https://bibleinsides.com/lydia-of-philippi/)
 - [Lydia in the Bible: The First Convert in Europe  -  SOH Church](https://soh.church/lydia-in-the-bible/)
+
+## Related
+- [[2026-11-17 Paul Commissioned Local Insiders Like Lydia and Epaphras Rather Than Sending Strangers]]: Lydia as an insider apostle returning to Thyatira's networks ([[murphy-oconnorStPaulEphesus2008|St. Paul's Ephesus]])

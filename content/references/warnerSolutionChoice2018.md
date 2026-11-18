@@ -17,6 +17,7 @@ attachments:
 highlights: 60
 last_highlighted: 2024-03-24
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/QU95IUDC
 related:
   - "[[linnemannHistoricalCriticismBible2001]]"
@@ -24,7 +25,7 @@ related:
   - "[[smithDesiringKingdomWorship2009]]"
   - "[[hendricksOtherHalfChurch2020]]"
 publish: true
-modified: 2026-11-16T01:40:52.294Z
+modified: 2026-11-18T00:06:27.139Z
 ---
 
 # The Solution of Choice

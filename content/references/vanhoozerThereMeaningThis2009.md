@@ -17,9 +17,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/JWBVT8CR
 publish: true
-modified: 2026-11-15T19:37:31.925Z
+modified: 2026-11-18T00:00:28.937Z
 ---
 
 # Is there a meaning in this text?

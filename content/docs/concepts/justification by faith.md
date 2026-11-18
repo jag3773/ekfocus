@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-15T19:33:16.537Z
+modified: 2026-11-18T00:00:10.958Z
 ---
 
 God declares sinners righteous on the basis of Christ's work, received through faith rather than earned through law-keeping. Paul builds this argument across Romans and Galatians by reaching back to Abraham, whom God credited with righteousness because he believed ([[Genesis 15#15:6|Genesis 15:6]], [[Romans 4#4:3|Romans 4:3]], [[Galatians 3#3:6|Galatians 3:6]]).
@@ -34,3 +34,13 @@ This doctrine holds together with [[holiness]] and [[obedience]]: justification 
 - [[fergusonWholeChristLegalism2016|The Whole Christ]] — Ferguson on the law-gospel relationship and assurance
 - [[2026-11-14 Luther's Revolt Grew From a Search for a Gracious God]] — how Luther came to the doctrine, with the Luther biographies
 - [[McKnight Traces the Salvation Culture to the Reformation Confessions Reordering the Creed]] — McKnight keeps justification but argues the Augsburg Confession moved it to the center the gospel story once held ([[mcknightKingJesusGospel2011|The King Jesus Gospel]])
+
+## Related
+- [[2026-11-17 Keller Separates Religion From the Gospel by the Order of Obedience and Acceptance]]: Keller's accepted-therefore-obey formula
+- [[2026-11-17 Wright Says Atonement Theories Ask the Wrong Question When They Leave Out the Kingdom]]: justified people as putting-right people for the world
+- [[2026-11-17 Goodwin Says a Believer Cannot Stand With One Foot on Christ and the Other on Himself]]: Goodwin's pastoral form of the doctrine, assurance resting wholly on Christ ([[goodwinHabitualSightHim2009]])
+- [[2026-11-17 Ferguson Traces Grace From Freed Chains to Guaranteed Security]]: Ferguson's devotional sequence in [[fergusonGraceAloneHow2010|By Grace Alone]]
+- [[2026-11-17 Moo Surveys Romans as Paul's Gospel Centered on Justification by Faith]]: Moo's forensic reading of Romans ([[mooEncounteringBookRomans2002|Encountering Romans]])
+- [[2026-11-17 Tension - Moo Reads Justification in Romans as a Verdict on Sinners Where Wright Reads It as a Verdict on Covenant Membership]]: what the verdict answers first
+- [[Murray Separates Redemption Accomplished From Redemption Applied]]: justification as one step in Murray's order of salvation
+- [[New Perspective on Paul]]: the debate over whether justification concerns standing before God or covenant membership

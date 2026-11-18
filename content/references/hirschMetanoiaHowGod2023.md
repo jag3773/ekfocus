@@ -21,12 +21,13 @@ attachments:
 highlights: 151
 last_highlighted: 2026-08-06
 added: 2025-02-21
+ingested: 2026-11-17
 zotero: zotero://select/library/items/IAIFW97L
 related:
   - "[[dignanBraveNewWork2019]]"
   - "[[pflaegingOrganizeComplexityHow2014]]"
 publish: true
-modified: 2026-11-16T01:39:52.045Z
+modified: 2026-11-17T22:23:55.641Z
 ---
 
 # Metanoia

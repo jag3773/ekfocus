@@ -6,7 +6,7 @@ citekey: wrightChristianOriginsQuestion2008
 type: book
 title: 'Christian origins and the question of God. Vol. 2: Jesus and the victory of God'
 authors:
-- '[[N. T. Wright]]'
+- '[[N.T. Wright]]'
 year: 2008
 publisher: Fortress Press
 isbn: 978-0-8006-2682-2
@@ -18,7 +18,7 @@ highlights: 0
 added: 2020-12-19
 zotero: zotero://select/library/items/K4DWRA2I
 publish: true
-modified: 2026-11-15T19:37:32.432Z
+modified: 2026-11-18T02:54:54.314Z
 ---
 
 # Christian origins and the question of God. Vol. 2

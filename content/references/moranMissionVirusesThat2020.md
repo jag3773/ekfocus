@@ -17,6 +17,7 @@ attachments:
 highlights: 4
 last_highlighted: 2023-09-17
 added: 2023-08-24
+ingested: 2026-11-17
 zotero: zotero://select/library/items/5QWGL7TT
 related:
   - "[[addisonRiseFallMovements2019]]"
@@ -28,7 +29,7 @@ related:
   - "[[corleyLookWhereYou2023]]"
   - "[[johnsonKeyPrayerPoints2022]]"
 publish: true
-modified: 2026-11-16T01:40:18.101Z
+modified: 2026-11-17T22:19:56.847Z
 ---
 
 # Mission Viruses That Can Kill Disciple Making Movements

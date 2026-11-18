@@ -21,6 +21,7 @@ attachments:
 highlights: 192
 last_highlighted: 2025-04-07
 added: 2021-05-27
+ingested: 2026-11-17
 zotero: zotero://select/library/items/AQES59QC
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -76,7 +77,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:39:40.997Z
+modified: 2026-11-17T22:22:26.039Z
 ---
 
 # In the Way

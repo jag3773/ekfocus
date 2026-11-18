@@ -18,9 +18,10 @@ attachments:
 highlights: 15
 last_highlighted: 2020-12-24
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/7MDH8NX9
 publish: true
-modified: 2026-11-16T01:40:49.637Z
+modified: 2026-11-17T22:55:19.927Z
 ---
 
 # Valve: Handbook for New Employees

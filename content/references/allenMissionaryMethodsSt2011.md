@@ -22,6 +22,7 @@ attachments:
   - "[[allenMissionaryMethodsSt2011.pdf]]"
 highlights: 0
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/8LX5NX2K
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -62,7 +63,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T02:05:48.935Z
+modified: 2026-11-17T22:16:44.024Z
 ---
 
 # Missionary Methods

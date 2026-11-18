@@ -20,6 +20,7 @@ attachments:
 highlights: 125
 last_highlighted: 2026-08-06
 added: 2024-05-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/SGKHNLL7
 related:
   - "[[thefortJamieWinshipFearless2024]]"
@@ -32,7 +33,7 @@ related:
   - "[[covey7HabitsHighly2004]]"
   - "[[gracefamilyofchurchesSummit2020Labs2020]]"
 publish: true
-modified: 2026-11-16T01:40:55.214Z
+modified: 2026-11-17T22:39:43.916Z
 ---
 
 # Living Fearless

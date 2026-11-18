@@ -13,9 +13,10 @@ isbn: 978-0-8028-0449-5
 status: processed
 highlights: 0
 added: 2020-12-21
+ingested: 2026-11-17
 zotero: zotero://select/library/items/NDBW6WE5
 publish: true
-modified: 2026-11-15T19:37:31.467Z
+modified: 2026-11-17T23:38:21.315Z
 ---
 
 # Galatians

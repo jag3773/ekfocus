@@ -19,11 +19,12 @@ attachments:
 highlights: 112
 last_highlighted: 2026-02-26
 added: 2023-04-02
+ingested: 2026-11-17
 zotero: zotero://select/library/items/A25QENPS
 related:
   - "[[miglioreFaithSeekingUnderstanding2004]]"
 publish: true
-modified: 2026-11-16T01:39:41.961Z
+modified: 2026-11-17T22:09:16.038Z
 ---
 
 # Christian Thought Revisited

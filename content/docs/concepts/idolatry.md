@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-15T19:36:21.431Z
+modified: 2026-11-17T23:36:09.990Z
 ---
 
 Giving to any created thing the worship, trust, or devotion that belongs to God alone. Scripture treats idolatry as spiritual adultery: Israel is a bride who abandons her husband for lovers ([[Ezekiel 16]], [[Hosea 2#2:2-13|Hosea 2:2-13]]). The prophets mock the absurdity of bowing to what your own hands carved ([[Isaiah 44#44:9-20|Isaiah 44:9-20]]).
@@ -36,3 +36,6 @@ Modern idolatry takes subtler forms. [[Timothy Keller]] defined an idol as anyth
 
 ## Related
 - [[2026-11-15 Earley Reads the Fall as Grasping at Godhood and Each Habit as Practiced Descent]]: [[earleyCommonRuleHabits2023|Earley]] on the fall as making God's gifts into gods
+- [[2026-11-17 Israel's Golden Calf Grew From Fear for Her Own Welfare]]: the calf as idolatry driven by fear
+- [[2026-11-17 Postman Reads the Second Commandment as a Claim That Media Shape Belief]]: [[postmanAmusingOurselvesDeath2006|Postman]] treats the image ban as forming how Israel could think about God
+- [[2026-11-17 Rank Aquinas's Four Idols to Find the One That Owns You]]: [[brooksStrengthStrengthFinding2022|Brooks]]'s self-diagnostic built on Aquinas's money, power, pleasure and honor

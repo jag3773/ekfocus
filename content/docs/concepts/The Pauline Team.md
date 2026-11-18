@@ -1,7 +1,7 @@
 ---
 publish: true
 aliases: Paul's Apostolic Team
-modified: 2026-05-11T23:23:45.000Z
+modified: 2026-11-18T00:01:45.774Z
 ---
 
 # The Pauline Team
@@ -81,3 +81,10 @@ See [[2021-02-16 Paul's relational love over apostolic command]]
 - [[Zenas]] - Lawyer (Jewish or Roman) who traveled with [[Apollos]] through Crete.
 
 #Bible #Missionaries #Missiology #Apostles #study #equipping-servant 
+
+## Related
+- [[Allen's Strategic Centres Were Strategic Because He Made Them Seedbeds of Self-Propagation]]: [[allenMissionaryMethodsSt2011|Missionary Methods]] on how Paul's team chose and left its centres
+- [[Ephesiology - A Study of the Ephesian Movement - Summary]]: [[cooperEphesiologyStudyEphesian2020|Ephesiology]] on how Paul's team seeded a regional movement from Ephesus
+- [[pollockApostleLifePaul2012|The Apostle: A Life of Paul]]: John Pollock's narrative biography, which follows Paul with his companions on each journey
+- [[Mission Advances Through Teams Because Gifts Cannot Function Alone]]: Miley on church-sent ministry teams ([[mileyLovingChurchBlessing2003]])
+- [[2026-11-17 Team Topologies - Summary]]: a software parallel for the small, mission-sized team.

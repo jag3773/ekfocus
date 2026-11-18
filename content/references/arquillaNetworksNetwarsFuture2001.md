@@ -23,6 +23,7 @@ attachments:
 highlights: 119
 last_highlighted: 2026-08-06
 added: 2023-11-11
+ingested: 2026-11-17
 zotero: zotero://select/library/items/AP5CEDBG
 related:
   - "[[joreUnchainedBibleNetwork2024]]"
@@ -33,7 +34,7 @@ related:
   - "[[joreGatewayLanguagesStrategy2017]]"
   - "[[mcchrystalTeamTeamsNew2015]]"
 publish: true
-modified: 2026-11-16T01:39:05.216Z
+modified: 2026-11-17T23:58:32.515Z
 ---
 
 # Networks and Netwars

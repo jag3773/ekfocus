@@ -19,12 +19,13 @@ attachments:
 highlights: 270
 last_highlighted: 2026-08-06
 added: 2023-11-24
+ingested: 2026-11-17
 zotero: zotero://select/library/items/LZMVEPXZ
 related:
   - "[[joreUnchainedBibleNetwork2024]]"
   - "[[joreEquippingServantsEarly2025]]"
 publish: true
-modified: 2026-11-16T01:39:50.876Z
+modified: 2026-11-17T22:23:19.553Z
 ---
 
 # The Unseen Realm

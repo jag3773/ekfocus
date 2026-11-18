@@ -16,9 +16,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/VLHSYNYF
 publish: true
-modified: 2026-11-15T19:37:32.453Z
+modified: 2026-11-18T00:00:28.981Z
 ---
 
 # Justification

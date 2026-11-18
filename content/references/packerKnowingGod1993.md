@@ -16,9 +16,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/IP89D2KQ
 publish: true
-modified: 2026-11-15T19:37:29.876Z
+modified: 2026-11-17T23:32:50.383Z
 ---
 
 # Knowing God

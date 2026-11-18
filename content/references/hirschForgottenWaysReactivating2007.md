@@ -23,6 +23,7 @@ attachments:
 highlights: 3
 last_highlighted: 2023-09-17
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/6G5M3DCL
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -63,7 +64,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T02:05:48.938Z
+modified: 2026-11-17T22:23:54.434Z
 ---
 
 # The Forgotten Ways

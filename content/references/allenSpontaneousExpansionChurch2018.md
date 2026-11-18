@@ -24,6 +24,7 @@ attachments:
 highlights: 1
 last_highlighted: 2023-03-24
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/YE9IKGZE
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -64,7 +65,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T02:05:48.938Z
+modified: 2026-11-17T22:16:44.054Z
 ---
 
 # The Spontaneous Expansion of the Church

@@ -20,9 +20,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/HJQA7TWW
 publish: true
-modified: 2026-11-15T19:37:32.128Z
+modified: 2026-11-17T22:13:57.924Z
 ---
 
 # Contagious disciple-making

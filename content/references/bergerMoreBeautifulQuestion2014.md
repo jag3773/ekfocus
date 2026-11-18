@@ -15,6 +15,7 @@ attachments:
 highlights: 102
 last_highlighted: 2022-08-03
 added: 2022-03-23
+ingested: 2026-11-17
 zotero: zotero://select/library/items/ENYG3UZW
 related:
   - "[[ajsmartHowFacilitateYour2021]]"
@@ -28,7 +29,7 @@ related:
   - "[[ajsmartHowRunAmazing2020]]"
   - "[[debonoPMIMinusInteresting]]"
 publish: true
-modified: 2026-11-16T01:39:08.701Z
+modified: 2026-11-17T23:35:06.683Z
 ---
 
 # A More Beautiful Question

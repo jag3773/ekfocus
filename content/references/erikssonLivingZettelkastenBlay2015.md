@@ -15,9 +15,10 @@ attachments:
 highlights: 15
 last_highlighted: 2021-05-25
 added: 2021-04-10
+ingested: 2026-11-17
 zotero: zotero://select/library/items/ZAQTWQZR
 publish: true
-modified: 2026-11-16T01:39:29.035Z
+modified: 2026-11-17T23:58:32.536Z
 ---
 
 # Living with a Zettelkasten | Blay

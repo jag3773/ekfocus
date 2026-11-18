@@ -19,6 +19,7 @@ attachments:
 highlights: 26
 last_highlighted: 2025-08-24
 added: 2024-07-24
+ingested: 2026-11-17
 zotero: zotero://select/library/items/JEFE8LBF
 related:
   - "[[joreEquippingServantsVisual2025]]"
@@ -31,7 +32,7 @@ related:
   - "[[joreEquippingServantsEarly2025]]"
   - "[[joreUnderstandingChurchHer2025]]"
 publish: true
-modified: 2026-11-16T01:40:50.855Z
+modified: 2026-11-17T22:48:25.270Z
 ---
 
 # Gatherings that are Church, Today... Patterned After Acts

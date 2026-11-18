@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2023-09-25T00:55:42.000Z
+modified: 2026-11-17T23:13:15.904Z
 ---
 
 ## Overview
@@ -83,3 +83,6 @@ The follow chart provides a comparison of the Arithmetic Mean, Harmonic Mean, an
 |  Gen.37.34 |       11      |       39       |       375       |
 |  Gen.37.35 |       7       |       47       |       461       |
 |  Gen.37.36 |       2       |       22       |       415       |
+
+## Related
+- [[2026-11-17 Van Pelt and Pratico Sequence Hebrew Learning by Word Frequency and Passage Difficulty]]: two published tools ([[vanpeltVocabularyGuideBiblical2003|frequency vocabulary]], [[vanpeltGradedReaderBiblical2006|graded reader]]) built on the same premise as this script

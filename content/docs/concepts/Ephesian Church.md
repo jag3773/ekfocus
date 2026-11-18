@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-11-14T20:30:23.129Z
+modified: 2026-11-17T23:35:55.465Z
 ---
 
 # Ephesian Church
@@ -72,3 +72,5 @@ Members of [[The Pauline Team]] connected to the Ephesian church include:
 
 ## Related
 - [[2026-11-14 Early Evangelism Radiated Outward From Hot Centers Like Antioch and Ephesus]]: Ephesus as one of Green's hot centers
+- [[2026-11-17 Ephesus Planted the Churches of Asia Within a Week's Walk]]: Ephesus as the hub that planted the churches of Asia
+- [[2026-11-17 St. Paul's Ephesus - Summary]]: Murphy-O'Connor on Paul's Ephesian ministry

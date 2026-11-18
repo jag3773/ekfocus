@@ -6,7 +6,7 @@ citekey: wrightChallengeActsRediscovering2024
 type: book
 title: "The Challenge of Acts: Rediscovering What the Church Was and Is"
 authors:
-  - "[[N. T. Wright]]"
+  - "[[N.T. Wright]]"
 year: 2024
 publisher: Zondervan Academic
 collections:
@@ -19,9 +19,10 @@ attachments:
 highlights: 150
 last_highlighted: 2026-06-20
 added: 2025-02-21
+ingested: 2026-11-17
 zotero: zotero://select/library/items/ITTU6NK2
 publish: true
-modified: 2026-11-16T01:40:56.023Z
+modified: 2026-11-18T02:52:08.905Z
 ---
 
 # The Challenge of Acts

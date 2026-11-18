@@ -21,8 +21,9 @@ tags:
 status: processed
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 publish: true
-modified: 2026-11-08T15:30:53.425Z
+modified: 2026-11-17T23:15:09.769Z
 ---
 
 # Backgrounds of early Christianity

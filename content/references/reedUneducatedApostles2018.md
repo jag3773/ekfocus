@@ -21,6 +21,7 @@ attachments:
 highlights: 28
 last_highlighted: 2024-07-22
 added: 2024-07-16
+ingested: 2026-11-17
 zotero: zotero://select/library/items/ILGRVQCZ
 related:
   - "[[vosIntergenerationalLeadership2023]]"
@@ -78,7 +79,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:30.772Z
+modified: 2026-11-17T22:25:39.748Z
 ---
 
 # Uneducated Apostles

@@ -4,7 +4,7 @@ tags:
   - mission
   - discipleship
 publish: true
-modified: 2026-11-14T20:31:28.980Z
+modified: 2026-11-17T23:38:35.879Z
 ---
 
 # The Body of Ordinary Believers Carries the Expansion of the Church
@@ -22,3 +22,4 @@ The shared logic also explains why both writers distrust importing a paid foreig
 - [[Disciple Making Movement]]: the tradition that every disciple makes disciples
 - [[Three-Self Church]]: Allen's structural ground for the claim
 - [[2026-11-14 Anabaptists Made the Great Commission Binding on Every Member]]: a sixteenth-century case of the same wager
+- [[Every Believer Is Called Both to Come to God and to Go on Mission]]: [[terryComeGoLiving2020|Terry]] makes the same every-believer case for a lay audience

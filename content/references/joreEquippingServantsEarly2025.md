@@ -18,6 +18,7 @@ attachments:
 highlights: 32
 last_highlighted: 2025-10-10
 added: 2025-07-10
+ingested: 2026-11-17
 zotero: zotero://select/library/items/WLLN9IBS
 related:
   - "[[joreEquippingServantsVisual2025]]"
@@ -79,7 +80,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:39:59.133Z
+modified: 2026-11-18T00:09:32.641Z
 ---
 
 # The Equipping Servants of the Early Church: Rediscovering the Original Function of the Deacons in the New Testament

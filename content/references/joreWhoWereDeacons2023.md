@@ -17,6 +17,7 @@ attachments:
 highlights: 17
 last_highlighted: 2023-10-14
 added: 2023-10-14
+ingested: 2026-11-17
 zotero: zotero://select/library/items/C45A9V7H
 related:
   - "[[maryChristendomApostolicMission2020]]"
@@ -25,7 +26,7 @@ related:
   - "[[wrightLastWordScripture2006]]"
   - "[[joreEquippingServantsEarly2023]]"
 publish: true
-modified: 2026-11-16T01:40:01.202Z
+modified: 2026-11-18T00:10:18.042Z
 ---
 
 # Who Were the Deacons in the New Testament: Draft 1

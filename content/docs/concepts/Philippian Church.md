@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-11-14T20:30:42.760Z
+modified: 2026-11-17T23:35:55.491Z
 ---
 
 # Philippian Church
@@ -73,3 +73,7 @@ Members of [[The Pauline Team]] connected to the Philippian church include:
 - [Philippi  -  Wikipedia](https://en.wikipedia.org/wiki/Philippi)
 - [What is the significance of the church at Philippi?  -  GotQuestions.org](https://www.gotquestions.org/church-in-Philippi.html)
 - [[feePhilippiansCommentaryNew2010]]  -  Fee's shorter IVP commentary, reading the letter as a hortatory letter of friendship ([[2026-11-14 Fee Reads Philippians as a Hortatory Letter of Friendship]]).
+
+## Related
+- [[2026-11-17 Murphy-O'Connor Reads Philippians as Three Letters With One a Warning Against the Judaizers]]: Murphy-O'Connor's three-letter reading of Philippians
+- [[2026-11-17 Tension - Murphy-O'Connor Splits Philippians Into Three Letters Where Fee Reads One Letter of Friendship]]: partition versus unity

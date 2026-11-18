@@ -19,6 +19,7 @@ tags:
 status: processed
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/HY7X2WBZ
 related:
 - '[[batesSalvationAllegianceAlone2017]]'
@@ -32,7 +33,7 @@ related:
 - '[[wolfeAmCharlotteSimmons2010]]'
 - '[[crabbUnderstandingPeopleDeep1987]]'
 publish: true
-modified: 2026-11-15T19:37:31.018Z
+modified: 2026-11-18T00:02:23.236Z
 ---
 
 # Desiring the kingdom

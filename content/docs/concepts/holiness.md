@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-03T01:14:00.000Z
+modified: 2026-11-18T00:06:35.380Z
 ---
 
 Being set apart for God's purposes. The Hebrew *qadosh* means separate, distinct, other. God commands his people to be holy because he is holy ([[Leviticus 11#11:44|Leviticus 11:44]], [[Leviticus 19#19:2|Leviticus 19:2]], [[1 Peter 1#1:15-16|1 Peter 1:15-16]]). This is both a status (believers are sanctified in Christ, [[1 Corinthians 1#1:2|1 Corinthians 1:2]], [[Hebrews 10#10:10|Hebrews 10:10]]) and a process (believers grow into that identity, [[Philippians 2#2:12-13|Philippians 2:12-13]]).
@@ -30,3 +30,11 @@ Holiness connects to [[obedience]] (Peter ties them together in [[1 Peter 1#1:14
 - [[fergusonWholeChristLegalism2016|The Whole Christ]] — holiness without legalism or license
 - [[packerKnowingGod1993|Knowing God]] — God's holiness as the foundation for knowing him
 - [[thomasSacredMarriageWhat2002|Sacred marriage]]
+
+## Related
+- [[riccardiSanctificationChristianPursuit2015|Riccardi, Sanctification]]: a Reformed primer pressing Spirit-empowered effort, read in [[2026-11-17 Riccardi Teaches That Sanctification Requires the Believer's Spirit-Empowered Effort]]
+- [[stanfordCompleteGreenLetters1983|Stanford, The Complete Green Letters]]: the deeper-life case for growth by reckoning on position, read in [[2026-11-17 Stanford Teaches That Growth Comes From Reckoning on the Believer's Position in Christ]]
+- [[2026-11-17 Tension - Stanford's Rest in Position Versus Riccardi's Spirit-Empowered Effort]]: the status-versus-process split between those two books
+- [[thomasEveryBodyMatters2011|Every body matters]]: Thomas on the body as a field of holiness, see [[2026-11-17 Thomas Treats Care of the Body as Part of Spiritual Formation]]
+- [[Edwards - Holiness Requires Laborious Effort Through Difficult Terrain]]: [[edwardsChristianPilgrim1750|Edwards]] pictures holiness as a toilsome journey
+- [[Webster Grounds Human Holiness in the Holiness of the Triune God]]: Webster's dogmatic account of holiness ([[websterHoliness2003]]), with [[Tension - Webster Roots Holiness in God's Being While the Vault's Notes Stress Human Effort]].

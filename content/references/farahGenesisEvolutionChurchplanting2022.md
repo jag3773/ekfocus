@@ -20,6 +20,7 @@ attachments:
 highlights: 6
 last_highlighted: 2025-03-27
 added: 2025-03-25
+ingested: 2026-11-17
 zotero: zotero://select/library/items/NKCIPMJY
 related:
   - "[[trousdaleKingdomUnleashedHow2018]]"
@@ -31,7 +32,7 @@ related:
   - "[[tasseCabbagesDesertHow2024]]"
   - "[[cooperEphesiologyStudyEphesian2020]]"
 publish: true
-modified: 2026-11-16T01:39:35.971Z
+modified: 2026-11-17T22:14:37.937Z
 ---
 
 # The genesis and evolution of church-planting movements missiology

@@ -26,12 +26,13 @@ attachments:
 highlights: 7
 last_highlighted: 2025-02-23
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/PPWVWYZY
 related:
   - "[[taylorThinkingFastLearning2024]]"
   - "[[kurzweilLawAcceleratingReturns2004]]"
 publish: true
-modified: 2026-11-16T02:05:48.938Z
+modified: 2026-11-17T22:47:09.700Z
 ---
 
 # Thinking, Fast and Slow

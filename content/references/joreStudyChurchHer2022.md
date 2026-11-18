@@ -16,9 +16,10 @@ attachments:
 highlights: 72
 last_highlighted: 2023-09-04
 added: 2022-04-22
+ingested: 2026-11-17
 zotero: zotero://select/library/items/LTBGK8F2
 publish: true
-modified: 2026-11-16T01:40:00.135Z
+modified: 2026-11-18T00:09:52.969Z
 ---
 
 # A Study of the Church and Her Leaders

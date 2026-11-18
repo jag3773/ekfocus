@@ -16,9 +16,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/TH8LJ46M
 publish: true
-modified: 2026-11-15T19:37:28.416Z
+modified: 2026-11-17T23:13:19.062Z
 ---
 
 # The Pastoral Epistles

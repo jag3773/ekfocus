@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-07-27T12:55:46.269Z
+modified: 2026-11-18T00:06:59.582Z
 ---
 
 A way of understanding reality that emphasizes relationships, patterns, and wholes rather than isolated parts. In systems thinking, you study how components interact to produce emergent behavior that cannot be predicted from the components alone. A system's performance lives in the connections between parts, not in the parts themselves.
@@ -41,3 +41,8 @@ The [[Hyperledger Global Forum|Hyperledger notes]] connect systems thinking to d
 - [[Leaving the System Better for Colleagues Is Systems Thinking as an Engineering Principle]] — the concept stated as conduct
 - [[Generalist]] — the profile systems thinking is usually attached to
 - [[Analytical Training Both Powers Systems Thinking and Blinds Us to the Whole]] — the standing objection to the method
+- [[2026-11-17 Apollo Succeeded Once NASA Replaced Need-to-Know With Systems Management]]: systems engineering as organizational structure ([[mcchrystalTeamTeamsNew2015|Team of Teams]])
+- [[2026-11-17 Feedback Delays Make Systems Oscillate and Make Large Organizations Slow to Respond]]: Meadows on delays and oscillation
+- [[2026-11-17 Optimizing the Best Parts Does Not Build the Best System]]: Berwick's car-parts thought experiment from [[gawandeChecklistManifestoHow2010|The Checklist Manifesto]]
+- [[2026-11-17 Anyone Changing a System From Inside It Looks In and Down So Change Needs an Outside View]]: [[fordOODAOperationalExcellence|Ford]] on why insiders struggle to reframe their own system
+- [[Solving for Pattern - Summary]]: Berry's farm-scale systems thinking ([[berrySolvingPattern1981]]).

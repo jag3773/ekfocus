@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-07-08T00:39:22.000Z
+modified: 2026-11-17T23:33:45.690Z
 ---
 
 # Roman Church
@@ -75,3 +75,6 @@ Members of [[The Pauline Team]] connected to the Roman church include:
 - [[rawsonRomanFamilyRecent2003]]  -  Survey of Roman family research relevant to household-based congregations.
 - [Early Christianity in Rome  -  Wikipedia](https://en.wikipedia.org/wiki/Christianity_in_the_1st_century)
 - [What is the history of the church in Rome?  -  GotQuestions.org](https://www.gotquestions.org/church-in-Rome.html)
+
+## Related
+- [[2026-11-17 Moo Surveys Romans as Paul's Gospel Centered on Justification by Faith]]: Moo's survey of the letter to this church

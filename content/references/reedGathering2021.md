@@ -20,6 +20,7 @@ attachments:
 highlights: 28
 last_highlighted: 2024-01-21
 added: 2021-09-10
+ingested: 2026-11-17
 zotero: zotero://select/library/items/UC32J5RT
 related:
   - "[[vosIntergenerationalLeadership2023]]"
@@ -74,7 +75,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:29.231Z
+modified: 2026-11-17T22:25:37.644Z
 ---
 
 # The Gathering

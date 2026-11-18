@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-08T15:50:41.190Z
+modified: 2026-11-17T22:25:28.244Z
 ---
 
 Book book introduction summary for those who like stories, and those who like theory/ models, for church planting/ DMLs. Brief annotation and priority list.
@@ -72,3 +72,4 @@ This is basically an annotated bibliography for CPM/DMM but broken down by categ
 - [[It Takes a Network to Fight a Network|why the decentralized network form of these movements outperforms centralized mission structures]]
 - [[Networks Are Held Together by Narrative|the shared King Jesus narrative is what holds dispersed CPM/DMM networks together]]
 - [[It Takes a Network to Fight a Network|the insight that meeting the need requires becoming a network, not building an institution]]
+- [[reedUneducatedApostles2018|Uneducated Apostles]] and [[reedGlobalPentacostalismSpirit2019|Global Pentecostalism and the Spirit]] pair with Reed's Gathering on this list; see [[Uneducated Apostles - Summary]].

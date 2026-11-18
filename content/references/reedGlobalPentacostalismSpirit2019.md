@@ -1,10 +1,10 @@
 ---
 cssclass: literature-note
 aliases:
-  - Global Pentacostalism and the Spirit
+  - Global Pentecostalism and the Spirit
 citekey: reedGlobalPentacostalismSpirit2019
 type: book
-title: Global Pentacostalism and the Spirit
+title: Global Pentecostalism and the Spirit
 authors:
   - "[[Jeff Reed]]"
 year: 2019
@@ -21,6 +21,7 @@ attachments:
 highlights: 17
 last_highlighted: 2024-07-21
 added: 2024-07-16
+ingested: 2026-11-17
 zotero: zotero://select/library/items/KEM46HM4
 related:
   - "[[vosIntergenerationalLeadership2023]]"
@@ -78,7 +79,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:29.510Z
+modified: 2026-11-18T02:49:29.694Z
 ---
 
 # Global Pentacostalism and the Spirit

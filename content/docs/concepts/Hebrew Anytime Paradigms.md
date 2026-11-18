@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-04-13T23:03:20.000Z
+modified: 2026-11-17T23:14:09.319Z
 ---
 
 ## Hebrew Anytime Paradigms
@@ -26,3 +26,9 @@ This section contains resources for learning and using Biblical Hebrew. I encour
 - https://github.com/openscriptures/morphhb - The Open Scriptures Hebrew Bible is the _Westminster Leningrad Codex_ (WLC) but fully parsed and tagged with Strong's numbers–free and open source!
 - http://www.quisition.com/ - This website intelligently helps the user learn vocabulary. I have entered in all the vocabulary words that occur more than 46 times in the Hebrew Bible. Also, vocabulary has been entered according to the chapters in [_Basics of Biblical Hebrew_](https://www.amazon.com/Basics-Biblical-Hebrew-Grammar-Second/dp/0310520673/). You can also download a zip file of the [Hebrew Vocabulary Lists](/zip/HebrewVocabularyLists.zip).
 - https://software.sil.org/ezra/ - This site maintains a very good and free Unicode Hebrew font.
+
+## Related
+- [[2026-11-17 Driver Read the Hebrew Perfect and Imperfect as Kinds of Action Rather Than Times]]: the classic theory of what these verb forms mean
+- [[2026-11-17 Waltke and O'Connor Read the Hebrew Verb as Perfective and Non-Perfective Aspect]]: the standard intermediate syntax on what the verb forms mean
+- [[2026-11-17 Van Pelt and Pratico Sequence Hebrew Learning by Word Frequency and Passage Difficulty]]: vocabulary and reading tools to pair with the paradigms
+- [[praticoBasicsBiblicalHebrew2007a|Basics of Biblical Hebrew Workbook]]: Pratico and Van Pelt's exercise companion to [[praticoBasicsBiblicalHebrew2007|the grammar]] whose chapters the vocabulary lists follow

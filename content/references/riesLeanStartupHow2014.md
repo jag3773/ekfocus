@@ -22,8 +22,9 @@ attachments:
   - "[[riesLeanStartupHow2014.pdf]]"
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 publish: true
-modified: 2026-11-16T02:09:47.779Z
+modified: 2026-11-17T22:54:41.392Z
 ---
 
 # The lean startup: How today´s entrepreneurs use continuous innovation to create radically successful businesses

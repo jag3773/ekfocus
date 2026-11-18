@@ -7,7 +7,7 @@ authors:
   - "[[Margaret MacDonald]]"
   - "[[Halvor Moxnes]]"
 year: 2004
-journal: Journal for the Study of the New Testament Journal for the Study of the New Testament
+journal: Journal for the Study of the New Testament
 tags:
   - Early-Church-ca-30-600
 status: processed
@@ -15,8 +15,9 @@ attachments:
   - "[[macdonaldDomesticSpaceFamilies2004.pdf]]"
 highlights: 0
 added: 2021-01-17
+ingested: 2026-11-17
 publish: true
-modified: 2026-11-16T01:40:13.412Z
+modified: 2026-11-18T02:52:50.880Z
 ---
 
 # Domestic Space and Families in Early Christianity: Editors’ Introduction

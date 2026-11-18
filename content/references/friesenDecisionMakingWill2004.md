@@ -21,9 +21,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/DX34X4SL
 publish: true
-modified: 2026-11-15T19:37:26.795Z
+modified: 2026-11-17T23:17:15.289Z
 ---
 
 # Decision making and the will of God

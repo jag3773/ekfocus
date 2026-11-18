@@ -17,6 +17,7 @@ attachments:
 highlights: 243
 last_highlighted: 2024-04-19
 added: 2021-02-26
+ingested: 2026-11-17
 zotero: zotero://select/library/items/P9F3NRMH
 related:
   - "[[vosIntergenerationalLeadership2023]]"
@@ -57,7 +58,7 @@ related:
   - "[[reedTitusSettingOrder2023]]"
   - "[[allenSpontaneousExpansionChurch2018]]"
 publish: true
-modified: 2026-11-16T01:40:28.952Z
+modified: 2026-11-17T23:56:51.480Z
 ---
 
 # BILD Encyclicals

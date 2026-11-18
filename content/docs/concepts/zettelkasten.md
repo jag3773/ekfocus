@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-16T01:47:45.959Z
+modified: 2026-11-17T22:24:31.599Z
 ---
 
 A [[zettelkasten]] is a neural network, a second brain, a graph of linked ideas. See also [[CLAUDE]].
@@ -127,6 +127,7 @@ Saving the PDF re-extracts its annotations into the note's `## Annotations` sect
 - [[MOC Concepts]]
 - [[griffinObsidianstacks2026|Stacks]]: the plugin (formerly Library) behind the [[#Reference Library]]; see [[Stacks - A Research Library Inside Obsidian - Summary]]
 - [[File Over App]]: why the vault keeps its library and notes as plain files
+- [[2026-11-17 Johnson Keeps Slow Hunches Alive in a Commonplace Book So They Can Collide Later]]: Johnson's commonplace book as a cousin of the zettelkasten ([[johnsonWhereGoodIdeas2010]])
 
 ## References
 

@@ -19,9 +19,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/D79VEIDS
 publish: true
-modified: 2026-11-15T19:37:25.225Z
+modified: 2026-11-17T22:38:17.708Z
 ---
 
 # The Starfish and the Spider

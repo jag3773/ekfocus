@@ -20,12 +20,13 @@ attachments:
 highlights: 37
 last_highlighted: 2022-05-10
 added: 2022-04-21
+ingested: 2026-11-17
 zotero: zotero://select/library/items/NT7YUDMJ
 related:
   - "[[petersonMorePro2024]]"
   - "[[greenThisBookAlive2024]]"
 publish: true
-modified: 2026-11-16T01:40:31.751Z
+modified: 2026-11-17T23:58:13.954Z
 ---
 
 # Gospel Patrons

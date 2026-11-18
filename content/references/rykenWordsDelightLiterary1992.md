@@ -7,7 +7,6 @@ type: book
 title: 'Words of delight: a literary introduction to the Bible'
 authors:
 - '[[Leland Ryken]]'
-- '[[Leland Ryken]]'
 year: 1992
 publisher: Baker Book House
 isbn: 978-0-8010-7769-2
@@ -30,13 +29,14 @@ attachments:
 - '[[rykenWordsDelightLiterary1992-p458.jpg]]'
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/3UFKYIRV
 related:
 - '[[alterArtBiblicalNarrative2006]]'
 - '[[andersonOutDepthsPsalms2000]]'
 - '[[fretheimExodus1991]]'
 publish: true
-modified: 2026-11-15T19:37:30.666Z
+modified: 2026-11-18T02:47:55.693Z
 ---
 
 # Words of delight

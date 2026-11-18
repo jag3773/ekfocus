@@ -23,6 +23,7 @@ attachments:
 highlights: 11
 last_highlighted: 2023-10-14
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/NXQPKHRT
 related:
   - "[[vanhoozerExegesisHermeneutics2000]]"
@@ -36,7 +37,7 @@ related:
   - "[[bealeWeBecomeWhat2008]]"
   - "[[barrConceptBiblicalTheology1999]]"
 publish: true
-modified: 2026-11-16T01:40:50.745Z
+modified: 2026-11-17T22:14:01.058Z
 ---
 
 # Biblical theology

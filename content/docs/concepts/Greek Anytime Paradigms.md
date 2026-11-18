@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-04-13T23:03:20.000Z
+modified: 2026-11-17T23:13:15.950Z
 ---
 
 ## Greek Anytime Paradigms
@@ -26,3 +26,7 @@ This section contains some very helpful resources for learning and using biblica
 - http://www.quisition.com/ - Digital flashcards, great site to help you learn anything! There are a bunch of packs dedicated to helping you learn [biblical Greek here](https://quisition.com/library/?search=greek&sort=).
 - https://software.sil.org/gentium/ - This is a very good and free unicode Greek font.
 - https://frame-poythress.org/keyboard-entry-of-polytonic-greek-and-biblical-hebrew-in-gnulinux-2014/ - This page explains how to type in Greek or Hebrew on Linux.
+
+## Related
+- [[2026-11-17 Greek Anytime Paradigms Borrow Mounce's Master Verb Chart and Square of Stops]]: where the square of stops and master verb chart come from, [[mounceBasicsBiblicalGreek2003a|Mounce's grammar]] and [[mounceBasicsBiblicalGreek2003|workbook]]
+- [[2026-11-17 Wallace Organizes Greek Syntax by Its Exegetical Payoff]]: [[wallaceGreekGrammarBasics2008|Wallace]], the next step after morphology

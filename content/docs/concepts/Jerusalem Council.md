@@ -7,7 +7,7 @@ aliases:
 tags:
   - early-church
   - ecclesiology
-modified: 2026-05-09T01:54:33.000Z
+modified: 2026-11-17T22:41:13.172Z
 ---
 
 # Jerusalem Council
@@ -88,3 +88,7 @@ The Jerusalem Council established three precedents that shaped the rest of churc
 - [Council of Jerusalem  -  Wikipedia](https://en.wikipedia.org/wiki/Council_of_Jerusalem)
 - [What was the meaning and importance of the Jerusalem Council?  -  GotQuestions.org](https://www.gotquestions.org/Jerusalem-Council.html)
 - [Council of Jerusalem  -  Britannica](https://www.britannica.com/event/Council-of-Jerusalem)
+
+## Related
+- [[2026-11-17 Tension - Gerke Counts Nicaea as Drift While the Vault Treats the Nicene Creed as a Faithful Benchmark]]: Gerke sets Acts 15 against Nicaea ([[gerkeChurchsDrift2026]])
+- [[2026-11-17 Wright Finds No Separate Jewish and Gentile Christianity in Acts]]: Wright on Luke's refusal of two churches

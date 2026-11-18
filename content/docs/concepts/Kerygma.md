@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2024-01-04
-modified: 2026-11-15T10:10:04.515Z
+modified: 2026-11-18T00:11:08.777Z
 ---
 
 - Dodd's [[doddApostolicPreachingIts1937|The apostolic preaching and its developments]] covers what he thinks the kerygma is in detail, especially early in the book. Not so much the act of preaching but the message. Not so much teaching or exhortation but gospel proclamation.
@@ -38,3 +38,5 @@ modified: 2026-11-15T10:10:04.515Z
 - [[First Principles Are Objectively Consistent and Subjectively Contoured]]: kerygma and didache as the first principles, contoured to context
 - [[McKnight Finds Four Constants in the Gospel Sermons of Acts]]: [[mcknightKingJesusGospel2011|McKnight's]] four-part summary of apostolic gospeling
 - [[First Corinthians 15 Is the Seed From Which the Rule of Faith and the Nicene Creed Grew]]: the kerygma text as the root of the creeds
+- [[Stiles Ties Healthy Evangelism to the Character of the Messenger]]: [[stilesMarksMessengerKnowing2010|Stiles]] warns against adding to or subtracting from the gospel message
+- [[Christ Crucified (Spurgeon) - Summary]]: Spurgeon's 1858 sermon on 1 Corinthians 1:23-24 equates preaching Christ crucified with Calvinist doctrine, a narrower kerygma than the vault's ([[spurgeonChristCrucified1858]]).

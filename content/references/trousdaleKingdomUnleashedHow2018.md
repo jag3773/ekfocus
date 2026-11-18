@@ -22,6 +22,7 @@ attachments:
 highlights: 148
 last_highlighted: 2026-07-02
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/862V24R6
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -72,7 +73,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:47.702Z
+modified: 2026-11-17T22:37:40.863Z
 ---
 
 # The Kingdom Unleashed

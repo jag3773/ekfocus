@@ -13,6 +13,7 @@ isbn: 978-0-8308-2826-5
 status: processed
 highlights: 0
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/SX6IYBGY
 related:
 - '[[lintsIdentityIdolatryImage2015]]'
@@ -23,7 +24,7 @@ related:
 - '[[gilesPatternsMinistryFirst2017]]'
 - '[[blackburnGodWhoMakes2012]]'
 publish: true
-modified: 2026-11-15T19:37:29.838Z
+modified: 2026-11-17T23:32:50.378Z
 ---
 
 # The Hermeneutical Spiral

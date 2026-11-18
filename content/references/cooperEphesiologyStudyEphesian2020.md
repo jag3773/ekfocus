@@ -19,6 +19,7 @@ attachments:
 highlights: 228
 last_highlighted: 2026-06-20
 added: 2023-11-24
+ingested: 2026-11-17
 zotero: zotero://select/library/items/SK6SXVBA
 related:
   - "[[trousdaleKingdomUnleashedHow2018]]"
@@ -33,7 +34,7 @@ related:
   - "[[5QCentralReactivating]]"
   - "[[joreEquippingServantsEarly2025]]"
 publish: true
-modified: 2026-11-16T01:39:22.107Z
+modified: 2026-11-17T22:16:57.963Z
 ---
 
 # Ephesiology

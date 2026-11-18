@@ -21,6 +21,7 @@ tags:
 status: processed
 highlights: 0
 added: 2020-12-21
+ingested: 2026-11-17
 zotero: zotero://select/library/items/JBGXRIWN
 related:
 - '[[thefortJamieWinshipFearless2024]]'
@@ -35,7 +36,7 @@ related:
 - '[[duhiggPowerHabitWhy2012]]'
 - '[[doerrMeasureWhatMatters2018]]'
 publish: true
-modified: 2026-11-15T19:37:25.731Z
+modified: 2026-11-17T22:39:39.597Z
 ---
 
 # Atomic Habits

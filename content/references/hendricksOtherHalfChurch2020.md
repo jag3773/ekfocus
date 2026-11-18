@@ -30,6 +30,7 @@ attachments:
 highlights: 183
 last_highlighted: 2021-01-24
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/UD2TPQ6G
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -80,7 +81,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:39:51.022Z
+modified: 2026-11-17T22:23:33.983Z
 ---
 
 # The other half of church

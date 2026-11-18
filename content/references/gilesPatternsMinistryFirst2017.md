@@ -14,8 +14,9 @@ tags:
 status: processed
 attachments:
   - "[[gilesPatternsMinistryFirst2017.pdf]]"
-highlights: 0
+highlights: 51
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/A3JB4F54
 related:
   - "[[lintsIdentityIdolatryImage2015]]"
@@ -26,7 +27,7 @@ related:
   - "[[blackburnGodWhoMakes2012]]"
   - "[[osborneHermeneuticalSpiralComprehensive2006]]"
 publish: true
-modified: 2026-11-16T02:05:48.935Z
+modified: 2026-11-18T02:44:01.938Z
 ---
 
 # Patterns of Ministry among the First Christians

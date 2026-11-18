@@ -19,9 +19,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/7QFZ8RQA
 publish: true
-modified: 2026-11-15T19:37:25.650Z
+modified: 2026-11-17T22:22:58.373Z
 ---
 
 # Total church

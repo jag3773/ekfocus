@@ -12,9 +12,10 @@ publisher: ': Nightingale-Conant: Personal Development'
 status: processed
 highlights: 0
 added: 2020-12-21
+ingested: 2026-11-17
 zotero: zotero://select/library/items/E6ZB8TUD
 publish: true
-modified: 2026-11-15T19:37:25.962Z
+modified: 2026-11-17T22:51:04.985Z
 ---
 
 # Flow: Living at the Peak of your Abilities

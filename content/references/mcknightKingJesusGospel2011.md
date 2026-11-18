@@ -7,7 +7,6 @@ type: book
 title: "The King Jesus Gospel: The Original Good News Revisited"
 authors:
   - "[[Scot McKnight]]"
-  - "[[N. T. Wright and Dallas Willard]]"
 year: 2011
 publisher: Zondervan
 collections:
@@ -21,7 +20,7 @@ zotero: zotero://select/library/items/7D93WXJ7
 last_highlighted: 2026-11-14
 ingested: 2026-11-15
 publish: true
-modified: 2026-11-16T01:40:16.063Z
+modified: 2026-11-18T02:55:23.276Z
 ---
 
 # The King Jesus Gospel

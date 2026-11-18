@@ -15,6 +15,7 @@ attachments:
 highlights: 36
 last_highlighted: 2023-07-27
 added: 2023-07-25
+ingested: 2026-11-17
 zotero: zotero://select/library/items/2G8CQMLR
 related:
   - "[[reedTimothyOrderingChurches2022]]"
@@ -31,7 +32,7 @@ related:
   - "[[reedSecondCorinthiansCorinthian2023]]"
   - "[[reedTitusSettingOrder2023]]"
 publish: true
-modified: 2026-11-16T01:40:50.993Z
+modified: 2026-11-18T00:10:40.853Z
 ---
 
 # Intergenerational Leadership

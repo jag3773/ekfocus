@@ -6,7 +6,7 @@ aliases:
 tags:
   - church
   - early-church
-modified: 2026-11-08T15:50:15.811Z
+modified: 2026-11-17T23:59:07.646Z
 ---
 
 # Colossian Church
@@ -67,3 +67,8 @@ Members of [[The Pauline Team]] connected to the Colossian church include:
 - [[addisonActsMovementGod2023]]  -  Reads the Lycus Valley churches as second-generation fruit of the Ephesian training hub.
 - [Colossae  -  Wikipedia](https://en.wikipedia.org/wiki/Colossae)
 - [What is the significance of the church at Colossae?  -  GotQuestions.org](https://www.gotquestions.org/church-in-Colosse.html)
+
+## Related
+- [[2026-11-17 Tension - Murphy-O'Connor Finds Paul's Lightly Trained Planters Out of Their Depth Where Movement Practice Trusts Lay Leaders]]: why Epaphras struggled when false teaching reached Colossae
+- [[2026-11-17 Ephesus Planted the Churches of Asia Within a Week's Walk]]: Colossae as the farthest daughter church of Ephesus
+- [[The New Testament Epistles Carry Poetry Such as the Colossians Christ Hymn]]: Ryken reads Colossians 1:15-20 as a Christ hymn built on the word all.

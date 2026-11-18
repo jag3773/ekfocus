@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-15T19:34:43.266Z
+modified: 2026-11-17T23:33:49.643Z
 aliases:
   - "/docs/concepts/moc-organizational-or-business-design-and-operations"
 ---
@@ -169,3 +169,10 @@ Dignan, Aaron. _Brave New Work: Are You Ready to Reinvent Your Organization?_ Ne
 ## Related
 - [[fordStarfishSpiritUnleashing2021|The Starfish and the Spirit]]: see [[2026-11-15 The Starfish and the Spirit - Summary]]
 - [[brafmanStarfishSpiderUnstoppable2008|The Starfish and the Spider]]: see [[Brafman Shows Leaderless Starfish Organizations Outlast Centralized Spiders]]
+- [[Beyond Theory Y - Summary]]: [[morseTheory1970|Morse and Lorsch]] on fitting structure to task
+- [[Loonshots - Structure Over Culture for Nurturing Crazy Ideas]]: [[bahcallLoonshotsHowNurture2019|Bahcall]] on separating loonshot and franchise groups
+- [[Leadership Leader and Command Philosophies - Summary]]: [[thomasLeadershipLeaderCommand2018|Thomas]] on writing a two-page leadership philosophy
+- [[Self-Management]]: Morning Star, Valve, Holacracy and Teal compared
+- [[2026-11-17 Lencioni Builds Organizational Clarity on Six Questions Leaders Must Answer Together]]: [[lencioniAdvantageWhyOrganizational2012|Lencioni]]'s six questions for creating clarity
+- [[2026-11-17 Barabasi Says the Corporate Tree Chokes on Information and Must Become a Web]]: [[barabasiLinkedHowEverything2014|Linked]] on tree versus web organizations, with the counter-case in [[2026-11-17 Tension - Barabasi Predicted the Tree Would Yield to the Web While Dorsey Says Flat Structures Revert]]
+- [[druckerEssentialDruckerBest2003|The Essential Drucker]]: Drucker's collected management writing; see [[2026-11-17 Drucker's Management by Objectives Pairs Shared Goals With Self-Control]]

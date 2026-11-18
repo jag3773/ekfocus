@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-07T10:18:16.727Z
+modified: 2026-11-17T23:35:55.450Z
 ---
 
 # Epaphras
@@ -44,3 +44,5 @@ The Pauline movement depended on equipping servants like Epaphras: people who co
 
 ## Related
 - [[The Church Is One at Every Zoom Level So Speak of Places Not Brands]]: Epaphras as translocal connector of the Lycus Valley churches
+- [[2026-11-17 Paul Commissioned Local Insiders Like Lydia and Epaphras Rather Than Sending Strangers]]: Murphy-O'Connor reads Epaphras as a local businessman Paul commissioned for the Lycus valley
+- [[2026-11-17 Tension - Murphy-O'Connor Finds Paul's Lightly Trained Planters Out of Their Depth Where Movement Practice Trusts Lay Leaders]]: Epaphras's thin training and the Colossian crisis

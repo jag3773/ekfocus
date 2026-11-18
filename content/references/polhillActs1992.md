@@ -18,9 +18,10 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/I5XF5VPT
 publish: true
-modified: 2026-11-15T19:37:30.176Z
+modified: 2026-11-17T23:32:50.424Z
 ---
 
 # Acts

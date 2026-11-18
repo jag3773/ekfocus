@@ -28,9 +28,10 @@ attachments:
 highlights: 259
 last_highlighted: 2022-04-22
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/YEJDAPEA
 publish: true
-modified: 2026-11-16T01:40:15.790Z
+modified: 2026-11-17T22:49:46.737Z
 ---
 
 # Team of Teams

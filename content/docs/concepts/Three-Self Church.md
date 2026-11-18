@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-15T20:19:04.144Z
+modified: 2026-11-17T23:56:18.386Z
 ---
 
 A Three-Self Church is one that is self-supporting (financially independent of outside subsidy), self-propagating (able to multiply itself without external missionary personnel), and self-governing (led by its own local leaders under its own authority). The framework was developed through 19th-century missionaries Rufus Anderson and Henry Venn, refined by John Nevius, and given its most influential articulation by [[Roland Allen's Three-Self Church and the Seedbed of Indigenous Multiplication|Roland Allen]] in the early 20th century. Allen argued from Acts and Paul that the first-century pattern was precisely this: churches that were indigenous from the start, not wards of a foreign mission society.
@@ -22,5 +22,9 @@ The three-self framework is the structural backbone of [[Church Planting Movemen
 - [[2026-11-14 Mission-Church Relations Must Move From Mission Control Toward Partnership]]: what the mission does after the church becomes self-governing
 - [[2026-11-14 Tension - Yohannan's Fund Native Missionaries Versus the Dependency Critique]]: self-support tested against funding national workers
 - [[Young Expects National Translation Organizations to Fund Their Own Share From Their Own Economy]]: self-support applied to national translation organizations
+- [[2026-11-15 Tension - China's Three-Self Patriotic Movement Turned the Indigenous Church Formula Into State Control]]: how the Chinese state took over the three-self vocabulary
+- [[2026-11-15 A Freed Black Preacher Planted Jamaica's Baptist Churches a Decade Before Carey Sailed]]: a self-propagating Black-led church that existed before any mission arrived
+- [[2026-11-17 Sulawesi Churches Flourish on National-Language Scripture]]: Sulawesi churches meet the three-self measure while reading Indonesian Scripture
+- [[Alcorn Dramatizes the Cost of the Chinese House Church]]: [[alcornSafelyHome2003|Safely Home]], a novel set among unregistered house churches
 - [[2026-11-15 Tension - China's Three-Self Patriotic Movement Turned the Indigenous Church Formula Into State Control]]: how the Chinese state took over the three-self vocabulary
 - [[2026-11-15 A Freed Black Preacher Planted Jamaica's Baptist Churches a Decade Before Carey Sailed]]: a self-propagating Black-led church that existed before any mission arrived

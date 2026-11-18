@@ -54,6 +54,7 @@ attachments:
 - '[[bealeWeBecomeWhat2008-p23.jpg]]'
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/V7EAIKJ9
 related:
 - '[[vanhoozerExegesisHermeneutics2000]]'
@@ -68,7 +69,7 @@ related:
 - '[[bealeNewTestamentBiblical2011]]'
 - '[[barrConceptBiblicalTheology1999]]'
 publish: true
-modified: 2026-11-15T19:37:24.847Z
+modified: 2026-11-17T22:08:57.000Z
 ---
 
 # We become what we worship

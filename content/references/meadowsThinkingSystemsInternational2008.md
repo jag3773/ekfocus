@@ -21,13 +21,14 @@ attachments:
 highlights: 286
 last_highlighted: 2022-11-06
 added: 2021-10-01
+ingested: 2026-11-17
 zotero: zotero://select/library/items/DTVZ3ZB9
 related:
   - "[[heathUpstreamQuestSolve2020]]"
   - "[[zsoltsvisualpersonalknowledgemanagementEmergenceBookPage2022]]"
   - "[[kurzweilLawAcceleratingReturns2004]]"
 publish: true
-modified: 2026-11-16T01:40:16.297Z
+modified: 2026-11-17T22:51:03.922Z
 ---
 
 # Thinking in Systems

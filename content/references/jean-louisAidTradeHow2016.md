@@ -27,11 +27,12 @@ attachments:
 highlights: 55
 last_highlighted: 2026-06-20
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/PJFJRVKP
 related:
   - "[[corbettWhenHelpingHurts2014]]"
 publish: true
-modified: 2026-11-16T01:39:55.914Z
+modified: 2026-11-17T22:57:37.351Z
 ---
 
 # From aid to trade

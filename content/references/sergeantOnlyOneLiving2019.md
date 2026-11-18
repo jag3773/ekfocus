@@ -4,7 +4,7 @@ aliases:
   - The Only One
 citekey: sergeantOnlyOneLiving2019
 type: book
-title: "The Only One:: Living Fully In, By, and For God"
+title: "The Only One: Living Fully In, By, and For God"
 authors:
   - "[[Curtis Sergeant]]"
 year: 2019
@@ -20,6 +20,7 @@ attachments:
 highlights: 91
 last_highlighted: 2023-09-12
 added: 2022-12-14
+ingested: 2026-11-17
 zotero: zotero://select/library/items/C7C822FV
 related:
   - "[[coleChurch30Upgrades2010]]"
@@ -68,7 +69,7 @@ related:
   - "[[woodSevenThingsIve2021]]"
   - "[[addisonMovementsThatChange2011]]"
 publish: true
-modified: 2026-11-16T01:40:38.737Z
+modified: 2026-11-18T02:48:35.843Z
 ---
 
 # The Only One

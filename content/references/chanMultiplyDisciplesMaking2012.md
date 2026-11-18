@@ -21,6 +21,7 @@ status: processed
 owned: true
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/B8SSSIXX
 related:
 - '[[coleChurch30Upgrades2010]]'
@@ -60,7 +61,7 @@ related:
 - '[[woodSevenThingsIve2021]]'
 - '[[addisonMovementsThatChange2011]]'
 publish: true
-modified: 2026-11-15T19:37:25.618Z
+modified: 2026-11-17T22:22:33.205Z
 ---
 
 # Multiply

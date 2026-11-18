@@ -19,6 +19,7 @@ attachments:
 highlights: 127
 last_highlighted: 2023-11-17
 added: 2022-06-25
+ingested: 2026-11-17
 zotero: zotero://select/library/items/JKDLATBX
 related:
   - "[[arquillaNetworksNetwarsFuture2001]]"
@@ -28,7 +29,7 @@ related:
   - "[[joreGatewayLanguagesStrategy2017]]"
   - "[[mcchrystalTeamTeamsNew2015]]"
 publish: true
-modified: 2026-11-16T01:39:06.969Z
+modified: 2026-11-17T23:33:06.738Z
 ---
 
 # Linked

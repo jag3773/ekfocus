@@ -24,6 +24,7 @@ attachments:
 - '[[deyoungHoleOurHoliness2014-p130.jpg]]'
 highlights: 0
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/2WQKJYH5
 related:
 - '[[websterHoliness2003]]'
@@ -33,7 +34,7 @@ related:
 - '[[riccardiSanctificationChristianPursuit2015]]'
 - '[[wellsGodWhirlwindHow2014]]'
 publish: true
-modified: 2026-11-15T19:37:26.128Z
+modified: 2026-11-17T23:11:19.596Z
 ---
 
 # The hole in our holiness

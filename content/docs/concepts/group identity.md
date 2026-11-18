@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-15T19:33:57.773Z
+modified: 2026-11-17T23:43:19.713Z
 ---
 
 The shared sense of "how our people act" — the communal identity that shapes individual behavior below the level of conscious decision-making. Wilder identifies it as the only part of the brain that can overcome narcissistic self-justification, making it essential for character formation and spiritual maturity.
@@ -40,3 +40,7 @@ Pflaeging's Beta organizations depend on group identity to function. When you re
 - [[2026-04-14 The Melding of Crabb and Nee - A Synthesis]]
 - [[2021-01-25 Marcus Warner]]
 - [[2026-11-15 Contact Between Peoples Sharpens Identity Instead of Dissolving It]]: Huntington on identity defined by contrast with outsiders ([[huntingtonClashCivilizationsRemaking2007|The Clash of Civilizations]])
+- [[2026-11-17 Lewis Warns That the Desire to Enter the Inner Ring Turns Good People Into Scoundrels]]: Lewis on the pull of belonging to an inner circle
+- [[2026-11-17 The Group Identity System Decides Whether Pain Is Ours or Only Yours]]: [[wilderPandoraProblemFacing2019|Wilder]] on shared pain and the predatory system
+- [[Identity Threat Reaches Everyone and Shuts Down the Conversation]]: [[duhiggSupercommunicatorsHowUnlock2024|Duhigg]] on how group identities derail hard conversations
+- [[2026-11-17 A Belief Has Become Your Identity When You Feel You Must Defend It]]: [[galefScoutMindsetWhy2021|Galef]]'s warning signs that a belief has hardened into identity

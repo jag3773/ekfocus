@@ -21,6 +21,7 @@ attachments:
 highlights: 249
 last_highlighted: 2024-06-06
 added: 2022-03-23
+ingested: 2026-11-17
 zotero: zotero://select/library/items/5E6SJXLN
 related:
   - "[[wilderRenovatedGodDallas2020]]"
@@ -34,7 +35,7 @@ related:
   - "[[hendricksOtherHalfChurch2020]]"
   - "[[crabbUnderstandingPeopleDeep1987]]"
 publish: true
-modified: 2026-11-16T01:40:54.188Z
+modified: 2026-11-17T23:14:00.230Z
 ---
 
 # The Pandora Problem

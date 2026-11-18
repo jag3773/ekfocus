@@ -21,13 +21,14 @@ attachments:
 highlights: 32
 last_highlighted: 2025-03-06
 added: 2020-12-20
+ingested: 2026-11-17
 zotero: zotero://select/library/items/38X4383Q
 related:
   - "[[www.honorshame.comBackGodsVillage2014]]"
   - "[[hiebertConversionCultureCognitive1978]]"
   - "[[hiebertFlawExcludedMiddle1982]]"
 publish: true
-modified: 2026-11-16T01:39:40.049Z
+modified: 2026-11-17T22:22:14.768Z
 ---
 
 # The 3D Gospel

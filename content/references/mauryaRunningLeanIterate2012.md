@@ -23,9 +23,10 @@ attachments:
 highlights: 79
 last_highlighted: 2022-02-09
 added: 2021-03-25
+ingested: 2026-11-17
 zotero: zotero://select/library/items/6NLQSNJP
 publish: true
-modified: 2026-11-16T01:40:15.185Z
+modified: 2026-11-17T22:48:38.387Z
 ---
 
 # Running Lean

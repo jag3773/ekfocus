@@ -24,6 +24,7 @@ attachments:
 highlights: 336
 last_highlighted: 2021-01-31
 added: 2020-12-19
+ingested: 2026-11-17
 zotero: zotero://select/library/items/YBTPEGAL
 related:
   - "[[wilderPandoraProblemFacing2019]]"
@@ -43,7 +44,7 @@ related:
   - "[[crabbBecomingTrueSpiritual2007]]"
   - "[[bonhoefferLifeTogether2005]]"
 publish: true
-modified: 2026-11-16T01:39:23.300Z
+modified: 2026-11-17T23:11:17.862Z
 ---
 
 # Understanding people
