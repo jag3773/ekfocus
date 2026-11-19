@@ -5,6 +5,15 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../../.quartz/plugins"
+
+function isoDate(value: Date | string | undefined): string | undefined {
+  if (!value) return undefined
+  const date = value instanceof Date ? value : new Date(value)
+  if (Number.isNaN(date.getTime())) return undefined
+  if (date.getTime() > Date.now() + 86_400_000) return undefined
+  return date.toISOString()
+}
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -28,9 +37,67 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
-    // Url of current page
-    const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+    const origin = `https://${cfg.baseUrl ?? "example.com"}`
+    const pageUrl =
+      fileData.slug === "404" || !fileData.slug || fileData.slug === "index"
+        ? `${origin}/`
+        : `${origin}/${fileData.slug}`
+
+    const dates = fileData.dates as
+      | { modified?: Date | string; created?: Date | string; published?: Date | string }
+      | undefined
+    const modified = isoDate(dates?.modified)
+    const author = {
+      "@type": "Person",
+      "@id": `${origin}/#jesse-griffin`,
+      name: "Jesse Griffin",
+      url: "https://github.com/jag3773",
+    }
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": `${origin}/#website`,
+          name: cfg.pageTitle,
+          url: `${origin}/`,
+          description,
+          inLanguage: "en",
+          publisher: { "@id": `${origin}/#organization` },
+        },
+        {
+          "@type": "Organization",
+          "@id": `${origin}/#organization`,
+          name: cfg.pageTitle,
+          url: `${origin}/`,
+          description,
+          logo: {
+            "@type": "ImageObject",
+            url: `${origin}/static/icon.png`,
+          },
+          sameAs: [
+            "https://github.com/jag3773",
+            "https://github.com/jag3773/ekfocus",
+            "https://keybase.io/jag3773/",
+            "https://www.unfoldingword.org",
+          ],
+          founder: { "@id": `${origin}/#jesse-griffin` },
+        },
+        author,
+        {
+          "@type": "WebPage",
+          "@id": `${pageUrl}#webpage`,
+          url: pageUrl,
+          name: baseTitle,
+          description,
+          isPartOf: { "@id": `${origin}/#website` },
+          about: { "@id": `${origin}/#organization` },
+          author: { "@id": `${origin}/#jesse-griffin` },
+          inLanguage: "en",
+          ...(modified ? { dateModified: modified } : {}),
+        },
+      ],
+    }
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -87,14 +154,28 @@ export default (() => {
         {cfg.baseUrl && (
           <>
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
-            <meta property="og:url" content={socialUrl}></meta>
-            <meta property="twitter:url" content={socialUrl}></meta>
+            <meta property="og:url" content={pageUrl}></meta>
+            <meta property="twitter:url" content={pageUrl}></meta>
+            <link rel="canonical" href={pageUrl} />
           </>
         )}
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        <meta name="author" content="Jesse Griffin" />
         <meta name="generator" content="Quartz" />
+        {cfg.baseUrl && (
+          <link
+            rel="alternate"
+            type="application/rss+xml"
+            title={cfg.pageTitle}
+            href={`${origin}/index.xml`}
+          />
+        )}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
+        />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

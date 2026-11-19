@@ -19,7 +19,9 @@ const Footer = (opts) => {
         Object.entries(links).map(([text, link]) => h("li", {}, h("a", { href: link }, text))),
       ),
       h("p", { class: "ek-footer-legal" }, [
-        `Copyright © ${year} Jesse Griffin. All original work licensed as `,
+        `Copyright © ${year} `,
+        h("a", { href: "https://github.com/jag3773", rel: "author" }, "Jesse Griffin"),
+        ". All original work licensed as ",
         h("a", { href: "https://creativecommons.org/licenses/by-sa/4.0/" }, "CC BY-SA 4.0"),
         ". Scripture is from the Berean Standard Bible.",
       ]),

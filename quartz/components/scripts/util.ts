@@ -42,5 +42,10 @@ export async function fetchCanonical(url: URL): Promise<Response> {
   // to allow the caller to read it if it's was not a redirect
   const text = await res.clone().text()
   const [_, redirect] = text.match(canonicalRegex) ?? []
-  return redirect ? fetch(`${new URL(redirect, url)}`) : res
+  if (!redirect) return res
+  const target = new URL(redirect, url)
+  // Self-canonicals are SEO signals, not alias redirects. Following them
+  // would fetch the same page twice on every SPA navigation.
+  if (target.href === url.href) return res
+  return fetch(`${target}`)
 }
