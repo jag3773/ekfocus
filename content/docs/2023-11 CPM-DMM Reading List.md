@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-11-17T22:25:28.244Z
+modified: 2026-11-21T10:07:46.212Z
 ---
 
 Book book introduction summary for those who like stories, and those who like theory/ models, for church planting/ DMLs. Brief annotation and priority list.
@@ -73,3 +73,5 @@ This is basically an annotated bibliography for CPM/DMM but broken down by categ
 - [[Networks Are Held Together by Narrative|the shared King Jesus narrative is what holds dispersed CPM/DMM networks together]]
 - [[It Takes a Network to Fight a Network|the insight that meeting the need requires becoming a network, not building an institution]]
 - [[reedUneducatedApostles2018|Uneducated Apostles]] and [[reedGlobalPentacostalismSpirit2019|Global Pentecostalism and the Spirit]] pair with Reed's Gathering on this list; see [[Uneducated Apostles - Summary]].
+- [[2026-11-21 Inside Church Planting Movements - Summary]]: [[garrisonChurchPlantingMovements|Inside Church Planting Movements]], Garrison's 2025 audit of twenty-eight reported movements
+- [[2026-11-21 Tension - Esler Says Movements Are Not a Silver Bullet While 24-14 Treats Them as the Way to Finish the Task]]: [[eslerNoSilverBullets2026|Esler]]'s caution against treating movements as the whole answer
